@@ -16,6 +16,9 @@ using Random = UnityEngine.Random;
 
 public class MenuControl : MonoBehaviour
 {
+    /// <summary>跳过登录</summary>
+    [Header("跳过登录")]
+    [SerializeField] private bool skipLogin = false;
     public static MenuControl Instance;
     public bool betaMode;
     public bool testMode;
@@ -147,8 +150,7 @@ public class MenuControl : MonoBehaviour
     public bool checkSpriteExist;
     public bool exhustAllMinionAfterUsage = true;
 
-    /// <summary>跳过登录</summary>
-    private bool skipLogin = false;
+    
 
     public enum Languages
     {
