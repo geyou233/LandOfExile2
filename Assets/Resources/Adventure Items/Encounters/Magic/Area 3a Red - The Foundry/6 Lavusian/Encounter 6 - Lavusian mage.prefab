@@ -47,25 +47,25 @@ MonoBehaviour:
   sprite: {fileID: 0}
   alternateSprite: {fileID: 0}
   alwaysOpen: 0
-  boardColumns: 6
+  boardColumns: 8
   player1Starts: 1
   randomStartingPositions: 1
-  player1StartingPos: 23
+  player1StartingPos: 31
   playerAIStartingPos: 0
   eventInfo:
-    index: 65
-    level: 3
-    eventId: 3102
+    index: 164
+    level: 6
+    eventId: 13015
     eventType: "\u602A\u7269"
-    enemyGroup: 302
+    enemyGroup: 1303
     storyType: 
     position: {x: -Infinity, y: -Infinity}
-    positionGroup: 302
+    positionGroup: 1313
     unlockConditionType: "\u5B8C\u6210\u5168\u90E8\u6307\u5B9Aid\u4E8B\u4EF6"
-    unlockConditionParam: c10b0000
+    unlockConditionParam: d2320000
     text: 
   allOwnedCards:
-  - {fileID: 8057222552339870009, guid: 993696f5ee3958a45a52a7dd9dfa7d64, type: 3}
+  - {fileID: -815012714799887084, guid: 993696f5ee3958a45a52a7dd9dfa7d64, type: 3}
   signPosts: []
   shufflePlayerAIDeck: 1
   initialMana: 3
@@ -73,7 +73,7 @@ MonoBehaviour:
   level: 7
   xp: 500
   extraIntFlag: 0
-  isBoss: 0
+  isBoss: 1
   cannotBeSkipped: 0
   rewardCards: []
   forceBattle: 0

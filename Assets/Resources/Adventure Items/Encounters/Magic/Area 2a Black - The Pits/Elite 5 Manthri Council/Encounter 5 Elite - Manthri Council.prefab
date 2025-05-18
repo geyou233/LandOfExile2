@@ -55,14 +55,14 @@ MonoBehaviour:
   eventInfo:
     index: 58
     level: 2
-    eventId: 2016
+    eventId: 2020
     eventType: "\u602A\u7269"
-    enemyGroup: 203
+    enemyGroup: 205
     storyType: 
-    position: {x: 168, y: -146}
-    positionGroup: 0
-    unlockConditionType: "\u5B8C\u6210\u6307\u5B9A\u4E8B\u4EF6id\u7684\u6307\u5B9A\u9009\u9879"
-    unlockConditionParam: df07000002000000
+    position: {x: -Infinity, y: -Infinity}
+    positionGroup: 221
+    unlockConditionType: "\u5B8C\u6210\u5168\u90E8\u6307\u5B9Aid\u4E8B\u4EF6"
+    unlockConditionParam: de070000
     text: 
   allOwnedCards:
   - {fileID: 8057222552339870009, guid: 8acaca3b1c727412c9d82b9eafac44f1, type: 3}
@@ -76,7 +76,7 @@ MonoBehaviour:
   isBoss: 0
   cannotBeSkipped: 0
   rewardCards: []
-  forceBattle: 1
+  forceBattle: 0
   cardsInPlay:
   - {fileID: 7762805283351796176, guid: 688053ccb64ee40139b5a35323c1db33, type: 3}
   - {fileID: 7762805283351796176, guid: 688053ccb64ee40139b5a35323c1db33, type: 3}

@@ -48,6 +48,7 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
   reduceHP: 4
 --- !u!1 &1336937706385871435
 GameObject:
@@ -101,9 +102,10 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: cb5916c8276cc482d810b1f7beef5d78, type: 3}
   alternateSprite: {fileID: 0}
   alwaysOpen: 0
-  validAreaInts: 0200000005000000
+  validAreaInts: 05000000
   eventDefinition: {fileID: 4390611452920434224}
   validWithTalents: []
+  removeEventWhenOpen: 0
 --- !u!114 &4390611452920434224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -172,6 +174,7 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
   amountToGain: 45
 --- !u!1 &6854103957059388826
 GameObject:
@@ -221,6 +224,7 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
   encounter: {fileID: 7153543043080617955, guid: 1cf1ce92a43eb4300b065901a552bdc8,
     type: 3}
 --- !u!1 &7922801872679584045
@@ -271,6 +275,7 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
   effectTemplate:
   - {fileID: 8541707014865643582, guid: 4ee0a44848f044feda2a87d981e84109, type: 3}
   charges: 01000000
@@ -324,6 +329,7 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
   choices:
   - {fileID: 6711396057413096972}
   - {fileID: 8933978935330257567}
@@ -376,3 +382,4 @@ MonoBehaviour:
   alternateSprite: {fileID: 0}
   validWithTalents: []
   performAnotherAbility: {fileID: 0}
+  removeEventWhenOpen: 0
