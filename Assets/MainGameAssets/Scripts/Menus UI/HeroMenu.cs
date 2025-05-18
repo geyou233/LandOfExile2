@@ -454,8 +454,8 @@ public class HeroMenu : BasicMenu
         //gameModePanelView.Hide(true);
         //heroNamePanelView.Hide(true);
         
-        // if (heroClass == null)
-        heroClass = heroClasses[0];
+        if (heroClass == null)
+            heroClass = heroClasses[0];
 
         if (MenuControl.Instance.DemoMode)
         {
@@ -482,8 +482,11 @@ public class HeroMenu : BasicMenu
 
         //accumulatedGoldText.text = accumulatedGold.ToString();
 
-        // SelectPath(heroPath);
-        // SelectClass(heroClass);
+        if (classSelectionIndicators != null)
+        {
+            SelectPath(heroPath);
+            SelectClass(heroClass);
+        }
 
         //SetGameMode((int)gameMode);
 //        editPanel.Hide(true);
