@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using I2.Loc;
+using MainGameAssets.Scripts.Menus_UI;
 using Pool;
 using UnityEngine;
 using UnityEngine.UI;
@@ -12,6 +13,8 @@ public class MainMenu : BasicMenu
     public RectTransform doorTransform;
     float doorAnimateTime = 0.3f;
     public GameObject continueButton;
+    
+    [SerializeField] private AgeTipsMenu ageTipsMenu;
     // public GameObject newHeroButton;
     // public Button draftButton;
     // public Button reaperButton;
@@ -287,4 +290,14 @@ public class MainMenu : BasicMenu
 
         LeanTween.alphaCanvas(uIButtons, 0f, 0.3f);
     }
+    
+    
+    #region Button Events
+
+    public void OnAgeButtonClick()
+    {
+        ageTipsMenu.ShowMenu();
+    }
+
+    #endregion
 }

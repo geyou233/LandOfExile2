@@ -2,7 +2,9 @@
 using System;
 using System.Collections;
 using System.Text;
+using System.Text.RegularExpressions;
 using Doozy.Engine.UI;
+using MainGameAssets.Scripts.Menus_UI;
 using MetarCommonSupport;
 using UnityEngine;
 using UnityEngine.Networking;
@@ -16,12 +18,16 @@ public class LoginMenu : BasicMenu
     [SerializeField] private GameObject privacyTipsRoot;
 
     [SerializeField] private GameObject loginLayerRoot;
+    
+    [SerializeField] private GameObject verifyIDLayerRoot;
 
     [SerializeField] private InputField account;
 
     [SerializeField] private InputField password;
     
     [SerializeField] private MainMenu mainMenu;
+
+    [SerializeField] private AgeTipsMenu ageTipsMenu;
 
     /// <summary>等待下一次发送时间</summary>
     [SerializeField] private Text waitSendTime;
@@ -31,6 +37,10 @@ public class LoginMenu : BasicMenu
     [SerializeField] private Toggle agreePrivacy;
 
     [SerializeField] private Toggle autoLogin;
+
+    [SerializeField] private GameObject nameErrorTips;
+    
+    [SerializeField] private GameObject idCardErrorTips;
 
     /// <summary>等待下次发送短信的时间</summary>
     private float waitTime = 60;
@@ -70,10 +80,29 @@ public class LoginMenu : BasicMenu
         base.ShowMenu();
         privacyTipsRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 0);
         loginLayerRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 1);
+        verifyIDLayerRoot.SetActive(false);
         waitSendTime.text = "获取验证码";
         waitTime = 0;
         canSendVerifyCode = true;
         popupTips.SetActive(false);
+
+        var saveTokenTime = PlayerPrefs.GetString("saveTokenTime");
+        if (!string.IsNullOrEmpty(saveTokenTime))
+        {
+            DateTime oldTime = DateTime.Parse(saveTokenTime);
+            
+            DateTime now = DateTime.Now;
+
+            var offsetTime = oldTime - now;
+            if (offsetTime.TotalSeconds >= 24 * 3600)
+                return;
+            
+            var token = PlayerPrefs.GetString("token");
+            if (string.IsNullOrEmpty(token)) return;
+            
+            // LoginWithToken();
+            
+        }
     }
 
 
@@ -116,7 +145,10 @@ public class LoginMenu : BasicMenu
             waitSendTime.text = "获取验证码";
         }
     }
-
+    
+    
+    #region Button Events
+    
     /// <summary>发送短信验证码</summary>
     public void OnSendVerifyCodeClick()
     {
@@ -162,6 +194,24 @@ public class LoginMenu : BasicMenu
         Login("login", account.text, password.text);
     }
     
+    public void OnIDCardVerifyBtnClick()
+    {
+        // IDCardVerify();
+    }
+
+    public void OnIDCardCancelBtnClick()
+    {
+        verifyIDLayerRoot.SetActive(false);
+    }
+
+    public void OnAgeButtonClick()
+    {
+        ageTipsMenu.ShowMenu();
+    }
+
+    #endregion
+
+    
     private IEnumerator SendPostRequest(string url, string jsonData, Action<string> callback)
     {
         using (UnityWebRequest request = new UnityWebRequest(url, UnityWebRequest.kHttpVerbPOST))
@@ -188,6 +238,9 @@ public class LoginMenu : BasicMenu
     }
 
 
+    #region 发送验证码
+    
+    //发送验证码信息
     private void SendMessageVerifyCode(string request, string phone)
     {
         var user = new PhoneVerification { phone = phone };
@@ -199,7 +252,10 @@ public class LoginMenu : BasicMenu
     {
         
     }
-
+    
+    #endregion
+    
+    #region 注册
     /// <summary>注册</summary>
     private void Register(string request, string phone, string pwd)
     {
@@ -214,14 +270,16 @@ public class LoginMenu : BasicMenu
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnRegisterSuccess));
     }
     
-    
     private void OnRegisterSuccess(string jsonData)
     {
         var data = JsonUtility.FromJson<ResponseData>(jsonData);
         var request = "login_with_token";
         LoginWithToken(webUrl + request, account.text, data.access_token);
     }
-
+    
+    #endregion
+    
+    #region 登录
     /// <summary>登录</summary>
     private void Login(string request, string phone, string pwd)
     {
@@ -235,14 +293,8 @@ public class LoginMenu : BasicMenu
         string jsonData = JsonUtility.ToJson(user);
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
     }
-
-
-    private void OnLoginSuccess(string jsonData)
-    {
-        ShowMainMenu();
-    }
-
-
+    
+    /// <summary>使用token登录</summary>
     private void LoginWithToken(string request, string phone, string token)
     {
         var user = new PhoneToken {phone = phone, tmp_token = token};
@@ -250,6 +302,68 @@ public class LoginMenu : BasicMenu
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
     }
     
+    private void OnLoginSuccess(string jsonData)
+    {
+        var data = JsonUtility.FromJson<ResponseData>(jsonData);
+        PlayerPrefs.SetString("token", data.access_token);
+        PlayerPrefs.SetString("saveTokenTime", DateTime.Now.ToString());
+        PlayerPrefs.Save();
+        ShowMainMenu();
+    }
+    #endregion
+
+    #region 实名认证
+    ///实名认证
+    private void IDCardVerify(string idNo, string userName)
+    {
+        
+    }
+
+    private void OnIDCardVerifySuccess(string jsonData)
+    {
+        
+    }
+
+
+    public void OnNameEditEnd(string name)
+    {
+        
+    }
+
+    public void OnIDCardEditEnd(string idCardNo)
+    {
+        idCardErrorTips.SetActive(!CheckIDCard18(idCardNo));
+    }
+    
+    /// <summary>检查身份证号码</summary>
+    private static bool CheckIDCard18(string str)
+    {
+        if (str.Length < 18) return false;
+
+        string number17 = str.Substring(0, 17);
+        string pattern = @"^\d*$";
+        if (!Regex.IsMatch(number17, pattern)) return false;
+
+        string number18 = str.Substring(17);
+        string check = "10X98765432";
+        int[] num = { 7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2 };
+        int sum = 0;
+        for (int i = 0; i < number17.Length; i++)
+        {
+            sum += Convert.ToInt32(number17[i].ToString()) * num[i];
+        }
+        sum %= 11;
+        if (number18.Equals(check[sum].ToString(), StringComparison.OrdinalIgnoreCase))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+    #endregion
     
     public void ShowMainMenu()
     {
@@ -275,4 +389,5 @@ public class LoginMenu : BasicMenu
             popupTips.SetActive(false);
         });
     }
+    
 }

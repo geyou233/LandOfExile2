@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
 using Doozy.Engine.UI;
+using MainGameAssets.Scripts.Menus_UI;
 using Pool;
 using UnityEngine;
 using UnityEngine.Analytics;
@@ -88,6 +89,7 @@ public class MenuControl : MonoBehaviour
     public SteamLogic steamLogic;
     public LootMenu lootMenu;
     public DemoView demoView;
+    public AgeTipsMenu ageTipsMenu;
 
     public UpgradeSelectCardView upgradeSelectCardView;
 
@@ -377,6 +379,10 @@ public class MenuControl : MonoBehaviour
             // {
             //     bountyMenu.CloseMenu();
             // }
+            else if (ageTipsMenu.gameObject.activeInHierarchy)
+            {
+                ageTipsMenu.CloseMenu();
+            }
             else if (levelUpMenu.gameObject.activeInHierarchy)
             {
                 levelUpMenu.CloseMenu();
@@ -573,6 +579,7 @@ public class MenuControl : MonoBehaviour
         //creditsMenu.HideMenu(true);
         changeLogMenu.HideMenu(true);
         loadingMenu.HideMenu(true);
+        ageTipsMenu.HideMenu(true);
     }
 
     public string GetChineseLocalizedString(string stringToLocalize, string defaultString = null)
