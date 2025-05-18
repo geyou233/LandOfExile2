@@ -3,8 +3,8 @@ size:256,256
 filter:Linear,Linear
 pma:true
 bianfu
-bounds:2,78,152,147
-offsets:9,12,170,170
+bounds:2,78,168,149
+offsets:1,11,170,170
 shadow
 bounds:2,2,168,74
 offsets:15,6,198,86
