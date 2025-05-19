@@ -41,12 +41,16 @@ public class LibraryMenu : BasicMenu
             }
         }
     }
+
+    private void Awake()
+    {
+        mLoopGridView.InitGridView(10, OnGetItemByRowColumn);
+    }
+
     private void Start()
     {
 
         discoverAllUnlockedHeros();
-        
-        mLoopGridView.InitGridView(10, OnGetItemByRowColumn);
         // foreach (var heroClass in MenuControl.Instance.heroMenu.heroPaths)
         // {
         //     foreach (var card in heroClass.startingCards)
