@@ -963,7 +963,7 @@ ChainKeywordDescription,Text,,Repeat this effect on a new adjacent unit.,在新�
 ChainKeywordName,Text,,Chain,连锁,連鎖,,,,,,,連鎖,,,
 ChainLightningCardDescription,Text,,Chain: Deal 1 damage to a unit.,连锁：对一个单位造成1点伤害,連鎖：對一個單位造成1點傷害,,,,,,,連鎖：ユニット1体に1ダメージを与える,,,
 ChainLightningCardName,Text,,Chain Lightning,连锁闪电,連鎖閃電,,,,,,,連鎖稲妻,,,
-Change Log,Text,,Update Log,更新日志,更新日誌,,,,,,,アップデートログ,,,
+Change Log,Text,,Update Log,公告,公告,,,,,,,アップデートログ,,,
 Change Log Menu,Text,,,,,,,,,,,,,,
 Change mode,Text,,Change Mode,改变模式,改變模式,,,,,,,モードを変える,,,
 ChangeLogText,Text,,"<color=white>v1.00 Demo Version</color>
@@ -7790,7 +7790,7 @@ SurgingFireTrap4CardDescription,Text,,"At the start of next turn, deals 5 damage
 SurgingFireTrap4CardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
 SurgingFireTrapCardDescription,Text,,"At the start of next turn, deals 3 damage and Electric Shock 1 to unit on the tile",下一回合开始时，对该格子上的单位造成3点伤害和电击1,下一回合開始時，對該格子上的單位造成3點傷害和電擊1,,,,,,,次のターン開始時、このマス上のユニットに3ダメージを与え、電撃1を付与する,,,
 SurgingFireTrapCardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
-Surrender,Text,,Abandon Game,放弃游戏,放棄遊戲,,,,,,,ゲームを諦める,,,
+Surrender,Text,,Abandon Game,重新开始游戏,重新開始游戲,,,,,,,ゲームを諦める,,,
 SurrenderPrompt,Text,,Choosing abandon will end this game. Confirm to abandon?,放弃将结束本次游戏， 你确定要放弃吗？,放棄將結束本次遊戲， 你確定要放棄嗎？,,,,,,,諦めると今回のゲームは終了します。諦めますか？,,,
 SwallowWholeCardDescription,Text,,Deals damage to a unit equal to your Toughness stacks.,对一个单位造成自身坚硬层数的伤害,對一個單位造成自身堅硬層數的傷害,,,,,,,ユニット1体に自身の堅固スタック数に等しいダメージを与える,,,
 SwallowWholeCardName,Text,,Deliverance,超度,超度,,,,,,,済度,,,
