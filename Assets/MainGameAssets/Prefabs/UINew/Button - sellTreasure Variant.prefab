@@ -365,7 +365,12 @@ PrefabInstance:
     - target: {fileID: 1436056458125961060, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
         type: 3}
       propertyPath: m_Text
-      value: "\u51FA\u552E\u5B9D\u85CF"
+      value: "\u6362\u53D6\u6C34\u6676"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1436056458125961060, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
+        type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1436056458125961062, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
         type: 3}
@@ -375,6 +380,16 @@ PrefabInstance:
     - target: {fileID: 1436056458125961062, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
         type: 3}
       propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865773823953097950, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
+        type: 3}
+      propertyPath: m_Text
+      value: "\u6362\u53D6\u6C34\u6676"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865773823953097950, guid: 745dd96cf0a3d4d4ea6895cae09b970c,
+        type: 3}
+      propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3945587885196885434, guid: 745dd96cf0a3d4d4ea6895cae09b970c,

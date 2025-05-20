@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 4121695975897012396, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
         type: 3}
       propertyPath: m_Text
-      value: Tutorial
+      value: "\u6559\u7A0B"
       objectReference: {fileID: 0}
     - target: {fileID: 4121695975897012396, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
         type: 3}
@@ -55,7 +55,7 @@ PrefabInstance:
     - target: {fileID: 4121695977850725362, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
         type: 3}
       propertyPath: m_Name
-      value: Button - Tutorial
+      value: Button - Tutorial Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4121695977850725364, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
         type: 3}

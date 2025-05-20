@@ -156,7 +156,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.6
-  m_Text: 11
+  m_Text: "\u6559\u7A0B"
 --- !u!114 &3415333996670761343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -348,6 +348,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -47
+      objectReference: {fileID: 0}
+    - target: {fileID: 4121695975897012398, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4121695977850725362, guid: d7dd9bf6f6c8de44e9ae91769f5b7f2d,
         type: 3}

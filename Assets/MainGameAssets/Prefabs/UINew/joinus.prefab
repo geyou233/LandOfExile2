@@ -14,7 +14,7 @@ PrefabInstance:
     - target: {fileID: 260152932272307288, guid: 02d30a4d344a41443babf68cfaea73a4,
         type: 3}
       propertyPath: m_Text
-      value: "\u6DFB\u52A0\u5FC3\u613F\u5355  "
+      value: "\u6DFB\u52A0\u5FC3\u613F\u5355"
       objectReference: {fileID: 0}
     - target: {fileID: 260152932272307290, guid: 02d30a4d344a41443babf68cfaea73a4,
         type: 3}
@@ -170,7 +170,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d24a8d578054ba847b89878634698f5e,
+      objectReference: {fileID: 21300000, guid: f86d4926c4eebbe41b25080c157ff960,
         type: 3}
     - target: {fileID: 260152933152229126, guid: 02d30a4d344a41443babf68cfaea73a4,
         type: 3}
@@ -211,20 +211,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 537139455519013872}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2842752439686095919
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 353658791094271222}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbbd62438af56d2419b5d6d2837feccc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  webSite2: https://discord.gg/zwN3WaqCUQ
-  webSite: https://qm.qq.com/q/NHyH2CwNyw
 --- !u!114 &2842752439686095917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -267,3 +253,17 @@ MonoBehaviour:
   mGUI_ShowCallback: 0
   mLocalizeTarget: {fileID: 0}
   mLocalizeTargetName: I2.Loc.LocalizeTarget_UnityUI_Image
+--- !u!114 &2842752439686095919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 353658791094271222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbbd62438af56d2419b5d6d2837feccc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  webSite2: https://discord.gg/zwN3WaqCUQ
+  webSite: https://qm.qq.com/q/NHyH2CwNyw

@@ -9094,6 +9094,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button - Cards
       objectReference: {fileID: 0}
+    - target: {fileID: 3765977912742449422, guid: 7b7b01bfd4638594cb6d82424d8f4efc,
+        type: 3}
+      propertyPath: m_Text
+      value: "\u6559\u7A0B"
+      objectReference: {fileID: 0}
     - target: {fileID: 5843605940797563555, guid: 7b7b01bfd4638594cb6d82424d8f4efc,
         type: 3}
       propertyPath: m_IsActive
@@ -9348,6 +9353,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button - Treasure
+      objectReference: {fileID: 0}
+    - target: {fileID: 3765977912742449422, guid: 7b7b01bfd4638594cb6d82424d8f4efc,
+        type: 3}
+      propertyPath: m_Text
+      value: "\u6559\u7A0B"
       objectReference: {fileID: 0}
     - target: {fileID: 5843605940797563555, guid: 7b7b01bfd4638594cb6d82424d8f4efc,
         type: 3}

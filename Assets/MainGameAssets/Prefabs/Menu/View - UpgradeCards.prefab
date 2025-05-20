@@ -5764,7 +5764,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Select an upgrade plan
+  m_Text: "\u9009\u62E9\u5347\u7EA7\u65B9\u6848"
 --- !u!114 &3306776014518881359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7275,6 +7275,11 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3993199937290288220, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4272481574169713124, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -7364,6 +7369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457864252416934698, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7531865381101502244, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
@@ -7530,6 +7540,11 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3993199937290288220, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4272481574169713124, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -7619,6 +7634,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457864252416934698, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7531865381101502244, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
@@ -7785,6 +7805,11 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3993199937290288220, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4272481574169713124, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -7874,6 +7899,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457864252416934698, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7531865381101502244, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
@@ -8040,6 +8070,11 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3993199937290288220, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4272481574169713124, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -8129,6 +8164,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457864252416934698, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7531865381101502244, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
@@ -8420,6 +8460,11 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3993199937290288220, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4272481574169713124, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -8509,6 +8554,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457864252416934698, guid: 5bb248794a76ca74289c06059d878848,
+        type: 3}
+      propertyPath: mLocalizeTarget
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7531865381101502244, guid: 5bb248794a76ca74289c06059d878848,
         type: 3}
