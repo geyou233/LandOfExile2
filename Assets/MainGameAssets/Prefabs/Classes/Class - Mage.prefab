@@ -53,7 +53,7 @@ MonoBehaviour:
   heroPrefab: {fileID: 8057222552339870009, guid: 05d8dcc917fb04327bb96c1cec615f79,
     type: 3}
   initialActions: 1
-  initialHP: 12
+  initialHP: 50
   initialMana: 3
   initialCardsDrawnPerTurn: 4
   hpGainPerLevel: 2

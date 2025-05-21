@@ -51,21 +51,28 @@ MonoBehaviour:
   cardTemplate: {fileID: 0}
   initialCost: 0
   level: 0
-  upgradeCard: {fileID: 0}
+  CardUniqueId: 0
+  isCopiedCard: 0
+  isFlying: 0
+  cardTargetType: 0
   activatedAbility: {fileID: -2047240653784100586}
   cardTags: []
   actionAnimation: {fileID: 0}
   goldWorth: 0
   temporaryOnly: 0
-  initialPower: 2
-  initialHP: 11
+  weapon: {fileID: 0}
+  initialPower: 50
+  initialHP: 50
   initialMoves: 1
   initialActions: 1
   currentPower: 0
   currentHP: 0
   remainingMoves: 0
+  currentDamageReduction: 0
   remainingActions: 0
   movementType: {fileID: 11400000, guid: 6c93214942b4546ce96b3843a38f9a7a, type: 2}
+  originalActivatedAbility: {fileID: 0}
+  originalActionAnimation: {fileID: 0}
   summoningType: {fileID: 0}
   currentEffects: []
   attackingSound:
@@ -86,11 +93,12 @@ MonoBehaviour:
     SoundName: Death
     AudioClip: {fileID: 0}
     OutputAudioMixerGroup: {fileID: 0}
-  weapon: {fileID: 0}
+  lastTile: {fileID: 0}
   startingEffects: []
   startingEffectCharges: 
+  tempStartingEffects: []
+  tempStartingEffectCharges: 
   intentSystem: {fileID: 0}
-  originalActivatedAbility: {fileID: 0}
 --- !u!114 &-2047240653784100586
 MonoBehaviour:
   m_ObjectHideFlags: 0
