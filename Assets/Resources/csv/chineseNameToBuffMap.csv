@@ -23,7 +23,7 @@
 大杀四方,使用任何近战武器的攻击均具有劈砍效果,icon_stamp_1051
 健臂,使用任何远程武器进行的远程攻击都带有穿透效果,icon_stamp_1022
 虚弱,降低等于虚弱值的攻击力，直到回合结束,icon_stamp_1023
-感染,被摧毁时，在其位置孵化一个带有此效果的随从。,icon_stamp_1152
+侵蚀,被摧毁时，在其位置孵化一个带有此效果的随从。,icon_stamp_1152
 连击,单位每回合获得如数值所示的额外行动次数(或攻击次数),icon_stamp_1025
 过载,您每回合使用的第五个法术造成双倍伤害。每施放一个法术，过载值加1。回合开始时将过载值重置为零,icon_stamp_1026
 松香可燃包,您的下一次攻击造成等同于该值的灼烧,icon_stamp_1065
@@ -140,13 +140,13 @@
 荆棘铠甲,,icon_stamp_1009
 反震,,icon_stamp_1064
 高级反震,,icon_stamp_1064
-饮血,,icon_stamp_1004
+冲动,,icon_stamp_1004
 闪亮离场,,icon_stamp_1034
 精力充沛,,icon_stamp_1029
 愤怒,,icon_stamp_1056
 缠斗,,icon_stamp_1042
 炎盾,,icon_stamp_1054
-纵火者,,icon_stamp_1073
+点火者,,icon_stamp_1073
 调用,,icon_stamp_1068
 弱点,,icon_stamp_1075
 横冲直撞,,icon_stamp_1041
@@ -169,7 +169,7 @@
 水流控制,,icon_stamp_1121
 静电,,icon_stamp_1122
 巫师斗篷,,icon_stamp_1048
-雷电诅咒,,icon_stamp_1124
+雷电腐蚀,,icon_stamp_1124
 极度灼热,,
 霜冻,,icon_stamp_1126
 冰雪加护,,icon_stamp_1127
@@ -218,7 +218,7 @@
 反射,,icon_stamp_1191
 吟唱（龙骑投枪手）,,icon_stamp_1118
 吟唱（突变）,,icon_stamp_1118
-吟唱（死亡诅咒）,,icon_stamp_1118
+吟唱（凋零腐蚀）,,icon_stamp_1118
 吟唱（水晶大师）,,icon_stamp_1118
 吟唱（神灯）,,icon_stamp_1118
 吟唱（霜雪之剑）,,icon_stamp_1118
