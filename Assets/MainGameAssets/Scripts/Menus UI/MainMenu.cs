@@ -133,6 +133,7 @@ public class MainMenu : BasicMenu
     public void SelectNormal()
     {
         gameMode = GameMode.normal;
+        MenuControl.Instance.adventureMenu.tutorialEncounterOnly = false;
         firstLayerButtons.SetActive(false);
         startContinueButtons.SetActive(true);
     }
