@@ -192,10 +192,10 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         else if (eventData.button == PointerEventData.InputButton.Right)
             return;
 
-        if (!disableInteraction)
-        {
-            GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
-        }
+        // if (!disableInteraction)
+        // {
+        //     GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
+        // }
     }
 
     public virtual void OnPointerExit(PointerEventData eventData)
@@ -234,6 +234,8 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             //                                                        card.GetZone() == MenuControl.Instance.battleMenu
             //                                                            .hand) || MenuControl.Instance.battleMenu
             //                                                          .usingIntentSystem))
+            
+            //
             if (showCardView && (card.showUpgradeView()))
             {
                 if (MenuControl.Instance.heroMenu.seasonsMode && niceCard.activeInHierarchy) return;
@@ -242,10 +244,11 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
                 return;
             }
         }
-
         if (!disableInteraction)
         {
+         
             GetComponentInParent<BasicMenu>().ClickVisibleCard(this);
+            GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
         }
     }
 

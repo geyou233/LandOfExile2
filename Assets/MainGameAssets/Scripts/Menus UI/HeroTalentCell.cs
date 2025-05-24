@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHandler
+public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
 {
     public Image image;
     public Text nameDisplay;
@@ -41,7 +41,13 @@ public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHa
         this.talent = talent;
         init(talent.GetName(),CardDescriptionPanel.DescriptionText(talent,null,null), MenuControl.Instance.csvLoader.talentSprite(talent.UniqueID));
     }
-    
+
+
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
+    }
+
     public virtual void OnPointerEnter(PointerEventData eventData)
     {
         if (eventData.button == PointerEventData.InputButton.Middle)
@@ -51,7 +57,7 @@ public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHa
 
         //if (!disableInteraction)
         {
-            MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
+            // MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
         }
     }
 
