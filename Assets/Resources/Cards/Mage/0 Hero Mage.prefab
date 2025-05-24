@@ -112,6 +112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1a3cfa1775c44b0ad65282a5290ec6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetValidator: {fileID: 11400000, guid: 865304797f4594f30ac3a2090d36b1b7, type: 2}
+  targetValidator: {fileID: 11400000, guid: 1d4d8f474a40445b0af5a3918be0d5a1, type: 2}
   otherAbilitiesToPerform: []
   skipStandardAttack: 0
