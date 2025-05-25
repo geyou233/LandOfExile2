@@ -12,7 +12,6 @@ using UnityEngine.UI;
 
 public class LoginMenu : BasicMenu
 {
-
     [SerializeField] private string webUrl = "http://account.thearky.cn:8090/";
 
     [SerializeField] private GameObject privacyTipsRoot;
@@ -29,6 +28,10 @@ public class LoginMenu : BasicMenu
 
     [SerializeField] private AgeTipsMenu ageTipsMenu;
 
+    [SerializeField] private InputField realName;
+
+    [SerializeField] private InputField realNo;
+
     /// <summary>等待下一次发送时间</summary>
     [SerializeField] private Text waitSendTime;
 
@@ -41,20 +44,21 @@ public class LoginMenu : BasicMenu
     [SerializeField] private GameObject nameErrorTips;
     
     [SerializeField] private GameObject idCardErrorTips;
-
+    
     /// <summary>等待下次发送短信的时间</summary>
     private float waitTime = 60;
 
     /// <summary>是否可以发送短信验证码</summary>
     private bool canSendVerifyCode = true;
     
+    /// <summary>注册登录请求</summary>
     [Serializable]
-    private class UserCredentials
+    private class RegisterOrLoginRequest
     {
         public string phone;
         public string smscode;
     }
-
+    
     [Serializable]
     private class PhoneVerification
     {
@@ -68,10 +72,31 @@ public class LoginMenu : BasicMenu
         public string tmp_token;
     }
 
-    public class ResponseData
+    [Serializable]
+    public class RegisterOrLoginResponseData
     {
         public string access_token;
         public string token_type;
+        public int realname_varify_finish;
+    }
+
+    
+    /// <summary>实名认证数据</summary>
+    [Serializable]
+    public class RealNameData
+    {
+        public string phone;
+        public string realname;
+        public string idstr;
+        public string tmp_token;
+    }
+
+    [Serializable]
+    public class RealNameResponse
+    {
+        public string access_token;
+        public string token_type;
+        public string realname_varify_finish;
     }
 
     public override void ShowMenu()
@@ -196,7 +221,9 @@ public class LoginMenu : BasicMenu
     
     public void OnIDCardVerifyBtnClick()
     {
-        // IDCardVerify();
+        string phone = PlayerPrefs.GetString("phone");
+        string token = PlayerPrefs.GetString("token");
+        IDCardVerify("realname_and_id_varify", phone, realNo.text, realName.text, token);
     }
 
     public void OnIDCardCancelBtnClick()
@@ -239,7 +266,6 @@ public class LoginMenu : BasicMenu
 
 
     #region 发送验证码
-    
     //发送验证码信息
     private void SendMessageVerifyCode(string request, string phone)
     {
@@ -264,7 +290,7 @@ public class LoginMenu : BasicMenu
             ShowPopMessage("请先同意隐私协议");
             return;
         }
-        var user = new UserCredentials { phone = phone, smscode = pwd };
+        var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
         string jsonData = JsonUtility.ToJson(user);
 
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnRegisterSuccess));
@@ -272,9 +298,21 @@ public class LoginMenu : BasicMenu
     
     private void OnRegisterSuccess(string jsonData)
     {
-        var data = JsonUtility.FromJson<ResponseData>(jsonData);
-        var request = "login_with_token";
-        LoginWithToken(webUrl + request, account.text, data.access_token);
+        var data = JsonUtility.FromJson<RegisterOrLoginResponseData>(jsonData);
+
+        //表示已经实名认证过
+        if (data.realname_varify_finish == 1)
+        {
+            //自动登录
+            var request = "login_with_token";
+            LoginWithToken(webUrl + request, account.text, data.access_token);
+        }
+        else
+        {
+            //todo
+            loginLayerRoot.SetActive(false);
+            verifyIDLayerRoot.SetActive(true);
+        }
     }
     
     #endregion
@@ -283,13 +321,12 @@ public class LoginMenu : BasicMenu
     /// <summary>登录</summary>
     private void Login(string request, string phone, string pwd)
     {
-        
         if (!agreePrivacy.isOn)
         {
             ShowPopMessage("请先同意隐私协议");
             return;
         }
-        var user = new UserCredentials { phone = phone, smscode = pwd };
+        var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
         string jsonData = JsonUtility.ToJson(user);
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
     }
@@ -304,24 +341,42 @@ public class LoginMenu : BasicMenu
     
     private void OnLoginSuccess(string jsonData)
     {
-        var data = JsonUtility.FromJson<ResponseData>(jsonData);
+        var data = JsonUtility.FromJson<RegisterOrLoginResponseData>(jsonData);
+        PlayerPrefs.SetString("phone", account.text.Trim());
         PlayerPrefs.SetString("token", data.access_token);
         PlayerPrefs.SetString("saveTokenTime", DateTime.Now.ToString());
         PlayerPrefs.Save();
-        ShowMainMenu();
+
+        if (data.realname_varify_finish == 1)   //已经实名认证过
+        {
+            ShowMainMenu();
+        }
+        else
+        {
+            loginLayerRoot.SetActive(false);
+            verifyIDLayerRoot.SetActive(true);
+        }
     }
     #endregion
 
     #region 实名认证
     ///实名认证
-    private void IDCardVerify(string idNo, string userName)
+    private void IDCardVerify(string request, string phone, string idNo, string userName, string token)
     {
-        
+        var data = new RealNameData() { phone = phone, realname = userName, idstr = idNo, tmp_token = token };
+        string jsonData = JsonUtility.ToJson(data);
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnIDCardVerifySuccess));
     }
 
+    /// <summary>实名认证结果</summary>
+    /// <param name="jsonData"></param>
     private void OnIDCardVerifySuccess(string jsonData)
     {
-        
+        var data = JsonUtility.FromJson<RealNameResponse>(jsonData);
+        PlayerPrefs.SetString("token", data.access_token);
+        PlayerPrefs.SetString("saveTokenTime", DateTime.Now.ToString());
+        PlayerPrefs.Save();
+        ShowMainMenu();
     }
 
 
@@ -357,11 +412,7 @@ public class LoginMenu : BasicMenu
         {
             return true;
         }
-        else
-        {
-            return false;
-        }
-
+        return false;
     }
     #endregion
     
@@ -370,8 +421,7 @@ public class LoginMenu : BasicMenu
         HideMenu();
         mainMenu.ShowMenu();
     }
-
-
+    
     private void ShowPopMessage(string message)
     {
         if (LeanTween.isTweening(popupTips))

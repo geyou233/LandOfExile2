@@ -588,7 +588,7 @@ public class CSVLoader : MonoBehaviour
             SkeletonGraphic skeletonGraphic = spineTransform.GetComponent<SkeletonGraphic>();
             skeletonGraphic.skeletonDataAsset = skeletonData;
             skeletonGraphic.material =
-                new Material(Shader.Find("Spine/Skeleton")); // Replace with your material or shader
+                new Material(Shader.Find("Spine/SkeletonGraphic")); // Replace with your material or shader
 
             // 初始化Spine动画
             skeletonGraphic.Initialize(true);

@@ -217,7 +217,7 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             //     GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
             //     //GetComponentInParent<BasicMenu>().SetActive(false);
             // }
-            GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
+            // GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
         }
     }
 
@@ -246,7 +246,7 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         }
         if (!disableInteraction)
         {
-         
+            isSelect = true;
             GetComponentInParent<BasicMenu>().ClickVisibleCard(this);
             GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
         }
@@ -898,6 +898,9 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             GetComponent<CanvasGroup>().alpha =targetTransparency;
             disableInteraction = false;
         }
+
+        isSelect = false;
+        isDragging  = false;
     }
 
 
@@ -1158,10 +1161,32 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     public void OnBeginDrag(PointerEventData eventData)
     {
         ///Debug.Log("OnBeginDrag");
+        isDragging = true;
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
         //Debug.Log("OnEndDrag");
+
+        isDragging = false;
+    }
+    
+    private bool isDragging = false;
+    private bool isSelect = false;
+
+    private void Update()
+    {
+        var canvas = this.GetComponent<Canvas>();
+        if (!canvas || isDragging)
+            return;
+        
+        var canvasRT = canvas.GetComponent<RectTransform>();
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvasRT, Input.mousePosition, canvas.worldCamera, out var p);
+        var rect = normalBGImage.GetComponent<RectTransform>().rect;
+        if (Input.GetMouseButtonDown(0) && !rect.Contains(p) && isSelect)
+        {
+            GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this);
+            isSelect = false;
+        }
     }
 }
