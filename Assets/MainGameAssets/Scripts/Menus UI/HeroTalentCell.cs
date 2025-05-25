@@ -45,7 +45,9 @@ public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHa
 
     public void OnPointerClick(PointerEventData eventData)
     {
+#if UNITY_ANDROID || UNITY_IOS
         MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
+#endif
     }
 
     public virtual void OnPointerEnter(PointerEventData eventData)
@@ -57,7 +59,9 @@ public class HeroTalentCell : MonoBehaviour,IPointerEnterHandler, IPointerExitHa
 
         //if (!disableInteraction)
         {
-            // MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
+#if UNITY_STANDALONE || UNITY_EDITOR
+            MenuControl.Instance.infoMenu.ShowInfo(talent, transform);
+#endif
         }
     }
 

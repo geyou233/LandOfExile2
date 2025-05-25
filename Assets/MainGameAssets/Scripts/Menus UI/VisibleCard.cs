@@ -192,10 +192,12 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         else if (eventData.button == PointerEventData.InputButton.Right)
             return;
 
-        // if (!disableInteraction)
-        // {
-        //     GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
-        // }
+#if UNITY_STANDALONE
+        if (!disableInteraction)
+        {
+            GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
+        }
+#endif
     }
 
     public virtual void OnPointerExit(PointerEventData eventData)
@@ -206,6 +208,7 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         else if (eventData.button == PointerEventData.InputButton.Right)
             return;
 
+#if UNITY_STANDALONE
         if (!disableInteraction)
         {
             // if (!RectTransformUtility.RectangleContainsScreenPoint(
@@ -217,8 +220,9 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             //     GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
             //     //GetComponentInParent<BasicMenu>().SetActive(false);
             // }
-            // GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
+            GetComponentInParent<BasicMenu>().DeSelectVisibleCard(this, false);
         }
+#endif
     }
 
     public virtual void OnPointerClick(PointerEventData eventData)
@@ -247,8 +251,11 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         if (!disableInteraction)
         {
             isSelect = true;
+           
             GetComponentInParent<BasicMenu>().ClickVisibleCard(this);
+#if UNITY_ANDROID || UNITY_IOS
             GetComponentInParent<BasicMenu>().SelectVisibleCard(this, false);
+#endif
         }
     }
 
@@ -1174,6 +1181,8 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     private bool isDragging = false;
     private bool isSelect = false;
 
+    
+#if UNITY_ANDROID || UNITY_IOS
     private void Update()
     {
         var canvas = this.GetComponent<Canvas>();
@@ -1189,4 +1198,5 @@ public class VisibleCard : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             isSelect = false;
         }
     }
+#endif
 }
