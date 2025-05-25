@@ -150,7 +150,7 @@ AlchemistCardDescription,Text,,"Ranged 2, return 1 HP when our follower is shatt
 回合結束：獲得一張隨機藥水",,,,,,,"射程2.
 ターンエンド：ランダムなポーションを一枚獲得する",,,
 AlchemistCardName,Text,,The obsessed pawnshop owener,着魔的当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
-AlchemistEncounter10CardDescription,Text,,"This is the warlock from the next village, but he looks particularly strange today.",这是隔壁村的术士，但是今天的他看起来格外的古怪。,這是隔壁村的術士，但是今天的他看起來格外的古怪。,,,,,,,こちらは隣の村の術師だが、今日は特に様子がおかしい。,,,
+AlchemistEncounter10CardDescription,Text,,"This is the warlock from the next village, but he looks particularly strange today.",这是隔壁村的当铺老板，但是今天的他看起来格外的古怪。,這是隔壁村的術士，但是今天的他看起來格外的古怪。,,,,,,,こちらは隣の村の術師だが、今日は特に様子がおかしい。,,,
 AlchemistEncounter10CardName,Text,,The obsessed pawnshop owener,着魔的当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
 All,Text,,All,所有,所有,,,,,,,全て,,,
 AllOptionsInLibrary,Text,,All,全部,全部,,,,,,,全部,,,
