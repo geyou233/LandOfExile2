@@ -1087,7 +1087,7 @@ ChoiceFightCardDescription,Text,,Enter battle,进入战斗,進入戰鬥,,,,,,,�
 ChoiceFightCardName,Text,,Battle,战斗,戰鬥,,,,,,,戦闘,,,
 ChoiceFinishGameCardDescription,Text,,Leave the adventure,离开冒险,離開冒險,,,,,,,冒険をやめる,,,
 ChoiceFinishGameCardName,Text,,Leave the adventure,离开冒险,離開冒險,,,,,,,冒険をやめる,,,
-ChoiceFloatingHoodKnowledgeCardDescription,Text,,Gain XP +60,获得+ 60XP,獲得+ 60XP,,,,,,,+60XPを獲得する,,,
+ChoiceFloatingHoodKnowledgeCardDescription,Text,,Gain XP +60,获得+ 60经验,獲得+ 60XP,,,,,,,+60XPを獲得する,,,
 ChoiceFloatingHoodKnowledgeCardName,Text,,Reading,读书,讀書,,,,,,,読書,,,
 ChoiceFriendlyCardDescription,Text,,"""Run this way!""
 Gain a 1-star follower and a 1-star weapon","“往这跑！”
@@ -1131,7 +1131,7 @@ ChoiceJoinFightCardDescription,Text,,Join the battlefield!,加入战场！,加�
 ChoiceJoinFightCardName,Text,,Join the battle,加入战斗,加入戰鬥,,,,,,,戦闘に参加する,,,
 ChoiceKeepGatheringCardDescription,Text,,There should be more treasure.,应该还有更多的宝藏。,應該還有更多的寶藏。,,,,,,,もっと宝物があるはずだ。,,,
 ChoiceKeepGatheringCardName,Text,,Keep moving.,继续前行,繼續前行,,,,,,,前進し続ける,,,
-ChoiceKnowledgeCardDescription,Text,,Gain XP +60,获得+ 60XP,獲得+ 60XP,,,,,,,+60XPを獲得する,,,
+ChoiceKnowledgeCardDescription,Text,,Gain XP +60,获得+ 60经验,獲得+ 60XP,,,,,,,+60XPを獲得する,,,
 ChoiceKnowledgeCardName,Text,,Reading,读书,讀書,,,,,,,読書,,,
 ChoiceKrampusCardDescription,Text,,You may take items from the box,你可以拿走盒子里面的东西。,你可以拿走盒子裡面的東西。,,,,,,,ボックスに入っているものを貰える。,,,
 ChoiceKrampusCardName,Text,,Check the box,检查盒子,檢查盒子,,,,,,,ボックスをチェックする,,,
