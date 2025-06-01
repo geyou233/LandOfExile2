@@ -77118,7 +77118,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet X
-      - "\u8150\u8680\u4EBA\u5076 X"
+      - "\u8150\u8680\u4EBA\u5076 \u4E00"
       - "\u8150\u8755\u4EBA\u5076 X"
       - 
       - 
@@ -77156,7 +77156,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet Y
-      - "\u8150\u8680\u4EBA\u5076 Y"
+      - "\u8150\u8680\u4EBA\u5076 \u4E8C"
       - "\u8150\u8755\u4EBA\u5076 Y"
       - 
       - 
@@ -77194,7 +77194,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet Z
-      - "\u8150\u8680\u4EBA\u5076Z"
+      - "\u8150\u8680\u4EBA\u5076 \u4E09"
       - "\u8150\u8755\u4EBA\u5076Z"
       - 
       - 
@@ -85811,7 +85811,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Sentinel\u2B50\u2B50\u2B50"
-      - "\u57CE\u5821\u54E8\u5175\u2B50\u2B50\u2B50"
+      - "\u7687\u5BB6\u54E8\u5175"
       - "\u57CE\u5821\u54E8\u5175\u2B50\u2B50\u2B50"
       - 
       - 
@@ -85871,7 +85871,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Sentinel\u2B50\u2B50\u2B50"
-      - "\u57CE\u5821\u54E8\u5175\u2B50\u2B50\u2B50"
+      - "\u68EE\u6797\u54E8\u5175"
       - "\u57CE\u5821\u54E8\u5175\u2B50\u2B50\u2B50"
       - 
       - 
@@ -86518,7 +86518,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Knight of the Sun Never Sets\u2B50\u2B50\u2B50"
-      - "\u65E5\u843D\u9A91\u58EB\u2B50\u2B50\u2B50"
+      - "\u7687\u5BB6\u9A91\u58EB"
       - "\u65E5\u843D\u9A0E\u58EB\u2B50\u2B50\u2B50"
       - 
       - 
@@ -117775,7 +117775,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Become &% His Excellency's # nourishment
-      - "\u6210&%\u5927\u4EBA#\u517B\u6599"
+      - "\u6210\u4E3A\u5927\u4EBA\u7684\u517B\u6599\uFF01"
       - "\u6210&%\u5927\u4EBA#\u990A\u6599"
       - 
       - 
@@ -117927,7 +117927,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - ZZZ...
-      - "ZZZ\u2026"
+      - "\u7761\u89C9\u4E2D\u2026"
       - "ZZZ\u2026"
       - 
       - 

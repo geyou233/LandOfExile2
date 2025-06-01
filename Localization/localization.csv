@@ -5644,11 +5644,11 @@ MightyLeapCardName,Text,,Big Leap,全力跳跃,全力跳躍,,,,,,,全力ジャ�
 Minion,Text,,Follower,随从,隨從,,,,,,,従者,,,
 Minion (Unit),Text,,Follower (Unit),随从(单位),隨從(單位),,,,,,,従者（ユニット）,,,
 MinionCursedDollXCardDescription,Text,,"When this unit takes damage, it deals 1 damage to the enemy hero.",该单位受到伤害时，对敌方英雄造成1点伤害,該單位受到傷害時，對敵方英雄造成1點傷害,,,,,,,このユニットがダメージを受けると、敵ヒーローに1ダメージを与える,,,
-MinionCursedDollXCardName,Text,,Curse Puppet X,腐蚀人偶 X,腐蝕人偶 X,,,,,,,呪いの人形X,,,
+MinionCursedDollXCardName,Text,,Curse Puppet X,腐蚀人偶 一,腐蝕人偶 X,,,,,,,呪いの人形X,,,
 MinionCursedDollYCardDescription,Text,,"When this unit takes damage, it deals 1 damage to the enemy hero.",该单位受到伤害时，对敌方英雄造成1点伤害,該單位受到傷害時，對敵方英雄造成1點傷害,,,,,,,このユニットがダメージを受けると、敵ヒーローに1ダメージを与える,,,
-MinionCursedDollYCardName,Text,,Curse Puppet Y,腐蚀人偶 Y,腐蝕人偶 Y,,,,,,,呪いの人形Y,,,
+MinionCursedDollYCardName,Text,,Curse Puppet Y,腐蚀人偶 二,腐蝕人偶 Y,,,,,,,呪いの人形Y,,,
 MinionCursedDollZCardDescription,Text,,"When this unit takes damage, it deals 1 damage to the enemy hero.",该单位受到伤害时，对敌方英雄造成1点伤害,該單位受到傷害時，對敵方英雄造成1點傷害,,,,,,,このユニットがダメージを受けると、敵ヒーローに1ダメージを与える,,,
-MinionCursedDollZCardName,Text,,Curse Puppet Z,腐蚀人偶Z,腐蝕人偶Z,,,,,,,呪いの人形Z,,,
+MinionCursedDollZCardName,Text,,Curse Puppet Z,腐蚀人偶 三,腐蝕人偶Z,,,,,,,呪いの人形Z,,,
 MinionDoorCardDescription,Text,,Destroy it to escape from here,摧毁它就能离开这里,摧毀它就能離開這裡,,,,,,,破壊すればここから出られる,,,
 MinionDoorCardName,Text,,Exit Door,离开的门,離開的門,,,,,,,出発の扉,,,
 MinionDragonTreasureCardDescription,Text,,"Cannot move
@@ -6204,14 +6204,14 @@ Enter: Deal <color=upgrade>4</color> damage to the enemy hero and apply <color=u
 进场：对敌方英雄造成<color=upgrade>4</color>点伤害和<color=upgrade>易伤1</color>","箭術射程2，
 進場：對敵方英雄造成<color=upgrade>4</color>點傷害和<color=upgrade>易傷1</color>",,,,,,,"射術射程2、
 入場：敵ヒーローに<color=upgrade>4</color>ダメージと<color=upgrade>衰弱1</color>を与える",,,
-Red36CardName,Text,,Castle Sentinel⭐⭐⭐,城堡哨兵⭐⭐⭐,城堡哨兵⭐⭐⭐,,,,,,,砦の番兵⭐⭐⭐,,,
+Red36CardName,Text,,Castle Sentinel⭐⭐⭐,皇家哨兵,城堡哨兵⭐⭐⭐,,,,,,,砦の番兵⭐⭐⭐,,,
 Red36FlavourText,Text,,,,,,,,,,,,,,
 Red36dCardDescription,Text,,"Arcing 2
 Enter: Deal <color=upgrade>2</color> damage to the enemy hero, <color=upgrade>each time this effect is triggered, deal 1 extra damage</color>","箭术射程2
 进场：对敌方英雄造成<color=upgrade>2</color>点伤害，<color=upgrade>每触发一次此效果，额外造成1点伤害</color>","箭術射程2
 進場：對敵方英雄造成<color=upgrade>2</color>點傷害，<color=upgrade>每觸發一次此效果，額外造成1點傷害</color>",,,,,,,"射術射程2
 入場：敵ヒーローに<color=upgrade>2</color>ダメージを与える。<color=upgrade>この効果が発動するたびに、追加で1ダメージを与える</color>",,,
-Red36dCardName,Text,,Castle Sentinel⭐⭐⭐,城堡哨兵⭐⭐⭐,城堡哨兵⭐⭐⭐,,,,,,,砦の番兵⭐⭐⭐,,,
+Red36dCardName,Text,,Castle Sentinel⭐⭐⭐,森林哨兵,城堡哨兵⭐⭐⭐,,,,,,,砦の番兵⭐⭐⭐,,,
 Red36dFlavourText,Text,,,,,,,,,,,,,,
 Red37CardDescription,Text,,Enter: Increases the ATK of itself and adjacent allied units by 1,进场：对其自身和相邻友方单位增加1点攻击力,進場：對其自身和相鄰友方單位增加1點攻擊力,,,,,,,入場：自身と隣接味方ユニットの攻撃力+1,,,
 Red37CardName,Text,,Helm Guard,海尔姆护卫,海爾姆護衛,,,,,,,ヘルム護衛,,,
@@ -6268,7 +6268,7 @@ At the beginning of the turn: adjacent allied units get Block 1 and <color=upgra
 回合开始：相邻友方单位获得格挡1，<color=upgrade>抽取下一张武器卡</color>","嘲諷
 回合開始：相鄰友方單位獲得格擋1，<color=upgrade>抽取下一張武器卡</color>",,,,,,,"挑発
 ターン開始：隣接する味方ユニットがブロック1を獲得し、<color=upgrade>次の武器カードを引く</color>",,,
-Red45dCardName,Text,,Knight of the Sun Never Sets⭐⭐⭐,日落骑士⭐⭐⭐,日落騎士⭐⭐⭐,,,,,,,サンネバーセッツ騎士⭐⭐⭐,,,
+Red45dCardName,Text,,Knight of the Sun Never Sets⭐⭐⭐,皇家骑士,日落騎士⭐⭐⭐,,,,,,,サンネバーセッツ騎士⭐⭐⭐,,,
 Red45dFlavourText,Text,,,,,,,,,,,,,,
 Red46CardDescription,Text,,Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.,进场：获得1张{{Warrior203}}的复制品，其法力消耗=0,進場：獲得1張{{Warrior203}}的複製品，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
 Red46CardName,Text,,Chain Hammer Fighter,链锤斗士,鏈錘鬥士,,,,,,,ハンマーファイター,,,
@@ -9056,7 +9056,7 @@ battleDialogue_300610,Text,,Just rot here,腐烂吧,腐爛吧,,,,,,,腐り散れ
 battleDialogue_300620,Text,,Unworthy creatures,劣等生物,劣等生物,,,,,,,下等生物が,,,
 battleDialogue_300630,Text,,Why turn your back on the kingdom,为何背叛王国,為何背叛王國,,,,,,,なぜ王国を裏切った,,,
 battleDialogue_300640,Text,,Go ask that stupid king in hell,去问死了的蠢国王吧,去問死了的蠢國王吧,,,,,,,地獄に堕ちた愚かな国王に聞いてみろ,,,
-battleDialogue_300650,Text,,Become &% His Excellency's # nourishment,成&%大人#养料,成&%大人#養料,,,,,,,なる&%大人#養分,,,
+battleDialogue_300650,Text,,Become &% His Excellency's # nourishment,成为大人的养料！,成&%大人#養料,,,,,,,なる&%大人#養分,,,
 battleDialogue_300660,Text,,Aren't you going to say hello,不打声招呼吗,不打聲招呼嗎,,,,,,,挨拶しないのか,,,
 battleDialogue_300670,Text,,What a rude guest,失礼的客人,失禮的客人,,,,,,,失礼なお客さんだな,,,
 battleDialogue_300680,Text,,Am I spotted,被发现了吗,被發現了嗎,,,,,,,見つかったか,,,
@@ -9064,7 +9064,7 @@ battleDialogue_300690,Text,,Didn't expect to see an exile of the Frost Snow Clan
 battleDialogue_300700,Text,,"The doom of the Northern, Lavatsky",为北境带来灾厄的凶星，拉瓦茨基,為北境帶來災厄的凶星，拉瓦茨基,,,,,,,北に災難をもたらした邪悪な星、ラヴァツキー,,,
 battleDialogue_300710,Text,,Ignorant kid,无知的小丫头,無知的小丫頭,,,,,,,無知な小娘め,,,
 battleDialogue_300720,Text,,"You can have all of mine. Well, that's it!",我的全给你，嗯，就这样！,我的全給你，嗯，就這樣！,,,,,,,私のものはすべてあげる、ええ、そうしよう！,,,
-battleDialogue_300730,Text,,ZZZ...,ZZZ…,ZZZ…,,,,,,,ZZZ…,,,
+battleDialogue_300730,Text,,ZZZ...,睡觉中…,ZZZ…,,,,,,,ZZZ…,,,
 battleDialogue_300740,Text,,I see you! You ants!,我看见你们了！蝼蚁们！,我看見你們了！螻蟻們！,,,,,,,見えたぞ！虫けらども！,,,
 battleDialogue_300750,Text,,Beep... Beep!,哔...哔哩！,嗶...嗶哩！,,,,,,,ビビー…ビリー！,,,
 battleDialogue_300760,Text,,(Shouting…),（嘶吼声——）,（嘶吼聲——）,,,,,,,（叫び声ーー）,,,
