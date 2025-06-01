@@ -29,9 +29,9 @@ public class LoginMenu : BasicMenu
     [SerializeField] private AgeTipsMenu ageTipsMenu;
 
     [SerializeField] private InputField realName;
-
+    
     [SerializeField] private InputField realNo;
-
+    
     /// <summary>等待下一次发送时间</summary>
     [SerializeField] private Text waitSendTime;
 
@@ -50,6 +50,13 @@ public class LoginMenu : BasicMenu
 
     /// <summary>是否可以发送短信验证码</summary>
     private bool canSendVerifyCode = true;
+
+    [Serializable]
+    private class ErrorResponse
+    {
+        public string message;
+        public int errcode;
+    }
     
     /// <summary>注册登录请求</summary>
     [Serializable]
@@ -60,13 +67,15 @@ public class LoginMenu : BasicMenu
     }
     
     [Serializable]
-    private class PhoneVerification
+    private class MsgCodeRequest
     {
         public string phone;
     }
 
+    
+    /// <summary>token登录请求</summary>
     [Serializable]
-    private class PhoneToken
+    private class PhoneTokenRequest
     {
         public string phone;
         public string tmp_token;
@@ -119,14 +128,14 @@ public class LoginMenu : BasicMenu
             DateTime now = DateTime.Now;
 
             var offsetTime = oldTime - now;
-            if (offsetTime.TotalSeconds >= 24 * 3600)
+            if (offsetTime.TotalSeconds >= 1 * 3600)
                 return;
             
+            var phone = PlayerPrefs.GetString("phone");
             var token = PlayerPrefs.GetString("token");
             if (string.IsNullOrEmpty(token)) return;
             
-            // LoginWithToken();
-            
+            LoginWithToken(webUrl + "login_with_token", phone, token);
         }
     }
 
@@ -177,6 +186,25 @@ public class LoginMenu : BasicMenu
     /// <summary>发送短信验证码</summary>
     public void OnSendVerifyCodeClick()
     {
+        string phone = account.text;
+        if (string.IsNullOrEmpty(phone))
+        {
+            ShowPopMessage("请输入手机号码");
+            return;
+        }
+
+        if (!CheckPhoneIsValid(phone))
+        {
+            ShowPopMessage("手机号码不合法");
+            return;
+        }
+
+        if (!agreePrivacy.isOn)
+        {
+            ShowPopMessage("请先同意协议");
+            return;
+        }
+        
         if (waitTime > 0)
         {
             return;
@@ -216,11 +244,32 @@ public class LoginMenu : BasicMenu
             ShowPopMessage("验证码不合法");
             return;
         }
-        Login("login", account.text, password.text);
+
+        if (PlayerPrefs.GetString("phone") == account.text)
+        {
+            Login("login", account.text, password.text);
+        }
+        else
+        {
+            Register("register", account.text, password.text);
+        }
     }
     
     public void OnIDCardVerifyBtnClick()
     {
+        if (string.IsNullOrEmpty(realName.text))
+        {
+            nameErrorTips.SetActive(true);
+            return;
+        }
+        nameErrorTips.SetActive(false);
+        
+        if (string.IsNullOrEmpty(realNo.text))
+        {
+            idCardErrorTips.SetActive(true);
+            return;
+        }
+        idCardErrorTips.SetActive(false);
         string phone = PlayerPrefs.GetString("phone");
         string token = PlayerPrefs.GetString("token");
         IDCardVerify("realname_and_id_varify", phone, realNo.text, realName.text, token);
@@ -239,7 +288,7 @@ public class LoginMenu : BasicMenu
     #endregion
 
     
-    private IEnumerator SendPostRequest(string url, string jsonData, Action<string> callback)
+    private IEnumerator SendPostRequest(string url, string jsonData, Action<string> OnSucess, Action<int> onFail = null)
     {
         using (UnityWebRequest request = new UnityWebRequest(url, UnityWebRequest.kHttpVerbPOST))
         {
@@ -255,7 +304,16 @@ public class LoginMenu : BasicMenu
             {
                 var result = request.downloadHandler.text;
                 Debug.Log("Response: " + result);
-                callback?.Invoke(result);
+                
+                var errorMesg = JsonUtility.FromJson<ErrorResponse>(result);
+                if (errorMesg != null && errorMesg.errcode != 0 && errorMesg.errcode != 10019)
+                {
+                    onFail?.Invoke(errorMesg.errcode);
+                }
+                else
+                {
+                    OnSucess?.Invoke(result);
+                }
             }
             else
             {
@@ -264,12 +322,43 @@ public class LoginMenu : BasicMenu
         }
     }
 
+    
+    //检测手机号码是否合法
+    private bool CheckPhoneIsValid(string input)
+    {
+        if (input.Length < 11)
+        {
+            return false;
+        }
+
+        //电信手机号码正则
+        string dianxin = @"^1[3578][01379]\d{8}$";
+        Regex regexDX = new Regex(dianxin);
+        
+        //联通手机号码正则
+        string liantong = @"^1[34578][01256]\d{8}";
+        Regex regexLT = new Regex(liantong);
+        
+        //移动手机号码正则
+        string yidong = @"^(1[012345678]\d{8}|1[345678][012356789]\d{8})$";
+        Regex regexYD = new Regex(yidong);
+
+        if (regexDX.IsMatch(input) || regexLT.IsMatch(input) || regexYD.IsMatch(input))
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+
+    
 
     #region 发送验证码
     //发送验证码信息
     private void SendMessageVerifyCode(string request, string phone)
     {
-        var user = new PhoneVerification { phone = phone };
+        var user = new MsgCodeRequest { phone = phone };
         string jsonData = JsonUtility.ToJson(user);
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnSendVerifyCodeSuccess));
     }
@@ -293,13 +382,17 @@ public class LoginMenu : BasicMenu
         var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
         string jsonData = JsonUtility.ToJson(user);
 
-        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnRegisterSuccess));
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnRegisterSuccess, OnRegisterFail));
     }
     
     private void OnRegisterSuccess(string jsonData)
     {
-        var data = JsonUtility.FromJson<RegisterOrLoginResponseData>(jsonData);
-
+        RegisterOrLoginResponseData data = JsonUtility.FromJson<RegisterOrLoginResponseData>(jsonData);
+        if (data == null) return;
+        
+        PlayerPrefs.SetString("phone", account.text.Trim());
+        PlayerPrefs.SetString("token", data.access_token);
+        PlayerPrefs.Save();
         //表示已经实名认证过
         if (data.realname_varify_finish == 1)
         {
@@ -312,6 +405,19 @@ public class LoginMenu : BasicMenu
             //todo
             loginLayerRoot.SetActive(false);
             verifyIDLayerRoot.SetActive(true);
+        }
+    }
+
+    private void OnRegisterFail(int code)
+    {
+        if (code == 10002)
+        {
+            ShowPopMessage("验证码错误");
+        }
+        else if (code == 10004)
+        {
+            //已经注册过直接登录
+            Login("login", account.text, password.text);
         }
     }
     
@@ -328,13 +434,13 @@ public class LoginMenu : BasicMenu
         }
         var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
         string jsonData = JsonUtility.ToJson(user);
-        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess, OnLoginFail));
     }
     
     /// <summary>使用token登录</summary>
     private void LoginWithToken(string request, string phone, string token)
     {
-        var user = new PhoneToken {phone = phone, tmp_token = token};
+        var user = new PhoneTokenRequest {phone = phone, tmp_token = token};
         string jsonData = JsonUtility.ToJson(user);
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
     }
@@ -357,6 +463,15 @@ public class LoginMenu : BasicMenu
             verifyIDLayerRoot.SetActive(true);
         }
     }
+
+    private void OnLoginFail(int code)
+    {
+        if (code == 10016)
+        {
+            ShowPopMessage("验证码超时");
+            // Register("register", account.text, password.text);
+        }
+    }
     #endregion
 
     #region 实名认证
@@ -365,7 +480,7 @@ public class LoginMenu : BasicMenu
     {
         var data = new RealNameData() { phone = phone, realname = userName, idstr = idNo, tmp_token = token };
         string jsonData = JsonUtility.ToJson(data);
-        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnIDCardVerifySuccess));
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnIDCardVerifySuccess, OnIDCardVerifyFail));
     }
 
     /// <summary>实名认证结果</summary>
@@ -380,40 +495,100 @@ public class LoginMenu : BasicMenu
     }
 
 
+    private void OnIDCardVerifyFail(int code)
+    {
+        ShowPopMessage("实名认证失败");
+    }
+
     public void OnNameEditEnd(string name)
     {
-        
+        nameErrorTips.SetActive(CheckNameValid(name));
+    }
+
+    private static bool CheckNameValid(string name, int minLength = 2, int maxLength = 15)
+    {
+        // 基础检查
+        if (string.IsNullOrWhiteSpace(name)) return false;
+        if (name.Length < minLength || name.Length > maxLength) return false;
+
+        // 核心验证规则（Unicode中文范围 + 中文特殊符号）
+        var regex = new Regex(
+            @"^[\u4e00-\u9fa5" +       // 基本汉字
+            @"\u3040-\u30ff" +         // 日文汉字（兼容性） 
+            @"\u3400-\u4dbf" +         // 扩展A
+            @"\u{20000}-\u{2a6df}" +   // 扩展B（需使用Unicode编码）
+            @"·•･ヽ･｀～]+$",          // 允许的特殊符号
+            RegexOptions.Compiled | RegexOptions.IgnorePatternWhitespace
+        );
+
+        // 有效性验证
+        return regex.IsMatch(name);
     }
 
     public void OnIDCardEditEnd(string idCardNo)
     {
-        idCardErrorTips.SetActive(!CheckIDCard18(idCardNo));
+        idCardErrorTips.SetActive(CheckIDCard18(idCardNo));
     }
     
     /// <summary>检查身份证号码</summary>
-    private static bool CheckIDCard18(string str)
+    private static bool CheckIDCard18(string ID)
     {
-        if (str.Length < 18) return false;
-
-        string number17 = str.Substring(0, 17);
-        string pattern = @"^\d*$";
-        if (!Regex.IsMatch(number17, pattern)) return false;
-
-        string number18 = str.Substring(17);
-        string check = "10X98765432";
-        int[] num = { 7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2 };
-        int sum = 0;
-        for (int i = 0; i < number17.Length; i++)
+        if (ID.Length != 18)
         {
-            sum += Convert.ToInt32(number17[i].ToString()) * num[i];
+            return false;
         }
-        sum %= 11;
-        if (number18.Equals(check[sum].ToString(), StringComparison.OrdinalIgnoreCase))
+        int[] numGroup = new int[17];
+        int[] weightGroup = new int[] { 7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2 };
+        int index = 0;
+ 
+        int totalNum = 0;
+        for (int i = 0; i < numGroup.Length; i++)
         {
-            return true;
+            index = i;
+            numGroup[index] = int.Parse(ID.Substring(index, 1)) * weightGroup[index];
         }
-        return false;
+ 
+        for(int i = 0; i < numGroup.Length; i++)
+        {
+            totalNum += numGroup[i];
+        }
+        return Judge(totalNum, ID.Substring(17, 1));
     }
+
+
+    /// <summary>
+    /// 计算身份证号码是否合法
+    /// </summary>
+    /// <param 前17位相加之和="totalNum"></param>
+    /// <param 身份证号码最后一位="LastNum"></param>
+    private static bool Judge(int totalNum, string LastNum)
+    {
+        bool result = false;
+        int remainder = totalNum % 11;
+
+        if (remainder == 0)
+        {
+            result = int.Parse(LastNum) == 1;
+        }
+        else if (remainder == 1)
+        {
+            result = int.Parse(LastNum) == 0;
+        }
+        else if (remainder == 2)
+        {
+            //2对应校验码为X
+            result = LastNum == "x" || LastNum == "X";
+        }
+        else if (remainder >= 3 && remainder <= 10)
+        {
+            int ln = int.Parse(LastNum);
+            result = remainder + ln == 12;
+        }
+
+        return result;
+
+    }
+
     #endregion
     
     public void ShowMainMenu()
