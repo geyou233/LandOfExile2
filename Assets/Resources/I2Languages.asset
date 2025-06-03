@@ -2627,8 +2627,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Agree
-      - "\u6CE8\u518C/\u767B\u5F55"
-      - "\u6CE8\u518C/\u767B\u5F55"
+      - "\u540C\u610F\u5E76\u7EE7\u7EED"
+      - "\u540C\u610F\u5E76\u7EE7\u7EED"
       - 
       - 
       - 
@@ -121522,6 +121522,25 @@ MonoBehaviour:
       - 
       - 
       - "\u5927\u9B54\u5973\u3082\u304D\u3063\u3068\u6C17\u306B\u5165\u308B\u306F\u305A\uFF01"
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: RegisterAndLogin
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\u6CE8\u518C/\u767B\u5F55"
+      - "\u6CE8\u518C/\u767B\u5F55"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
       - 
       - 

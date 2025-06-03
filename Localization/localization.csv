@@ -144,7 +144,7 @@ AgeTips,Text,,,"(1)本游戏是一款以棋盘地图为战局的卡牌策略游�
 未成年玩家除周五、周六、周日及法定节假日每日20时至21时外其他时间均不可进入游戏。
 (4)游戏中的玩法和策略有助于锻炼玩家的思维能力,玩家在游戏中选择扮演其中某一位英雄，每位英雄在冒险的途中，需要招募、训练适合自己的冒险者随从，并努力培养他们，以构建一个完整的冒险团队。在冒险的过程中，英雄还需要克服怪物的挑战与资源的匮乏，最终击败威胁家园的敌人，为自己的家园迎来和平、发展与繁荣。",,,,,,,,,,
 AgeTipsTitle,Text,,,适龄要求,适龄要求,,,,,,,,,,
-AgreeAndContinue,Text,,Agree,注册/登录,注册/登录,,,,,,,,,,
+AgreeAndContinue,Text,,Agree,同意并继续,同意并继续,,,,,,,,,,
 AlchemistCardDescription,Text,,"Ranged 2, return 1 HP when our follower is shattered","射程2.
 回合结束：获得一张随机药水","射程2.
 回合結束：獲得一張隨機藥水",,,,,,,"射程2.
@@ -6618,6 +6618,7 @@ RegenGrowthCardName,Text,,Pact,契约,契約,,,,,,,契約,,,
 Regeneration,Text,,Regeneration,再生,再生,,,,,,,再生,,,
 RegenerationKeywordDescription,Text,,Restore HP for this unit at the beginning of your turn,在你的回合开始时，本单位回复生命值,在你的回合開始時，本單位回復生命值,,,,,,,あなたのターン開始時、このユニットのHPが回復する,,,
 RegenerationKeywordName,Text,,Regeneration,再生,再生,,,,,,,再生,,,
+RegisterAndLogin,Text,,,注册/登录,注册/登录,,,,,,,,,,
 RejectedKeywordDescription,Text,,Put X {{MagicS29}} into your deck.,每层将1张{{MagicS29}}置入你的牌组,將X張{{MagicS29}}置入你的牌組,,,,,,,X枚の{{MagicS29}}をデッキに入れる,,,
 RejectedKeywordName,Text,,Backfire,反噬,反噬,,,,,,,反発,,,
 Removed,Text,,Exhausted Cards,移除的卡,移除的卡,,,,,,,削除されたカード,,,
