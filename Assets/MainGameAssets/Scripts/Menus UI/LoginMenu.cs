@@ -127,7 +127,7 @@ public class LoginMenu : BasicMenu
             
             DateTime now = DateTime.Now;
 
-            var offsetTime = oldTime - now;
+            var offsetTime = now - oldTime;
             if (offsetTime.TotalSeconds >= 1 * 3600)
                 return;
             
@@ -280,6 +280,14 @@ public class LoginMenu : BasicMenu
         verifyIDLayerRoot.SetActive(false);
     }
 
+    public void OnChangeAccountBtnClick()
+    {
+        account.text = "";
+        password.text = "";
+        verifyIDLayerRoot.SetActive(false);
+        loginLayerRoot.SetActive(true); 
+    }
+
     public void OnAgeButtonClick()
     {
         ageTipsMenu.ShowMenu();
@@ -410,9 +418,13 @@ public class LoginMenu : BasicMenu
 
     private void OnRegisterFail(int code)
     {
-        if (code == 10002)
+        if (code == 10001 || code == 10003)
         {
             ShowPopMessage("验证码错误");
+        }
+        if (code == 10002)
+        {
+            ShowPopMessage("验证码超时");
         }
         else if (code == 10004)
         {
@@ -466,10 +478,21 @@ public class LoginMenu : BasicMenu
 
     private void OnLoginFail(int code)
     {
+        if (code == 10015)
+        {
+            ShowPopMessage("手机号错误");
+        }
         if (code == 10016)
         {
             ShowPopMessage("验证码超时");
-            // Register("register", account.text, password.text);
+        }
+        if (code == 10017)
+        {
+            ShowPopMessage("验证码错误");
+        }
+        if (code == 10018)
+        {
+            Register("register", account.text, password.text);
         }
     }
     #endregion
@@ -497,7 +520,18 @@ public class LoginMenu : BasicMenu
 
     private void OnIDCardVerifyFail(int code)
     {
-        ShowPopMessage("实名认证失败");
+        if (code == 10009)
+        {
+            ShowPopMessage("身份证号码错误");  
+        }
+        if (code == 10010)
+        {
+            ShowPopMessage("用户身份证未满18周岁");
+        }
+        if (code == 10011 || code == 10012 || code == 10013 || code == 10014)
+        {
+            ShowPopMessage("实名认证失败");
+        }
     }
 
     public void OnNameEditEnd(string name)

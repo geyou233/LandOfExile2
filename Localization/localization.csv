@@ -966,6 +966,7 @@ ChainLightningCardName,Text,,Chain Lightning,连锁闪电,連鎖閃電,,,,,,,連
 Change Log,Text,,Update Log,公告,公告,,,,,,,アップデートログ,,,
 Change Log Menu,Text,,,,,,,,,,,,,,
 Change mode,Text,,Change Mode,改变模式,改變模式,,,,,,,モードを変える,,,
+ChangeAccount,Text,,,切换账号,切换账号,,,,,,,,,,
 ChangeLogText,Text,,"<color=white>v1.00 Demo Version</color>
 
 

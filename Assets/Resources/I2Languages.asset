@@ -121584,6 +121584,25 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
+    - Term: ChangeAccount
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\u5207\u6362\u8D26\u53F7"
+      - "\u5207\u6362\u8D26\u53F7"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
     CaseInsensitiveTerms: 0
     OnMissingTranslation: 1
     mTerm_AppName: 
