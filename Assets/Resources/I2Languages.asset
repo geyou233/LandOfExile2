@@ -91268,6 +91268,25 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
+    - Term: RegisterAndLogin
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\u6CE8\u518C/\u767B\u5F55"
+      - "\u6CE8\u518C/\u767B\u5F55"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
     - Term: RejectedKeywordDescription
       TermType: 0
       Description: 
@@ -121527,13 +121546,32 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: RegisterAndLogin
+    - Term: RealNameVerify
       TermType: 0
       Description: 
       Languages:
       - 
-      - "\u6CE8\u518C/\u767B\u5F55"
-      - "\u6CE8\u518C/\u767B\u5F55"
+      - "\u5B9E\u540D\u8BA4\u8BC1"
+      - "\u5B9E\u540D\u8BA4\u8BC1"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: RealNameTips
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\u6839\u636E\u56FD\u5BB6\u65B0\u95FB\u51FA\u7248\u7F72\u300A\u5173\u4E8E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\u300A\u5173\u4E8E\u8FDB\u4E00\u6B65\u4E25\u683C\u7BA1\u7406\u5207\u5B9E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\u8981\u6C42\uFF0C\u672A\u5B9E\u540D\u8D26\u53F7\u4E0D\u53EF\u4F53\u9A8C\u6E38\u620F\u3002\u8BF7\u5C3D\u5FEB\u767B\u8BB0\u5B9E\u540D\u8BA4\u8BC1\u3002"
+      - "\u6839\u636E\u56FD\u5BB6\u65B0\u95FB\u51FA\u7248\u7F72\u300A\u5173\u4E8E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\u300A\u5173\u4E8E\u8FDB\u4E00\u6B65\u4E25\u683C\u7BA1\u7406\u5207\u5B9E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\u8981\u6C42\uFF0C\u672A\u5B9E\u540D\u8D26\u53F7\u4E0D\u53EF\u4F53\u9A8C\u6E38\u620F\u3002\u8BF7\u5C3D\u5FEB\u767B\u8BB0\u5B9E\u540D\u8BA4\u8BC1\u3002"
       - 
       - 
       - 
@@ -121601,7 +121639,7 @@ MonoBehaviour:
     GoogleUpdateSynchronization: 1
     GoogleUpdateDelay: 0
     Assets: []
-    Spreadsheet_LocalFileName: D:/Github/LandOfExile2/Localization/localization.csv
+    Spreadsheet_LocalFileName: D:/workSpace/unityProject/LandOfExile2/Localization/localization.csv
     Spreadsheet_LocalCSVSeparator: ','
     Spreadsheet_LocalCSVEncoding: utf-8
     Spreadsheet_SpecializationAsRows: 1

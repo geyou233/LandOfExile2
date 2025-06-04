@@ -5878,6 +5878,8 @@ ReactiveArmourCardDescription,Text,,Get Block equal to the number of enemy units
 ReactiveArmourCardName,Text,,Reactive Armor,反应装甲,反應裝甲,,,,,,,反応装甲,,,
 ReadyStanceCardDescription,Text,,Get Counterattack until the next turn begins.,直到下一回合开始，获得反击,直到下一回合開始，獲得反擊,,,,,,,次のターン開始まで、反撃を獲得する,,,
 ReadyStanceCardName,Text,,The Will of Revenge,反击的意志,反擊的意志,,,,,,,復讐の意志,,,
+RealNameTips,Text,,,根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》要求，未实名账号不可体验游戏。请尽快登记实名认证。,根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》要求，未实名账号不可体验游戏。请尽快登记实名认证。,,,,,,,,,,
+RealNameVerify,Text,,,实名认证,实名认证,,,,,,,,,,
 Reaper Mode,Text,,Death Mode,裁魂者模式,裁魂者模式,,,,,,,,,,
 ReaperModePrompt,Text,,"In Death Mode, when your follower Cards are shattered, they are consumed instead, but have a chance to be restored at a Shopkeeper on the same floor.
 
