@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Text;
 using System.Text.RegularExpressions;
+using DefaultNamespace;
 using Doozy.Engine.UI;
 using MainGameAssets.Scripts.Menus_UI;
 using MetarCommonSupport;
@@ -110,7 +111,6 @@ public class LoginMenu : BasicMenu
 
     public override void ShowMenu()
     {
-        // PlayerPrefs.SetInt("AgreePrivacyTips", 0);
         base.ShowMenu();
         privacyTipsRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 0);
         loginLayerRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 1);
@@ -135,8 +135,11 @@ public class LoginMenu : BasicMenu
             var token = PlayerPrefs.GetString("token");
             if (string.IsNullOrEmpty(token)) return;
             
-            LoginWithToken(webUrl + "login_with_token", phone, token);
+            LoginWithToken("login_with_token", phone, token);
         }
+        
+        // if (MenuControl.Instance.battleMusicController != null || MenuControl.Instance.adventureMusicController == null)
+        //     MenuControl.Instance.PlayAdventureMusic();
     }
 
 
@@ -195,13 +198,13 @@ public class LoginMenu : BasicMenu
 
         if (!CheckPhoneIsValid(phone))
         {
-            ShowPopMessage("手机号码不合法");
+            ShowPopMessage("手机号码格式不正确，请重新输入");
             return;
         }
 
         if (!agreePrivacy.isOn)
         {
-            ShowPopMessage("请先同意协议");
+            ShowPopMessage("请先阅读并勾选同意");
             return;
         }
         
@@ -270,6 +273,18 @@ public class LoginMenu : BasicMenu
             return;
         }
         idCardErrorTips.SetActive(false);
+
+        if (!IDCardValidator.IsValidIDCard(realNo.text))
+        {
+            ShowPopMessage("身份证号码错误，请重新输入(10009)");
+            return;
+        }
+
+        if (!IDCardValidator.IsAdult(realNo.text))
+        {
+            ShowPopMessage("为进一步落实未成年人保护，未满18周岁的用户不允许注册游戏账号(10010)");
+            return;
+        }
         string phone = PlayerPrefs.GetString("phone");
         string token = PlayerPrefs.GetString("token");
         IDCardVerify("realname_and_id_varify", phone, realNo.text, realName.text, token);
@@ -384,7 +399,7 @@ public class LoginMenu : BasicMenu
     {
         if (!agreePrivacy.isOn)
         {
-            ShowPopMessage("请先同意隐私协议");
+            ShowPopMessage("请先阅读并勾选同意");
             return;
         }
         var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
@@ -405,8 +420,7 @@ public class LoginMenu : BasicMenu
         if (data.realname_varify_finish == 1)
         {
             //自动登录
-            var request = "login_with_token";
-            LoginWithToken(webUrl + request, account.text, data.access_token);
+            LoginWithToken("login_with_token", account.text, data.access_token);
         }
         else
         {
@@ -420,11 +434,11 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10001 || code == 10003)
         {
-            ShowPopMessage("验证码错误");
+            ShowPopMessage($"验证码错误({code})");
         }
         if (code == 10002)
         {
-            ShowPopMessage("验证码超时");
+            ShowPopMessage($"验证码错误或已过期({code})");
         }
         else if (code == 10004)
         {
@@ -441,7 +455,7 @@ public class LoginMenu : BasicMenu
     {
         if (!agreePrivacy.isOn)
         {
-            ShowPopMessage("请先同意隐私协议");
+            ShowPopMessage("请先阅读并勾选同意");
             return;
         }
         var user = new RegisterOrLoginRequest { phone = phone, smscode = pwd };
@@ -454,7 +468,21 @@ public class LoginMenu : BasicMenu
     {
         var user = new PhoneTokenRequest {phone = phone, tmp_token = token};
         string jsonData = JsonUtility.ToJson(user);
-        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess));
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginWithTokenSuccess, OnLoginWithTokenFail));
+    }
+
+    private void OnLoginWithTokenSuccess(string jsonData)
+    {
+        ShowMainMenu();
+    }
+
+    private void OnLoginWithTokenFail(int code)
+    {
+        if (code == 10020)
+        {
+            loginLayerRoot.SetActive(false);
+            verifyIDLayerRoot.SetActive(true);
+        }
     }
     
     private void OnLoginSuccess(string jsonData)
@@ -480,15 +508,15 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10015)
         {
-            ShowPopMessage("手机号错误");
+            ShowPopMessage($"手机号错误({code})");
         }
         if (code == 10016)
         {
-            ShowPopMessage("验证码超时");
+            ShowPopMessage($"验证码错误或已过期({code})");
         }
         if (code == 10017)
         {
-            ShowPopMessage("验证码错误");
+            ShowPopMessage($"验证码错误({code})");
         }
         if (code == 10018)
         {
@@ -522,7 +550,7 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10009)
         {
-            ShowPopMessage("身份证号码错误");  
+            ShowPopMessage($"身份证号码错误({code})");  
         }
         if (code == 10010)
         {
@@ -530,7 +558,7 @@ public class LoginMenu : BasicMenu
         }
         if (code == 10011 || code == 10012 || code == 10013 || code == 10014)
         {
-            ShowPopMessage("实名认证失败");
+            ShowPopMessage($"姓名或身份证错误，请重新输入({code})");
         }
     }
 
@@ -539,6 +567,7 @@ public class LoginMenu : BasicMenu
         nameErrorTips.SetActive(CheckNameValid(name));
     }
 
+    /// <summary>检测姓名是否合法</summary>
     private static bool CheckNameValid(string name, int minLength = 2, int maxLength = 15)
     {
         // 基础检查
@@ -622,6 +651,7 @@ public class LoginMenu : BasicMenu
         return result;
 
     }
+    
 
     #endregion
     
