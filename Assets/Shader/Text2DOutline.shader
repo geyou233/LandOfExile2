@@ -112,7 +112,7 @@ Shader "TextEffect/Text2DOutline"
                 v2f o;
 
                 //Add for RectMask2D
-                o.worldPosition = IN.vertex;
+                o.worldPosition = mul(unity_ObjectToWorld, IN.vertex);
                 //End for RectMask2D
 
                 o.vertex = UnityObjectToClipPos(IN.vertex);
@@ -150,7 +150,7 @@ Shader "TextEffect/Text2DOutline"
                 {
                     color.w *= IsInRect(IN.texcoord, IN.uv1, IN.uv2);	//uv1 uv2 存着原始字的uv长方形区域大小
 
-                    fixed4 outlineColor = IN.uv3.x == -1 ?_ShadowOutlineColor : _OutlineColor;
+                    fixed4 outlineColor = IN.uv3.x == -1 ? _ShadowOutlineColor : _OutlineColor;
                     half4 val = half4(outlineColor.rgb, 0);
 
                     float outlineWidth = IN.uv3.x == -1 ? _ShadowOutlineWidth : _OutlineWidth;
