@@ -492,6 +492,8 @@ public class MenuControl : MonoBehaviour
         }
         else
         {
+            if (adventureMusicController.AudioSource.isPlaying)
+                return;
             adventureMusicController.Play();
             LeanTween.value(gameObject, 0f, 1f, 2f).setOnUpdate((float val) =>
             {

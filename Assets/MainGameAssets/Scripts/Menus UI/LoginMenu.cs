@@ -119,6 +119,9 @@ public class LoginMenu : BasicMenu
         waitTime = 0;
         canSendVerifyCode = true;
         popupTips.SetActive(false);
+        
+        if (MenuControl.Instance.battleMusicController != null || MenuControl.Instance.adventureMusicController == null)
+            MenuControl.Instance.PlayAdventureMusic();
 
         var saveTokenTime = PlayerPrefs.GetString("saveTokenTime");
         if (!string.IsNullOrEmpty(saveTokenTime))
@@ -138,8 +141,7 @@ public class LoginMenu : BasicMenu
             LoginWithToken("login_with_token", phone, token);
         }
         
-        // if (MenuControl.Instance.battleMusicController != null || MenuControl.Instance.adventureMusicController == null)
-        //     MenuControl.Instance.PlayAdventureMusic();
+        
     }
 
 
