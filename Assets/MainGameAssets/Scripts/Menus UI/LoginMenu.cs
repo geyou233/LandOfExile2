@@ -276,9 +276,16 @@ public class LoginMenu : BasicMenu
         }
         idCardErrorTips.SetActive(false);
 
+        var result = IDCardValidator.ValidateRealName(realName.text);
+        if (!result.IsValid)
+        {
+            ShowPopMessage(result.Message);
+            return;
+        }
+
         if (!IDCardValidator.IsValidIDCard(realNo.text))
         {
-            ShowPopMessage("身份证号码错误，请重新输入(10009)");
+            ShowPopMessage("身份证号码错误，请重新输入");
             return;
         }
 
@@ -564,97 +571,16 @@ public class LoginMenu : BasicMenu
         }
     }
 
-    public void OnNameEditEnd(string name)
+    public void OnNameEditEnd(string strName)
     {
-        nameErrorTips.SetActive(CheckNameValid(name));
+        nameErrorTips.SetActive(string.IsNullOrWhiteSpace(strName));
     }
-
-    /// <summary>检测姓名是否合法</summary>
-    private static bool CheckNameValid(string name, int minLength = 2, int maxLength = 15)
-    {
-        // 基础检查
-        if (string.IsNullOrWhiteSpace(name)) return false;
-        if (name.Length < minLength || name.Length > maxLength) return false;
-
-        // 核心验证规则（Unicode中文范围 + 中文特殊符号）
-        var regex = new Regex(
-            @"^[\u4e00-\u9fa5" +       // 基本汉字
-            @"\u3040-\u30ff" +         // 日文汉字（兼容性） 
-            @"\u3400-\u4dbf" +         // 扩展A
-            @"\u{20000}-\u{2a6df}" +   // 扩展B（需使用Unicode编码）
-            @"·•･ヽ･｀～]+$",          // 允许的特殊符号
-            RegexOptions.Compiled | RegexOptions.IgnorePatternWhitespace
-        );
-
-        // 有效性验证
-        return regex.IsMatch(name);
-    }
-
+    
     public void OnIDCardEditEnd(string idCardNo)
     {
-        idCardErrorTips.SetActive(CheckIDCard18(idCardNo));
+        idCardErrorTips.SetActive(string.IsNullOrWhiteSpace(idCardNo));
     }
     
-    /// <summary>检查身份证号码</summary>
-    private static bool CheckIDCard18(string ID)
-    {
-        if (ID.Length != 18)
-        {
-            return false;
-        }
-        int[] numGroup = new int[17];
-        int[] weightGroup = new int[] { 7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2 };
-        int index = 0;
- 
-        int totalNum = 0;
-        for (int i = 0; i < numGroup.Length; i++)
-        {
-            index = i;
-            numGroup[index] = int.Parse(ID.Substring(index, 1)) * weightGroup[index];
-        }
- 
-        for(int i = 0; i < numGroup.Length; i++)
-        {
-            totalNum += numGroup[i];
-        }
-        return Judge(totalNum, ID.Substring(17, 1));
-    }
-
-
-    /// <summary>
-    /// 计算身份证号码是否合法
-    /// </summary>
-    /// <param 前17位相加之和="totalNum"></param>
-    /// <param 身份证号码最后一位="LastNum"></param>
-    private static bool Judge(int totalNum, string LastNum)
-    {
-        bool result = false;
-        int remainder = totalNum % 11;
-
-        if (remainder == 0)
-        {
-            result = int.Parse(LastNum) == 1;
-        }
-        else if (remainder == 1)
-        {
-            result = int.Parse(LastNum) == 0;
-        }
-        else if (remainder == 2)
-        {
-            //2对应校验码为X
-            result = LastNum == "x" || LastNum == "X";
-        }
-        else if (remainder >= 3 && remainder <= 10)
-        {
-            int ln = int.Parse(LastNum);
-            result = remainder + ln == 12;
-        }
-
-        return result;
-
-    }
-    
-
     #endregion
     
     public void ShowMainMenu()
