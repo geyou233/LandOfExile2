@@ -85,8 +85,11 @@ public class MainMenu : BasicMenu
         tutorialButton.SetActive(MenuControl.Instance.tutorialFinished || MenuControl.Instance.testMode);
         difficultyChoiceButtons.SetActive(MenuControl.Instance.tutorialFinished || MenuControl.Instance.testMode);
 
-        if (MenuControl.Instance.battleMusicController != null || MenuControl.Instance.adventureMusicController == null)
-            MenuControl.Instance.PlayAdventureMusic();
+        if (MenuControl.Instance.skipLogin)
+        {
+            if (MenuControl.Instance.battleMusicController != null || MenuControl.Instance.adventureMusicController == null)
+                MenuControl.Instance.PlayAdventureMusic();
+        }
 
         uIButtons.alpha = 1;
         uIButtons.gameObject.SetActive(true);

@@ -18,7 +18,7 @@ public class MenuControl : MonoBehaviour
 {
     /// <summary>跳过登录</summary>
     [Header("跳过登录")]
-    [SerializeField] private bool skipLogin = false;
+    public bool skipLogin = false;
     public static MenuControl Instance;
     public bool betaMode;
     public bool testMode;
@@ -492,8 +492,6 @@ public class MenuControl : MonoBehaviour
         }
         else
         {
-            if (adventureMusicController.AudioSource.isPlaying)
-                return;
             adventureMusicController.Play();
             LeanTween.value(gameObject, 0f, 1f, 2f).setOnUpdate((float val) =>
             {
@@ -695,7 +693,7 @@ public class MenuControl : MonoBehaviour
 
     public void ReloadGame()
     {
-        Doozy.Engine.Soundy.SoundyManager.StopAllSounds();
+        // Doozy.Engine.Soundy.SoundyManager.StopAllSounds();
         MenuControl.Instance.HideSubMenus();
 
         if (MenuControl.Instance.newHeroFeatureOn)
