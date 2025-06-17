@@ -17,13 +17,33 @@ public class LoginMenu : BasicMenu
 
     [SerializeField] private GameObject privacyTipsRoot;
 
-    [SerializeField] private GameObject loginLayerRoot;
+    [SerializeField] private GameObject phoneLoginLayerRoot;
+    
+    [SerializeField] private GameObject accountLoginLayerRoot;
     
     [SerializeField] private GameObject verifyIDLayerRoot;
+    
+    [SerializeField] private GameObject modifyPwdLayerRoot;
 
+    /// <summary>手机号</summary>
     [SerializeField] private InputField account;
 
+    /// <summary>验证码</summary>
     [SerializeField] private InputField password;
+    
+    /// <summary>用户名</summary>
+    [SerializeField] private InputField username;
+
+    /// <summary>密码</summary>
+    [SerializeField] private InputField userPwd;
+
+    [SerializeField] private Text loginAccountOrPhone;
+
+    /// <summary>设置密码</summary>
+    [SerializeField] private InputField setPwd;
+
+    /// <summary>确认密码</summary>
+    [SerializeField] private InputField confirmPwd;
     
     [SerializeField] private MainMenu mainMenu;
 
@@ -39,6 +59,8 @@ public class LoginMenu : BasicMenu
     [SerializeField] private GameObject popupTips;
 
     [SerializeField] private Toggle agreePrivacy;
+    
+    [SerializeField] private Toggle userAgreePrivacy;
 
     [SerializeField] private Toggle autoLogin;
 
@@ -65,6 +87,23 @@ public class LoginMenu : BasicMenu
     {
         public string phone;
         public string smscode;
+    }
+    
+    [Serializable]
+    private class userNameLoginRequest
+    {
+        public string username;
+        public string passwd;
+    }
+
+
+    [Serializable]
+    private class modifyPwdRequest
+    {
+        public string phone;
+        public string username;
+        public string passwd;
+        public string tmp_token;
     }
     
     [Serializable]
@@ -111,10 +150,14 @@ public class LoginMenu : BasicMenu
 
     public override void ShowMenu()
     {
+        account.text = "";
+        password.text = "";
         base.ShowMenu();
         privacyTipsRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 0);
-        loginLayerRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 1);
+        phoneLoginLayerRoot.SetActive(PlayerPrefs.GetInt("AgreePrivacyTips", 0) == 1);
+        accountLoginLayerRoot.SetActive(false);
         verifyIDLayerRoot.SetActive(false);
+        modifyPwdLayerRoot.SetActive(false);
         waitSendTime.text = "获取验证码";
         waitTime = 0;
         canSendVerifyCode = true;
@@ -140,8 +183,6 @@ public class LoginMenu : BasicMenu
             
             LoginWithToken("login_with_token", phone, token);
         }
-        
-        
     }
 
 
@@ -155,7 +196,7 @@ public class LoginMenu : BasicMenu
     {
         PlayerPrefs.SetInt("AgreePrivacyTips", 1);
         privacyTipsRoot.SetActive(false);
-        loginLayerRoot.SetActive(true);
+        phoneLoginLayerRoot.SetActive(true);
     }
 
     public void OnDisAgreePrivacyTipsBtnClick()
@@ -187,6 +228,18 @@ public class LoginMenu : BasicMenu
     
     
     #region Button Events
+
+    public void OnAccountIconBtnClick()
+    {
+        accountLoginLayerRoot.SetActive(true);
+        phoneLoginLayerRoot.SetActive(false);
+    }
+
+    public void OnPhoneIconBtnClick()
+    {
+        accountLoginLayerRoot.SetActive(false);
+        phoneLoginLayerRoot.SetActive(true);
+    }
     
     /// <summary>发送短信验证码</summary>
     public void OnSendVerifyCodeClick()
@@ -219,11 +272,8 @@ public class LoginMenu : BasicMenu
         canSendVerifyCode = false;
     }
     
-    public void OnRegisterBtnClick()
-    {
-        Register("register", account.text, password.text);
-    }
-
+    
+    /// <summary>手机号登录</summary>
     public void OnLoginBtnClick()
     {
         if (string.IsNullOrEmpty(account.text))
@@ -258,6 +308,24 @@ public class LoginMenu : BasicMenu
         {
             Register("register", account.text, password.text);
         }
+    }
+
+    
+    /// <summary>账号登录</summary>
+    public void OnAccountBtnClick()
+    {
+        if (string.IsNullOrEmpty(username.text))
+        {
+            ShowPopMessage("请输入账号或者手机号");
+            return;
+        }
+
+        if (string.IsNullOrEmpty(userPwd.text))
+        {
+            ShowPopMessage("请输入密码");
+            return;
+        }
+        LoginWithUserName("login_with_username", username.text, userPwd.text);
     }
     
     public void OnIDCardVerifyBtnClick()
@@ -309,7 +377,33 @@ public class LoginMenu : BasicMenu
         account.text = "";
         password.text = "";
         verifyIDLayerRoot.SetActive(false);
-        loginLayerRoot.SetActive(true); 
+        phoneLoginLayerRoot.SetActive(true); 
+    }
+
+ 
+    public void OnModifyPwdBtnClick()
+    {
+        if (setPwd.text.Trim() != confirmPwd.text.Trim())
+        {
+            ShowPopMessage("两次密码输入不一致");
+            return;
+        }
+        if (setPwd.text.Length < 8)
+        {
+            ShowPopMessage("长度不足8位");
+            return;
+        }
+        if (setPwd.text.Length > 16)
+        {
+            ShowPopMessage("长度超过16位");
+        }
+        var phone = account.text.Trim();
+        ModifyAccountPassword("modify_user_name", phone, "admins", setPwd.text);
+    }
+
+    public void OnSkipSetPwdBtnClick()
+    {
+        ShowMainMenu();
     }
 
     public void OnAgeButtonClick()
@@ -434,7 +528,7 @@ public class LoginMenu : BasicMenu
         else
         {
             //todo
-            loginLayerRoot.SetActive(false);
+            phoneLoginLayerRoot.SetActive(false);
             verifyIDLayerRoot.SetActive(true);
         }
     }
@@ -471,6 +565,24 @@ public class LoginMenu : BasicMenu
         string jsonData = JsonUtility.ToJson(user);
         StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnLoginSuccess, OnLoginFail));
     }
+
+    private void LoginWithUserName(string request, string userName, string userPwd)
+    {
+        if (!userAgreePrivacy.isOn)
+        {
+            ShowPopMessage("请先阅读并勾选同意");
+            return;
+        }
+
+        var requestData = new userNameLoginRequest() { username = userName, passwd = userPwd };
+        string jsonData = JsonUtility.ToJson(requestData);
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnUserNameLoginSuccess, OnLoginFail));
+    }
+    
+    private void OnUserNameLoginSuccess(string jsonData)
+    {
+        ShowMainMenu();
+    }
     
     /// <summary>使用token登录</summary>
     private void LoginWithToken(string request, string phone, string token)
@@ -489,7 +601,7 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10020)
         {
-            loginLayerRoot.SetActive(false);
+            phoneLoginLayerRoot.SetActive(false);
             verifyIDLayerRoot.SetActive(true);
         }
     }
@@ -508,7 +620,7 @@ public class LoginMenu : BasicMenu
         }
         else
         {
-            loginLayerRoot.SetActive(false);
+            phoneLoginLayerRoot.SetActive(false);
             verifyIDLayerRoot.SetActive(true);
         }
     }
@@ -531,6 +643,19 @@ public class LoginMenu : BasicMenu
         {
             Register("register", account.text, password.text);
         }
+
+        if (code == 10026)
+        {
+            ShowPopMessage($"号码没有注册({code})");
+        }
+        if (code == 10027)
+        {
+            ShowPopMessage($"用户未完成实名认证，不能使用用户名密码登录({code})");
+        }
+        if (code == 10028)
+        {
+            ShowPopMessage($"账号或密码错误({code})");
+        }
     }
     #endregion
 
@@ -551,7 +676,8 @@ public class LoginMenu : BasicMenu
         PlayerPrefs.SetString("token", data.access_token);
         PlayerPrefs.SetString("saveTokenTime", DateTime.Now.ToString());
         PlayerPrefs.Save();
-        ShowMainMenu();
+        loginAccountOrPhone.text = account.text.Trim();
+        modifyPwdLayerRoot.SetActive(true);
     }
 
 
@@ -581,6 +707,38 @@ public class LoginMenu : BasicMenu
         idCardErrorTips.SetActive(string.IsNullOrWhiteSpace(idCardNo));
     }
     
+    #endregion
+
+    #region 修改密码
+
+    public void ModifyAccountPassword(string request, string phone, string username, string password)
+    {
+        string token = PlayerPrefs.GetString("token");
+        var data = new modifyPwdRequest() { phone = phone, username = username, passwd = password, tmp_token = token };
+        string jsonData = JsonUtility.ToJson(data);
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnModifyAccountPasswordSuccess, OnModifyAccountPasswordFail));
+    }
+
+    private void OnModifyAccountPasswordSuccess(string jsonData)
+    {
+        ShowMainMenu();
+    }
+
+    private void OnModifyAccountPasswordFail(int code)
+    {
+        if (code == 10022 || code == 10025)
+        {
+            ShowPopMessage($"用户未完成实名认证({code})");
+        }
+        if (code == 10023)
+        {
+            ShowPopMessage($"token错误({code})");
+        }
+        if (code == 10024)
+        {
+            ShowPopMessage($"用户未注册({code})");
+        }
+    }
     #endregion
     
     public void ShowMainMenu()

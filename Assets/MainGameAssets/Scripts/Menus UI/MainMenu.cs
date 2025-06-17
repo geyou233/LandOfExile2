@@ -9,6 +9,7 @@ using UnityEngine.UI;
 
 public class MainMenu : BasicMenu
 {
+    public LoginMenu loginMenu;
     public GameObject bGImage;
     public RectTransform doorTransform;
     float doorAnimateTime = 0.3f;
@@ -303,5 +304,12 @@ public class MainMenu : BasicMenu
         ageTipsMenu.ShowMenu();
     }
 
+
+    public void OnLogOutButtonClick()
+    {
+        PlayerPrefs.SetString("token", "");
+        loginMenu.ShowMenu();
+        HideMenu();
+    }
     #endregion
 }

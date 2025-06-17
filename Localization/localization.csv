@@ -22,6 +22,7 @@
 Accept,Text,,Accept,接受,接受,,,,,,,承認,,,
 AccompliceKeywordDescription,Text,,"If your hero and the unit attack a target unit at the same time in the round, that target will be marked",如果你的英雄和本单位在本轮同时攻击了一个目标单位，则该目标单位被标记,如果你的英雄和本單位在本輪同時攻擊了一個目標單位，則該目標單位被標記,,,,,,,このラウンドに、あなたのヒーローとこのユニットが同じターゲットユニットを攻撃した場合、そのユニットはマークされる,,,
 AccompliceKeywordName,Text,,Accomplice,同谋,同謀,,,,,,,共犯者,,,
+AccountPwd,Text,,,账号密码,账号密码,,,,,,,,,,
 Achievement Completed,Text,,Achievement Reached,成就达成,成就達成,,,,,,,実績達成,,,
 Achievement01CardDescription,Text,,Complete the tutorial and defeat the mad Knight of the Round Table.,完成游戏教程并击败疯狂的圆桌武士,完成遊戲教程並擊敗瘋狂的圓桌武士,,,,,,,ゲームチュートリアルを完了し、狂気の円卓の騎士を倒す,,,
 Achievement01CardName,Text,,Complete the Tutorial,完成教程,完成教程,,,,,,,チュートリアルを完了する,,,
@@ -3793,6 +3794,9 @@ Come back next time.","你需要在地牢中的某个地方找到钥匙。
 下次再来吧。","你需要在地牢中的某個地方找到鑰匙。
 下次再來吧。",,,,,,,ダンジョンのどこかで鍵を見つける必要がある。また来よう,,,
 LockedFloor4DoorNoKeyPromptCardName,Text,,Don't have the key,没有钥匙,沒有鑰匙,,,,,,,鍵はない,,,
+LogOut,Text,,,退出登录,退出登录,,,,,,,,,,
+Login,Text,,,登录,登录,,,,,,,,,,
+LoginAccountOrPhone,Text,,,登录账号或手机号,登录账号或手机号,,,,,,,,,,
 Loot,Text,,Consumable,消耗品,消耗品,,,,,,,消耗品,,,
 Loot01CardDescription,Text,,One of your units get Combo 1.,使你的一个单位获得连击1。,使你的一個單位獲得連擊1。,,,,,,,あなたのユニット1体に連撃1を付与する。,,,
 Loot01CardName,Text,,Assault Potion,强攻药水,強攻藥水,,,,,,,強攻ポーション,,,
@@ -5808,6 +5812,7 @@ PersistentWaterElementCardDescription,Text,,The Water Affliction will not disapp
 PersistentWaterElementCardName,Text,,Permanent Water Affliction,永久水附着,永久水附著,,,,,,,永久水付着,,,
 PhaseKeywordDescription,Text,,"After attacking, swap positions with enemy's non-large hero units.",攻击后与敌人非大型英雄单位交换位置,攻擊後與敵人非大型英雄單位交換位置,,,,,,,攻撃後、敵の非大型ヒーローユニットと位置交換する,,,
 PhaseKeywordName,Text,,Swap,换位,換位,,,,,,,位置交換,,,
+PhoneMsg,Text,,,手机短信,手机短信,,,,,,,,,,
 PickTalentTitle,Text,,Choose New Talent,选择新天赋,選擇新天賦,,,,,,,新しいアビリティを選択,,,
 PiercingMadContraptionCardDescription,Text,,"Whenever an enemy follower is summoned, deal 1 damage to it.",每当一个敌方随从被召唤时，对其造成1点伤害,每當一個敵方隨從被召喚時，對其造成1點傷害,,,,,,,敵従者が召喚されると、相手に1ダメージを与える,,,
 PiercingMadContraptionCardName,Text,,Penetrate Mad Trap,穿刺疯狂陷阱,穿刺瘋狂陷阱,,,,,,,貫通狂気の罠,,,
@@ -7638,6 +7643,7 @@ Automatically play this card when it is drawn to deal 2 damage and Weakened 1 to
 SelfHatredToxicCardName,Text,,Corruption,腐化,腐化,,,,,,,腐敗,,,
 Sell,Text,,Sell,出售,出售,,,,,,,売却,,,
 SellTreasure,Text,,Exchange Crystal,换取水晶,換取水晶,,,,,,,水晶交換,,,
+SetPwd,Text,,,设置密码,设置密码,,,,,,,,,,
 Settings,Text,,Settings,设置,設置,,,,,,,設定,,,
 SettlementUI,Text,,Loot,战利品,戰利品,,,,,,,戦利品,,,
 ShamblingHulkCardDescription,Text,,Assign the opponent a {{WhippingTentacle}} follower when the battle begins,战斗开始时，给对手一个{{WhippingTentacle}}随从,戰鬥開始時，給對手一個{{WhippingTentacle}}隨從,,,,,,,戦闘開始時、対戦相手に{{WhippingTentacle}}従者を与える,,,
@@ -9163,6 +9169,7 @@ rootedKeywordDescription,Text,,This unit cannot move this turn (but can attack).
 rootedKeywordName,Text,,Rooted,定身,定身,,,,,,,拘束,,,
 startButton,Text,,Start,开始,開始,,,,,,,開始,,,
 titledoor,Text,,titledoor chinese,titledoor chinese,titledoor chinese,,,,,,,titledoor chinese,,,
+txSkip,Text,,,跳过,跳过,,,,,,,,,,
 upgradeDataButton,Text,,Upgrade Overview,升级概况,升級概況,,,,,,,レベルアップの概要,,,
 warrior001aCardDescription,Text,,"Sweep
 Enter: Deal 1 DMG on all units","横扫
