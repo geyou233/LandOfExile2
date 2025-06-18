@@ -39,6 +39,9 @@ public class LoginMenu : BasicMenu
 
     [SerializeField] private Text loginAccountOrPhone;
 
+    /// <summary>设置用户名</summary>
+    [SerializeField] private InputField setUserName;
+
     /// <summary>设置密码</summary>
     [SerializeField] private InputField setPwd;
 
@@ -396,9 +399,15 @@ public class LoginMenu : BasicMenu
         if (setPwd.text.Length > 16)
         {
             ShowPopMessage("长度超过16位");
+            return;
         }
         var phone = account.text.Trim();
-        ModifyAccountPassword("modify_user_name", phone, "admins", setPwd.text);
+        if (string.IsNullOrEmpty(phone))
+        {
+            phone = PlayerPrefs.GetString("phone");
+        }
+        string inputUserName =setUserName.text.Trim();
+        ModifyAccountPassword("modify_user_name", phone, inputUserName, setPwd.text);
     }
 
     public void OnSkipSetPwdBtnClick()
@@ -679,8 +688,7 @@ public class LoginMenu : BasicMenu
         loginAccountOrPhone.text = account.text.Trim();
         modifyPwdLayerRoot.SetActive(true);
     }
-
-
+    
     private void OnIDCardVerifyFail(int code)
     {
         if (code == 10009)
@@ -729,15 +737,24 @@ public class LoginMenu : BasicMenu
         if (code == 10022 || code == 10025)
         {
             ShowPopMessage($"用户未完成实名认证({code})");
+            return;
         }
         if (code == 10023)
         {
             ShowPopMessage($"token错误({code})");
+            return;
         }
         if (code == 10024)
         {
             ShowPopMessage($"用户未注册({code})");
+            return;
         }
+        if (code == 10029)
+        {
+            ShowPopMessage($"用户名已存在({code})");
+            return;
+        }
+        ShowPopMessage($"未知错误({code})");
     }
     #endregion
     
