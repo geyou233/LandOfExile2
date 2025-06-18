@@ -36,7 +36,7 @@ public class LoginMenu : BasicMenu
 
     /// <summary>密码</summary>
     [SerializeField] private InputField userPwd;
-
+    
     [SerializeField] private Text loginAccountOrPhone;
 
     /// <summary>设置用户名</summary>
@@ -313,6 +313,11 @@ public class LoginMenu : BasicMenu
         }
     }
 
+    public void OnOpenAccountPwdShowBtnClick(bool isOn)
+    {
+        userPwd.contentType = isOn ? InputField.ContentType.Standard : InputField.ContentType.Password;
+        userPwd.Select();
+    }
     
     /// <summary>账号登录</summary>
     public void OnAccountBtnClick()
@@ -413,6 +418,18 @@ public class LoginMenu : BasicMenu
     public void OnSkipSetPwdBtnClick()
     {
         ShowMainMenu();
+    }
+    
+    public void OnModifyPwdShowBtnClick(bool isOn)
+    {
+        setPwd.contentType = isOn ? InputField.ContentType.Standard : InputField.ContentType.Password;
+        setPwd.Select();
+    }
+    
+    public void OnModifyConfirmPwdShowBtnClick(bool isOn)
+    {
+        confirmPwd.contentType = isOn ? InputField.ContentType.Standard : InputField.ContentType.Password;
+        confirmPwd.Select();
     }
 
     public void OnAgeButtonClick()
@@ -639,32 +656,40 @@ public class LoginMenu : BasicMenu
         if (code == 10015)
         {
             ShowPopMessage($"手机号错误({code})");
+            return;
         }
         if (code == 10016)
         {
             ShowPopMessage($"验证码错误或已过期({code})");
+            return;
         }
         if (code == 10017)
         {
             ShowPopMessage($"验证码错误({code})");
+            return;
         }
         if (code == 10018)
         {
             Register("register", account.text, password.text);
+            return;
         }
 
         if (code == 10026)
         {
             ShowPopMessage($"号码没有注册({code})");
+            return;
         }
         if (code == 10027)
         {
             ShowPopMessage($"用户未完成实名认证，不能使用用户名密码登录({code})");
+            return;
         }
         if (code == 10028)
         {
             ShowPopMessage($"账号或密码错误({code})");
+            return;
         }
+        ShowPopMessage($"未知错误({code})");
     }
     #endregion
 
