@@ -3796,7 +3796,7 @@ Come back next time.","你需要在地牢中的某个地方找到钥匙。
 LockedFloor4DoorNoKeyPromptCardName,Text,,Don't have the key,没有钥匙,沒有鑰匙,,,,,,,鍵はない,,,
 LogOut,Text,,,退出登录,退出登录,,,,,,,,,,
 Login,Text,,,登录,登录,,,,,,,,,,
-LoginAccountOrPhone,Text,,,登录账号或手机号,登录账号或手机号,,,,,,,,,,
+LoginAccountOrPhone,Text,,,登录账号/手机号,登录账号/手机号,,,,,,,,,,
 Loot,Text,,Consumable,消耗品,消耗品,,,,,,,消耗品,,,
 Loot01CardDescription,Text,,One of your units get Combo 1.,使你的一个单位获得连击1。,使你的一個單位獲得連擊1。,,,,,,,あなたのユニット1体に連撃1を付与する。,,,
 Loot01CardName,Text,,Assault Potion,强攻药水,強攻藥水,,,,,,,強攻ポーション,,,

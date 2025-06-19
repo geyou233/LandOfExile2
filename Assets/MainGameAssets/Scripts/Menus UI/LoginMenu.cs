@@ -38,10 +38,7 @@ public class LoginMenu : BasicMenu
     [SerializeField] private InputField userPwd;
     
     [SerializeField] private Text loginAccountOrPhone;
-
-    /// <summary>设置用户名</summary>
-    [SerializeField] private InputField setUserName;
-
+    
     /// <summary>设置密码</summary>
     [SerializeField] private InputField setPwd;
 
@@ -411,8 +408,7 @@ public class LoginMenu : BasicMenu
         {
             phone = PlayerPrefs.GetString("phone");
         }
-        string inputUserName =setUserName.text.Trim();
-        ModifyAccountPassword("modify_user_name", phone, inputUserName, setPwd.text);
+        ModifyAccountPassword("modify_user_name", phone, phone, setPwd.text);
     }
 
     public void OnSkipSetPwdBtnClick()
