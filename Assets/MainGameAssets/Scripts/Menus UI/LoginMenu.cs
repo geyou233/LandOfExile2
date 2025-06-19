@@ -603,6 +603,11 @@ public class LoginMenu : BasicMenu
     
     private void OnUserNameLoginSuccess(string jsonData)
     {
+        var data = JsonUtility.FromJson<RegisterOrLoginResponseData>(jsonData);
+        PlayerPrefs.SetString("phone", username.text.Trim());
+        PlayerPrefs.SetString("token", data.access_token);
+        PlayerPrefs.SetString("saveTokenTime", DateTime.Now.ToString());
+        PlayerPrefs.Save();
         ShowMainMenu();
     }
     
