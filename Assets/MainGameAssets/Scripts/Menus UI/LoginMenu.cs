@@ -480,15 +480,16 @@ public class LoginMenu : BasicMenu
         }
 
         //电信手机号码正则
-        string dianxin = @"^1[3578][01379]\d{8}$";
+        string dianxin = @"^(?:(?:\+|00)86)?1(?:3(?:3\d|49)|4(?:10|9\d)|53|62|7(?:3\d|4[0-5]|7\d)|8[019]\d|9(?:0\d|1\d|3\d|9\d))\d{7}$";
         Regex regexDX = new Regex(dianxin);
         
         //联通手机号码正则
-        string liantong = @"^1[34578][01256]\d{8}";
+        string liantong =
+            @"^(?:(?:\+|00)86)?1(?:3[0-2]\d|4(?:0[01]|5\d|6\d)|5[56]\d|6[67]\d|7(?:1\d|5\d|6\d)|8[56]\d|96\d)\d{7}$";
         Regex regexLT = new Regex(liantong);
         
         //移动手机号码正则
-        string yidong = @"^(1[012345678]\d{8}|1[345678][012356789]\d{8})$";
+        string yidong = @"^(?:(?:\+|00)86)?1(?:3(?:4[0-8]|[5-9]\d)|4(?:4\d|7\d|8\d)|5(?:[0-2]\d|[7-9]\d)|65|7[28]\d|8(?:[2-4]\d|7\d|8\d)|9(?:5\d|7\d|8\d))\d{8}$";
         Regex regexYD = new Regex(yidong);
 
         if (regexDX.IsMatch(input) || regexLT.IsMatch(input) || regexYD.IsMatch(input))
