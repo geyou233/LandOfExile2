@@ -288,7 +288,7 @@ public class LoginMenu : BasicMenu
             return;
         }
         
-        if(!MetarnetRegex.IsMobilePhone(account.text))
+        if(!CheckPhoneIsValid(account.text))
         {
             ShowPopMessage("电话号码错误");
             return;
@@ -364,7 +364,7 @@ public class LoginMenu : BasicMenu
 
         if (!IDCardValidator.IsAdult(realNo.text))
         {
-            ShowPopMessage("为进一步落实未成年人保护，未满18周岁的用户不允许注册游戏账号(10010)");
+            ShowPopMessage("为进一步落实未成年人保护，未满18周岁的用户不允许注册游戏账号", 10010);
             return;
         }
         string phone = PlayerPrefs.GetString("phone");
@@ -480,17 +480,17 @@ public class LoginMenu : BasicMenu
         }
 
         //电信手机号码正则
-        string dianxin = @"^(?:(?:\+|00)86)?1(?:3(?:3\d|49)|4(?:10|9\d)|53|62|7(?:3\d|4[0-5]|7\d)|8[019]\d|9(?:0\d|1\d|3\d|9\d))\d{7}$";
-        Regex regexDX = new Regex(dianxin);
+        string dianxin = @"^(?:(?:\+|00)86)?1(?:3(?:3\d|49)|4(?:10|9\d)|53|62|7(?:3\d|4[0-5]|7\d)|8[019]\d|9(?:[0139]\d))\d{7}$";
+        Regex regexDX = new Regex(dianxin, RegexOptions.Compiled);
         
         //联通手机号码正则
-        string liantong =
-            @"^(?:(?:\+|00)86)?1(?:3[0-2]\d|4(?:0[01]|5\d|6\d)|5[56]\d|6[67]\d|7(?:1\d|5\d|6\d)|8[56]\d|96\d)\d{7}$";
-        Regex regexLT = new Regex(liantong);
+        string liantong = @"^(?:(?:\+|00)86)?1(?:3[0-2]\d|4(?:0[01]|[56]\d)|5[56]\d|6[67]\d|7(?:[156]\d)|8[56]\d|9[69]\d)\d{7}$";
+        Regex regexLT = new Regex(liantong, RegexOptions.Compiled);
         
         //移动手机号码正则
-        string yidong = @"^(?:(?:\+|00)86)?1(?:3(?:4[0-8]|[5-9]\d)|4(?:4\d|7\d|8\d)|5(?:[0-2]\d|[7-9]\d)|65|7[28]\d|8(?:[2-4]\d|7\d|8\d)|9(?:5\d|7\d|8\d))\d{8}$";
-        Regex regexYD = new Regex(yidong);
+        string yidong = @"^(?:(?:\+|00)86)?1(?:3(?:4[0-8]|[5-9]\d)|4[478]\d|5(?:[0127-9]\d)|6[56]\d|7(?:[28]\d)|8(?:[23478]\d)|9[578]\d)\d{7}$";
+
+        Regex regexYD = new Regex(yidong, RegexOptions.Compiled);
 
         if (regexDX.IsMatch(input) || regexLT.IsMatch(input) || regexYD.IsMatch(input))
         {
@@ -560,11 +560,11 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10001 || code == 10003)
         {
-            ShowPopMessage($"验证码错误({code})");
+            ShowPopMessage($"验证码错误", code);
         }
         if (code == 10002)
         {
-            ShowPopMessage($"验证码错误或已过期({code})");
+            ShowPopMessage($"验证码错误或已过期", code);
         }
         else if (code == 10004)
         {
@@ -657,17 +657,17 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10015)
         {
-            ShowPopMessage($"手机号错误({code})");
+            ShowPopMessage($"手机号错误", code);
             return;
         }
         if (code == 10016)
         {
-            ShowPopMessage($"验证码错误或已过期({code})");
+            ShowPopMessage($"验证码错误或已过期", code);
             return;
         }
         if (code == 10017)
         {
-            ShowPopMessage($"验证码错误({code})");
+            ShowPopMessage($"验证码错误", code);
             return;
         }
         if (code == 10018)
@@ -678,20 +678,20 @@ public class LoginMenu : BasicMenu
 
         if (code == 10026)
         {
-            ShowPopMessage($"号码没有注册({code})");
+            ShowPopMessage($"号码没有注册", code);
             return;
         }
         if (code == 10027)
         {
-            ShowPopMessage($"用户未完成实名认证，不能使用用户名密码登录({code})");
+            ShowPopMessage($"用户未完成实名认证，不能使用用户名密码登录", code);
             return;
         }
         if (code == 10028)
         {
-            ShowPopMessage($"账号或密码错误({code})");
+            ShowPopMessage($"账号或密码错误", code);
             return;
         }
-        ShowPopMessage($"未知错误({code})");
+        ShowPopMessage($"未知错误", code);
     }
     #endregion
 
@@ -720,7 +720,7 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10009)
         {
-            ShowPopMessage($"身份证号码错误({code})");  
+            ShowPopMessage($"身份证号码错误", code);  
         }
         if (code == 10010)
         {
@@ -728,7 +728,7 @@ public class LoginMenu : BasicMenu
         }
         if (code == 10011 || code == 10012 || code == 10013 || code == 10014)
         {
-            ShowPopMessage($"姓名或身份证错误，请重新输入({code})");
+            ShowPopMessage($"姓名或身份证错误，请重新输入", code);
         }
     }
 
@@ -763,25 +763,25 @@ public class LoginMenu : BasicMenu
     {
         if (code == 10022 || code == 10025)
         {
-            ShowPopMessage($"用户未完成实名认证({code})");
+            ShowPopMessage($"用户未完成实名认证", code);
             return;
         }
         if (code == 10023)
         {
-            ShowPopMessage($"token错误({code})");
+            ShowPopMessage($"token错误", code);
             return;
         }
         if (code == 10024)
         {
-            ShowPopMessage($"用户未注册({code})");
+            ShowPopMessage($"用户未注册", code);
             return;
         }
         if (code == 10029)
         {
-            ShowPopMessage($"用户名已存在({code})");
+            ShowPopMessage($"用户名已存在", code);
             return;
         }
-        ShowPopMessage($"未知错误({code})");
+        ShowPopMessage($"未知错误", code);
     }
     #endregion
     
@@ -791,21 +791,24 @@ public class LoginMenu : BasicMenu
         mainMenu.ShowMenu();
     }
     
-    private void ShowPopMessage(string message)
+    private void ShowPopMessage(string message, int errCode = 0)
     {
         if (LeanTween.isTweening(popupTips))
         {
             return;
         }
         var tipsMessage = popupTips.GetComponentInChildren<Text>();
-        tipsMessage.text = message;
+        tipsMessage.text = message + (MenuControl.Instance.showErrCode && errCode > 0 ? $"({errCode})" : "");
         popupTips.SetActive(true);
         popupTips.transform.localPosition = new Vector3(0, 100, 0);
         var tween = LeanTween.moveLocalY(popupTips, 300, 0.75f);
         LeanTween.alpha(popupTips, 0.5f, 0.75f);
         tween.setOnComplete(() =>
         {
-            popupTips.SetActive(false);
+            LeanTween.delayedCall(popupTips,2, () =>
+            {
+                popupTips.SetActive(false);
+            });
         });
     }
     
