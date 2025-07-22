@@ -290,7 +290,7 @@ public class LoginMenu : BasicMenu
         
         if(!CheckPhoneIsValid(account.text))
         {
-            ShowPopMessage("电话号码错误");
+            ShowPopMessage("手机号码格式不正确，请重新输入");
             return;
         }
         
@@ -474,30 +474,30 @@ public class LoginMenu : BasicMenu
     //检测手机号码是否合法
     private bool CheckPhoneIsValid(string input)
     {
-        if (input.Length < 11)
+        if (input.Trim().Length != 11)
         {
             return false;
         }
 
         //电信手机号码正则
-        string dianxin = @"^(?:(?:\+|00)86)?1(?:3(?:3\d|49)|4(?:10|9\d)|53|62|7(?:3\d|4[0-5]|7\d)|8[019]\d|9(?:[0139]\d))\d{7}$";
-        Regex regexDX = new Regex(dianxin, RegexOptions.Compiled);
-        
-        //联通手机号码正则
-        string liantong = @"^(?:(?:\+|00)86)?1(?:3[0-2]\d|4(?:0[01]|[56]\d)|5[56]\d|6[67]\d|7(?:[156]\d)|8[56]\d|9[69]\d)\d{7}$";
-        Regex regexLT = new Regex(liantong, RegexOptions.Compiled);
-        
-        //移动手机号码正则
-        string yidong = @"^(?:(?:\+|00)86)?1(?:3(?:4[0-8]|[5-9]\d)|4[478]\d|5(?:[0127-9]\d)|6[56]\d|7(?:[28]\d)|8(?:[23478]\d)|9[578]\d)\d{7}$";
+        // string dianxin = @"^(?:(?:\+|00)86)?1(?:3(?:3\d|49)|4(?:10|9\d)|53|62|7(?:3\d|4[0-5]|7\d)|8[019]\d|9(?:[0139]\d))\d{7}$";
+        // Regex regexDX = new Regex(dianxin, RegexOptions.Compiled);
+        //
+        // //联通手机号码正则
+        // string liantong = @"^(?:(?:\+|00)86)?1(?:3[0-2]\d|4(?:0[01]|[56]\d)|5[56]\d|6[67]\d|7(?:[156]\d)|8[56]\d|9[69]\d)\d{7}$";
+        // Regex regexLT = new Regex(liantong, RegexOptions.Compiled);
+        //
+        // //移动手机号码正则
+        // string yidong = @"^(?:(?:\+|00)86)?1(?:3(?:4[0-8]|[5-9]\d)|4[478]\d|5(?:[0127-9]\d)|6[56]\d|7(?:[28]\d)|8(?:[23478]\d)|9[578]\d)\d{7}$";
+        //
+        // Regex regexYD = new Regex(yidong, RegexOptions.Compiled);
+        //
+        // if (regexDX.IsMatch(input) || regexLT.IsMatch(input) || regexYD.IsMatch(input))
+        // {
+        //     return true;
+        // }
 
-        Regex regexYD = new Regex(yidong, RegexOptions.Compiled);
-
-        if (regexDX.IsMatch(input) || regexLT.IsMatch(input) || regexYD.IsMatch(input))
-        {
-            return true;
-        }
-
-        return false;
+        return input.Trim().StartsWith("1");
     }
 
 
