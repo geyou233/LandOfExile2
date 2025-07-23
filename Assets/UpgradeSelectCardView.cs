@@ -27,10 +27,7 @@ public class UpgradeSelectCardView : BasicMenu
    public float adjustValue = 5;
    public  float adjustValue2 = 1;
    public float adjustValue3 = 0.3f;
-    private void Start()
-    {
-        mLoopListView.InitListView(6, OnGetItemByIndex);
-    }
+   
     
     public void SelectCard(CardWithDetails c)
     {
@@ -78,6 +75,7 @@ public class UpgradeSelectCardView : BasicMenu
                 extraAction?.Invoke();
             }
         });
+        mLoopListView.InitListView(6, OnGetItemByIndex);
     }
 
     private Action extraAction;
