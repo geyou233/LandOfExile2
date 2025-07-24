@@ -3606,7 +3606,7 @@ As the heir of the Frost Mage, you have been maintaining the balance between the
 ","歡迎醒來，艾莉亞，這裡是你現在的故鄉：冰晶雪原。此刻夜已深，正在溫暖壁爐旁酣睡的你，卻被逐漸靠近的呼喊聲驚醒。
 
 你奪門而出，只見大量元素魔物正攻擊著村民和房屋。在清理魔物的同時，你不禁在想：這些本應該活動在礦區的傢伙為什麼會突然闖入村莊？
-作為冰霜大法師的繼承人，你一直很好的維護著白雪村莊和元素生物的平衡。去吧，清除魔物，並前往拉長石礦區尋找真相。
+作為冰霜大法師的繼承人，你一直很好地維護著白雪村莊和元素生物的平衡。去吧，清除魔物，並前往拉長石礦區尋找真相。
 ",,,,,,,"お目覚めの時間よ、アリア。ここが今の君の故郷、氷河雪原だ。深夜、暖炉の暖かさに包まれて熟睡していた君は、徐々に近づいてくる叫び声で目を覚ました。
 君はドアを飛び出し、多くの元素魔物が村人と家屋を攻撃しているのを見た。魔物を殲滅している間に、なぜ鉱山で活動しているはずのこいつらが突然村に侵入してきたのかと、君は不思議に思わざるを得なかった。
 氷の上級メイジの後継者として、あなたは白雪の村と元素生命体との間のバランスを常に保ってきた。行こう、魔物を一掃して、ラブラドル長石鉱山に行って真実を見つけてください。
@@ -4435,7 +4435,7 @@ MageEffect82bCardDescription,Text,,"At the start of next turn, deals 4 damage an
 MageEffect82bCardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
 MageEffect82cCardDescription,Text,,"At the start of next turn, deals 4 damage and Electric Shock 3 to unit on the tile, If it has Water or Fire Affliction, consumes it to deal extra 4 damage",下一回合开始时，对该格子上的单位造成4点伤害和电击3，如果它有水附着或火附着，则消耗它并额外造成4点伤害,下一回合開始時，對該格子上的單位造成4點傷害和電擊3，如果它有水附著或火附著，則消耗它並額外造成4點傷害,,,,,,,次のターン開始時、このマス上のユニットに4ダメージを与え、電撃3を付与する、既に水付着または炎付着を持っている場合、それを消費し、追加で4ダメージを与える,,,
 MageEffect82cCardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
-MageEffect82dCardDescription,Text,,"At the start of next turn, deals 5 damage and Electric Shock 4 to unit on the tile",下一回合开始时，对该格子上的单位造成5点伤害，并施加电击4,下一回合開始時，對該格子上的單位造成5點傷害，並施加電擊4,,,,,,,次のターン開始時、このマス上のユニットに5ダメージを与え、電撃4を付与する,,,
+MageEffect82dCardDescription,Text,,"At the start of next turn, deals 5 damage and Electric Shock 4 to unit on the tile",下一回合开始时，对该格子上的单位造成5点伤害和电击4,下一回合開始時，對該格子上的單位造成5點傷害和電擊4,,,,,,,次のターン開始時、このマス上のユニットに5ダメージを与え、電撃4を付与する,,,
 MageEffect82dCardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
 MageEffect83CardDescription,Text,,Attack deals 1 damage to all enemies with Thunder Affliction,攻击会对所有具有雷附着的敌人造成1点伤害,攻擊會對所有具有雷附著的敵人造成1點傷害,,,,,,,攻撃は雷付着を持つ全ての敵に1ダメージを与える,,,
 MageEffect83CardName,Text,,Electromagnetic field,电磁场,電磁場,,,,,,,電磁場,,,
@@ -4447,7 +4447,7 @@ MageEffect84aCardDescription,Text,,"At the start of each turn, deals 3 damage to
 MageEffect84aCardName,Text,,Chant (Mana Book),吟唱（法力之书）,吟唱（法力之書）,,,,,,,詠唱（マナの書）,,,
 MageEffect84bCardDescription,Text,,"Chant: At the beginning of each turn, deal 4 damage to all enemies, durability -1.",吟唱：每回合开始时，对所有敌人造成4点伤害，耐久-1,吟唱：每回合開始時，對所有敵人造成4點傷害，耐久-1,,,,,,,詠唱：各ターン開始時、全ての敵に4ダメージを与える。耐久値-1,,,
 MageEffect84bCardName,Text,,Chant (Mana Book),吟唱（法力之书）,吟唱（法力之書）,,,,,,,詠唱（マナの書）,,,
-MageEffect84cCardDescription,Text,,"Chant: At the beginning of each turn, deal 5 damage to all enemies and apply Thunder Affliction, durability -1.",吟唱：每回合开始时，对所有敌人造成5点伤害，并施加雷附着，耐久-1,吟唱：每回合開始時，對所有敵人造成5點傷害，並施加雷附著，耐久-1,,,,,,,詠唱：各ターン開始時、全ての敵に5ダメージと雷付着を与える。耐久値-1,,,
+MageEffect84cCardDescription,Text,,"Chant: At the beginning of each turn, deal 5 damage to all enemies and apply Thunder Affliction, durability -1.",吟唱：每回合开始时，对所有敌人造成5点伤害和雷附着，耐久-1,吟唱：每回合開始時，對所有敵人造成5點傷害和雷附著，耐久-1,,,,,,,詠唱：各ターン開始時、全ての敵に5ダメージと雷付着を与える。耐久値-1,,,
 MageEffect84cCardName,Text,,Chant (Mana Book),吟唱（法力之书）,吟唱（法力之書）,,,,,,,詠唱（マナの書）,,,
 MageEffect84dCardDescription,Text,,"Chant: At the start of each turn, deals 5 damage to all enemies, Durability -1, damage is enhanced by spell damage",吟唱：每回合开始时，对所有敌人造成5点伤害，耐久-1，伤害受法术伤害加成。,吟唱：每回合開始時，對所有敵人造成5點傷害，耐久-1，傷害受法術傷害加成。,,,,,,,詠唱：各ターン開始時、全ての敵に5ダメージを与える、耐久値-1、魔法強化に応じたダメージボーナスを獲得できる。,,,
 MageEffect84dCardName,Text,,Chant (Mana Book),吟唱（法力之书）,吟唱（法力之書）,,,,,,,詠唱（マナの書）,,,
@@ -4493,7 +4493,7 @@ MageEffect93bCardDescription,Text,,"Chant: at the start of the turn, deals 4 dam
 MageEffect93bCardName,Text,,Chant (Crystal Masters),吟唱（水晶大师）,吟唱（水晶大師）,,,,,,,詠唱（水晶マスター）,,,
 MageEffect93cCardDescription,Text,,"Chant: At the start of the turn, deals 4 damage to all adjacent enemies, and damage is enhanced by your Spell Enhancement",吟唱：回合开始时，对相邻所有敌人造成4点伤害，伤害受你的法术强化加成,吟唱：回合開始時，對相鄰所有敵人造成4點傷害，傷害受你的法術強化加成,,,,,,,詠唱：ターン開始時、隣接する全ての敵に4ダメージ与える。魔法強化に応じたダメージボーナスを獲得できる,,,
 MageEffect93cCardName,Text,,Chant (Crystal Masters),吟唱（水晶大师）,吟唱（水晶大師）,,,,,,,詠唱（水晶マスター）,,,
-MageEffect93dCardDescription,Text,,"Chant: At the start of the turn, deals 4 damage and Water Affliction to all adjacent enemies",吟唱：回合开始时，对相邻所有敌人造成4点伤害，并施加水附着,吟唱：回合開始時，對相鄰所有敵人造成4點傷害，並施加水附著,,,,,,,詠唱：ターン開始時、隣接する全ての敵に4ダメージ与え、水付着を付与する,,,
+MageEffect93dCardDescription,Text,,"Chant: At the start of the turn, deals 4 damage and Water Affliction to all adjacent enemies",吟唱：回合开始时，对相邻所有敌人造成4点伤害和水附着,吟唱：回合開始時，對相鄰所有敵人造成4點傷害和水附著,,,,,,,詠唱：ターン開始時、隣接する全ての敵に4ダメージ与え、水付着を付与する,,,
 MageEffect93dCardName,Text,,Chant (Crystal Masters),吟唱（水晶大师）,吟唱（水晶大師）,,,,,,,詠唱（水晶マスター）,,,
 MageEffect94CardDescription,Text,,"Elemental affliction damage +1, last for 1 turn",你的元素附着的反应伤害+1，持续1回合,你的元素附著的反應傷害+1，持續1回合,,,,,,,1ターンの間、あなたの元素付着の反応ダメージ+1,,,
 MageEffect94CardName,Text,,Elemental Affinity,元素亲和,元素親和,,,,,,,元素相性,,,
@@ -4587,7 +4587,7 @@ Magic001aCardDescription,Text,,"Arcing 2, Bounce 2",箭术射程2，弹射2,箭�
 Magic001aCardName,Text,,Juggling Master,杂耍大师,雜耍大師,,,,,,,曲芸マスター,,,
 Magic001bCardDescription,Text,,"Arcing 2, Bounce 3",箭术射程2，弹射3,箭術射程2，彈射3,,,,,,,射術射程2、バウンス3,,,
 Magic001bCardName,Text,,Juggling Master,杂耍大师,雜耍大師,,,,,,,曲芸マスター,,,
-Magic001cCardDescription,Text,,"Arcing 2, Bounce 3, <color=upgrade>ATK +2 when it has Element Affliction.</color>",箭术射程2，弹射3，<color=upgrade>拥有元素附着时，获得2点攻击力</color>,箭術射程2，彈射3，<color=upgrade>擁有元素附著時，獲得2點攻擊力</color>,,,,,,,射術射程2、バウンス3、<color=upgrade>元素付着を持つ場合、攻撃力+2</color>,,,
+Magic001cCardDescription,Text,,"Arcing 2, Bounce 3, <color=upgrade>ATK +2 when it has Element Affliction.</color>",箭术射程2，弹射3，<color=upgrade>拥有元素附着时，提高2点攻击力</color>,箭術射程2，彈射3，<color=upgrade>擁有元素附著時，提高2點攻擊力</color>,,,,,,,射術射程2、バウンス3、<color=upgrade>元素付着を持つ場合、攻撃力+2</color>,,,
 Magic001cCardName,Text,,Elemental Master,元素大师,元素大師,,,,,,,元素マスター,,,
 Magic001dCardDescription,Text,,"Arcing Range <color=upgrade>3</color>, Bounce <color=upgrade>4</color>",箭术射程<color=upgrade>3</color>，弹射<color=upgrade>4</color>,箭術射程<color=upgrade>3</color>，彈射<color=upgrade>4</color>,,,,,,,射術射程 <color=upgrade>3</color>、バウンス<color=upgrade>4</color>,,,
 Magic001dCardName,Text,,Bounce Master,弹射大师,彈射大師,,,,,,,バウンスマスター,,,
@@ -5574,9 +5574,9 @@ ManthriEncounter1CardDescription,Text,,"You look at the monster with hostility a
 ManthriEncounter1CardName,Text,,Multi-eyed Kid,多目童子,多目童子,,,,,,,複眼の童子,,,
 ManthriEncounter1MageCardDescription,Text,,"You look at the monster with hostility as it slowly crawls out of the sand hole, but when you look into its eyes, it seems that your friend is your enemy.",你充满敌意的看着这个怪物慢慢从沙穴里爬了出来，但当你看向它的眼睛后，又仿佛觉得你的朋友才是你的敌人,你充滿敵意的看著這個怪物慢慢從沙穴裡爬了出來，但當你看向它的眼睛後，又仿佛覺得你的朋友才是你的敵人,,,,,,,あなたは敵意を持って、砂穴から這い出てくるモンスターを見た。しかしその目に目を向けると、友人こそが敵であるという気がした,,,
 ManthriEncounter1MageCardName,Text,,Multi-eyed Kid,多目童子,多目童子,,,,,,,複眼の童子,,,
-ManthriEncounter3CardDescription,Text,,"This god of death keeps wandering in the Death Desert, and as more and more of you become thirsty, he is getting closer and closer to you.",这个裁魂者不停的游荡在迷失荒漠里，随着你们中口渴的人越来越多，它也越来越靠近你们。,這個裁魂者不停的遊蕩在迷失荒漠裡，隨著你們中口渴的人越來越多，它也越來越靠近你們。,,,,,,,この死神は死亡砂漠を彷徨い続け、口の乾いた人が増えるにつれて、どんどん近づいてきた。,,,
+ManthriEncounter3CardDescription,Text,,"This god of death keeps wandering in the Death Desert, and as more and more of you become thirsty, he is getting closer and closer to you.",这个裁魂者不停地游荡在迷失荒漠里，随着你们中口渴的人越来越多，它也越来越靠近你们。,這個裁魂者不停地遊蕩在迷失荒漠裡，隨著你們中口渴的人越來越多，它也越來越靠近你們。,,,,,,,この死神は死亡砂漠を彷徨い続け、口の乾いた人が増えるにつれて、どんどん近づいてきた。,,,
 ManthriEncounter3CardName,Text,,Appointed Death,转正裁魂者,轉正裁魂者,,,,,,,正式裁魂者,,,
-ManthriEncounter3MageCardDescription,Text,,"This god of death keeps wandering in the Death Desert, and as more and more of you become thirsty, he is getting closer and closer to you.",这个裁魂者不停的游荡在迷失荒漠里，随着你们中口渴的人越来越多，它也越来越靠近你们。,這個裁魂者不停的遊蕩在迷失荒漠裡，隨著你們中口渴的人越來越多，它也越來越靠近你們。,,,,,,,,,,
+ManthriEncounter3MageCardDescription,Text,,"This god of death keeps wandering in the Death Desert, and as more and more of you become thirsty, he is getting closer and closer to you.",这个裁魂者不停地游荡在迷失荒漠里，随着你们中口渴的人越来越多，它也越来越靠近你们。,這個裁魂者不停地遊蕩在迷失荒漠裡，隨著你們中口渴的人越來越多，它也越來越靠近你們。,,,,,,,,,,
 ManthriEncounter3MageCardName,Text,,Appointed Death,转正裁魂者,轉正裁魂者,,,,,,,正式裁魂者,,,
 ManthriEncounter4CardDescription,Text,,"An abnormally large worm-like thing stands before you, gesturing in a familiar challenge - one arm raised, one finger curled at you. Come if you dare.",一只异常巨大的蠕虫东西站在你面前，示意着一个熟悉的挑衅 - 一只手臂抬起，手指弯曲着你。来啊。,一隻異常巨大的蠕蟲東西站在你面前，示意著一個熟悉的挑釁 - 一隻手臂抬起，手指彎曲著你。來啊。,,,,,,,異常に大きなワームのようなものがあなたの前に立ちはだかり、腕を上げ、指を曲げてあなたに向けた。それは挑発的なジェスチャーだ。来いや。,,,
 ManthriEncounter4CardName,Text,,Manthri Elite,曼思里精英,曼思裡精英,,,,,,,マンシリ精鋭,,,
@@ -5675,7 +5675,7 @@ MinionRunningChimoCardName,Text,,Escaped Chimo,逃跑的奇莫,逃跑的奇莫,,
 MinionThunderBatCardDescription,Text,,"Enter, start of turn: gain Thunder Affliction",进场、回合开始：获得雷附着,進場、回合開始：獲得雷附著,,,,,,,入場、ターン開始：雷付着を獲得する,,,
 MinionThunderBatCardName,Text,,Thunder Bat,雷电蝙蝠,雷電蝙蝠,,,,,,,雷電コウモリ,,,
 Minions,Text,,Follower,随从,隨從,,,,,,,従者,,,
-Monster SlamCardDescription,Text,,Perform a Penetrate attack within Range 2,在射程2的范围内所有单位造成攻击伤害,在射程2的範圍內所有單位造成攻擊傷害,,,,,,,射程2の範囲内、貫通攻撃を1回行う,,,
+Monster SlamCardDescription,Text,,Perform a Penetrate attack within Range 2,对射程2的范围内所有单位造成攻击伤害,對射程2的範圍內所有單位造成攻擊傷害,,,,,,,射程2の範囲内、貫通攻撃を1回行う,,,
 Monster SlamCardName,Text,,Heavy Slash,巨力击,巨力擊,,,,,,,強力斬撃,,,
 Movement Types,Text,,,,,,,,,,,,,,
 MovementLinear1,Text,,,,,,,,,,,,,,
@@ -6210,8 +6210,8 @@ Red35CardName,Text,,Castle Sentinel⭐⭐,城堡哨兵⭐⭐,城堡哨兵⭐⭐,
 Red35FlavourText,Text,,,,,,,,,,,,,,
 Red36CardDescription,Text,,"Arcing 2
 Enter: Deal <color=upgrade>4</color> damage to the enemy hero and apply <color=upgrade>Vulnerable 1</color>.","箭术射程2，
-进场：对敌方英雄造成<color=upgrade>4</color>点伤害，并施加<color=upgrade>易伤1</color>","箭術射程2，
-進場：對敵方英雄造成<color=upgrade>4</color>點傷害，並施加<color=upgrade>易傷1</color>",,,,,,,"射術射程2、
+进场：对敌方英雄造成<color=upgrade>4</color>点伤害和<color=upgrade>易伤1</color>","箭術射程2，
+進場：對敵方英雄造成<color=upgrade>4</color>點傷害和<color=upgrade>易傷1</color>",,,,,,,"射術射程2、
 入場：敵ヒーローに<color=upgrade>4</color>ダメージと<color=upgrade>衰弱1</color>を与える",,,
 Red36CardName,Text,,Castle Sentinel⭐⭐⭐,皇家哨兵,皇家哨兵,,,,,,,砦の番兵⭐⭐⭐,,,
 Red36FlavourText,Text,,,,,,,,,,,,,,
@@ -7797,7 +7797,7 @@ SurgingFireTrap2CardDescription,Text,,"At the start of next turn, deals 4 damage
 SurgingFireTrap2CardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
 SurgingFireTrap3CardDescription,Text,,"At the start of next turn, deals 4 damage and Electric Shock 2 to unit on the tile, If it has Water or Fire Affliction, consumes it to deal extra 4 damage",下一回合开始时，对该格子上的单位造成4点伤害和电击2，如果它有水附着或火附着，则消耗它并额外造成4点伤害,下一回合開始時，對該格子上的單位造成4點傷害和電擊2，如果它有水附著或火附著，則消耗它並額外造成4點傷害,,,,,,,次のターン開始時、このマス上のユニットに4ダメージを与え、電撃2を付与する、既に水付着または炎付着を持っている場合、それを消費し、追加で4ダメージを与える,,,
 SurgingFireTrap3CardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
-SurgingFireTrap4CardDescription,Text,,"At the start of next turn, deals 5 damage and Electric Shock 3 to unit on the tile",下一回合开始时，对该格子上的单位造成5点伤害，并施加电击3,下一回合開始時，對該格子上的單位造成5點傷害，並施加電擊3,,,,,,,次のターン開始時、このマス上のユニットに5ダメージを与え、電撃3を付与する,,,
+SurgingFireTrap4CardDescription,Text,,"At the start of next turn, deals 5 damage and Electric Shock 3 to unit on the tile",下一回合开始时，对该格子上的单位造成5点伤害和电击3,下一回合開始時，對該格子上的單位造成5點傷害和電擊3,,,,,,,次のターン開始時、このマス上のユニットに5ダメージを与え、電撃3を付与する,,,
 SurgingFireTrap4CardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
 SurgingFireTrapCardDescription,Text,,"At the start of next turn, deals 3 damage and Electric Shock 1 to unit on the tile",下一回合开始时，对该格子上的单位造成3点伤害和电击1,下一回合開始時，對該格子上的單位造成3點傷害和電擊1,,,,,,,次のターン開始時、このマス上のユニットに3ダメージを与え、電撃1を付与する,,,
 SurgingFireTrapCardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
