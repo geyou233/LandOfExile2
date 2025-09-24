@@ -268,8 +268,6 @@ public class LoginMenu : BasicMenu
             return;
         }
         SendMessageVerifyCode("get_sms_code", account.text);
-        waitTime = 60;
-        canSendVerifyCode = false;
     }
     
     
@@ -436,7 +434,7 @@ public class LoginMenu : BasicMenu
     #endregion
 
     
-    private IEnumerator SendPostRequest(string url, string jsonData, Action<string> OnSucess, Action<int> onFail = null)
+    private IEnumerator SendPostRequest(string url, string jsonData, Action<string> onSuccess, Action<int> onFail = null, Action onHttpError = null)
     {
         using (UnityWebRequest request = new UnityWebRequest(url, UnityWebRequest.kHttpVerbPOST))
         {
@@ -460,12 +458,13 @@ public class LoginMenu : BasicMenu
                 }
                 else
                 {
-                    OnSucess?.Invoke(result);
+                    onSuccess?.Invoke(result);
                 }
             }
             else
             {
                 Debug.LogError("SendRequest Error: " + request.error);
+                onHttpError?.Invoke();
             }
         }
     }
@@ -509,12 +508,24 @@ public class LoginMenu : BasicMenu
     {
         var user = new MsgCodeRequest { phone = phone };
         string jsonData = JsonUtility.ToJson(user);
-        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnSendVerifyCodeSuccess));
+        StartCoroutine(SendPostRequest(webUrl + request, jsonData, OnSendVerifyCodeSuccess, OnSendVerifyCodeError, OnSendVerifyCodeError));
     }
 
     private void OnSendVerifyCodeSuccess(string result)
     {
-        
+        waitTime = 60;
+        canSendVerifyCode = false;
+        ShowPopMessage($"验证码获取成功");
+    }
+
+    private void OnSendVerifyCodeError(int code)
+    {
+        ShowPopMessage($"网络错误，请重新获得验证码");
+    }
+    
+    private void OnSendVerifyCodeError()
+    {
+        ShowPopMessage($"网络错误，请重新获得验证码");
     }
     
     #endregion
