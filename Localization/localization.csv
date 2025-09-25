@@ -7892,7 +7892,7 @@ Defeated: Shatters your hero","进场：恢复英雄6点生命。
 被摧毁：摧毁你的英雄","進場：恢復英雄6點生命。
 被摧毀：摧毀你的英雄",,,,,,,"入場：ヒーローのHPを6回復。
 被摧毁：あなたのヒーローを破壊する",,,
-Treasure18CardName,Text,,Burning Heart,燃烧的心脏,燃燒的心臟,,,,,,,燃焼する心,,,
+Treasure18CardName,Text,,Burning Heart,契约宝宝,契约宝宝,,,,,,,燃焼する心,,,
 Treasure19CardDescription,Text,,When taking DMG: Restore full HP and acquire Thorn 1,受到伤害：回复所有生命，并获得荆棘1,受到傷害：回復所有生命，並獲得荊棘1,,,,,,,ダメージを受けた場合：HPが全て回復、いばら1を獲得する,,,
 Treasure19CardName,Text,,Underworld Moth,冥界飞蛾,冥界飛蛾,,,,,,,冥府の蛾,,,
 Treasure20CardDescription,Text,,When your turn begins: Another random unit gains 5 Block,回合开始：使一个随机的其他单位获得5点格挡,回合開始：使一個隨機的其他單位獲得5點格擋,,,,,,,ターン開始：ランダムな他のユニット1体に5ブロックを与える,,,
