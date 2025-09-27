@@ -62,8 +62,8 @@ MonoBehaviour:
   goldWorth: 0
   temporaryOnly: 0
   weapon: {fileID: 0}
-  initialPower: 4
-  initialHP: 30
+  initialPower: 99
+  initialHP: 99
   initialMoves: 1
   initialActions: 1
   currentPower: 0
@@ -112,6 +112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1a3cfa1775c44b0ad65282a5290ec6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetValidator: {fileID: 11400000, guid: 33222093af560485288bb090a878f16b, type: 2}
+  targetValidator: {fileID: 11400000, guid: 1d4d8f474a40445b0af5a3918be0d5a1, type: 2}
   otherAbilitiesToPerform: []
   skipStandardAttack: 0
