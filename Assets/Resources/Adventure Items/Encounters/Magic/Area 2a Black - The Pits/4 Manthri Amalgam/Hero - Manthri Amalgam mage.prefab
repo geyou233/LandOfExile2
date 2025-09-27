@@ -34,12 +34,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3667629559149321756}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8057222552339870009
 MonoBehaviour:
@@ -164,7 +165,7 @@ MonoBehaviour:
   cards:
   - {fileID: 7762805283351796176, guid: e210e69ee3e634dcea350443123cd6bf, type: 3}
   ferocityACards:
-  - {fileID: 7762805283351796176, guid: ab946186de0a84c71bb1de290ef96b65, type: 3}
+  - {fileID: 7762805283351796176, guid: e210e69ee3e634dcea350443123cd6bf, type: 3}
 --- !u!114 &1165236617606802096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -184,7 +185,7 @@ MonoBehaviour:
   cards:
   - {fileID: 621198866724557324, guid: 0bc75a42cfae841dd8075fba85fc7640, type: 3}
   ferocityACards:
-  - {fileID: 7762805283351796176, guid: ab946186de0a84c71bb1de290ef96b65, type: 3}
+  - {fileID: 621198866724557324, guid: 0bc75a42cfae841dd8075fba85fc7640, type: 3}
 --- !u!114 &293662381742751541
 MonoBehaviour:
   m_ObjectHideFlags: 0
