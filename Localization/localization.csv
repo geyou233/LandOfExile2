@@ -1716,7 +1716,7 @@ Confirm,Text,,Confirm,确认,確認,,,,,,,確認,,,
 ConfirmLoot,Text,,Selected,选好了,選好了,,,,,,,選択済み,,,
 ConfirmSellTreasure,Text,,Confirm to sell this card?,确定要出售这张卡牌吗？,確定要出售這張卡牌嗎？,,,,,,,本当にこのカードを売却しますか？,,,
 ConstrictCardDescription,Text,,Reduces your enemy hero's upper mana limit by 1,降低敌方英雄1点法力上限,降低敵方英雄1點法力上限,,,,,,,敵ヒーローのマナ上限-1,,,
-ConstrictCardName,Text,,Kill,杀戒,殺戒,,,,,,,殺生戒,,,
+ConstrictCardName,Text,,Kill,龙的戒律,殺戒,,,,,,,殺生戒,,,
 ConsumeHealingPotiontPrompt,Text,,Confirm to consume a potion to heal? (It will be removed from your deck.),你想消耗药水来治疗吗？(它将从你的卡组中删除),你想消耗藥水來治療嗎？(它將從你的卡組中刪除),,,,,,,回復のためにポーションを消費しますか？ （ポーションはあなたのデッキから削除されます）,,,
 ConsumeKeywordDescription,Text,,"Upon use, permanently remove this card from your deck",使用后，从卡组里永久删除这张卡,使用後，從卡組裡永久刪除這張卡,,,,,,,使用後、デッキからこのカードを永久に削除する,,,
 ConsumeKeywordName,Text,,Consumable,消耗品,消耗品,,,,,,,消耗品,,,
@@ -3589,7 +3589,7 @@ IntoThePotCardDescription,Text,,"Draw an enemy follower within range 2 to the La
 IntoThePotCardName,Text,,Lady's Pet Bell,夫人的宠物铃铛,夫人的寵物鈴鐺,,,,,,,マダムのペットベル,,,
 IntroPopupText1,Text,,"Red eyes, missing relatives, crazy friends, and monsters covered with plants. For a while, everyone in the Knight's Castle was talking about these weird and terrifying things...
 
-As the patrol captain of the Knight's Castle and a brave warrior who once participated in the Exile War, you cannot lose more. No matter who the enemy is, you will do your best to protect your home. Go to the source of the news: the logging camp in the east to investigate!","红色的眼睛，失踪的亲人，发疯的朋友，还有长满植物的怪物。一时间，骑士城堡里的每个人都在谈论这些诡异可怕的事情……
+As the patrol captain of the Knight's Castle and a brave warrior who once participated in the Exile War, you cannot lose more. No matter who the enemy is, you will do your best to protect your home. Go to the source of the news: the logging camp in the east to investigate!","失踪的亲人，失控的朋友，还有长满植物的怪物。一时间，骑士城堡里的每个人都在谈论这些诡异可怕的事情……
 
 作为骑士城堡的巡逻队长，也作为曾参与过流放战争的英勇战士，你已经不能失去更多，无论敌人是谁，你都会尽力守护你的家园。前往消息的源头：东边的伐木场展开调查吧！","紅色的眼睛，失蹤的親人，發瘋的朋友，還有長滿植物的怪物。一時間，騎士城堡裡的每個人都在談論這些詭異可怕的事情……
 
@@ -8716,7 +8716,7 @@ WarriorAdvanced16CardName,Text,,Cruelty,残忍,殘忍,,,,,,,残酷,,,
 WarriorAdvanced17CardDescription,Text,,"When your unit with Block is attacked, Knockback the enemy by 1 tile",你的具有格挡的单位受到攻击后，击退敌人1格,你的具有格擋的單位受到攻擊後，擊退敵人1格,,,,,,,ブロックを持つユニットが攻撃を受けると、敵を1マスノックバックさせる,,,
 WarriorAdvanced17CardName,Text,,Counter Shock,反震,反震,,,,,,,反震,,,
 WarriorAdvanced18CardDescription,Text,,Your follower will deal 1 damage to a random adjacent enemy when it takes damage.,你的随从受到伤害时，会对随机一个相邻敌人造成1点伤害,你的隨從受到傷害時，會對隨機一個相鄰敵人造成1點傷害,,,,,,,あなたの従者がダメージを受けると、隣接するランダムな敵に1ダメージを与える,,,
-WarriorAdvanced18CardName,Text,,Inner Demon,心中恶魔,心中惡魔,,,,,,,内なる悪魔,,,
+WarriorAdvanced18CardName,Text,,Inner Demon,执念,心中惡魔,,,,,,,内なる悪魔,,,
 WarriorAdvanced19CardDescription,Text,,"Your weapon's ATK +2, but durability decreases by an extra 1 point per attack",你的武器攻击力+2，但每次攻击耐久都会额外降低1点,你的武器攻擊力+2，但每次攻擊耐久都會額外降低1點,,,,,,,自身の武器攻撃力+2、ただし攻撃するたびに、耐久が追加で1低下する,,,
 WarriorAdvanced19CardName,Text,,Slam,猛击,猛擊,,,,,,,猛撃,,,
 WarriorAdvanced20CardDescription,Text,,"After your units move, deal 1 DMG on enemy units adjacent to the target tile",你的单位移动后，对到达格子相邻的敌方单位造成1点伤害,你的單位移動後，對到達格子相鄰的敵方單位造成1點傷害,,,,,,,自身のユニットが移動すると、到着したマスに隣接する敵ユニットに1ダメージを与える,,,
