@@ -354,7 +354,7 @@ public class VictoryMenu : BasicMenu
         else
         {
             xPSlider.value = 0f;
-            xPText.text = "Max Lv.";
+            xPText.text = "已满级"; // "Max Lv.";
         }
 
         // if (MenuControl.Instance.demoMode && currentEncounter.isBoss)

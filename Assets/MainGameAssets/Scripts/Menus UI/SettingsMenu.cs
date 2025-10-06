@@ -41,31 +41,11 @@ public class SettingsMenu : BasicMenu
 
     private void Awake()
     {
-#if UNITY_STANDALONE
-        fullscreenToggle.isOn = PlayerPrefs.GetInt("Screen_FullScreen", 1) == 1;
-        //resolutions = Screen.resolutions;
-        resolutions = new List<Resolution>()
-        {
-            newResolution(1920, 1080),
-            newResolution(1600, 900),
-            newResolution(1280, 720),
-        }.ToArray();
-        
-        int currentResolutionIndex = PlayerPrefs.GetInt("ResolutionIndex", 0);
-        resolutionDropdown.value = currentResolutionIndex;
-#endif
-    }
-
-    void Start()
-    {
         MenuControl.Instance.soundMixer.SetFloat("SoundVolume", PlayerPrefs.GetFloat("SoundVolume", -5f) * 4f);
         MenuControl.Instance.soundMixer.SetFloat("MusicVolume", PlayerPrefs.GetFloat("MusicVolume", -3.5f) * 4f);
 
         playSpeed = PlayerPrefs.GetFloat("playSpeed", 1f);
-        playSpeedSlider.value = playSpeed;
-        
-        
-        
+        playSpeedSlider.value = playSpeed * 2f;
 #if UNITY_STANDALONE
         fullscreenToggle.isOn = PlayerPrefs.GetInt("Screen_FullScreen", 1) == 1;
         //resolutions = Screen.resolutions;
@@ -80,6 +60,32 @@ public class SettingsMenu : BasicMenu
         resolutionDropdown.value = currentResolutionIndex;
         SetNewScreenResolution();
 #endif
+    }
+
+    void Start()
+    {
+        // MenuControl.Instance.soundMixer.SetFloat("SoundVolume", PlayerPrefs.GetFloat("SoundVolume", -5f) * 4f);
+        // MenuControl.Instance.soundMixer.SetFloat("MusicVolume", PlayerPrefs.GetFloat("MusicVolume", -3.5f) * 4f);
+        //
+        // playSpeed = PlayerPrefs.GetFloat("playSpeed", 1f);
+        // playSpeedSlider.value = playSpeed;
+        
+        
+        
+// #if UNITY_STANDALONE
+//         fullscreenToggle.isOn = PlayerPrefs.GetInt("Screen_FullScreen", 1) == 1;
+//         //resolutions = Screen.resolutions;
+//         resolutions = new List<Resolution>()
+//         {
+//             newResolution(1920, 1080),
+//             newResolution(1600, 900),
+//             newResolution(1280, 720),
+//         }.ToArray();
+//         
+//         int currentResolutionIndex = PlayerPrefs.GetInt("ResolutionIndex", 0);
+//         resolutionDropdown.value = currentResolutionIndex;
+//         SetNewScreenResolution();
+// #endif
     }
 
     Resolution newResolution(int width, int height)
@@ -143,10 +149,12 @@ public class SettingsMenu : BasicMenu
     {
         if (gameObject.activeInHierarchy)
         {
-            MenuControl.Instance.soundMixer.SetFloat("SoundVolume", masterVolumeSlider.value * 4f);
+            // MenuControl.Instance.soundMixer.SetFloat("SoundVolume", masterVolumeSlider.value * 4f);
+            MenuControl.Instance.soundMixer.SetFloat("SoundVolume", masterVolumeSlider.value);
             PlayerPrefs.SetFloat("SoundVolume", masterVolumeSlider.value);
 
-            MenuControl.Instance.soundMixer.SetFloat("MusicVolume", musicVolumeSlider.value * 4f);
+            // MenuControl.Instance.soundMixer.SetFloat("MusicVolume", musicVolumeSlider.value * 4f);
+            MenuControl.Instance.soundMixer.SetFloat("MusicVolume", musicVolumeSlider.value);
             PlayerPrefs.SetFloat("MusicVolume", musicVolumeSlider.value);
         }
     }
@@ -154,7 +162,7 @@ public class SettingsMenu : BasicMenu
 
     public void ChangedPlaySpeed()
     {
-        playSpeed = playSpeedSlider.value;
+        playSpeed = playSpeedSlider.value * 2f;
         PlayerPrefs.SetFloat("playSpeed", playSpeed);
     }
 
