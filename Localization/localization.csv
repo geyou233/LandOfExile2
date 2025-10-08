@@ -5562,11 +5562,11 @@ ManthriAmalgamCardDescription,Text,,Gain ATK +1 for each enemy unit dies,每有�
 ManthriAmalgamCardName,Text,,Appointed Death,沙守卫,沙守衛,,,,,,,正式死神,,,
 ManthriAmalgamMageCardDescription,Text,,Gain ATK +1 for each enemy unit dies,每有一个敌方单位被摧毀，本回合增加自身1点攻击,每有一個敵方單位被摧毀，本回合增加自身1點攻擊,,,,,,,敵ユニットが1体死亡するたびに、自身の攻撃力+1,,,
 ManthriAmalgamMageCardName,Text,,Appointed Death,沙守卫,沙守衛,,,,,,,正式死神,,,
-ManthriCouncillorCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到致死伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
+ManthriCouncillorCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到导致生命小于0的伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
 ManthriCouncillorCardName,Text,,Eternal Councilor,永恒议员,永恆議員,,,,,,,永遠の議員,,,
-ManthriCouncillorMageCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到致死伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
+ManthriCouncillorMageCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到导致生命小于0的伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
 ManthriCouncillorMageCardName,Text,,Eternal Councilor,永恒议员,永恆議員,,,,,,,永遠の議員,,,
-ManthriCouncillorMinionCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到致死伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
+ManthriCouncillorMinionCardDescription,Text,,"When a councilor receives fatal damage, other councilors will take the damage instead.",一个议员受到导致生命小于0的伤害时，其他议员会代替他接收伤害。,一個議員受到致死傷害時，其他議員會代替他接收傷害。,,,,,,,議員1体が致命的なダメージを受けると、他の議員が代わりにダメージを受ける。,,,
 ManthriCouncillorMinionCardName,Text,,Eternal Councilor,永恒议员,永恆議員,,,,,,,永遠の議員,,,
 ManthriEliteCardDescription,Text,,"If there are less than 4 enemies on the field, the unit will not be attacked.",如果场上的敌军少于4个，则该单位不会受到攻击,如果場上的敵軍少於4個，則該單位不會受到攻擊,,,,,,,フィールド上の敵の数が4体未満の場合、そのユニットは攻撃されない,,,
 ManthriEliteCardName,Text,,Manthri Elite,曼思里精英,曼思裡精英,,,,,,,マンシリ精鋭,,,
@@ -7258,7 +7258,7 @@ After every adventure, your Explore Level improves based on the monsters defeate
 
 <color=white>冒险等级</color>
 
-在冒险过程中，你可以通过击杀怪物获取冒险经验，从而提升冒险等级，冒险等级提升后你可以学习一个英雄天赋
+在冒险过程中，你可以通过击败怪物获取冒险经验，从而提升冒险等级，冒险等级提升后你可以学习一个英雄天赋
 
 <color=white>英雄天赋</color>
 
@@ -8702,7 +8702,7 @@ WarriorAdvanced09CardName,Text,,Adv. Daring,高级无畏,高級無畏,,,,,,,上�
 WarriorAdvanced10CardDescription,Text,,Your hero gains ATK +2,你的英雄攻击力+2,你的英雄攻擊力+2,,,,,,,あなたのヒーローの攻撃力+2,,,
 WarriorAdvanced10CardName,Text,,Adv. Power,高级力量,高級力量,,,,,,,上級力,,,
 WarriorAdvanced11CardDescription,Text,,Melee attacks of your hero inflict Cleave,你的英雄的近战攻击具有劈砍效果,你的英雄的近戰攻擊具有劈砍效果,,,,,,,あなたのヒーローの近接攻撃は斬撃効果を持つ,,,
-WarriorAdvanced11CardName,Text,,Killing Spray,大杀四方,大殺四方,,,,,,,皆殺し,,,
+WarriorAdvanced11CardName,Text,,Killing Spray,大斩四方,大殺四方,,,,,,,皆殺し,,,
 WarriorAdvanced12CardDescription,Text,,Your units' ranged attacks deal an extra 1 DMG,你的单位进行远程攻击时，额外造成1点伤害,你的單位進行遠端攻擊時，額外造成1點傷害,,,,,,,あなたのユニットが遠距離攻撃を行うと、追加で1ダメージを与える,,,
 WarriorAdvanced12CardName,Text,,Firm Arm,健臂,健臂,,,,,,,強い腕,,,
 WarriorAdvanced13CardDescription,Text,,"When taking lethal DMG, block this damage and change HP to 1",如果你受到致命伤害，阻挡此伤害并将生命值变为1点,如果你受到致命傷害，阻擋此傷害並將生命值變為1點,,,,,,,致命的なダメージを受けると、このダメージをブロックし、HPが1になる,,,
@@ -8750,7 +8750,7 @@ WarriorAdvanced40CardName,Text,,Adv. Cruel,高级残忍,高級殘忍,,,,,,,上�
 WarriorAdvanced41CardDescription,Text,,"When your unit with Block is attacked, Knockback the enemy by 2 tile",你的具有格挡的单位受到攻击后，击退敌人2格,你的具有格擋的單位受到攻擊後，擊退敵人2格,,,,,,,あなたのブロックを持つユニットが攻撃を受けると、敵を2マスノックバックさせる,,,
 WarriorAdvanced41CardName,Text,,Adv. Counter Shock,高级反震,高級反震,,,,,,,上級反震,,,
 WarriorAdvanced42CardDescription,Text,,Melee weapon attacks of your hero inflict Cleave,你的英雄的近战武器攻击具有劈砍效果,你的英雄的近戰武器攻擊具有劈砍效果,,,,,,,あなたのヒーローの接近戦武器攻撃は斬撃を与える,,,
-WarriorAdvanced42CardName,Text,,Killing Spray,大杀四方,大殺四方,,,,,,,皆殺し,,,
+WarriorAdvanced42CardName,Text,,Killing Spray,大斩四方,大殺四方,,,,,,,皆殺し,,,
 WarriorBasic01CardDescription,Text,,"At the beginning of your turn, a random allied follower gains Thrust 1 this turn",你的回合开始时，你的随机一个随从本回合获得突进1,你的回合開始時，你的隨機一個隨從本回合獲得突進1,,,,,,,あなたのターン開始時、自分のランダムな従者1体がこのターンの間突進1を獲得する,,,
 WarriorBasic01CardName,Text,,Swift,迅捷,迅捷,,,,,,,迅速,,,
 WarriorBasic02CardDescription,Text,,"Gain 1 maximum mana, but on your first turn, your mana -2",你的最大法力+1，但第一回合的法力值-2,你的最大法力+1，但第一回合的法力值-2,,,,,,,あなたの最大マナ+1、ただし1ターン目のマナ-2,,,
@@ -8826,9 +8826,9 @@ WarriorEffect05CardName,Text,,Ready to Strike,蓄势待发,蓄勢待發,,,,,,,�
 WarriorEffect06CardDescription,Text,,All ranged weapons inflict Penetrate Effect with ranged attacks,使用任何远程武器进行的远程攻击都带有穿透效果,使用任何遠端武器進行的遠端攻擊都帶有穿透效果,,,,,,,遠距離武器を使ったあらゆる遠距離攻撃が貫通効果を持つようになる,,,
 WarriorEffect06CardName,Text,,Firm Arm,健臂,健臂,,,,,,,強い腕,,,
 WarriorEffect07CardDescription,Text,,Attacks of all melee weapons are attached with Cleave effect,使用任何近战武器的攻击均具有劈砍效果,使用任何近戰武器的攻擊均具有劈砍效果,,,,,,,接近戦武器を使ったあらゆる攻撃が斬撃効果を持つようになる,,,
-WarriorEffect07CardName,Text,,Killing Spray,大杀四方,大殺四方,,,,,,,皆殺し,,,
+WarriorEffect07CardName,Text,,Killing Spray,大斩四方,大殺四方,,,,,,,皆殺し,,,
 WarriorEffect07bCardDescription,Text,,All melee attacks are attached with Cleave effect,使用任何近战攻击均具有劈砍效果,使用任何近戰攻擊均具有劈砍效果,,,,,,,あらゆる接近戦攻撃が斬撃効果を持つようになる,,,
-WarriorEffect07bCardName,Text,,Killing Spray,大杀四方,大殺四方,,,,,,,皆殺し,,,
+WarriorEffect07bCardName,Text,,Killing Spray,大斩四方,大殺四方,,,,,,,皆殺し,,,
 WarriorEffect08CardDescription,Text,,"When your hero takes DMG, gain Counterattack in this turn",你的英雄受到伤害后，本回合获得反击,你的英雄受到傷害後，本回合獲得反擊,,,,,,,あなたのヒーローがダメージを受けると、そのターン反撃を獲得する,,,
 WarriorEffect08CardName,Text,,Hatred,仇恨,仇恨,,,,,,,憎しみ,,,
 WarriorEffect09CardDescription,Text,,Followers other than {{Black04}} shattered in this turn will revive as replicas of {{Black04}} and answer to you,此回合被摧毁的非{{Black04}}随从将被复活为{{Black04}}的复制品，由你操控,此回合被摧毀的非{{Black04}}隨從將被復活為{{Black04}}的複製品，由你操控,,,,,,,このターン破壊された{{Black04}}以外の従者は{{Black04}}の複製品として復活し、あなたの支配下に入る,,,
