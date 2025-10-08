@@ -632,8 +632,8 @@ Outbreak,card_skill_2014
 SpellPanic,card_skill_2015
 ,
 DollMaker,card_monster_2012
-MinionCursedDollX,card_retinue_2016
-MinionCursedDollY,card_retinue_2016
+MinionCursedDollX,herocard_retinue_3025
+MinionCursedDollY,herocard_retinue_3025
 MinionCursedDollZ,card_retinue_2016
 ,
 CovetousDragon,card_monster_2013
@@ -908,7 +908,7 @@ Treasure33Enemy,herocard_retinue_2025
 Treasure34,herocard_retinue_2026
 Treasure35,herocard_retinue_2027
 Treasure38,card_monster_1021
-Treasure39,card_retinue_2016
+Treasure39,herocard_retinue_3025
 Treasure36,herocard_equip_2008
 Treasure37,herocard_equip_2009
 Treasure41,herocard_skill_2040
