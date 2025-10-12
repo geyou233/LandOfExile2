@@ -45,7 +45,7 @@ public class SettingsMenu : BasicMenu
         MenuControl.Instance.soundMixer.SetFloat("MusicVolume", PlayerPrefs.GetFloat("MusicVolume", -3.5f) * 4f);
 
         playSpeed = PlayerPrefs.GetFloat("playSpeed", 1f);
-        playSpeedSlider.value = playSpeed * 1.25f;
+        playSpeedSlider.value = playSpeed;
 #if UNITY_STANDALONE
         fullscreenToggle.isOn = PlayerPrefs.GetInt("Screen_FullScreen", 1) == 1;
         //resolutions = Screen.resolutions;
@@ -162,7 +162,7 @@ public class SettingsMenu : BasicMenu
 
     public void ChangedPlaySpeed()
     {
-        playSpeed = playSpeedSlider.value * 1.25f;
+        playSpeed = playSpeedSlider.value;
         PlayerPrefs.SetFloat("playSpeed", playSpeed);
     }
 
