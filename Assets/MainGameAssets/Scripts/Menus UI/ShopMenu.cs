@@ -27,6 +27,7 @@ public class ShopMenu : BasicMenu
     public ShopMode shopMode;
     public Text titleText;
     public Text promptText;
+    public Text noTreasureTipsText;
     public TMP_Text costText;
 
     public Color offColor;
@@ -453,7 +454,7 @@ public class ShopMenu : BasicMenu
     {
         isSellingTreasure = false;
 
-
+        noTreasureTipsText.gameObject.SetActive(false);
         if (shopMode == ShopMode.Treasure)
         {
             refreshButton.UpdateView();
@@ -808,6 +809,14 @@ public class ShopMenu : BasicMenu
 
         //cards.Clear();
         treasureCards = MenuControl.Instance.heroMenu.GetTreasureCardsOwned();
+
+        if (treasureCards.Count <= 0)
+        {
+            MenuControl.Instance.confirmPopupView.ShowGetFlareInfoPopup();
+            shownFlareInfoInShop = true;
+        }
+        noTreasureTipsText.gameObject.SetActive(treasureCards.Count <= 0);
+        
 
         treasureCards = treasureCards
             .OrderBy(x => MenuControl.Instance.GetCardTypeStringForTags(x.cardTags) + x.GetName())
