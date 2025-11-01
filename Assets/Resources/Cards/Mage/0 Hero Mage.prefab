@@ -63,8 +63,8 @@ MonoBehaviour:
   goldWorth: 0
   temporaryOnly: 0
   weapon: {fileID: 0}
-  initialPower: 4
-  initialHP: 30
+  initialPower: 100
+  initialHP: 100
   initialMoves: 1
   initialActions: 1
   currentPower: 0
