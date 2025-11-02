@@ -434,6 +434,7 @@ public class MenuControl : MonoBehaviour
         {
             if (adventureMusicController.PlayProgress <= 0f && oldAdventureMusicIdleTime > 0f)
             {
+                adventureMusicController.Kill();
                 adventureMusicController = null;
                 oldAdventureMusicIdleTime = 0f;
                 LeanTween.delayedCall(gameObject, 2f, () => { PlayAdventureMusic(); });
