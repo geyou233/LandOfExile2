@@ -9,7 +9,8 @@ using UnityEngine.UI;
 
 public class EventMenu : BasicMenu
 {
-
+    public Button gmRevealAreaBtn;
+    public Button gmWinBattleBtn;
     public Image normalEventBK;
     public Image battleEventBK;
     public Transform choicesPanel;
@@ -88,12 +89,16 @@ public class EventMenu : BasicMenu
         base.ShowMenu();
         
         settingButton.SetActive(MenuControl.Instance.testMode);
+        gmWinBattleBtn.interactable = false;
+        gmRevealAreaBtn.interactable = true;
     }
     
     public override void HideMenu(bool instantly = false)
     {
         base.HideMenu(instantly);
         settingButton.SetActive(true);
+        gmWinBattleBtn.interactable = false;
+        gmRevealAreaBtn.interactable = true;
     }
 
     public void ShowEnemyDeck()
@@ -104,6 +109,8 @@ public class EventMenu : BasicMenu
 
     public void UpdateView(bool _ = false)
     {
+        gmWinBattleBtn.interactable = true;
+        gmRevealAreaBtn.interactable = false;
         isSpecialChallenge = specialChallengeToggle.isOn;
         foreach (Transform child in enemyCards)
         {
