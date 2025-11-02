@@ -311,7 +311,7 @@ public class Tile : MonoBehaviour, IPointerClickHandler,IPointerEnterHandler,IPo
         return boardMenu.tiles[(GetRow() * (boardMenu.totalActiveTiles/4)) + col];
     }
 
-    public Color redColor = new Color(190f / 255, 87f / 255, 85f / 255,0.75f);
+    public Color redColor = new Color(0f / 255f, 185f / 255f, 85f / 255f,0.75f); // new Color(190f / 255, 87f / 255, 85f / 255,0.75f);
     public Color greenColor = new Color(0f / 255f, 185f / 255f, 85f / 255f,0.75f);
     public Color whiteColor = new Color(1f, 1f, 1f, 0.75f);
     
