@@ -620,8 +620,9 @@ public class BattleMenu : BasicMenu
                 Hero hero = playerAI.CreateOrReplaceHeroWithTemplate((Hero)templateCard, boardMenu.tiles[startingPos], true);
                 hero.remainingMoves = hero.GetInitialMoves();
                 hero.remainingActions = hero.GetInitialActions();
-                
-                if (MenuControl.Instance.adventureMenu.GetCurrentAdventureItemEncounter().specialChallengeSkillApplyOnCardsInPlay && MenuControl.Instance.eventMenu.isSpecialChallenge &&
+
+                var itemEncounter = MenuControl.Instance.adventureMenu.GetCurrentAdventureItemEncounter();
+                if (itemEncounter && itemEncounter.specialChallengeSkillApplyOnCardsInPlay && MenuControl.Instance.eventMenu.isSpecialChallenge &&
                     MenuControl.Instance.eventMenu.specialChallengeSkill != null)
                 {
                     foreach (var skill in MenuControl.Instance.eventMenu.specialChallengeSkill.skills)

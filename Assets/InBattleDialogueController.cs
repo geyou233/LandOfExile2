@@ -140,7 +140,7 @@ public class InBattleDialogueController : Trigger
             
             if (info.triggerType == DialogueInBattleTriggerType.指定encounter战斗开始.ToString())
             {
-                if (MenuControl.Instance.adventureMenu.GetCurrentAdventureItemEncounter().UniqueID == info.args[0])
+                if (MenuControl.Instance.adventureMenu.GetCurrentAdventureItemEncounter()?.UniqueID == info.args[0])
                 {
                     EnqueueDialogue(info);
                     break;
