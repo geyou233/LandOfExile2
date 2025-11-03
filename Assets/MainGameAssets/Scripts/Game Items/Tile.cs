@@ -403,7 +403,7 @@ public class Tile : MonoBehaviour, IPointerClickHandler,IPointerEnterHandler,IPo
             {
                 if (GetUnit() != null && GetUnit() != MenuControl.Instance.battleMenu.hoveredVisibleCard.card)
                 {
-                    tileImage.color = Color.red;
+                    tileImage.color = greenColor; // Color.red;
                     if (MenuControl.Instance.battleMenu.hoveredVisibleCard.card.player != GetUnit().player)
                     {
                         newIndicator = boardMenu.attackIndicator;
