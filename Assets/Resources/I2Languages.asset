@@ -498,7 +498,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Complete the tutorial and defeat the mad Knight of the Round Table.
-      - "\u5B8C\u6210\u6E38\u620F\u6559\u7A0B\u5E76\u51FB\u8D25\u75AF\u72C2\u7684\u5706\u684C\u6B66\u58EB"
+      - "\u5B8C\u6210\u6E38\u620F\u6559\u7A0B\u5E76\u51FB\u8D25\u5947\u602A\u7684\u5706\u684C\u6B66\u58EB"
       - "\u5B8C\u6210\u904A\u6232\u6559\u7A0B\u4E26\u64CA\u6557\u760B\u72C2\u7684\u5713\u684C\u6B66\u58EB"
       - 
       - 
@@ -3152,7 +3152,7 @@ MonoBehaviour:
       - As you walked by a Kangaroo Dragon's nest, you accidentally woke up the sleeping
         dragon, and it roared angrily while tightening the rope that holding its
         baby.
-      - "\u4F60\u4EEC\u8DEF\u8FC7\u4E86\u4E00\u4E2A\u888B\u9F99\u7684\u5DE2\u7A74\uFF0C\u5F04\u9192\u4E86\u5728\u8FD9\u91CC\u6C89\u7761\u7684\u4E3B\u4EBA\uFF0C\u5B83\u751F\u6C14\u5730\u72C2\u543C\uFF0C\u5E76\u62C9\u7D27\u7740\u62F4\u7740\u5B83\u5B69\u5B50\u7684\u7EF3\u5B50"
+      - "\u4F60\u4EEC\u8DEF\u8FC7\u4E86\u4E00\u4E2A\u888B\u9F99\u7684\u5DE2\u7A74\uFF0C\u5F04\u9192\u4E86\u5728\u8FD9\u91CC\u6C89\u7761\u7684\u4E3B\u4EBA"
       - "\u4F60\u5011\u8DEF\u904E\u4E86\u4E00\u500B\u888B\u9F8D\u7684\u5DE2\u7A74\uFF0C\u5F04\u9192\u4E86\u5728\u9019\u88E1\u6C89\u7761\u7684\u4E3B\u4EBA\uFF0C\u5B83\u751F\u6C23\u5730\u72C2\u543C\uFF0C\u4E26\u62C9\u7DCA\u8457\u62F4\u8457\u5B83\u5B69\u5B50\u7684\u7E69\u5B50"
       - 
       - 
@@ -4436,7 +4436,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Exile Shield
-      - "\u6D41\u4EA1\u8005\u76FE\u724C"
+      - "\u8FDC\u884C\u8005\u76FE\u724C"
       - "\u6D41\u4EA1\u8005\u76FE\u724C"
       - 
       - 
@@ -5320,7 +5320,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Exile Shoulder Armor
-      - "\u6D41\u4EA1\u8005\u80A9\u7532"
+      - "\u8FDC\u884C\u8005\u80A9\u7532"
       - "\u6D41\u4EA1\u8005\u80A9\u7532"
       - 
       - 
@@ -6825,7 +6825,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Berserk
-      - "\u72C2\u66B4"
+      - "\u6FC0\u53D1"
       - "\u72C2\u66B4"
       - 
       - 
@@ -16453,7 +16453,7 @@ MonoBehaviour:
 
         [Pay Treasure]
         Halves the HP of the next 2 encounters of non-boss enemy heroes'
-      - "\u201C\u8FD9\u53EF\u662F\u4E2A\u597D\u4E1C\u897F\uFF0C\u4E0D\u8FC7\u5F97\u52A0\u94B1\u3002\u201D\n\u3010\u652F\u4ED8\u5B9D\u85CF\u3011
+      - "\u201C\u8FD9\u53EF\u662F\u4E2A\u597D\u4E1C\u897F\uFF0C\u4E0D\u8FC7\u5F97\u52A0\u94B1\u3002\u201D\n\u3010\u652F\u4ED8\u5B9D\u85CF\u5361\u3011
         \u51CF\u534A\u4E0B2\u6B21\u906D\u9047\u7684\u975E\u9996\u9886\u654C\u65B9\u82F1\u96C4\u751F\u547D\u503C"
       - "\u201C\u9019\u53EF\u662F\u500B\u597D\u6771\u897F\uFF0C\u4E0D\u904E\u5F97\u52A0\u9322\u3002\u201D\n\u3010\u652F\u4ED8\u5BF6\u85CF\u3011
         \u6E1B\u534A\u4E0B2\u6B21\u906D\u9047\u7684\u975E\u9996\u9818\u6575\u65B9\u82F1\u96C4\u751F\u547D\u503C"
@@ -16493,7 +16493,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - '[Pay Treasure] Heroes gain ATK +1 permanently'
-      - "\u3010\u652F\u4ED8\u5B9D\u85CF\u3011\u82F1\u96C4\u6C38\u4E45\u83B7\u5F97+1\u653B\u51FB"
+      - "\u3010\u652F\u4ED8\u5B9D\u85CF\u5361\u3011\u82F1\u96C4\u6C38\u4E45\u83B7\u5F97+1\u653B\u51FB"
       - "\u3010\u652F\u4ED8\u5BF6\u85CF\u3011\u82F1\u96C4\u6C38\u4E45\u7372\u5F97+1\u653B\u64CA"
       - 
       - 
@@ -17029,7 +17029,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Get 1 crystal from his bowl.
-      - "\u4ECE\u4ED6\u7684\u7897\u91CC\u83B7\u5F971\u4E2A\u6C34\u6676"
+      - "\u83B7\u5F971\u4E2A\u6C34\u6676"
       - "\u5F9E\u4ED6\u7684\u7897\u88E1\u7372\u5F971\u500B\u6C34\u6676"
       - 
       - 
@@ -17048,7 +17048,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Teach this liar a lesson!
-      - "\u6559\u8BAD\u8FD9\u4E2A\u9A97\u5B50\uFF01"
+      - "\u4E0D\u7406\u4ED6"
       - "\u6559\u8A13\u9019\u500B\u9A19\u5B50\uFF01"
       - 
       - 
@@ -20256,7 +20256,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tear wildly
-      - "\u75AF\u72C2\u6495\u54AC"
+      - "\u6495\u54AC"
       - "\u760B\u72C2\u6495\u54AC"
       - 
       - 
@@ -23120,7 +23120,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cruelty
-      - "\u6B8B\u5FCD"
+      - "\u9690\u75DB"
       - "\u6B98\u5FCD"
       - 
       - 
@@ -23600,7 +23600,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cruelty
-      - "\u6B8B\u5FCD"
+      - "\u9690\u75DB"
       - "\u6B98\u5FCD"
       - 
       - 
@@ -23638,7 +23638,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cruelty
-      - "\u6B8B\u5FCD"
+      - "\u9690\u75DB"
       - "\u6B98\u5FCD"
       - 
       - 
@@ -25104,7 +25104,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Kill
-      - "\u9F99\u7684\u6212\u5F8B"
+      - "\u9F99\u7684\u7981\u4EE4"
       - "\u6BBA\u6212"
       - 
       - 
@@ -25451,7 +25451,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Recalling Buddha
-      - "\u4EBF\u4EA6\u4F5B"
+      - "\u5976\u74F6\u9F99"
       - "\u5104\u4EA6\u4F5B"
       - 
       - 
@@ -25492,7 +25492,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Recalling Buddha
-      - "\u4EBF\u4EA6\u4F5B"
+      - "\u5976\u74F6\u9F99"
       - "\u5104\u4EA6\u4F5B"
       - 
       - 
@@ -26181,7 +26181,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stealing Imp
-      - "\u5077\u98DF\u7684\u5C0F\u6076\u9B54"
+      - "\u6697\u7CBE\u7075"
       - "\u5077\u98DF\u7684\u5C0F\u60E1\u9B54"
       - 
       - 
@@ -26862,8 +26862,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cut Hand Dance
-      - "\u5272\u624B\u821E"
-      - "\u5272\u624B\u821E"
+      - "\u9884\u8A00\u821E"
+      - "\u9884\u8A00\u821E"
       - 
       - 
       - 
@@ -28126,7 +28126,7 @@ MonoBehaviour:
       Languages:
       - Every villager will tell you to stay away from this weirdo who is obsessed
         with evil magic
-      - "\u6BCF\u4E2A\u6751\u6C11\u90FD\u4F1A\u544A\u8BC9\u4F60\uFF0C\u79BB\u8FD9\u4E2A\u6C89\u8FF7\u4E8E\u7814\u7A76\u90AA\u6076\u9B54\u6CD5\u7684\u602A\u4EBA\u8FDC\u4E00\u70B9"
+      - "\u6BCF\u4E2A\u6751\u6C11\u90FD\u4F1A\u544A\u8BC9\u4F60\uFF0C\u79BB\u8FD9\u4E2A\u6C89\u8FF7\u4E8E\u7814\u7A76\u53E4\u602A\u9B54\u6CD5\u7684\u602A\u4EBA\u8FDC\u4E00\u70B9"
       - "\u6BCF\u500B\u6751\u6C11\u90FD\u6703\u544A\u8A34\u4F60\uFF0C\u96E2\u9019\u500B\u6C89\u8FF7\u65BC\u7814\u7A76\u90AA\u60E1\u9B54\u6CD5\u7684\u602A\u4EBA\u9060\u4E00\u9EDE"
       - 
       - 
@@ -29152,7 +29152,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Occupation
-      - "\u7CBE\u795E\u63A7\u5236"
+      - "\u63A7\u5236"
       - "\u7CBE\u795E\u63A7\u5236"
       - 
       - 
@@ -29634,7 +29634,7 @@ MonoBehaviour:
       - The colossal bat directed its flock to gather Dragon Fruit, and some of them
         made disgruntled noises, but soon fell silent when one that screamed loudest
         was dressed in a strange armor.
-      - "\u8FD9\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u6325\u7740\u8759\u8760\u7FA4\u91C7\u96C6\u7740\u9F99\u6676\u679C\uFF0C\u4E00\u4E9B\u8759\u8760\u53D1\u51FA\u4E86\u4E0D\u6EE1\u7684\u58F0\u97F3\uFF0C\u4F46\u5F88\u5FEB\uFF0C\u53EB\u58F0\u6700\u5927\u7684\u90A3\u53EA\u5C31\u88AB\u7A7F\u6234\u4E0A\u4E00\u4EF6\u5947\u602A\u7684\u88C5\u7532\uFF0C\u5B83\u4EEC\u7ACB\u5373\u53D8\u5F97\u5B89\u9759\u8D77\u6765\u3002"
+      - "\u8FD9\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u6325\u8759\u8760\u7FA4\u91C7\u96C6\u7740\u9F99\u6676\u679C\uFF0C\u5B83\u5468\u8EAB\u7684\u5149\u8292\u660E\u706D\u4E0D\u5B9A\uFF0C\u65F6\u800C\u7EDA\u70C2\uFF0C\u65F6\u800C\u5E7D\u6697\u3002"
       - "\u9019\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u63EE\u8457\u8759\u8760\u7FA4\u63A1\u96C6\u8457\u9F8D\u6676\u679C\uFF0C\u4E00\u4E9B\u8759\u8760\u767C\u51FA\u4E86\u4E0D\u6EFF\u7684\u8072\u97F3\uFF0C\u4F46\u5F88\u5FEB\uFF0C\u53EB\u8072\u6700\u5927\u7684\u90A3\u53EA\u5C31\u88AB\u7A7F\u6234\u4E0A\u4E00\u4EF6\u5947\u602A\u7684\u88DD\u7532\uFF0C\u5B83\u5011\u7ACB\u5373\u8B8A\u5F97\u5B89\u975C\u8D77\u4F86\u3002"
       - 
       - 
@@ -29674,7 +29674,7 @@ MonoBehaviour:
       - The colossal bat directed its flock to gather Dragon Fruit, and some of them
         made disgruntled noises, but soon fell silent when one that screamed loudest
         was dressed in a strange armor.
-      - "\u8FD9\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u6325\u7740\u8759\u8760\u7FA4\u91C7\u96C6\u7740\u9F99\u6676\u679C\uFF0C\u4E00\u4E9B\u8759\u8760\u53D1\u51FA\u4E86\u4E0D\u6EE1\u7684\u58F0\u97F3\uFF0C\u4F46\u5F88\u5FEB\uFF0C\u53EB\u58F0\u6700\u5927\u7684\u90A3\u53EA\u5C31\u88AB\u7A7F\u6234\u4E0A\u4E00\u4EF6\u5947\u602A\u7684\u88C5\u7532\uFF0C\u5B83\u4EEC\u7ACB\u5373\u53D8\u5F97\u5B89\u9759\u8D77\u6765\u3002"
+      - "\u8FD9\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u6325\u8759\u8760\u7FA4\u91C7\u96C6\u7740\u9F99\u6676\u679C\uFF0C\u5B83\u5468\u8EAB\u7684\u5149\u8292\u660E\u706D\u4E0D\u5B9A\uFF0C\u65F6\u800C\u7EDA\u70C2\uFF0C\u65F6\u800C\u5E7D\u6697\u3002"
       - "\u9019\u53EA\u5DE8\u5927\u7684\u8759\u8760\u6307\u63EE\u8457\u8759\u8760\u7FA4\u63A1\u96C6\u8457\u9F8D\u6676\u679C\uFF0C\u4E00\u4E9B\u8759\u8760\u767C\u51FA\u4E86\u4E0D\u6EFF\u7684\u8072\u97F3\uFF0C\u4F46\u5F88\u5FEB\uFF0C\u53EB\u8072\u6700\u5927\u7684\u90A3\u53EA\u5C31\u88AB\u7A7F\u6234\u4E0A\u4E00\u4EF6\u5947\u602A\u7684\u88DD\u7532\uFF0C\u5B83\u5011\u7ACB\u5373\u8B8A\u5F97\u5B89\u975C\u8D77\u4F86\u3002"
       - 
       - 
@@ -30177,7 +30177,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mystic Armor
-      - "\u5996\u7532"
+      - "\u6676\u7532"
       - "\u5996\u7532"
       - 
       - 
@@ -34651,7 +34651,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stealing Mars Mosquito
-      - "\u5077\u98DF\u7684\u706B\u661F\u868A"
+      - "\u706B\u661F\u868A"
       - "\u5077\u98DF\u7684\u706B\u661F\u868A"
       - 
       - 
@@ -36101,7 +36101,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Barber
-      - "\u75AF\u72C2\u7684\u6D17\u526A\u5439\u5927\u5E08"
+      - "\u5947\u602A\u7684\u6D17\u526A\u5439\u5927\u5E08"
       - "\u760B\u72C2\u7684\u6D17\u526A\u5439\u5927\u5E2B"
       - 
       - 
@@ -36331,7 +36331,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Knight of the Round Table
-      - "\u75AF\u72C2\u7684\u5706\u684C\u6B66\u58EB"
+      - "\u5947\u602A\u7684\u5706\u684C\u6B66\u58EB"
       - "\u760B\u72C2\u7684\u5713\u684C\u6B66\u58EB"
       - 
       - 
@@ -36485,7 +36485,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Barber
-      - "\u75AF\u72C2\u7684\u6D17\u526A\u5439\u5927\u5E08"
+      - "\u5947\u602A\u7684\u6D17\u526A\u5439\u5927\u5E08"
       - "\u760B\u72C2\u7684\u6D17\u526A\u5439\u5927\u5E2B"
       - 
       - 
@@ -36790,7 +36790,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Knight of the Round Table
-      - "\u75AF\u72C2\u7684\u5706\u684C\u6B66\u58EB"
+      - "\u5947\u602A\u7684\u5706\u684C\u6B66\u58EB"
       - "\u760B\u72C2\u7684\u5713\u684C\u6B66\u58EB"
       - 
       - 
@@ -36904,7 +36904,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Chimo
-      - "\u75AF\u72C2\u7684\u5947\u83AB"
+      - "\u5947\u602A\u7684\u5947\u83AB"
       - "\u760B\u72C2\u7684\u5947\u83AB"
       - 
       - 
@@ -37208,7 +37208,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eye of Judgment
-      - "\u5BA1\u5224\u4E4B\u773C"
+      - "\u51DD\u89C6"
       - "\u5BE9\u5224\u4E4B\u773C"
       - 
       - 
@@ -46216,7 +46216,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Healing potion
-      - "\u6CBB\u6108\u836F\u6C34"
+      - "\u9762\u5305"
       - "\u6CBB\u7652\u85E5\u6C34"
       - 
       - 
@@ -46254,7 +46254,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Healing potion
-      - "\u6CBB\u6108\u836F\u6C34"
+      - "\u9762\u5305"
       - "\u6CBB\u7652\u85E5\u6C34"
       - 
       - 
@@ -46293,7 +46293,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Hellfire
-      - "\u5730\u72F1\u4E4B\u706B"
+      - "\u71C3\u5C3D"
       - "\u5730\u7344\u4E4B\u706B"
       - 
       - 
@@ -47348,7 +47348,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Recalling Buddha
-      - "\u4EBF\u4EA6\u4F5B"
+      - "\u5976\u74F6\u9F99"
       - "\u5104\u4EA6\u4F5B"
       - 
       - 
@@ -47388,7 +47388,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Recalling Buddha
-      - "\u4EBF\u4EA6\u4F5B"
+      - "\u5976\u74F6\u9F99"
       - "\u5104\u4EA6\u4F5B"
       - 
       - 
@@ -47540,7 +47540,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - This mad element monster swung the icicle heavily and almost hit a villager.
-      - "\u8FD9\u53EA\u53D1\u72C2\u7684\u5143\u7D20\u9B54\u7269\u91CD\u91CD\u5730\u6325\u821E\u7740\u624B\u4E2D\u7684\u51B0\u9525\uFF0C\u5DEE\u70B9\u51FB\u4E2D\u4E86\u4E00\u4E2A\u6751\u6C11"
+      - "\u8FD9\u53EA\u5931\u63A7\u7684\u5143\u7D20\u9B54\u7269\u91CD\u91CD\u7684\u6325\u821E\u7740\u624B\u4E2D\u7684\u51B0\u9525\uFF0C\u5DEE\u70B9\u51FB\u4E2D\u4E86\u4E00\u4E2A\u6751\u6C11"
       - "\u9019\u53EA\u767C\u72C2\u7684\u5143\u7D20\u9B54\u7269\u91CD\u91CD\u5730\u63EE\u821E\u8457\u624B\u4E2D\u7684\u51B0\u9310\uFF0C\u5DEE\u9EDE\u64CA\u4E2D\u4E86\u4E00\u500B\u6751\u6C11"
       - 
       - 
@@ -48404,7 +48404,7 @@ MonoBehaviour:
       Languages:
       - It's him, the figure you detected from the monster's thoughts. He is constantly
         berating and whipping his men, urging them to gather labradorite.
-      - "\u5C31\u662F\u4ED6\uFF0C\u4F60\u4ECE\u9B54\u7269\u7684\u601D\u60F3\u4E2D\u4FA6\u6D4B\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u4E0D\u505C\u5730\u5475\u65A5\u548C\u97AD\u6253\u7740\u624B\u4E0B\uFF0C\u50AC\u4FC3\u4ED6\u4EEC\u91C7\u96C6\u7740\u62C9\u957F\u77F3\u3002"
+      - "\u5C31\u662F\u4ED6\uFF0C\u4F60\u4ECE\u9B54\u7269\u7684\u601D\u60F3\u4E2D\u4FA6\u6D4B\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u50AC\u4FC3\u7740\u624B\u4E0B\u91C7\u96C6\u7740\u62C9\u957F\u77F3\u3002 "
       - "\u5C31\u662F\u4ED6\uFF0C\u4F60\u5F9E\u9B54\u7269\u7684\u601D\u60F3\u4E2D\u5075\u6E2C\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u4E0D\u505C\u5730\u5475\u65A5\u548C\u97AD\u6253\u8457\u624B\u4E0B\uFF0C\u50AC\u4FC3\u4ED6\u5011\u63A1\u96C6\u8457\u62C9\u9577\u77F3\u3002"
       - 
       - 
@@ -49667,7 +49667,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Wizard
-      - "\u75AF\u72C2\u7684\u5DEB\u5E08"
+      - "\u5947\u602A\u7684\u5DEB\u5E08"
       - "\u760B\u72C2\u7684\u5DEB\u5E2B"
       - 
       - 
@@ -50210,7 +50210,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Wizard
-      - "\u75AF\u72C2\u7684\u5DEB\u5E08"
+      - "\u5947\u602A\u7684\u5DEB\u5E08"
       - "\u760B\u72C2\u7684\u5DEB\u5E2B"
       - 
       - 
@@ -50403,7 +50403,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Sentinel
-      - "\u75AF\u72C2\u7684\u54E8\u5175"
+      - "\u5947\u602A\u7684\u54E8\u5175"
       - "\u760B\u72C2\u7684\u54E8\u5175"
       - 
       - 
@@ -51096,7 +51096,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Healing Potion
-      - "\u6CBB\u7597\u836F\u6C34"
+      - "\u9762\u5305"
       - "\u6CBB\u7642\u85E5\u6C34"
       - 
       - 
@@ -51784,7 +51784,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Greed Potion
-      - "\u8D2A\u5A6A\u836F\u5242"
+      - "\u4E30\u6536\u836F\u5242"
       - "\u8CAA\u5A6A\u85E5\u5291"
       - 
       - 
@@ -64166,7 +64166,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Frenzy
-      - "\u72C2\u4E71"
+      - "\u5931\u63A7"
       - "\u72C2\u4E82"
       - 
       - 
@@ -64174,7 +64174,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u72C2\u4E71"
+      - "\u5931\u63A7"
       - 
       - 
       - 
@@ -64588,7 +64588,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Elemental Master
-      - "\u5143\u7D20\u5927\u5E08"
+      - "\u6742\u800D\u5927\u5E08\xB7\u4F20\u5947"
       - "\u5143\u7D20\u5927\u5E2B"
       - 
       - 
@@ -64626,7 +64626,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Bounce Master
-      - "\u5F39\u5C04\u5927\u5E08"
+      - "\u6742\u800D\u5927\u5E08\xB7\u8D85\u51E1"
       - "\u5F48\u5C04\u5927\u5E2B"
       - 
       - 
@@ -64745,7 +64745,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stormcloud Wizard
-      - "\u96F7\u4E91\u5DEB\u5E08"
+      - "\u96F7\u7535\u5DEB\u5E08\xB7\u4F20\u5947"
       - "\u96F7\u96F2\u5DEB\u5E2B"
       - 
       - 
@@ -64784,7 +64784,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thundercall Wizard
-      - "\u5524\u96F7\u5DEB\u5E08"
+      - "\u96F7\u7535\u5DEB\u5E08\xB7\u8D85\u51E1"
       - "\u559A\u96F7\u5DEB\u5E2B"
       - 
       - 
@@ -64904,7 +64904,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Starry Little Happy Witch
-      - "\u661F\u7A7A\u5C0F\u4E50\u5DEB"
+      - "\u5C0F\u4E50\u5DEB\xB7\u4F20\u5947"
       - "\u661F\u7A7A\u5C0F\u6A02\u5DEB"
       - 
       - 
@@ -64945,7 +64945,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mischievous Little Happy Witch
-      - "\u987D\u76AE\u5C0F\u4E50\u5DEB"
+      - "\u5C0F\u4E50\u5DEB\xB7\u8D85\u51E1"
       - "\u9811\u76AE\u5C0F\u6A02\u5DEB"
       - 
       - 
@@ -65106,7 +65106,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blinking Masked Mage
-      - "\u95EA\u70C1\u5047\u9762\u6CD5\u5E08"
+      - "\u5047\u9762\u6CD5\u5E08\xB7\u4F20\u5947"
       - "\u9583\u720D\u5047\u9762\u6CD5\u5E2B"
       - 
       - 
@@ -65148,7 +65148,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Radiant Masked Mage
-      - "\u5149\u74A7\u5047\u9762\u6CD5\u5E08"
+      - "\u5047\u9762\u6CD5\u5E08\xB7\u8D85\u51E1"
       - "\u5149\u74A7\u5047\u9762\u6CD5\u5E2B"
       - 
       - 
@@ -65189,7 +65189,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blaze Wine Mage
-      - "\u708E\u917F\u6CD5\u5E08"
+      - "\u708E\u708E\u6CD5\u5E08"
       - "\u708E\u91C0\u6CD5\u5E2B"
       - 
       - 
@@ -65230,7 +65230,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blaze Wine Mage
-      - "\u708E\u917F\u6CD5\u5E08"
+      - "\u708E\u708E\u6CD5\u5E08"
       - "\u708E\u91C0\u6CD5\u5E2B"
       - 
       - 
@@ -65271,7 +65271,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Lava Blaze Wine Mage
-      - "\u7194\u5CA9\u708E\u917F\u6CD5\u5E08"
+      - "\u708E\u708E\u6CD5\u5E08\xB7\u4F20\u5947"
       - "\u7194\u5CA9\u708E\u91C0\u6CD5\u5E2B"
       - 
       - 
@@ -65313,7 +65313,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infernal Blaze Wine Mage
-      - "\u70BC\u72F1\u708E\u917F\u6CD5\u5E08"
+      - "\u708E\u708E\u6CD5\u5E08\xB7\u8D85\u51E1"
       - "\u7149\u7344\u708E\u91C0\u6CD5\u5E2B"
       - 
       - 
@@ -65351,7 +65351,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arson Clown
-      - "\u70B9\u706B\u5C0F\u4E11"
+      - "\u5C0F\u4E11\u5947\u83AB"
       - "\u9EDE\u706B\u5C0F\u4E11"
       - 
       - 
@@ -65389,7 +65389,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arson Clown
-      - "\u70B9\u706B\u5C0F\u4E11"
+      - "\u5C0F\u4E11\u5947\u83AB"
       - "\u9EDE\u706B\u5C0F\u4E11"
       - 
       - 
@@ -65428,7 +65428,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Card Arsonist Clown
-      - "\u5361\u724C\u70B9\u706B\u5C0F\u4E11"
+      - "\u5C0F\u4E11\u5947\u83AB\xB7\u4F20\u5947"
       - "\u5361\u724C\u9EDE\u706B\u5C0F\u4E11"
       - 
       - 
@@ -65467,7 +65467,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Gale Arsonist Clown
-      - "\u75BE\u98CE\u70B9\u706B\u5C0F\u4E11"
+      - "\u5C0F\u4E11\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u75BE\u98A8\u9EDE\u706B\u5C0F\u4E11"
       - 
       - 
@@ -65582,7 +65582,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flaming Flame Warlock
-      - "\u71C3\u7130\u708E\u672F\u58EB"
+      - "\u708E\u672F\u58EB\xB7\u4F20\u5947"
       - "\u71C3\u7130\u708E\u8853\u58EB"
       - 
       - 
@@ -65621,7 +65621,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arcane Flame Warlock
-      - "\u5965\u80FD\u708E\u672F\u58EB"
+      - "\u708E\u672F\u58EB\xB7\u8D85\u51E1"
       - "\u5967\u80FD\u708E\u8853\u58EB"
       - 
       - 
@@ -65736,7 +65736,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Shardrock Demon
-      - "\u788E\u5CA9\u517D"
+      - "\u5CA9\u517D\xB7\u4F20\u5947"
       - "\u788E\u5CA9\u517D"
       - 
       - 
@@ -65775,7 +65775,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rock Toss Demon
-      - "\u629B\u5CA9\u517D"
+      - "\u5CA9\u517D\xB7\u8D85\u51E1"
       - "\u629B\u5CA9\u517D"
       - 
       - 
@@ -65891,7 +65891,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tidal Ripple Fin
-      - "\u6F6E\u6D8C\u6F2A\u9CCD"
+      - "\u6F2A\u9CCD\xB7\u4F20\u5947"
       - "\u6F6E\u6E67\u6F2A\u9C2D"
       - 
       - 
@@ -65930,7 +65930,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Polar Ripple Fin
-      - "\u6781\u5730\u6F2A\u9CCD"
+      - "\u6F2A\u9CCD\xB7\u8D85\u51E1"
       - "\u6975\u5730\u6F2A\u9C2D"
       - 
       - 
@@ -66046,7 +66046,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Master of Arcane Crystals
-      - "\u5965\u80FD\u6C34\u6676\u5927\u5E08"
+      - "\u6C34\u6676\u5927\u5E08\xB7\u4F20\u5947"
       - "\u5967\u80FD\u6C34\u6676\u5927\u5E2B"
       - 
       - 
@@ -66085,7 +66085,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Waterflow Master
-      - "\u6C34\u6D41\u5927\u5E08"
+      - "\u6C34\u6676\u5927\u5E08\xB7\u8D85\u51E1"
       - "\u6C34\u6D41\u5927\u5E2B"
       - 
       - 
@@ -66241,7 +66241,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Frost Apprentice
-      - "\u51B0\u971C\u5B66\u5F92"
+      - "\u6CD5\u5E08\u5B66\u5F92\xB7\u4F20\u5947"
       - "\u51B0\u971C\u5B78\u5F92"
       - 
       - 
@@ -66279,7 +66279,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flame Apprentice
-      - "\u706B\u7130\u5B66\u5F92"
+      - "\u6CD5\u5E08\u5B66\u5F92\xB7\u8D85\u51E1"
       - "\u706B\u7130\u5B78\u5F92"
       - 
       - 
@@ -66438,7 +66438,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunder Roll Fiend
-      - "\u96F7\u9E23\u5996"
+      - "\u96F7\u5149\u5996\xB7\u4F20\u5947"
       - "\u96F7\u9CF4\u5996"
       - 
       - 
@@ -66479,7 +66479,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Lightning Blade Fiend
-      - "\u96F7\u5200\u5996"
+      - "\u96F7\u5149\u5996\xB7\u8D85\u51E1"
       - "\u96F7\u5200\u5996"
       - 
       - 
@@ -66594,7 +66594,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - High-energy Construct
-      - "\u9AD8\u80FD\u9020\u7269"
+      - "\u80FD\u91CF\u9020\u7269\xB7\u4F20\u5947"
       - "\u9AD8\u80FD\u9020\u7269"
       - 
       - 
@@ -66633,7 +66633,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nebula Construct
-      - "\u661F\u4E91\u9020\u7269"
+      - "\u80FD\u91CF\u9020\u7269\xB7\u8D85\u51E1"
       - "\u661F\u96F2\u9020\u7269"
       - 
       - 
@@ -66672,7 +66672,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Dark Lifeforms
-      - "\u9ED1\u6697\u751F\u547D\u4F53"
+      - "\u9ED1\u9ED1\u9020\u7269"
       - "\u9ED1\u6697\u751F\u547D\u9AD4"
       - 
       - 
@@ -66711,7 +66711,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Dark Lifeforms
-      - "\u9ED1\u6697\u751F\u547D\u4F53"
+      - "\u9ED1\u9ED1\u9020\u7269"
       - "\u9ED1\u6697\u751F\u547D\u9AD4"
       - 
       - 
@@ -66750,7 +66750,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Chaos Lifeforms
-      - "\u6DF7\u6C8C\u751F\u547D\u4F53"
+      - "\u9ED1\u9ED1\u9020\u7269\xB7\u4F20\u5947"
       - "\u6DF7\u6C8C\u751F\u547D\u9AD4"
       - 
       - 
@@ -66789,7 +66789,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Void Lifeforms
-      - "\u865A\u7A7A\u751F\u547D\u4F53"
+      - "\u9ED1\u9ED1\u9020\u7269\xB7\u8D85\u51E1"
       - "\u865B\u7A7A\u751F\u547D\u9AD4"
       - 
       - 
@@ -66827,7 +66827,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Panda Chimo
-      - "\u718A\u732B\u5947\u83AB"
+      - "\u5C0F\u7F8E\u5947\u83AB"
       - "\u718A\u8C93\u5947\u83AB"
       - 
       - 
@@ -66865,7 +66865,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Panda Chimo
-      - "\u718A\u732B\u5947\u83AB"
+      - "\u5C0F\u7F8E\u5947\u83AB"
       - "\u718A\u8C93\u5947\u83AB"
       - 
       - 
@@ -66904,7 +66904,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Panda Monk
-      - "\u718A\u732B\u6B66\u50E7"
+      - "\u5C0F\u7F8E\u5947\u83AB\xB7\u4F20\u5947"
       - "\u718A\u8C93\u6B66\u50E7"
       - 
       - 
@@ -66943,7 +66943,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Panda Juggler
-      - "\u718A\u732B\u6742\u800D\u8005"
+      - "\u5C0F\u7F8E\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u718A\u8C93\u96DC\u800D\u8005"
       - 
       - 
@@ -67064,7 +67064,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Christmas Archmage
-      - "\u5723\u8BDE\u5927\u6CD5\u5E08"
+      - "\u5723\u8BDE\u6CD5\u5E08\xB7\u4F20\u5947"
       - "\u8056\u8A95\u5927\u6CD5\u5E2B"
       - 
       - 
@@ -67105,7 +67105,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Christmas Elementalist
-      - "\u5723\u8BDE\u5143\u7D20\u5E08"
+      - "\u5723\u8BDE\u6CD5\u5E08\xB7\u8D85\u51E1"
       - "\u8056\u8A95\u5143\u7D20\u5E2B"
       - 
       - 
@@ -67143,7 +67143,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wild Mage
-      - "\u5145\u80FD\u9B54\u7532"
+      - "\u5145\u80FD\u88C5\u7532"
       - "\u5145\u80FD\u9B54\u7532"
       - 
       - 
@@ -67181,7 +67181,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wild Mage
-      - "\u5145\u80FD\u9B54\u7532"
+      - "\u5145\u80FD\u88C5\u7532"
       - "\u5145\u80FD\u9B54\u7532"
       - 
       - 
@@ -67219,7 +67219,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wild High Priest
-      - "\u72C2\u91CE\u5145\u80FD\u9B54\u7532"
+      - "\u5145\u80FD\u88C5\u7532\xB7\u4F20\u5947"
       - "\u72C2\u91CE\u5145\u80FD\u9B54\u7532"
       - 
       - 
@@ -67260,7 +67260,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Windfury Shaman
-      - "\u98CE\u6012\u5145\u80FD\u9B54\u7532"
+      - "\u5145\u80FD\u88C5\u7532\xB7\u8D85\u51E1"
       - "\u98A8\u6012\u5145\u80FD\u9B54\u7532"
       - 
       - 
@@ -67299,7 +67299,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Hatter
-      - "\u75AF\u5E3D\u5B50"
+      - "\u7EC5\u58EB\u5947\u83AB"
       - "\u760B\u5E3D\u5B50"
       - 
       - 
@@ -67338,7 +67338,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Hatter
-      - "\u75AF\u5E3D\u5B50"
+      - "\u7EC5\u58EB\u5947\u83AB"
       - "\u760B\u5E3D\u5B50"
       - 
       - 
@@ -67377,7 +67377,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Juggling Mad Hatter
-      - "\u6742\u800D\u75AF\u5E3D\u5B50"
+      - "\u7EC5\u58EB\u5947\u83AB\xB7\u4F20\u5947"
       - "\u96DC\u800D\u760B\u5E3D\u5B50"
       - 
       - 
@@ -67417,7 +67417,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flaming Mad Hatter
-      - "\u71C3\u7130\u75AF\u5E3D\u5B50"
+      - "\u7EC5\u58EB\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u71C3\u7130\u760B\u5E3D\u5B50"
       - 
       - 
@@ -67455,7 +67455,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Pact Warlock
-      - "\u5951\u7EA6\u672F\u58EB"
+      - "\u6F5C\u80FD\u6CD5\u5E08"
       - "\u5951\u7D04\u8853\u58EB"
       - 
       - 
@@ -67493,7 +67493,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Pact Warlock
-      - "\u5951\u7EA6\u672F\u58EB"
+      - "\u6F5C\u80FD\u6CD5\u5E08"
       - "\u5951\u7D04\u8853\u58EB"
       - 
       - 
@@ -67531,7 +67531,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Summoner Warlock
-      - "\u5524\u7075\u672F\u58EB"
+      - "\u6F5C\u80FD\u6CD5\u5E08\xB7\u4F20\u5947"
       - "\u559A\u9748\u8853\u58EB"
       - 
       - 
@@ -67570,7 +67570,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Death Warlock
-      - "\u865A\u7A7A\u672F\u58EB"
+      - "\u6F5C\u80FD\u6CD5\u5E08\xB7\u8D85\u51E1"
       - "\u865B\u7A7A\u8853\u58EB"
       - 
       - 
@@ -67761,7 +67761,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Spiked Glacier Beasts
-      - "\u5C16\u9525\u51B0\u6676\u517D"
+      - "\u51B0\u6676\u517D\xB7\u4F20\u5947"
       - "\u5C16\u9310\u51B0\u6676\u7378"
       - 
       - 
@@ -67800,7 +67800,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blizzard Glacier Beast
-      - "\u66B4\u96EA\u51B0\u6676\u517D"
+      - "\u51B0\u6676\u517D\xB7\u8D85\u51E1"
       - "\u66B4\u96EA\u51B0\u6676\u7378"
       - 
       - 
@@ -67916,7 +67916,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunder Clown
-      - "\u96F7\u7535\u5C0F\u4E11"
+      - "\u7535\u51FB\u5C0F\u4E11\xB7\u4F20\u5947"
       - "\u96F7\u96FB\u5C0F\u4E11"
       - 
       - 
@@ -67955,7 +67955,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cheerful Electric Shock Clowns
-      - "\u6B22\u5FEB\u7684\u7535\u51FB\u5C0F\u4E11"
+      - "\u7535\u51FB\u5C0F\u4E11\xB7\u8D85\u51E1"
       - "\u6B61\u5FEB\u7684\u96FB\u64CA\u5C0F\u4E11"
       - 
       - 
@@ -68072,7 +68072,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blazing Forge
-      - "\u7099\u70ED\u7194\u7089"
+      - "\u7194\u7089\xB7\u4F20\u5947"
       - "\u7099\u71B1\u7194\u7210"
       - 
       - 
@@ -68111,7 +68111,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Overheat Forge
-      - "\u9AD8\u6E29\u7194\u7089"
+      - "\u7194\u7089\xB7\u8D85\u51E1"
       - "\u9AD8\u6EAB\u7194\u7210"
       - 
       - 
@@ -68226,7 +68226,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mana Statue
-      - "\u9B54\u80FD\u96D5\u50CF"
+      - "\u9B54\u529B\u96D5\u50CF\xB7\u4F20\u5947"
       - "\u9B54\u80FD\u96D5\u50CF"
       - 
       - 
@@ -68265,7 +68265,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Frostsnow Magic Statue
-      - "\u971C\u96EA\u9B54\u529B\u96D5\u50CF"
+      - "\u9B54\u529B\u96D5\u50CF\xB7\u8D85\u51E1"
       - "\u971C\u96EA\u9B54\u529B\u96D5\u50CF"
       - 
       - 
@@ -68303,7 +68303,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Royal Storm Pikeman
-      - "\u5251\u7389\u9CC4\u9738"
+      - "\u5251\u7389\u9CC4"
       - "\u528D\u7389\u9C77\u9738"
       - 
       - 
@@ -68341,7 +68341,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Royal Storm Pikeman
-      - "\u5251\u7389\u9CC4\u9738"
+      - "\u5251\u7389\u9CC4"
       - "\u528D\u7389\u9C77\u9738"
       - 
       - 
@@ -68380,7 +68380,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Elemental Crocodile Overlord
-      - "\u5143\u7D20\u9CC4\u9738"
+      - "\u5251\u7389\u9CC4\xB7\u4F20\u5947"
       - "\u5143\u7D20\u9C77\u9738"
       - 
       - 
@@ -68419,7 +68419,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arcane Crocodile Overlord
-      - "\u5965\u80FD\u9CC4\u9738"
+      - "\u5251\u7389\u9CC4\xB7\u8D85\u51E1"
       - "\u5967\u80FD\u9C77\u9738"
       - 
       - 
@@ -68540,7 +68540,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ice Spike Battlemage
-      - "\u51B0\u9525\u6218\u6CD5\u5E08"
+      - "\u6218\u6CD5\u5E08\xB7\u4F20\u5947"
       - "\u51B0\u9310\u6230\u6CD5\u5E2B"
       - 
       - 
@@ -68581,7 +68581,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stillwater Battlemage
-      - "\u9759\u6C34\u6218\u6CD5\u5E08"
+      - "\u6218\u6CD5\u5E08\xB7\u8D85\u51E1"
       - "\u975C\u6C34\u6230\u6CD5\u5E2B"
       - 
       - 
@@ -69168,7 +69168,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - High-Temperature Meteor
-      - "\u9AD8\u6E29\u9668\u77F3\u672F"
+      - "\u9668\u77F3\u672F\xB7\u4F20\u5947"
       - "\u9AD8\u6EAB\u9695\u77F3\u8853"
       - 
       - 
@@ -69207,7 +69207,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flaming Meteor
-      - "\u71C3\u7130\u9668\u77F3\u672F"
+      - "\u9668\u77F3\u672F\xB7\u8D85\u51E1"
       - "\u71C3\u7130\u9695\u77F3\u8853"
       - 
       - 
@@ -69360,7 +69360,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blizzard
-      - "\u5927\u66B4\u96EA"
+      - "\u66B4\u96EA\xB7\u4F20\u5947"
       - "\u5927\u66B4\u96EA"
       - 
       - 
@@ -69399,7 +69399,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arctic Blizzard
-      - "\u6781\u5BD2\u66B4\u96EA"
+      - "\u66B4\u96EA\xB7\u8D85\u51E1"
       - "\u6975\u5BD2\u66B4\u96EA"
       - 
       - 
@@ -69522,7 +69522,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infinite Frostbite Sword
-      - "\u65E0\u9650\u7684\u971C\u51BB\u4E4B\u5251"
+      - "\u971C\u51BB\u4E4B\u5251\xB7\u4F20\u5947"
       - "\u7121\u9650\u7684\u971C\u51CD\u4E4B\u528D"
       - 
       - 
@@ -69561,7 +69561,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Frostsnow Blade
-      - "\u971C\u96EA\u4E4B\u5251"
+      - "\u971C\u51BB\u4E4B\u5251\xB7\u8D85\u51E1"
       - "\u971C\u96EA\u4E4B\u528D"
       - 
       - 
@@ -69600,7 +69600,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nightmare Arrow
-      - "\u5669\u68A6\u7BAD"
+      - "\u96F7\u9E23\u7BAD"
       - "\u5669\u5922\u7BAD"
       - 
       - 
@@ -69639,7 +69639,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nightmare Arrow
-      - "\u5669\u68A6\u7BAD"
+      - "\u96F7\u9E23\u7BAD"
       - "\u5669\u5922\u7BAD"
       - 
       - 
@@ -69678,7 +69678,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infinite Nightmare Arrow
-      - "\u65E0\u9650\u7684\u5669\u68A6\u7BAD"
+      - "\u96F7\u9E23\u7BAD\xB7\u4F20\u5947"
       - "\u7121\u9650\u7684\u5669\u5922\u7BAD"
       - 
       - 
@@ -69719,7 +69719,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Nightmare Arrow
-      - "\u53CD\u566C\u7684\u5669\u68A6\u7BAD"
+      - "\u96F7\u9E23\u7BAD\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u7684\u5669\u5922\u7BAD"
       - 
       - 
@@ -69836,7 +69836,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Fireblast
-      - "\u5F3A\u6548\u7206\u708E\u672F"
+      - "\u7206\u708E\u672F\xB7\u4F20\u5947"
       - "\u5F37\u6548\u7206\u708E\u8853"
       - 
       - 
@@ -69877,7 +69877,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flaming Fireblast
-      - "\u71C3\u7130\u7206\u708E\u672F"
+      - "\u7206\u708E\u672F\xB7\u8D85\u51E1"
       - "\u71C3\u7130\u7206\u708E\u8853"
       - 
       - 
@@ -69998,7 +69998,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Extended Lightning Coil
-      - "\u5EF6\u4F38\u95EA\u7535\u76D8\u7ED5"
+      - "\u95EA\u7535\u76D8\u7ED5\xB7\u4F20\u5947"
       - "\u5EF6\u4F38\u9583\u96FB\u76E4\u7E5E"
       - 
       - 
@@ -70039,7 +70039,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Lightning Coil
-      - "\u53CD\u566C\u95EA\u7535\u76D8\u7ED5"
+      - "\u95EA\u7535\u76D8\u7ED5\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u9583\u96FB\u76E4\u7E5E"
       - 
       - 
@@ -70153,7 +70153,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Magic Lightening Shock
-      - "\u9B54\u529B\u95EA\u7535\u51FB"
+      - "\u95EA\u7535\u51FB\xB7\u4F20\u5947"
       - "\u9B54\u529B\u9583\u96FB\u64CA"
       - 
       - 
@@ -70192,7 +70192,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Lightning Strike
-      - "\u96F7\u9E23\u95EA\u7535\u51FB"
+      - "\u95EA\u7535\u51FB\xB7\u8D85\u51E1"
       - "\u96F7\u9CF4\u9583\u96FB\u64CA"
       - 
       - 
@@ -70309,7 +70309,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Radiant Thunderstrike
-      - "\u95EA\u8000\u96F7\u51FB"
+      - "\u96F7\u51FB\xB7\u4F20\u5947"
       - "\u9583\u8000\u96F7\u64CA"
       - 
       - 
@@ -70348,7 +70348,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunderstrike
-      - "\u5F3A\u6548\u96F7\u51FB"
+      - "\u96F7\u51FB\xB7\u8D85\u51E1"
       - "\u5F37\u6548\u96F7\u64CA"
       - 
       - 
@@ -70387,7 +70387,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunderstrike
-      - "\u5F3A\u6548\u96F7\u51FB"
+      - "\u96F7\u51FB\xB7\u8D85\u51E1"
       - "\u5F37\u6548\u96F7\u64CA"
       - 
       - 
@@ -70504,7 +70504,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wider Gate of Time and Space
-      - "\u66F4\u5BBD\u7684\u65F6\u7A7A\u4E4B\u95E8"
+      - "\u65F6\u7A7A\u4E4B\u95E8\xB7\u4F20\u5947"
       - "\u66F4\u5BEC\u7684\u6642\u7A7A\u4E4B\u9580"
       - 
       - 
@@ -70545,7 +70545,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Gate of Time and Space
-      - "\u53CD\u566C\u7684\u65F6\u7A7A\u4E4B\u95E8"
+      - "\u65F6\u7A7A\u4E4B\u95E8\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u7684\u6642\u7A7A\u4E4B\u9580"
       - 
       - 
@@ -70662,7 +70662,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Elemental Feast
-      - "\u5F3A\u6548\u5143\u7D20\u76DB\u5BB4"
+      - "\u5143\u7D20\u76DB\u5BB4\xB7\u4F20\u5947"
       - "\u5F37\u6548\u5143\u7D20\u76DB\u5BB4"
       - 
       - 
@@ -70701,7 +70701,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stable Elemental Feast
-      - "\u7A33\u56FA\u5143\u7D20\u76DB\u5BB4"
+      - "\u5143\u7D20\u76DB\u5BB4\xB7\u8D85\u51E1"
       - "\u7A69\u56FA\u5143\u7D20\u76DB\u5BB4"
       - 
       - 
@@ -70824,7 +70824,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Quickfreeze
-      - "\u6025\u51BB\u672F"
+      - "\u971C\u51BB\u672F\xB7\u4F20\u5947"
       - "\u6025\u51CD\u8853"
       - 
       - 
@@ -70865,7 +70865,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infinite Frostbite Spell
-      - "\u65E0\u9650\u971C\u51BB\u672F"
+      - "\u971C\u51BB\u672F\xB7\u8D85\u51E1"
       - "\u7121\u9650\u971C\u51CD\u8853"
       - 
       - 
@@ -70980,7 +70980,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Ice Shatter
-      - "\u5F3A\u6548\u788E\u51B0\u672F"
+      - "\u788E\u51B0\u672F\xB7\u4F20\u5947"
       - "\u5F37\u6548\u788E\u51B0\u8853"
       - 
       - 
@@ -71019,7 +71019,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Deadly Ice Shatter
-      - "\u5E78\u8FD0\u788E\u51B0\u672F"
+      - "\u788E\u51B0\u672F\xB7\u8D85\u51E1"
       - "\u5E78\u904B\u788E\u51B0\u8853"
       - 
       - 
@@ -71137,7 +71137,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunderfall
-      - "\u5F3A\u6548\u843D\u96F7\u672F"
+      - "\u843D\u96F7\u672F\xB7\u4F20\u5947"
       - "\u5F37\u6548\u843D\u96F7\u8853"
       - 
       - 
@@ -71176,7 +71176,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunderclap
-      - "\u60CA\u96F7\u672F"
+      - "\u843D\u96F7\u672F\xB7\u8D85\u51E1"
       - "\u9A5A\u96F7\u8853"
       - 
       - 
@@ -71295,7 +71295,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fireworks
-      - "\u70DF\u82B1\u672F"
+      - "\u706B\u82B1\u672F\xB7\u4F20\u5947"
       - "\u7159\u82B1\u8853"
       - 
       - 
@@ -71336,7 +71336,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Spark Spell
-      - "\u53CD\u566C\u706B\u82B1\u672F"
+      - "\u706B\u82B1\u672F\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u706B\u82B1\u8853"
       - 
       - 
@@ -71375,7 +71375,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Spark Spell
-      - "\u53CD\u566C\u706B\u82B1\u672F"
+      - "\u706B\u82B1\u672F\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u706B\u82B1\u8853"
       - 
       - 
@@ -71496,7 +71496,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Magic Armor
-      - "\u5F3A\u6548\u9B54\u6CD5\u62A4\u7532"
+      - "\u9B54\u6CD5\u62A4\u7532\xB7\u4F20\u5947"
       - "\u5F37\u6548\u9B54\u6CD5\u8B77\u7532"
       - 
       - 
@@ -71538,7 +71538,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Magic Armor
-      - "\u53CD\u566C\u9B54\u6CD5\u62A4\u7532"
+      - "\u9B54\u6CD5\u62A4\u7532\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u9B54\u6CD5\u8B77\u7532"
       - 
       - 
@@ -71662,7 +71662,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Empowered Teleport
-      - "\u805A\u80FD\u4F20\u9001"
+      - "\u4F20\u9001\xB7\u4F20\u5947"
       - "\u805A\u80FD\u50B3\u9001"
       - 
       - 
@@ -71703,7 +71703,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Charged Teleport
-      - "\u5145\u80FD\u4F20\u9001"
+      - "\u4F20\u9001\xB7\u8D85\u51E1"
       - "\u5145\u80FD\u50B3\u9001"
       - 
       - 
@@ -71826,7 +71826,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Quick Frost Shock
-      - "\u5FEB\u901F\u51B0\u971C\u51B2\u51FB"
+      - "\u51B0\u971C\u51B2\u51FB\xB7\u4F20\u5947"
       - "\u5FEB\u901F\u51B0\u971C\u885D\u64CA"
       - 
       - 
@@ -71867,7 +71867,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Frost Shock
-      - "\u5F3A\u6548\u51B0\u971C\u51B2\u51FB"
+      - "\u51B0\u971C\u51B2\u51FB\xB7\u8D85\u51E1"
       - "\u5F37\u6548\u51B0\u971C\u885D\u64CA"
       - 
       - 
@@ -71982,7 +71982,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Ice Barrier
-      - "\u5F3A\u6548\u5BD2\u51B0\u5C4F\u969C"
+      - "\u5BD2\u51B0\u58C1\u969C\xB7\u4F20\u5947"
       - "\u5F37\u6548\u5BD2\u51B0\u5C4F\u969C"
       - 
       - 
@@ -72020,7 +72020,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Empowered Ice Barrier
-      - "\u805A\u80FD\u5BD2\u51B0\u5C4F\u969C"
+      - "\u5BD2\u51B0\u58C1\u969C\xB7\u8D85\u51E1"
       - "\u805A\u80FD\u5BD2\u51B0\u5C4F\u969C"
       - 
       - 
@@ -72173,7 +72173,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Flame Barrier
-      - "\u5F3A\u6548\u706B\u7130\u5C4F\u969C"
+      - "\u706B\u7130\u58C1\u969C\xB7\u4F20\u5947"
       - "\u5F37\u6548\u706B\u7130\u5C4F\u969C"
       - 
       - 
@@ -72212,7 +72212,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Empowered Flame Barrier
-      - "\u805A\u80FD\u706B\u7130\u5C4F\u969C"
+      - "\u706B\u7130\u58C1\u969C\xB7\u8D85\u51E1"
       - "\u805A\u80FD\u706B\u7130\u5C4F\u969C"
       - 
       - 
@@ -72527,8 +72527,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunder Gripping Curse
-      - "\u652B\u96F7\u5492"
-      - "\u652B\u96F7\u5492"
+      - "\u652B\u96F7\u672F"
+      - "\u652B\u96F7\u672F"
       - 
       - 
       - 
@@ -72566,8 +72566,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunder Gripping Curse
-      - "\u652B\u96F7\u5492"
-      - "\u652B\u96F7\u5492"
+      - "\u652B\u96F7\u672F"
+      - "\u652B\u96F7\u672F"
       - 
       - 
       - 
@@ -72606,8 +72606,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Malevolent Thunder Gripping Curse
-      - "\u730E\u5F71\u652B\u96F7\u5492"
-      - "\u730E\u5F71\u652B\u96F7\u5492"
+      - "\u652B\u96F7\u672F\xB7\u4F20\u5947"
+      - "\u730E\u5F71\u652B\u96F7\u672F"
       - 
       - 
       - 
@@ -72648,8 +72648,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Storm Thunder Gripping Curse
-      - "\u98CE\u66B4\u652B\u96F7\u5492"
-      - "\u98A8\u66B4\u652B\u96F7\u5492"
+      - "\u652B\u96F7\u672F\xB7\u8D85\u51E1"
+      - "\u98A8\u66B4\u652B\u96F7\u672F"
       - 
       - 
       - 
@@ -72762,7 +72762,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Water Shield
-      - "\u5F3A\u6548\u6C34\u76FE\u672F"
+      - "\u6C34\u76FE\u672F\xB7\u4F20\u5947"
       - "\u5F37\u6548\u6C34\u76FE\u8853"
       - 
       - 
@@ -72803,7 +72803,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Water Shield
-      - "\u53CD\u566C\u6C34\u76FE\u672F"
+      - "\u6C34\u76FE\u672F\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u6C34\u76FE\u8853"
       - 
       - 
@@ -72917,7 +72917,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Fire Shock
-      - "\u5F3A\u6548\u70C8\u7130\u51B2\u51FB"
+      - "\u70C8\u7130\u51B2\u51FB\xB7\u4F20\u5947"
       - "\u5F37\u6548\u70C8\u7130\u885D\u64CA"
       - 
       - 
@@ -72956,7 +72956,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - High-energy Fire Shock
-      - "\u9AD8\u80FD\u70C8\u7130\u51B2\u51FB"
+      - "\u70C8\u7130\u51B2\u51FB\xB7\u8D85\u51E1"
       - "\u9AD8\u80FD\u70C8\u7130\u885D\u64CA"
       - 
       - 
@@ -73108,7 +73108,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunder Shock
-      - "\u5F3A\u6548\u96F7\u7535\u51B2\u51FB"
+      - "\u96F7\u7535\u51B2\u51FB\xB7\u4F20\u5947"
       - "\u5F37\u6548\u96F7\u96FB\u885D\u64CA"
       - 
       - 
@@ -73147,7 +73147,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Magnetic Thunder Shock
-      - "\u78C1\u529B\u96F7\u7535\u51B2\u51FB"
+      - "\u96F7\u7535\u51B2\u51FB\xB7\u8D85\u51E1"
       - "\u78C1\u529B\u96F7\u96FB\u885D\u64CA"
       - 
       - 
@@ -73264,7 +73264,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunderblade Skill
-      - "\u5F3A\u6548\u96F7\u5200\u672F"
+      - "\u96F7\u5200\u672F\xB7\u4F20\u5947"
       - "\u5F37\u6548\u96F7\u5200\u8853"
       - 
       - 
@@ -73303,7 +73303,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Storm Thunderblade Skill
-      - "\u98CE\u66B4\u96F7\u5200\u672F"
+      - "\u96F7\u5200\u672F\xB7\u8D85\u51E1"
       - "\u98A8\u66B4\u96F7\u5200\u8853"
       - 
       - 
@@ -73420,7 +73420,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thousandfold Mirror
-      - "\u5343\u9B54\u955C"
+      - "\u9B54\u6CD5\u955C\u9762\xB7\u4F20\u5947"
       - "\u5343\u9B54\u93E1"
       - 
       - 
@@ -73458,7 +73458,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Magic Mirror
-      - "\u5F3A\u6548\u9B54\u6CD5\u955C\u9762"
+      - "\u9B54\u6CD5\u955C\u9762\xB7\u8D85\u51E1"
       - "\u5F37\u6548\u9B54\u6CD5\u93E1\u9762"
       - 
       - 
@@ -73614,7 +73614,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Magic Bullet
-      - "\u5F3A\u6548\u9B54\u5F39"
+      - "\u9B54\u5F39\xB7\u4F20\u5947"
       - "\u5F37\u6548\u9B54\u5F48"
       - 
       - 
@@ -73653,7 +73653,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Extended Magic Bullet
-      - "\u5EF6\u7533\u9B54\u5F39"
+      - "\u9B54\u5F39\xB7\u8D85\u51E1"
       - "\u5EF6\u7533\u9B54\u5F48"
       - 
       - 
@@ -73891,7 +73891,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Elemental Affinity
-      - "\u5F3A\u6548\u5143\u7D20\u4EB2\u548C"
+      - "\u5143\u7D20\u4EB2\u548C\xB7\u4F20\u5947"
       - "\u5F37\u6548\u5143\u7D20\u89AA\u548C"
       - 
       - 
@@ -73933,7 +73933,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stellar Affinity
-      - "\u661F\u7A7A\u4EB2\u548C"
+      - "\u5143\u7D20\u4EB2\u548C\xB7\u8D85\u51E1"
       - "\u661F\u7A7A\u89AA\u548C"
       - 
       - 
@@ -74048,7 +74048,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Surging Fire
-      - "\u5F3A\u6548\u6D8C\u52A8\u4E4B\u706B"
+      - "\u6D8C\u52A8\u4E4B\u706B\xB7\u4F20\u5947"
       - "\u5F37\u6548\u6E67\u52D5\u4E4B\u706B"
       - 
       - 
@@ -74087,7 +74087,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Burning Surging Fire
-      - "\u707C\u70ED\u6D8C\u52A8\u4E4B\u706B"
+      - "\u6D8C\u52A8\u4E4B\u706B\xB7\u8D85\u51E1"
       - "\u707C\u71B1\u6E67\u52D5\u4E4B\u706B"
       - 
       - 
@@ -74322,7 +74322,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mana-addicted Bread Wand
-      - "\u9B54\u763E\u9762\u5305\u9B54\u6756"
+      - "\u9762\u5305\u9B54\u6756\xB7\u4F20\u5947"
       - "\u9B54\u766E\u9EB5\u5305\u9B54\u6756"
       - 
       - 
@@ -74362,7 +74362,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Soft Bread Wand
-      - "\u677E\u8F6F\u9762\u5305\u9B54\u6756"
+      - "\u9762\u5305\u9B54\u6756\xB7\u8D85\u51E1"
       - "\u9B06\u8EDF\u9EB5\u5305\u9B54\u6756"
       - 
       - 
@@ -74476,7 +74476,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infinite Darak Stiletto
-      - "\u65E0\u9650\u7684\u8FBE\u62C9\u514B\u77ED\u5251"
+      - "\u8FBE\u62C9\u514B\u77ED\u5251\xB7\u4F20\u5947"
       - "\u7121\u9650\u7684\u9054\u62C9\u514B\u77ED\u528D"
       - 
       - 
@@ -74514,7 +74514,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Darak Stiletto
-      - "\u53CD\u566C\u7684\u8FBE\u62C9\u514B\u77ED\u5251"
+      - "\u8FBE\u62C9\u514B\u77ED\u5251\xB7\u8D85\u51E1"
       - "\u53CD\u566C\u7684\u9054\u62C9\u514B\u77ED\u528D"
       - 
       - 
@@ -74629,7 +74629,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Elemental Radiance Magic Sword
-      - "\u5143\u7D20\u95EA\u8000\u9B54\u5251"
+      - "\u9B54\u5251\u58EB\u4E4B\u5251\xB7\u4F20\u5947"
       - "\u5143\u7D20\u9583\u8000\u9B54\u528D"
       - 
       - 
@@ -74668,7 +74668,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Empowered Radiant Magic Sword
-      - "\u805A\u80FD\u95EA\u8000\u9B54\u5251"
+      - "\u9B54\u5251\u58EB\u4E4B\u5251\xB7\u8D85\u51E1"
       - "\u805A\u80FD\u9583\u8000\u9B54\u528D"
       - 
       - 
@@ -74789,7 +74789,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backfire Frost Staff
-      - "\u53CD\u566C\u7684\u51B0\u971C\u6CD5\u6756"
+      - "\u51B0\u971C\u6CD5\u6756\xB7\u4F20\u5947"
       - "\u53CD\u566C\u7684\u51B0\u971C\u6CD5\u6756"
       - 
       - 
@@ -74830,7 +74830,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ice Spike Staff
-      - "\u51B0\u9525\u6CD5\u6756"
+      - "\u51B0\u971C\u6CD5\u6756\xB7\u8D85\u51E1"
       - "\u51B0\u9310\u6CD5\u6756"
       - 
       - 
@@ -74951,7 +74951,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Detonated Staff
-      - "\u7206\u71C3\u6CD5\u6756"
+      - "\u70BD\u7130\u6CD5\u6756\xB7\u4F20\u5947"
       - "\u7206\u71C3\u6CD5\u6756"
       - 
       - 
@@ -74992,7 +74992,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flaming Staff
-      - "\u71C3\u7130\u6CD5\u6756"
+      - "\u70BD\u7130\u6CD5\u6756\xB7\u8D85\u51E1"
       - "\u71C3\u7130\u6CD5\u6756"
       - 
       - 
@@ -75113,7 +75113,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Thunder Roll Staff
-      - "\u5F3A\u6548\u96F7\u9E23\u6CD5\u6756"
+      - "\u96F7\u9E23\u6CD5\u6756\xB7\u4F20\u5947"
       - "\u5F37\u6548\u96F7\u9CF4\u6CD5\u6756"
       - 
       - 
@@ -75154,7 +75154,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Thunderstrike Staff
-      - "\u96F7\u51FB\u6CD5\u6756"
+      - "\u96F7\u9E23\u6CD5\u6756\xB7\u8D85\u51E1"
       - "\u96F7\u64CA\u6CD5\u6756"
       - 
       - 
@@ -75310,7 +75310,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Elemental Tome
-      - "\u5143\u7D20\u4E4B\u4E66"
+      - "\u6CD5\u529B\u4E4B\u4E66\xB7\u4F20\u5947"
       - "\u5143\u7D20\u4E4B\u66F8"
       - 
       - 
@@ -75350,7 +75350,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arcane Tome
-      - "\u5965\u6CD5\u4E4B\u4E66"
+      - "\u6CD5\u529B\u4E4B\u4E66\xB7\u8D85\u51E1"
       - "\u5967\u6CD5\u4E4B\u66F8"
       - 
       - 
@@ -75684,7 +75684,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Corrupted Magic Power Statue
-      - "\u5815\u843D\u7684\u9B54\u529B\u96D5\u50CF"
+      - "\u4FB5\u8680\u7684\u9B54\u529B\u96D5\u50CF"
       - "\u58AE\u843D\u7684\u9B54\u529B\u96D5\u50CF"
       - 
       - 
@@ -77101,7 +77101,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Afflicted with Calamity
-      - "\u707E\u7978\u9644\u8EAB"
+      - "\u7978\u7684\u6807\u8BB0"
       - "\u707D\u798D\u9644\u8EAB"
       - 
       - 
@@ -78418,7 +78418,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nightmare Arrow
-      - "\u5669\u68A6\u7BAD"
+      - "\u96F7\u9E23\u7BAD"
       - "\u5669\u5922\u7BAD"
       - 
       - 
@@ -79263,7 +79263,7 @@ MonoBehaviour:
       Languages:
       - This is a notoriously shady shop. It seems to make no difference whether
         its boss is mad or not.
-      - "\u8FD9\u662F\u5BB6\u51FA\u4E86\u540D\u7684\u9ED1\u5E97\uFF0C\u5B83\u7684\u8001\u677F\u75AF\u4E0E\u4E0D\u75AF\uFF0C\u4F3C\u4E4E\u6CA1\u4EC0\u4E48\u5DEE\u522B"
+      - "\u8FD9\u5BB6\u5E97\u65E9\u5DF2\u201C\u8FDC\u8FD1\u95FB\u540D\u201D\uFF0C\u5176\u670D\u52A1\u8D28\u91CF\u4F3C\u4E4E\u90FD\u7A33\u5B9A\u5728\u67D0\u79CD\u6C34\u5E73\u4E0B\u3002"
       - "\u9019\u662F\u5BB6\u51FA\u4E86\u540D\u7684\u9ED1\u5E97\uFF0C\u5B83\u7684\u8001\u95C6\u760B\u8207\u4E0D\u760B\uFF0C\u4F3C\u4E4E\u6C92\u4EC0\u9EBC\u5DEE\u5225"
       - 
       - 
@@ -79301,7 +79301,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Watch out, she and her pets are biting everything they see madly.
-      - "\u5F53\u5FC3\u70B9\uFF0C\u5979\u548C\u5979\u7684\u5BA0\u7269\u4EEC\u6B63\u75AF\u72C2\u5730\u8FFD\u8D76\u7740\u770B\u5230\u7684\u4EFB\u4F55\u4E1C\u897F"
+      - "\u5F53\u5FC3\u70B9\uFF0C\u5979\u548C\u5979\u7684\u5BA0\u7269\u4EEC\u6B63\u8FFD\u8D76\u7740\u770B\u5230\u7684\u4EFB\u4F55\u4E1C\u897F"
       - "\u7576\u5FC3\u9EDE\uFF0C\u5979\u548C\u5979\u7684\u5BF5\u7269\u5011\u6B63\u760B\u72C2\u5730\u6495\u54AC\u8457\u770B\u5230\u7684\u4EFB\u4F55\u6771\u897F"
       - 
       - 
@@ -79320,7 +79320,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Owdizzychimo
-      - "\u75AF\u72C2\u7684\u732B\u5934\u6655\u5947\u83AB"
+      - "\u5947\u602A\u7684\u732B\u5934\u6655\u5947\u83AB"
       - "\u760B\u72C2\u7684\u8C93\u982D\u6688\u5947\u83AB"
       - 
       - 
@@ -79514,7 +79514,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Owdizzychimo
-      - "\u75AF\u72C2\u7684\u732B\u5934\u6655\u5947\u83AB"
+      - "\u5947\u602A\u7684\u732B\u5934\u6655\u5947\u83AB"
       - "\u760B\u72C2\u7684\u8C93\u982D\u6688\u5947\u83AB"
       - 
       - 
@@ -79628,7 +79628,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Owdizzy
-      - "\u75AF\u72C2\u7684\u732B\u5934\u6655"
+      - "\u5947\u602A\u7684\u732B\u5934\u6655"
       - "\u760B\u72C2\u7684\u8C93\u982D\u6688"
       - 
       - 
@@ -81486,7 +81486,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - 
-      - "\u6839\u636E\u56FD\u5BB6\u65B0\u95FB\u51FA\u7248\u7F72\u300A\u5173\u4E8E\u8FDB\u4E00\u6B65\u4E25\u683C\u7BA1\u7406\u5207\u5B9E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\uFF0C\u6211\u4EEC\u9700\u8981\u83B7\u53D6\u60A8\u7684\u771F\u5B9E\u59D3\u540D\u548C\u8EAB\u4EFD\u8BC1\u53F7\u8FDB\u884C\u5B9E\u540D\u8BA4\u8BC1\uFF0C\u60A8\u9700\u8981\u5728\u5B8C\u6210\u5B9E\u540D\u8BA4\u8BC1\u540E\u624D\u53EF\u7EE7\u7EED\u8FDB\u884C\u6E38\u620F\u3002\n<b>\u8BF7\u6CE8\u610F\uFF0C\u5B9E\u540D\u4FE1\u606F\u4E00\u7ECF\u8BA4\u8BC1\u4E0D\u53EF\u66F4\u6539\u3002</b>"
+      - "\u6839\u636E\u56FD\u5BB6\u65B0\u95FB\u51FA\u7248\u7F72\u300A\u5173\u4E8E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\u300A\u5173\u4E8E\u8FDB\u4E00\u6B65\u4E25\u683C\u7BA1\u7406
+        \u5207\u5B9E\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7F51\u7EDC\u6E38\u620F\u7684\u901A\u77E5\u300B\uFF0C\u6211\u4EEC\u9700\u8981\u83B7\u53D6\u60A8\u7684\u771F\u5B9E\u59D3\u540D\u548C\u8EAB\u4EFD\u8BC1\u53F7\u8FDB\u884C\u5B9E\u540D\u8BA4\u8BC1\uFF0C\u60A8\u9700\u8981\u5728\u5B8C\u6210\u5B9E\u540D\u8BA4\u8BC1\u540E\u624D\u53EF\u7EE7\u7EED\u8FDB\u884C\u6E38\u620F\u3002\u8BF7\u6CE8\u610F\uFF0C\u5B9E\u540D\u4FE1\u606F\u4E00\u7ECF\u8BA4\u8BC1\u4E0D\u53EF\u66F4\u6539\u3002\n<b>\u8BF7\u6CE8\u610F\uFF0C\u5B9E\u540D\u4FE1\u606F\u4E00\u7ECF\u8BA4\u8BC1\u4E0D\u53EF\u66F4\u6539\u3002</b>"
       - "\u6839\u64DA\u570B\u5BB6\u65B0\u805E\u51FA\u7248\u7F72\u300A\u95DC\u65BC\u9032\u4E00\u6B65\u56B4\u683C\u7BA1\u7406\u5207\u5BE6\u9632\u6B62\u672A\u6210\u5E74\u4EBA\u6C89\u8FF7\u7DB2\u8DEF\u904A\u6232\u7684\u901A\u77E5\u300B\uFF0C\u6211\u5011\u9700\u8981\u7372\u53D6\u60A8\u7684\u771F\u5BE6\u59D3\u540D\u548C\u8EAB\u4EFD\u8B49\u865F\u9032\u884C\u5BE6\u540D\u8A8D\u8B49\uFF0C\u60A8\u9700\u8981\u5728\u5B8C\u6210\u5BE6\u540D\u8A8D\u8B49\u5F8C\u624D\u53EF\u7E7C\u7E8C\u9032\u884C\u904A\u6232\u3002\n<b>\u8ACB\u6CE8\u610F\uFF0C\u5BE6\u540D\u8CC7\u8A0A\u4E00\u7D93\u8A8D\u8B49\u4E0D\u53EF\u66F4\u6539\u3002</b>"
       - 
       - 
@@ -81782,7 +81783,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Rock Boxer\u2B50\u2B50\u2B50"
-      - "\u5CA9\u77F3\u62F3\u624B\u2B50\u2B50\u2B50"
+      - "\u57CE\u5821\u62F3\u624B\xB7\u4F20\u5947"
       - "\u5CA9\u77F3\u62F3\u624B\u2B50\u2B50\u2B50"
       - 
       - 
@@ -81843,7 +81844,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Quicksand Boxer\u2B50\u2B50\u2B50"
-      - "\u6D41\u6C99\u62F3\u624B\u2B50\u2B50\u2B50"
+      - "\u57CE\u5821\u62F3\u624B\xB7\u8D85\u51E1"
       - "\u6D41\u6C99\u62F3\u624B\u2B50\u2B50\u2B50"
       - 
       - 
@@ -81900,7 +81901,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Prisoner of Redemption
-      - "\u8D4E\u7F6A\u7981\u95ED\u8005"
+      - "\u5FEB\u9012\u5947\u83AB"
       - "\u8D16\u7F6A\u7981\u9589\u8005"
       - 
       - 
@@ -81957,7 +81958,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Prisoner of Redemption\u2B50\u2B50"
-      - "\u8D4E\u7F6A\u7981\u95ED\u8005\u2B50\u2B50"
+      - "\u5FEB\u9012\u5947\u83AB"
       - "\u8D16\u7F6A\u7981\u9589\u8005\u2B50\u2B50"
       - 
       - 
@@ -82014,7 +82015,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rage Prisoner
-      - "\u66B4\u6012\u7981\u95ED\u8005"
+      - "\u5FEB\u9012\u5947\u83AB\xB7\u4F20\u5947"
       - "\u66B4\u6012\u7981\u9589\u8005"
       - 
       - 
@@ -82073,7 +82074,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Hungry Prisoner\u2B50\u2B50\u2B50"
-      - "\u9965\u6E34\u7981\u95ED\u8005\u2B50\u2B50\u2B50"
+      - "\u5FEB\u9012\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u9951\u6E34\u7981\u9589\u8005\u2B50\u2B50\u2B50"
       - 
       - 
@@ -82301,7 +82302,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arsonist
-      - "\u63A7\u706B\u8005"
+      - "\u6CB3\u9A6C\u5947\u83AB"
       - "\u63A7\u706B\u8005"
       - 
       - 
@@ -82358,7 +82359,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Arsonist\u2B50\u2B50"
-      - "\u63A7\u706B\u8005\u2B50\u2B50"
+      - "\u6CB3\u9A6C\u5947\u83AB\u2B50\u2B50"
       - "\u63A7\u706B\u8005\u2B50\u2B50"
       - 
       - 
@@ -82418,7 +82419,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Laughing Arsonist
-      - "\u5B09\u7B11\u7684\u63A7\u706B\u8005"
+      - "\u6CB3\u9A6C\u5947\u83AB\xB7\u4F20\u5947"
       - "\u5B09\u7B11\u7684\u63A7\u706B\u8005"
       - 
       - 
@@ -82475,7 +82476,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Arsonist
-      - "\u75AF\u72C2\u7684\u63A7\u706B\u8005"
+      - "\u6CB3\u9A6C\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u760B\u72C2\u7684\u63A7\u706B\u8005"
       - 
       - 
@@ -82668,7 +82669,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Still-water Swordsman
-      - "\u9759\u6C34\u5251\u5BA2"
+      - "\u6D41\u6D6A\u5251\u5BA2\xB7\u4F20\u5947"
       - "\u975C\u6C34\u528D\u5BA2"
       - 
       - 
@@ -82709,7 +82710,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Strong-wind Swordsman
-      - "\u72C2\u98CE\u5251\u5BA2"
+      - "\u6D41\u6D6A\u5251\u5BA2\xB7\u8D85\u51E1"
       - "\u72C2\u98A8\u528D\u5BA2"
       - 
       - 
@@ -82883,7 +82884,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Iron-face Ripper
-      - "\u94C1\u9762\u6495\u88C2\u8005"
+      - "\u94C1\u9762\u6B66\u58EB\xB7\u4F20\u5947"
       - "\u9435\u9762\u6495\u88C2\u8005"
       - 
       - 
@@ -82921,7 +82922,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Iron-face Assaulter
-      - "\u94C1\u9762\u5F3A\u653B\u8005"
+      - "\u94C1\u9762\u6B66\u58EB\xB7\u8D85\u51E1"
       - "\u9435\u9762\u5F37\u653B\u8005"
       - 
       - 
@@ -82960,7 +82961,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Onslaught Berserker
-      - "\u731B\u653B\u7684\u5145\u80FD\u6218\u58EB"
+      - "\u5145\u80FD\u6218\u58EB\xB7\u4F20\u5947"
       - "\u731B\u653B\u7684\u5145\u80FD\u6230\u58EB"
       - 
       - 
@@ -83038,7 +83039,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Out-of-control Berserker
-      - "\u5931\u63A7\u7684\u5145\u80FD\u6218\u58EB"
+      - "\u5145\u80FD\u6218\u58EB\xB7\u8D85\u51E1"
       - "\u5931\u63A7\u7684\u5145\u80FD\u6230\u58EB"
       - 
       - 
@@ -83191,7 +83192,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Raider Warlord
-      - "\u7A81\u88AD\u7763\u519B"
+      - "\u9A91\u58EB\u7763\u519B\xB7\u4F20\u5947"
       - "\u7A81\u8972\u7763\u8ECD"
       - 
       - 
@@ -83248,7 +83249,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Expedition Warlord
-      - "\u8FDC\u5F81\u7763\u519B"
+      - "\u9A91\u58EB\u7763\u519B\xB7\u8D85\u51E1"
       - "\u9060\u5F81\u7763\u8ECD"
       - 
       - 
@@ -83364,7 +83365,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Castle Fighter
-      - "\u57CE\u5821\u6253\u624B"
+      - "\u57CE\u5821\u683C\u6597\u5BB6"
       - "\u57CE\u5821\u6253\u624B"
       - 
       - 
@@ -83479,7 +83480,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Knight Supply Officer\u2B50\u2B50\u2B50"
-      - "\u9A91\u58EB\u8865\u7ED9\u5B98\u2B50\u2B50\u2B50"
+      - "\u9A91\u58EB\u8865\u7ED9\u5B98\xB7\u4F20\u5947"
       - "\u9A0E\u58EB\u88DC\u7D66\u5B98\u2B50\u2B50\u2B50"
       - 
       - 
@@ -83539,7 +83540,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Knight Supply Officer\u2B50\u2B50\u2B50"
-      - "\u9A91\u58EB\u8865\u7ED9\u5B98\u2B50\u2B50\u2B50"
+      - "\u9A91\u58EB\u8865\u7ED9\u5B98\xB7\u8D85\u51E1"
       - "\u9A0E\u58EB\u88DC\u7D66\u5B98\u2B50\u2B50\u2B50"
       - 
       - 
@@ -83710,7 +83711,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Royal Mace Soldier\u2B50\u2B50\u2B50"
-      - "\u7687\u5BB6\u9524\u77DB\u5175\u2B50\u2B50\u2B50"
+      - "\u9524\u77DB\u5175\xB7\u4F20\u5947"
       - "\u7687\u5BB6\u9318\u77DB\u5175\u2B50\u2B50\u2B50"
       - 
       - 
@@ -83770,7 +83771,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Spiked Mace Soldier
-      - "\u5C16\u523A\u9524\u77DB\u5175"
+      - "\u9524\u77DB\u5175\xB7\u8D85\u51E1"
       - "\u5C16\u523A\u9318\u77DB\u5175"
       - 
       - 
@@ -84114,7 +84115,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Fighter\u2B50\u2B50"
-      - "\u57CE\u5821\u6253\u624B\u2B50\u2B50"
+      - "\u57CE\u5821\u683C\u6597\u5BB6"
       - "\u57CE\u5821\u6253\u624B\u2B50\u2B50"
       - 
       - 
@@ -84174,7 +84175,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Swift Knight of the Round Table
-      - "\u75BE\u98CE\u5706\u684C\u6B66\u58EB"
+      - "\u5706\u684C\u6B66\u58EB\xB7\u4F20\u5947"
       - "\u75BE\u98A8\u5713\u684C\u6B66\u58EB"
       - 
       - 
@@ -84234,7 +84235,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Temple Knight of the Round Table\u2B50\u2B50\u2B50"
-      - "\u5723\u6BBF\u5706\u684C\u6B66\u58EB\u2B50\u2B50\u2B50"
+      - "\u5706\u684C\u6B66\u58EB\xB7\u8D85\u51E1"
       - "\u8056\u6BBF\u5713\u684C\u6B66\u58EB\u2B50\u2B50\u2B50"
       - 
       - 
@@ -84294,7 +84295,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Giant Fighter\u2B50\u2B50\u2B50"
-      - "\u5DE8\u529B\u6253\u624B\u2B50\u2B50\u2B50"
+      - "\u57CE\u5821\u683C\u6597\u5BB6\xB7\u4F20\u5947"
       - "\u5DE8\u529B\u6253\u624B\u2B50\u2B50\u2B50"
       - 
       - 
@@ -84353,7 +84354,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fast Attack Fighter
-      - "\u5FEB\u653B\u6253\u624B"
+      - "\u57CE\u5821\u683C\u6597\u5BB6\xB7\u8D85\u51E1"
       - "\u5FEB\u653B\u6253\u624B"
       - 
       - 
@@ -84638,7 +84639,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Swift Archer\u2B50\u2B50\u2B50"
-      - "\u57CE\u5821\u5FEB\u5F13\u624B\u2B50\u2B50\u2B50"
+      - "\u57CE\u5821\u5F13\u7BAD\u624B\xB7\u4F20\u5947"
       - "\u57CE\u5821\u5FEB\u5F13\u624B\u2B50\u2B50\u2B50"
       - 
       - 
@@ -84695,7 +84696,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Castle Fire Archer
-      - "\u57CE\u5821\u706B\u5F13\u624B"
+      - "\u57CE\u5821\u5F13\u7BAD\u624B\xB7\u8D85\u51E1"
       - "\u57CE\u5821\u706B\u5F13\u624B"
       - 
       - 
@@ -84868,7 +84869,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Fencing Gladiator\u2B50\u2B50\u2B50"
-      - "\u51FB\u5251\u89D2\u6597\u58EB\u2B50\u2B50\u2B50"
+      - "\u51FB\u5251\u8FBE\u4EBA\xB7\u4F20\u5947"
       - "\u64CA\u528D\u89D2\u9B25\u58EB\u2B50\u2B50\u2B50"
       - 
       - 
@@ -84927,7 +84928,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fencing Guardian
-      - "\u51FB\u5251\u5B88\u536B\u8005"
+      - "\u51FB\u5251\u8FBE\u4EBA\xB7\u8D85\u51E1"
       - "\u64CA\u528D\u5B88\u885B\u8005"
       - 
       - 
@@ -85965,7 +85966,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Sentinel\u2B50\u2B50\u2B50"
-      - "\u7687\u5BB6\u54E8\u5175"
+      - "\u57CE\u5821\u54E8\u5175\xB7\u4F20\u5947"
       - "\u7687\u5BB6\u54E8\u5175"
       - 
       - 
@@ -86025,7 +86026,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Sentinel\u2B50\u2B50\u2B50"
-      - "\u68EE\u6797\u54E8\u5175"
+      - "\u57CE\u5821\u54E8\u5175\xB7\u8D85\u51E1"
       - "\u68EE\u6797\u54E8\u5175"
       - 
       - 
@@ -86372,7 +86373,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Glory Knight Statue
-      - "\u8363\u8000\u9A91\u58EB\u96D5\u50CF"
+      - "\u9A91\u58EB\u96D5\u50CF\xB7\u4F20\u5947"
       - "\u69AE\u8000\u9A0E\u58EB\u96D5\u50CF"
       - 
       - 
@@ -86432,7 +86433,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Guardian Knight Statue\u2B50\u2B50\u2B50"
-      - "\u5B88\u62A4\u9A91\u58EB\u96D5\u50CF\u2B50\u2B50\u2B50"
+      - "\u9A91\u58EB\u96D5\u50CF\xB7\u8D85\u51E1"
       - "\u5B88\u8B77\u9A0E\u58EB\u96D5\u50CF\u2B50\u2B50\u2B50"
       - 
       - 
@@ -86612,7 +86613,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Temple Knight
-      - "\u5723\u6BBF\u9A91\u58EB"
+      - "\u65E5\u843D\u9A91\u58EB\xB7\u4F20\u5947"
       - "\u8056\u6BBF\u9A0E\u58EB"
       - 
       - 
@@ -86672,7 +86673,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Knight of the Sun Never Sets\u2B50\u2B50\u2B50"
-      - "\u7687\u5BB6\u9A91\u58EB"
+      - "\u65E5\u843D\u9A91\u58EB\xB7\u8D85\u51E1"
       - "\u7687\u5BB6\u9A0E\u58EB"
       - 
       - 
@@ -86844,7 +86845,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Chain Hammer Torturer
-      - "\u94FE\u9524\u60E9\u6212\u8005"
+      - "\u94FE\u9524\u6597\u58EB\xB7\u4F20\u5947"
       - "\u93C8\u9318\u61F2\u6212\u8005"
       - 
       - 
@@ -86902,7 +86903,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Chain Hammer Scavenger
-      - "\u94FE\u9524\u62FE\u8352\u8005"
+      - "\u94FE\u9524\u6597\u58EB\xB7\u8D85\u51E1"
       - "\u93C8\u9318\u62FE\u8352\u8005"
       - 
       - 
@@ -87131,7 +87132,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Reckless Guitarist\u2B50\u2B50\u2B50"
-      - "\u83BD\u649E\u5409\u4ED6\u624B\u2B50\u2B50\u2B50"
+      - "\u8352\u91CE\u5409\u4ED6\u624B\xB7\u4F20\u5947"
       - "\u83BD\u649E\u5409\u4ED6\u624B\u2B50\u2B50\u2B50"
       - 
       - 
@@ -87189,7 +87190,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wild Guitarist
-      - "\u72C2\u91CE\u5409\u4ED6\u624B"
+      - "\u8352\u91CE\u5409\u4ED6\u624B\xB7\u8D85\u51E1"
       - "\u72C2\u91CE\u5409\u4ED6\u624B"
       - 
       - 
@@ -87541,7 +87542,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Poop Scooper Chimo
-      - "\u94F2\u5C4E\u5B98\u5947\u83AB"
+      - "\u732B\u5934\u6655\u5947\u83AB\xB7\u4F20\u5947"
       - "\u93DF\u5C4E\u5B98\u5947\u83AB"
       - 
       - 
@@ -87601,7 +87602,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Cat Chimo
-      - "\u75AF\u732B\u5947\u83AB"
+      - "\u732B\u5934\u6655\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u760B\u8C93\u5947\u83AB"
       - 
       - 
@@ -87926,7 +87927,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mirage Ninja
-      - "\u5E7B\u672F\u5FCD\u8005"
+      - "\u5FCD\u8005\u5947\u83AB\xB7\u4F20\u5947"
       - "\u5E7B\u8853\u5FCD\u8005"
       - 
       - 
@@ -87986,7 +87987,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Bleed Ninja
-      - "\u90AA\u672F\u5FCD\u8005"
+      - "\u5FCD\u8005\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u90AA\u8853\u5FCD\u8005"
       - 
       - 
@@ -88043,7 +88044,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barrel Master
-      - "\u917F\u6876\u5927\u5E08"
+      - "\u6876\u5927\u5E08"
       - "\u91C0\u6876\u5927\u5E2B"
       - 
       - 
@@ -88100,7 +88101,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Barrel Master\u2B50\u2B50"
-      - "\u917F\u6876\u5927\u5E08\u2B50\u2B50"
+      - "\u6876\u5927\u5E08\u2B50\u2B50"
       - "\u91C0\u6876\u5927\u5E2B\u2B50\u2B50"
       - 
       - 
@@ -88160,7 +88161,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Drunken Master
-      - "\u9189\u62F3\u5927\u5E08"
+      - "\u6876\u5927\u5E08\xB7\u4F20\u5947"
       - "\u9189\u62F3\u5927\u5E2B"
       - 
       - 
@@ -88217,7 +88218,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Spark Master
-      - "\u706B\u82B1\u5927\u5E08"
+      - "\u6876\u5927\u5E08\xB7\u8D85\u51E1"
       - "\u706B\u82B1\u5927\u5E2B"
       - 
       - 
@@ -88274,7 +88275,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Castle Arsonist
-      - "\u57CE\u5821\u70B9\u706B\u8005"
+      - "\u57CE\u5821\u5B88\u591C\u8005"
       - "\u57CE\u5821\u9EDE\u706B\u8005"
       - 
       - 
@@ -88331,7 +88332,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Arsonist\u2B50\u2B50"
-      - "\u57CE\u5821\u70B9\u706B\u8005\u2B50\u2B50"
+      - "\u57CE\u5821\u5B88\u591C\u8005"
       - "\u57CE\u5821\u9EDE\u706B\u8005\u2B50\u2B50"
       - 
       - 
@@ -88388,7 +88389,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Castle Nightwatcher\u2B50\u2B50\u2B50"
-      - "\u57CE\u5821\u5B88\u591C\u4EBA\u2B50\u2B50\u2B50"
+      - "\u57CE\u5821\u5B88\u591C\u8005\xB7\u4F20\u5947"
       - "\u57CE\u5821\u5B88\u591C\u4EBA\u2B50\u2B50\u2B50"
       - 
       - 
@@ -88445,7 +88446,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Castle Watcher
-      - "\u57CE\u5821\u5B88\u671B\u8005"
+      - "\u57CE\u5821\u5B88\u591C\u8005\xB7\u8D85\u51E1"
       - "\u57CE\u5821\u5B88\u671B\u8005"
       - 
       - 
@@ -88961,7 +88962,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Seasoned Guide
-      - "\u8001\u7EC3\u7684\u5F15\u5BFC\u5458"
+      - "\u65B0\u624B\u5F15\u5BFC\u5458\xB7\u4F20\u5947"
       - "\u8001\u7DF4\u7684\u5F15\u5C0E\u54E1"
       - 
       - 
@@ -89024,7 +89025,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Guardian Guide
-      - "\u536B\u5175\u7684\u5F15\u5BFC\u5458"
+      - "\u65B0\u624B\u5F15\u5BFC\u5458\xB7\u8D85\u51E1"
       - "\u885B\u5175\u7684\u5F15\u5C0E\u54E1"
       - 
       - 
@@ -89202,7 +89203,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barber Raider
-      - "\u6D17\u526A\u5439\u7A81\u88AD\u8005"
+      - "\u6D17\u526A\u5439\u5927\u5E08\xB7\u4F20\u5947"
       - "\u6D17\u526A\u5439\u7A81\u8972\u8005"
       - 
       - 
@@ -89262,7 +89263,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barber Pursuers
-      - "\u6D17\u526A\u5439\u8FFD\u51FB\u8005"
+      - "\u6D17\u526A\u5439\u5927\u5E08\xB7\u8D85\u51E1"
       - "\u6D17\u526A\u5439\u8FFD\u64CA\u8005"
       - 
       - 
@@ -89605,7 +89606,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Tavern Recruiter\u2B50\u2B50\u2B50"
-      - "\u65C5\u5E97\u62DB\u52DF\u5B98\u2B50\u2B50\u2B50"
+      - "\u65C5\u5E97\u62DB\u52DF\u5458\xB7\u4F20\u5947"
       - "\u65C5\u5E97\u62DB\u52DF\u5B98\u2B50\u2B50\u2B50"
       - 
       - 
@@ -89663,7 +89664,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Loud Recruiter
-      - "\u5927\u55D3\u95E8\u7684\u62DB\u52DF\u5458"
+      - "\u65C5\u5E97\u62DB\u52DF\u5458\xB7\u8D85\u51E1"
       - "\u5927\u55D3\u9580\u7684\u62DB\u52DF\u54E1"
       - 
       - 
@@ -90240,7 +90241,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mercenary Chimo
-      - "\u96C7\u4F63\u5175\u5947\u83AB"
+      - "\u5192\u9669\u8005\u5947\u83AB\xB7\u4F20\u5947"
       - "\u96C7\u50AD\u5175\u5947\u83AB"
       - 
       - 
@@ -90411,7 +90412,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fire Rider Chimo
-      - "\u708E\u9A91\u5175\u5947\u83AB"
+      - "\u5192\u9669\u8005\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u708E\u9A0E\u5175\u5947\u83AB"
       - 
       - 
@@ -90527,7 +90528,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Superhero Chimo
-      - "\u8D85\u4EBA\u5947\u83AB"
+      - "\u82F1\u96C4\u5947\u83AB"
       - "\u8D85\u4EBA\u5947\u83AB"
       - 
       - 
@@ -90586,7 +90587,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Superhero Chimo\u2B50\u2B50"
-      - "\u8D85\u4EBA\u5947\u83AB\u2B50\u2B50"
+      - "\u82F1\u96C4\u5947\u83AB\u2B50\u2B50"
       - "\u8D85\u4EBA\u5947\u83AB\u2B50\u2B50"
       - 
       - 
@@ -90646,7 +90647,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Saiyan Chimo\u2B50\u2B50\u2B50"
-      - "\u8D5B\u4E9A\u4EBA\u5947\u83AB\u2B50\u2B50\u2B50"
+      - "\u82F1\u96C4\u5947\u83AB\xB7\u4F20\u5947"
       - "\u8CFD\u4E9E\u4EBA\u5947\u83AB\u2B50\u2B50\u2B50"
       - 
       - 
@@ -90706,7 +90707,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - One-punch Chimo
-      - "\u4E00\u62F3\u8D85\u4EBA\u5947\u83AB"
+      - "\u82F1\u96C4\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u4E00\u62F3\u8D85\u4EBA\u5947\u83AB"
       - 
       - 
@@ -90861,7 +90862,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Grilling Superhero
-      - "\u70E4\u706B\u8D85\u4EBA"
+      - "\u98DE\u884C\u5947\u83AB"
       - "\u70E4\u706B\u8D85\u4EBA"
       - 
       - 
@@ -90899,7 +90900,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Grilling Superhero
-      - "\u70E4\u706B\u8D85\u4EBA"
+      - "\u98DE\u884C\u5947\u83AB"
       - "\u70E4\u706B\u8D85\u4EBA"
       - 
       - 
@@ -90938,7 +90939,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Volcano Superhero
-      - "\u706B\u5C71\u8D85\u4EBA"
+      - "\u98DE\u884C\u5947\u83AB\xB7\u4F20\u5947"
       - "\u706B\u5C71\u8D85\u4EBA"
       - 
       - 
@@ -90979,7 +90980,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Meteor Superhero
-      - "\u9668\u77F3\u8D85\u4EBA"
+      - "\u98DE\u884C\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u9695\u77F3\u8D85\u4EBA"
       - 
       - 
@@ -91099,7 +91100,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Gale Wizard Chimo
-      - "\u72C2\u98CE\u5DEB\u5E08\u5947\u83AB"
+      - "\u5DEB\u5E08\u5947\u83AB\xB7\u4F20\u5947"
       - "\u72C2\u98A8\u5DEB\u5E2B\u5947\u83AB"
       - 
       - 
@@ -91139,7 +91140,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Storm Wizard Chimo
-      - "\u98CE\u66B4\u5DEB\u5E08\u5947\u83AB"
+      - "\u5DEB\u5E08\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u98A8\u66B4\u5DEB\u5E2B\u5947\u83AB"
       - 
       - 
@@ -91601,7 +91602,7 @@ MonoBehaviour:
       Languages:
       - Some mage apprentices unleashed all sorts of spells on that thing, the response
         is, well, strange groans instead of counterattack.
-      - "\u4E00\u4E9B\u4F4E\u9636\u7684\u6CD5\u5E08\u671D\u7740\u5B83\u91CA\u653E\u5404\u79CD\u6CD5\u672F\uFF0C\u4F46\u5B83\u4E0D\u5374\u53CD\u51FB\uFF0C\u8FD8\u53D1\u51FA\u55EF\u2026\u2026\u5947\u602A\u7684\u547B\u541F\u3002"
+      - "\u4E00\u4E9B\u4F4E\u9636\u7684\u6CD5\u5E08\u671D\u7740\u5B83\u91CA\u653E\u5404\u79CD\u6CD5\u672F\uFF0C\u4F46\u4F3C\u4E4E\u5BF9\u5B83\u6CA1\u6709\u4EFB\u4F55\u6548\u679C"
       - "\u4E00\u4E9B\u4F4E\u968E\u7684\u6CD5\u5E2B\u671D\u8457\u5B83\u91CB\u653E\u5404\u7A2E\u6CD5\u8853\uFF0C\u4F46\u5B83\u4E0D\u537B\u53CD\u64CA\uFF0C\u9084\u767C\u51FA\u55EF\u2026\u2026\u5947\u602A\u7684\u547B\u541F\u3002"
       - 
       - 
@@ -97132,7 +97133,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Chanting
-      - "\u8BF5\u7ECF"
+      - "\u8BB8\u613F "
       - "\u8AA6\u7D93"
       - 
       - 
@@ -97322,7 +97323,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barrel Master
-      - "\u917F\u6876\u5927\u5E08"
+      - "\u6876\u5927\u5E08"
       - "\u91C0\u6876\u5927\u5E2B"
       - 
       - 
@@ -100242,7 +100243,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Panic
-      - "\u6050\u614C"
+      - "\u52A8\u6447"
       - "\u6050\u614C"
       - 
       - 
@@ -101494,7 +101495,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Deliverance
-      - "\u8D85\u5EA6"
+      - "\u9F99\u4E4B\u543C"
       - "\u8D85\u5EA6"
       - 
       - 
@@ -102453,7 +102454,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Exile's Blade
-      - "\u6D41\u4EA1\u8005\u4E4B\u5203"
+      - "\u8FDC\u884C\u8005\u4E4B\u5203"
       - "\u6D41\u4EA1\u8005\u4E4B\u5203"
       - 
       - 
@@ -102682,7 +102683,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Magic Sword
-      - "\u9B54\u5251"
+      - "\u9010\u5F71\u5251"
       - "\u9B54\u528D"
       - 
       - 
@@ -102915,7 +102916,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Underworld Moth
-      - "\u51A5\u754C\u98DE\u86FE"
+      - "\u95EA\u70C1\u98DE\u86FE"
       - "\u51A5\u754C\u98DB\u86FE"
       - 
       - 
@@ -103609,7 +103610,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Phantom Water Balloon
-      - "\u5E7D\u7075\u6C34\u7403"
+      - "\u7CBE\u7075\u6C34\u7403"
       - "\u5E7D\u9748\u6C34\u7403"
       - 
       - 
@@ -103690,7 +103691,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Exile's Tome
-      - "\u6D41\u4EA1\u8005\u4E4B\u4E66"
+      - "\u8FDC\u884C\u8005\u4E4B\u4E66"
       - "\u6D41\u4EA1\u8005\u4E4B\u66F8"
       - 
       - 
@@ -103900,7 +103901,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Summon a Phantom Water Balloon on a tile adjacent to the hero
-      - "\u5728\u82F1\u96C4\u76F8\u90BB\u683C\u5B50\u53EC\u5524\u4E00\u4E2A\u5E7D\u7075\u6C34\u7403"
+      - "\u5728\u82F1\u96C4\u76F8\u90BB\u683C\u5B50\u53EC\u5524\u4E00\u4E2A\u7CBE\u7075\u6C34\u7403"
       - "\u5728\u82F1\u96C4\u76F8\u9130\u683C\u5B50\u53EC\u559A\u4E00\u500B\u5E7D\u9748\u6C34\u7403"
       - 
       - 
@@ -106440,7 +106441,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Sharp Longsword
-      - "\u950B\u5229\u957F\u5251"
+      - "\u957F\u5251\xB7\u4F20\u5947"
       - "\u92D2\u5229\u9577\u528D"
       - 
       - 
@@ -106516,7 +106517,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Sturdy Longsword\u2B50\u2B50\u2B50"
-      - "\u539A\u91CD\u957F\u5251\u2B50\u2B50\u2B50"
+      - "\u957F\u5251\xB7\u8D85\u51E1"
       - "\u539A\u91CD\u9577\u528D\u2B50\u2B50\u2B50"
       - 
       - 
@@ -106859,7 +106860,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Warlord Stiletto
-      - "\u7763\u519B\u77ED\u5251"
+      - "\u632F\u594B\u77ED\u5251\xB7\u4F20\u5947"
       - "\u7763\u8ECD\u77ED\u528D"
       - 
       - 
@@ -106898,7 +106899,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Backup Stiletto
-      - "\u63F4\u519B\u77ED\u5251"
+      - "\u632F\u594B\u77ED\u5251\xB7\u8D85\u51E1"
       - "\u63F4\u8ECD\u77ED\u528D"
       - 
       - 
@@ -107013,7 +107014,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defense Barrier Sword
-      - "\u9632\u536B\u76FE\u5251"
+      - "\u76FE\u5251\xB7\u4F20\u5947"
       - "\u9632\u885B\u76FE\u528D"
       - 
       - 
@@ -107054,7 +107055,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Crystal Barrier Sword
-      - "\u6C34\u6676\u76FE\u5251"
+      - "\u76FE\u5251\xB7\u8D85\u51E1"
       - "\u6C34\u6676\u76FE\u528D"
       - 
       - 
@@ -107095,7 +107096,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Charge Long Barrel
-      - "\u51B2\u950B\u957F\u67AA"
+      - "\u957F\u67AA\xB7\u4F20\u5947"
       - "\u885D\u92D2\u9577\u69CD"
       - 
       - 
@@ -107133,7 +107134,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Face-off Long Barrel
-      - "\u51B3\u6597\u957F\u67AA"
+      - "\u957F\u67AA\xB7\u8D85\u51E1"
       - "\u6C7A\u9B25\u9577\u69CD"
       - 
       - 
@@ -107247,7 +107248,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barbarous Tomahawk
-      - "\u91CE\u86EE\u624B\u65A7"
+      - "\u624B\u65A7\xB7\u4F20\u5947"
       - "\u91CE\u883B\u624B\u65A7"
       - 
       - 
@@ -107285,7 +107286,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flying Axe
-      - "\u98DE\u65A7"
+      - "\u624B\u65A7\xB7\u8D85\u51E1"
       - "\u98DB\u65A7"
       - 
       - 
@@ -107476,7 +107477,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Revenge Gesture
-      - "\u53CD\u51FB\u59FF\u6001"
+      - "\u53CD\u51FB\u8005\xB7\u4F20\u5947"
       - "\u53CD\u64CA\u59FF\u614B"
       - 
       - 
@@ -107515,7 +107516,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Taunting Revenge
-      - "\u9632\u5B88\u53CD\u51FB"
+      - "\u53CD\u51FB\u8005\xB7\u8D85\u51E1"
       - "\u9632\u5B88\u53CD\u64CA"
       - 
       - 
@@ -107679,7 +107680,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Piercing Swordplay\u2B50\u2B50\u2B50"
-      - "\u7A7F\u523A\u5251\u821E\u2B50\u2B50\u2B50"
+      - "\u5251\u821E\xB7\u4F20\u5947"
       - "\u7A7F\u523A\u528D\u821E\u2B50\u2B50\u2B50"
       - 
       - 
@@ -107718,7 +107719,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Flurry Swordplay\u2B50\u2B50\u2B50"
-      - "\u75BE\u98CE\u5251\u821E\u2B50\u2B50\u2B50"
+      - "\u5251\u821E\xB7\u8D85\u51E1"
       - "\u75BE\u98A8\u528D\u821E\u2B50\u2B50\u2B50"
       - 
       - 
@@ -107874,7 +107875,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Blood Throw\u2B50\u2B50\u2B50"
-      - "\u6613\u4F24\u6295\u63B7\u2B50\u2B50\u2B50"
+      - "\u6295\u63B7\u6B66\u5668\xB7\u4F20\u5947"
       - "\u6613\u50B7\u6295\u64F2\u2B50\u2B50\u2B50"
       - 
       - 
@@ -107913,7 +107914,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Power Throw\u2B50\u2B50\u2B50"
-      - "\u5F3A\u529B\u6295\u63B7\u2B50\u2B50\u2B50"
+      - "\u6295\u63B7\u6B66\u5668\xB7\u8D85\u51E1"
       - "\u5F37\u529B\u6295\u64F2\u2B50\u2B50\u2B50"
       - 
       - 
@@ -108027,7 +108028,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tactical Sharpening
-      - "\u6218\u672F\u78E8\u5229"
+      - "\u78E8\u5229\xB7\u4F20\u5947"
       - "\u6230\u8853\u78E8\u5229"
       - 
       - 
@@ -108067,7 +108068,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tough Sharpening
-      - "\u521A\u786C\u78E8\u5229"
+      - "\u78E8\u5229\xB7\u8D85\u51E1"
       - "\u525B\u786C\u78E8\u5229"
       - 
       - 
@@ -108259,7 +108260,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Blunt Slam
-      - "\u6C89\u7A33\u731B\u51FB"
+      - "\u82F1\u52C7\u731B\u51FB\xB7\u4F20\u5947"
       - "\u6C89\u7A69\u731B\u64CA"
       - 
       - 
@@ -108300,7 +108301,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Power Slam
-      - "\u5168\u529B\u731B\u51FB"
+      - "\u82F1\u52C7\u731B\u51FB\xB7\u8D85\u51E1"
       - "\u5168\u529B\u731B\u64CA"
       - 
       - 
@@ -108377,7 +108378,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Light Strike
-      - "\u8F7B\u88C5\u7A81\u88AD"
+      - "\u8F7B\u88C5\u4E0A\u9635\xB7\u4F20\u5947"
       - "\u8F15\u88DD\u7A81\u8972"
       - 
       - 
@@ -108416,7 +108417,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Swift Onslaught
-      - "\u8F7B\u88C5\u731B\u653B"
+      - "\u8F7B\u88C5\u4E0A\u9635\xB7\u8D85\u51E1"
       - "\u8F15\u88DD\u731B\u653B"
       - 
       - 
@@ -108492,7 +108493,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wild Fury
-      - "\u91CE\u6027\u72C2\u6012"
+      - "\u72C2\u706B\u4E4B\u6012\xB7\u4F20\u5947"
       - "\u91CE\u6027\u72C2\u6012"
       - 
       - 
@@ -108530,7 +108531,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Terra Fury
-      - "\u5927\u5730\u72C2\u6012"
+      - "\u72C2\u706B\u4E4B\u6012\xB7\u8D85\u51E1"
       - "\u5927\u5730\u72C2\u6012"
       - 
       - 
@@ -108612,7 +108613,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Potent Awakening
-      - "\u5F3A\u6548\u89C9\u9192"
+      - "\u89C9\u9192\xB7\u4F20\u5947"
       - "\u5F37\u6548\u89BA\u9192"
       - 
       - 
@@ -108653,7 +108654,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Awakening
-      - "\u6C38\u6052\u89C9\u9192"
+      - "\u89C9\u9192\xB7\u8D85\u51E1"
       - "\u6C38\u6046\u89BA\u9192"
       - 
       - 
@@ -108769,7 +108770,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Scorching Shield Whacking
-      - "\u70C8\u7130\u76FE\u51FB"
+      - "\u76FE\u51FB\xB7\u4F20\u5947"
       - "\u70C8\u7130\u76FE\u64CA"
       - 
       - 
@@ -108808,7 +108809,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defending Shield Whacking
-      - "\u5B88\u62A4\u76FE\u51FB"
+      - "\u76FE\u51FB\xB7\u8D85\u51E1"
       - "\u5B88\u8B77\u76FE\u64CA"
       - 
       - 
@@ -108885,7 +108886,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Brave Roar
-      - "\u82F1\u52C7\u6012\u543C"
+      - "\u82F1\u52C7\u6012\u543C\xB7\u4F20\u5947"
       - "\u82F1\u52C7\u6012\u543C"
       - 
       - 
@@ -108924,7 +108925,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Charging Roar
-      - "\u51B2\u950B\u6012\u543C"
+      - "\u82F1\u52C7\u6012\u543C\xB7\u8D85\u51E1"
       - "\u885D\u92D2\u6012\u543C"
       - 
       - 
@@ -109039,7 +109040,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Reckless Storm
-      - "\u9C81\u83BD\u98CE\u66B4"
+      - "\u9C81\u83BD\xB7\u4F20\u5947"
       - "\u9B6F\u83BD\u98A8\u66B4"
       - 
       - 
@@ -109078,7 +109079,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Absolute Reckless
-      - "\u7EDD\u5BF9\u9C81\u83BD"
+      - "\u9C81\u83BD\xB7\u8D85\u51E1"
       - "\u7D55\u5C0D\u9B6F\u83BD"
       - 
       - 
@@ -109205,7 +109206,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Heavy Mountain Splinter
-      - "\u6C89\u91CD\u5F00\u5C71\u65A7"
+      - "\u5F00\u5C71\u65A7\xB7\u4F20\u5947"
       - "\u6C89\u91CD\u958B\u5C71\u65A7"
       - 
       - 
@@ -109248,7 +109249,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rage Mountain Splinter
-      - "\u66B4\u6012\u5F00\u5C71\u65A7"
+      - "\u5F00\u5C71\u65A7\xB7\u8D85\u51E1"
       - "\u66B4\u6012\u958B\u5C71\u65A7"
       - 
       - 
@@ -109453,7 +109454,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Scorching Rapid Sword
-      - "\u70C8\u7130\u8FC5\u51FB\u5251"
+      - "\u8FC5\u51FB\u5251\xB7\u4F20\u5947"
       - "\u70C8\u7130\u8FC5\u64CA\u528D"
       - 
       - 
@@ -109496,7 +109497,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flurry Rapid Sword
-      - "\u75BE\u98CE\u8FC5\u51FB\u5251"
+      - "\u8FC5\u51FB\u5251\xB7\u8D85\u51E1"
       - "\u75BE\u98A8\u8FC5\u64CA\u528D"
       - 
       - 
@@ -109619,7 +109620,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Scarlet Ripping
-      - "\u6613\u4F24\u88C2\u51FB"
+      - "\u88C2\u51FB\xB7\u4F20\u5947"
       - "\u6613\u50B7\u88C2\u64CA"
       - 
       - 
@@ -109657,7 +109658,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Flurry Ripping
-      - "\u75BE\u98CE\u88C2\u51FB"
+      - "\u88C2\u51FB\xB7\u8D85\u51E1"
       - "\u75BE\u98A8\u88C2\u64CA"
       - 
       - 
@@ -109775,7 +109776,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rock Slashing
-      - "\u5CA9\u77F3\u4E00\u51FB"
+      - "\u5DE8\u529B\u4E00\u51FB\xB7\u4F20\u5947"
       - "\u5CA9\u77F3\u4E00\u64CA"
       - 
       - 
@@ -109817,7 +109818,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Power Slashing
-      - "\u5168\u529B\u4E00\u51FB"
+      - "\u5DE8\u529B\u4E00\u51FB\xB7\u8D85\u51E1"
       - "\u5168\u529B\u4E00\u64CA"
       - 
       - 
@@ -109897,7 +109898,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rock Structure
-      - "\u5CA9\u77F3\u5DE5\u4E8B"
+      - "\u9632\u5FA1\u5DE5\u4E8B\xB7\u4F20\u5947"
       - "\u5CA9\u77F3\u5DE5\u4E8B"
       - 
       - 
@@ -109935,7 +109936,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rapid Structure
-      - "\u6781\u901F\u5DE5\u4E8B"
+      - "\u9632\u5FA1\u5DE5\u4E8B\xB7\u8D85\u51E1"
       - "\u6975\u901F\u5DE5\u4E8B"
       - 
       - 
@@ -110012,7 +110013,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tactical Chain Hammer
-      - "\u6218\u672F\u94FE\u9524"
+      - "\u94FE\u9524\xB7\u4F20\u5947"
       - "\u6230\u8853\u93C8\u9318"
       - 
       - 
@@ -110051,7 +110052,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Flying Hammer\u2B50\u2B50\u2B50"
-      - "\u98DE\u9524\u2B50\u2B50\u2B50"
+      - "\u94FE\u9524\xB7\u8D85\u51E1"
       - "\u98DB\u9318\u2B50\u2B50\u2B50"
       - 
       - 
@@ -110475,7 +110476,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tactical Defense
-      - "\u6218\u672F\u9632\u5FA1"
+      - "\u9632\u5FA1\xB7\u4F20\u5947"
       - "\u6230\u8853\u9632\u79A6"
       - 
       - 
@@ -110513,7 +110514,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Heroic Defense
-      - "\u82F1\u52C7\u9632\u5FA1"
+      - "\u9632\u5FA1\xB7\u8D85\u51E1"
       - "\u82F1\u52C7\u9632\u79A6"
       - 
       - 
@@ -110937,7 +110938,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ultimate Dogfight
-      - "\u7EC8\u6781\u4E71\u6597"
+      - "\u4E71\u6597\xB7\u4F20\u5947"
       - "\u7D42\u6975\u4E82\u9B25"
       - 
       - 
@@ -110976,7 +110977,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Brutal Dogfight
-      - "\u72C2\u70ED\u4E71\u6597"
+      - "\u4E71\u6597\xB7\u8D85\u51E1"
       - "\u72C2\u71B1\u4E82\u9B25"
       - 
       - 
@@ -111174,7 +111175,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tactical Deploy
-      - "\u6218\u672F\u90E8\u7F72"
+      - "\u91CD\u65B0\u90E8\u7F72\xB7\u4F20\u5947"
       - "\u6230\u8853\u90E8\u7F72"
       - 
       - 
@@ -111213,7 +111214,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Efficient Deployment
-      - "\u9AD8\u6548\u90E8\u7F72"
+      - "\u91CD\u65B0\u90E8\u7F72\xB7\u8D85\u51E1"
       - "\u9AD8\u6548\u90E8\u7F72"
       - 
       - 
@@ -111557,7 +111558,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Adv. Rage
-      - "\u9AD8\u7EA7\u6124\u6012"
+      - "\u9AD8\u7EA7\u575A\u6BC5"
       - "\u9AD8\u7D1A\u61A4\u6012"
       - 
       - 
@@ -112013,7 +112014,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cruelty
-      - "\u6B8B\u5FCD"
+      - "\u9690\u75DB"
       - "\u6B98\u5FCD"
       - 
       - 
@@ -112432,7 +112433,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Adv. Bloodthirsty
-      - "\u9AD8\u7EA7\u72C2\u70ED"
+      - "\u9AD8\u7EA7\u6E34\u671B"
       - "\u9AD8\u7D1A\u72C2\u71B1"
       - 
       - 
@@ -112660,7 +112661,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Adv. Cruel
-      - "\u9AD8\u7EA7\u6B8B\u5FCD"
+      - "\u9AD8\u7EA7\u9690\u75DB"
       - "\u9AD8\u7D1A\u6B98\u5FCD"
       - 
       - 
@@ -113196,7 +113197,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rage
-      - "\u6124\u6012"
+      - "\u575A\u6BC5"
       - "\u61A4\u6012"
       - 
       - 
@@ -113504,7 +113505,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Bloodthirsty
-      - "\u72C2\u70ED"
+      - "\u6E34\u671B"
       - "\u72C2\u71B1"
       - 
       - 
@@ -113965,7 +113966,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Frenzy
-      - "\u72C2\u4E71"
+      - "\u5931\u63A7"
       - "\u72C2\u4E82"
       - 
       - 
@@ -113973,7 +113974,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u72C2\u4E71"
+      - "\u5931\u63A7"
       - 
       - 
       - 
@@ -114426,7 +114427,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Bloodthirsty
-      - "\u72C2\u70ED"
+      - "\u6E34\u671B"
       - "\u72C2\u71B1"
       - 
       - 
@@ -114922,7 +114923,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rage
-      - "\u6124\u6012"
+      - "\u575A\u6BC5"
       - "\u61A4\u6012"
       - 
       - 
@@ -117853,7 +117854,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "His Excellency\u2026 will get mad"
-      - "\u90A3\u4F4D\u5927\u4EBA \u4F1A\u751F\u6C14"
+      - "\u90A3\u4F4D\u5927\u4EBA\u4F1A\u751F\u6C14"
       - "\u90A3\u4F4D\u5927\u4EBA \u6703\u751F\u6C23"
       - 
       - 
@@ -117872,7 +117873,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Burn to ashes, you bug!
-      - "\u70E7\u6210\u7070\u5427\uFF0C\u866B\u5B50\uFF01"
+      - "\u70E7\u6210\u7070\u5427\uFF01"
       - "\u71D2\u6210\u7070\u5427\uFF0C\u87F2\u5B50\uFF01"
       - 
       - 
@@ -117910,7 +117911,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Unworthy creatures
-      - "\u52A3\u7B49\u751F\u7269"
+      - "\u79BB\u5F00\uFF01"
       - "\u52A3\u7B49\u751F\u7269"
       - 
       - 
@@ -118138,7 +118139,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - I see you! You ants!
-      - "\u6211\u770B\u89C1\u4F60\u4EEC\u4E86\uFF01\u877C\u8681\u4EEC\uFF01"
+      - "\u6211\u770B\u89C1\u4F60\u4EEC\u4E86\uFF01"
       - "\u6211\u770B\u898B\u4F60\u5011\u4E86\uFF01\u87BB\u87FB\u5011\uFF01"
       - 
       - 
@@ -118271,7 +118272,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Stupid question! Enough!
-      - "\u611A\u8822\u7684\u95EE\u9898\uFF01\u6211\u53D7\u591F\u4E86\uFF01"
+      - "\u4E0D\u63A5\u53D7\u63D0\u95EE\uFF01"
       - "\u611A\u8822\u7684\u554F\u984C\uFF01\u6211\u53D7\u5920\u4E86\uFF01"
       - 
       - 
@@ -118366,7 +118367,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Destroy the statue!
-      - "\u6BC1\u706D\u96D5\u50CF\uFF01"
+      - "\u96D5\u50CF\u2026\u2026"
       - "\u6BC0\u6EC5\u96D5\u50CF\uFF01"
       - 
       - 
@@ -119029,7 +119030,7 @@ MonoBehaviour:
       - "I would have gone mad like everyone else if I didn't hide in the golem.
         Did you say you are looking for the infected? I think it\u2026 Well, I THINK
         it has headed that way."
-      - "\u5982\u679C\u4E0D\u662F\u8EB2\u5728\u9B54\u50CF\u91CC\uFF0C\u90A3\u4E48\u6211\u5E94\u8BE5\u4F1A\u548C\u5927\u5BB6\u4E00\u6837\u75AF\u6389\u3002\u4F60\u8981\u627E\u5BC4\u751F\u8005\uFF1F\u5B83\u5E94\u8BE5\uFF0C\u55EF\u2026\u2026\u6211\u662F\u8BF4\u5E94\u8BE5\uFF0C\u662F\u5F80\u90A3\u53BB\u4E86\u3002"
+      - "\u5982\u679C\u4E0D\u662F\u8EB2\u5728\u9B54\u50CF\u91CC\uFF0C\u90A3\u4E48\u6211\u4E5F\u4E0D\u77E5\u9053\u4F1A\u53D1\u751F\u4EC0\u4E48\u3002\u4F60\u8981\u627E\u5BC4\u751F\u8005\uFF1F\u5B83\u5E94\u8BE5\uFF0C\u55EF\u2026\u2026\u6211\u662F\u8BF4\u5E94\u8BE5\uFF0C\u662F\u5F80\u90A3\u53BB\u4E86\u3002"
       - "\u5982\u679C\u4E0D\u662F\u8EB2\u5728\u9B54\u50CF\u88E1\uFF0C\u90A3\u9EBC\u6211\u61C9\u8A72\u6703\u548C\u5927\u5BB6\u4E00\u6A23\u760B\u6389\u3002\u4F60\u8981\u627E\u5BC4\u751F\u8005\uFF1F\u5B83\u61C9\u8A72\uFF0C\u55EF\u2026\u2026\u6211\u662F\u8AAA\u61C9\u8A72\uFF0C\u662F\u5F80\u90A3\u53BB\u4E86\u3002"
       - 
       - 
@@ -119860,7 +119861,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barbarian's Axe
-      - "\u91CE\u86EE\u4EBA\u7684\u65A7\u5934"
+      - "\u91CE\u86EE\u4EBA\u5DE8\u65A7"
       - "\u91CE\u883B\u4EBA\u7684\u65A7\u982D"
       - 
       - 
@@ -119900,7 +119901,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barbarian's Axe
-      - "\u91CE\u86EE\u4EBA\u7684\u65A7\u5934"
+      - "\u91CE\u86EE\u4EBA\u5DE8\u65A7"
       - "\u91CE\u883B\u4EBA\u7684\u65A7\u982D"
       - 
       - 
@@ -119940,7 +119941,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barbarian's Two-handed Axe
-      - "\u91CE\u86EE\u4EBA\u5BF9\u65A7"
+      - "\u91CE\u86EE\u4EBA\u5DE8\u65A7\xB7\u4F20\u5947"
       - "\u91CE\u883B\u4EBA\u5C0D\u65A7"
       - 
       - 
@@ -119980,7 +119981,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Barbarian's Broad Axe
-      - "\u91CE\u86EE\u4EBA\u7684\u5DE8\u65A7"
+      - "\u91CE\u86EE\u4EBA\u5DE8\u65A7\xB7\u8D85\u51E1"
       - "\u91CE\u883B\u4EBA\u7684\u5DE8\u65A7"
       - 
       - 
@@ -120021,7 +120022,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fisherman's Trident
-      - "\u6E14\u592B\u7684\u4E09\u53C9\u621F"
+      - "\u6E14\u592B\u4E09\u53C9\u621F"
       - "\u6F01\u592B\u7684\u4E09\u53C9\u621F"
       - 
       - 
@@ -120062,7 +120063,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Fisherman's Trident
-      - "\u6E14\u592B\u7684\u4E09\u53C9\u621F"
+      - "\u6E14\u592B\u4E09\u53C9\u621F"
       - "\u6F01\u592B\u7684\u4E09\u53C9\u621F"
       - 
       - 
@@ -120103,7 +120104,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Guardian's Trident
-      - "\u5B88\u536B\u7684\u4E09\u53C9\u621F"
+      - "\u6E14\u592B\u4E09\u53C9\u621F\xB7\u4F20\u5947"
       - "\u5B88\u885B\u7684\u4E09\u53C9\u621F"
       - 
       - 
@@ -120144,7 +120145,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Throw Trident
-      - "\u6295\u63B7\u4E09\u53C9\u621F"
+      - "\u6E14\u592B\u4E09\u53C9\u621F\xB7\u8D85\u51E1"
       - "\u6295\u64F2\u4E09\u53C9\u621F"
       - 
       - 
@@ -120259,7 +120260,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rock Hammer
-      - "\u5C71\u5CA9\u4E4B\u9524"
+      - "\u8499\u5708\u4E4B\u9524\xB7\u4F20\u5947"
       - "\u5C71\u5CA9\u4E4B\u9318"
       - 
       - 
@@ -120297,7 +120298,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Storm Hammer
-      - "\u98CE\u66B4\u4E4B\u9524"
+      - "\u8499\u5708\u4E4B\u9524\xB7\u8D85\u51E1"
       - "\u98A8\u66B4\u4E4B\u9318"
       - 
       - 
@@ -120394,7 +120395,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Honey, I swear that I will never steal the packages again\u2026"
-      - "\u592B\u4EBA\uFF0C\u6211\u53D1\u8A93\u518D\u4E5F\u4E0D\u5077\u5FEB\u9012\u4E86\u2026\u2026"
+      - "\u592B\u4EBA\uFF0C\u60A8\u7684\u5FEB\u9012\u2026\u2026"
       - "\u592B\u4EBA\uFF0C\u6211\u767C\u8A93\u518D\u4E5F\u4E0D\u5077\u5FEB\u905E\u4E86\u2026\u2026"
       - 
       - 
@@ -121382,7 +121383,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Turn left, you dumb dog!
-      - "\u5411\u5DE6\u8D70~\u4F60\u8FD9\u53EA\u8822\u72D7\uFF01"
+      - "\u5F80\u90A3\u8D70\uFF01"
       - "\u5411\u5DE6\u8D70~\u4F60\u9019\u53EA\u8822\u72D7\uFF01"
       - 
       - 
@@ -121591,7 +121592,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - This is my turf, you bugs!
-      - "\u8FD9\u662F\u6211\u7684\u5730\u76D8\uFF0C\u5C0F\u866B\u5B50\u4EEC\uFF01"
+      - "\u8FD9\u662F\u6211\u7684\u5730\u76D8\uFF01"
       - "\u9019\u662F\u6211\u7684\u5730\u76E4\uFF0C\u5C0F\u87F2\u5B50\u5011\uFF01"
       - 
       - 

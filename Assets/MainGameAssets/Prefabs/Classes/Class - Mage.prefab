@@ -69,6 +69,7 @@ MonoBehaviour:
   - {fileID: -6317306252093636915, guid: 39ff2e13c1f50f44ba52157698be506b, type: 3}
   - {fileID: -6317306252093636915, guid: 39ff2e13c1f50f44ba52157698be506b, type: 3}
   - {fileID: 621198866724557324, guid: 8e00bec8413e9484d8c3345e37cef6b1, type: 3}
+  - {fileID: 114972017770591136, guid: b14c73c2ddb7d4e83a0689d19ced9b96, type: 3}
   basicTalents:
   - {fileID: 7756418509735178840, guid: 019037dede751d847a7690547cfe43aa, type: 3}
   - {fileID: 7756418509735178840, guid: 9ff7e9f721c0d4e49bcdbbbf1e9519c1, type: 3}
@@ -114,12 +115,12 @@ MonoBehaviour:
   - Sharma the Lightbringer
   - Pael the Leafcaller
   cutscenes:
-  - {fileID: 7757890371900061504, guid: 782e9b80a184041e894c166283defcca, type: 3}
-  - {fileID: 7757890371900061504, guid: 24afbd98062c848808f04fd4c55a3fb7, type: 3}
-  - {fileID: 7757890371900061504, guid: c7ca563e7a1c447c7843d1653f7feaae, type: 3}
-  - {fileID: 7757890371900061504, guid: 626e130735a1a4231a6a918a6d9ea59e, type: 3}
-  - {fileID: 7757890371900061504, guid: 5be597bd9e69a432ab4b20e739a3ca55, type: 3}
-  - {fileID: 7757890371900061504, guid: 3d91bfeb717414e74859a86bfc8708dd, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   cutsceneAreas: 010000000100000002000000020000000300000003000000
   startTalents:
   - {fileID: 7756418509735178840, guid: 7fa8968ef72512b419f52504d12dc9a7, type: 3}
