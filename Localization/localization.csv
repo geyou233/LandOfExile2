@@ -162,9 +162,9 @@ AncientEncounter1CardDescription,Text,,"A giant dragon roars, jumping clumsily b
 AncientEncounter1CardName,Text,,Earth Dragon,走地龙,走地龍,,,,,,,アース・ドラゴン,,,
 AncientEncounter1MageCardDescription,Text,,"A giant dragon roars, jumping clumsily but quickly between the several volcanic blocks surrounding you.",一条巨大的龙嘶吼着，在环绕于你们周围的几个火山石地块之间笨拙却又快速地跳跃,一條巨大的龍嘶吼著，在環繞于你們周圍的幾個火山石地塊之間笨拙卻又快速地跳躍,,,,,,,巨大なドラゴンがうなり声を上げ、周囲のいくつかの火山岩の間をぎこちないながらも素早くジャンプしている,,,
 AncientEncounter1MageCardName,Text,,Earth Dragon,走地龙,走地龍,,,,,,,アース・ドラゴン,,,
-AncientEncounter2CardDescription,Text,,"You arrive at a grove abundant with fire fruit trees, where the owner consistently expels anyone attempting to steal the fruit, including you.",你来到了一个长满了火果树的灌木丛中，这里的主人正不停驱赶着想要偷吃果子的人，当然也包括你,你來到了一個長滿了火果樹的灌木叢中，這裡的主人正不停驅趕著想要偷吃果子的人，當然也包括你,,,,,,,あなたはパイロフルーツの木が生い茂る茂みにやって来た。そこのオーナーは果実を盗もうとする人を常に追い払っている、あなたももちろん例外ではない,,,
+AncientEncounter2CardDescription,Text,,"You arrive at a grove abundant with fire fruit trees, where the owner consistently expels anyone attempting to steal the fruit, including you.",你来到了一个长满了火果树的灌木丛中，这里的主人正不停驱赶着想要吃果子的暗精灵,你來到了一個長滿了火果樹的灌木叢中，這裡的主人正不停驅趕著想要偷吃果子的人，當然也包括你,,,,,,,あなたはパイロフルーツの木が生い茂る茂みにやって来た。そこのオーナーは果実を盗もうとする人を常に追い払っている、あなたももちろん例外ではない,,,
 AncientEncounter2CardName,Text,,Pyrofruit Dragon,火果龙,火果龍,,,,,,,パイロフルーツ・ドラゴン,,,
-AncientEncounter2MageCardDescription,Text,,"You arrive at a grove abundant with fire fruit trees, where the owner consistently expels anyone attempting to steal the fruit, including you.",你来到了一个长满了火果树的灌木丛中，这里的主人正不停驱赶着想要偷吃果子的人，当然也包括你,你來到了一個長滿了火果樹的灌木叢中，這裡的主人正不停驅趕著想要偷吃果子的人，當然也包括你,,,,,,,あなたはパイロフルーツの木が生い茂る茂みにやって来た。そこのオーナーは果実を盗もうとする人を常に追い払っている、あなたももちろん例外ではない,,,
+AncientEncounter2MageCardDescription,Text,,"You arrive at a grove abundant with fire fruit trees, where the owner consistently expels anyone attempting to steal the fruit, including you.",你来到了一个长满了火果树的灌木丛中，这里的主人正不停驱赶着想要吃果子的暗精灵,你來到了一個長滿了火果樹的灌木叢中，這裡的主人正不停驅趕著想要偷吃果子的人，當然也包括你,,,,,,,あなたはパイロフルーツの木が生い茂る茂みにやって来た。そこのオーナーは果実を盗もうとする人を常に追い払っている、あなたももちろん例外ではない,,,
 AncientEncounter2MageCardName,Text,,Pyrofruit Dragon,火果龙,火果龍,,,,,,,パイロフルーツ・ドラゴン,,,
 AncientEncounter3CardDescription,Text,,"It appears to welcome you, but every time you attempt to move forward, it will always get in your way again.",它看起来很欢迎你，不过只要你想要继续前进时，它总会再次挡到你面前,它看起來很歡迎你，不過只要你想要繼續前進時，它總會再次擋到你面前,,,,,,,そいつはあなたを歓迎しているように見えるが、あなたが先に進みたい時はいつもあなたの前に立ち塞がる,,,
 AncientEncounter3CardName,Text,,Nian,年兽,年獸,,,,,,,年獣,,,
@@ -174,9 +174,9 @@ AncientEncounter4CardDescription,Text,,"You are attracted by a huge flower, and 
 AncientEncounter4CardName,Text,,Venusaur Dragon,妙蛙花龙,妙蛙花龍,,,,,,,フシギバナ・ドラゴン,,,
 AncientEncounter5CardDescription,Text,,"As you walked by a Kangaroo Dragon's nest, you accidentally woke up the sleeping dragon, and it roared angrily while tightening the rope that holding its baby.",你们路过了一个袋龙的巢穴，弄醒了在这里沉睡的主人,你們路過了一個袋龍的巢穴，弄醒了在這裡沉睡的主人，它生氣地狂吼，並拉緊著拴著它孩子的繩子,,,,,,,あなた達はカンガルー・ドラゴンの隠れ家を通り過ぎ、うっかり眠っているオーナーを起こしてしまった。カンガルー・ドラゴンは子供をつないだロープを引っ張りながら、 怒りに咆哮した,,,
 AncientEncounter5CardName,Text,,Kangaroo Dragon,袋龙,袋龍,,,,,,,カンガルー・ドラゴン,,,
-AncientEncounter6CardDescription,Text,,"Lavatsky is chanting weird sorcery, and his body seems to have become a vessel to receive a powerful soul.",拉瓦茨基正在吟唱着一种诡异的魔法，她的身体似乎变成了一个载体，接收着一个强大的灵魂,拉瓦茨基正在吟唱著一種詭異的魔法，她的身體似乎變成了一個載體，接收著一個強大的靈魂,,,,,,,ラヴァツキーは奇妙なソーサリーを詠唱している、彼の体は強大な魂を受け入れる器になっているようだ,,,
+AncientEncounter6CardDescription,Text,,"Lavatsky is chanting weird sorcery, and his body seems to have become a vessel to receive a powerful soul.",拉瓦茨基正在吟唱着一种诡异的魔法，她的身体似乎变成了一个载体，吸收着强大的力量,拉瓦茨基正在吟唱著一種詭異的魔法，她的身體似乎變成了一個載體，接收著一個強大的靈魂,,,,,,,ラヴァツキーは奇妙なソーサリーを詠唱している、彼の体は強大な魂を受け入れる器になっているようだ,,,
 AncientEncounter6CardName,Text,,Mrs. Lavatsky,拉瓦茨基夫人,拉瓦茨基夫人,,,,,,,ラヴァツキー夫人,,,
-AncientEncounter6MageCardDescription,Text,,"Lavatsky is chanting weird sorcery, and his body seems to have become a vessel to receive a powerful soul.",拉瓦茨基正在吟唱着一种诡异的魔法，她的身体似乎变成了一个载体，接收着一个强大的灵魂,拉瓦茨基正在吟唱著一種詭異的魔法，她的身體似乎變成了一個載體，接收著一個強大的靈魂,,,,,,,ラヴァツキーは奇妙なソーサリーを詠唱している、彼の体は強大な魂を受け入れる器になっているようだ,,,
+AncientEncounter6MageCardDescription,Text,,"Lavatsky is chanting weird sorcery, and his body seems to have become a vessel to receive a powerful soul.",拉瓦茨基正在吟唱着一种诡异的魔法，她的身体似乎变成了一个载体，吸收着强大的力量,拉瓦茨基正在吟唱著一種詭異的魔法，她的身體似乎變成了一個載體，接收著一個強大的靈魂,,,,,,,ラヴァツキーは奇妙なソーサリーを詠唱している、彼の体は強大な魂を受け入れる器になっているようだ,,,
 AncientEncounter6MageCardName,Text,,Mrs. Lavatsky,拉瓦茨基夫人,拉瓦茨基夫人,,,,,,,ラヴァツキー夫人,,,
 AncientShadeCardDescription,Text,,Swap. Combo 1,换位。连击1,換位。連擊1,,,,,,,位置交換。連撃1,,,
 AncientShadeCardName,Text,,Ancient Shadows,远古之影,遠古之影,,,,,,,太古の影,,,
@@ -5883,7 +5883,7 @@ ReactiveArmourCardDescription,Text,,Get Block equal to the number of enemy units
 ReactiveArmourCardName,Text,,Reactive Armor,反应装甲,反應裝甲,,,,,,,反応装甲,,,
 ReadyStanceCardDescription,Text,,Get Counterattack until the next turn begins.,直到下一回合开始，获得反击,直到下一回合開始，獲得反擊,,,,,,,次のターン開始まで、反撃を獲得する,,,
 ReadyStanceCardName,Text,,The Will of Revenge,反击的意志,反擊的意志,,,,,,,復讐の意志,,,
-RealNameTips,Text,,,"根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》，我们需要获取您的真实姓名和身份证号进行实名认证，您需要在完成实名认证后才可继续进行游戏。请注意，实名信息一经认证不可更改。
+RealNameTips,Text,,,"根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，我们需要获取您的真实姓名和身份证号进行实名认证，您需要在完成实名认证后才可继续进行游戏。请注意，实名信息一经认证不可更改。
 <b>请注意，实名信息一经认证不可更改。</b>","根據國家新聞出版署《關於進一步嚴格管理切實防止未成年人沉迷網路遊戲的通知》，我們需要獲取您的真實姓名和身份證號進行實名認證，您需要在完成實名認證後才可繼續進行遊戲。
 <b>請注意，實名資訊一經認證不可更改。</b>",,,,,,,,,,
 RealNameVerify,Text,,,实名认证,實名認證,,,,,,,,,,
