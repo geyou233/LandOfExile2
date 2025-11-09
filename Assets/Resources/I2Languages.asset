@@ -5301,7 +5301,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Your hero gain Divulsion
-      - "\u4F60\u7684\u82F1\u96C4\u83B7\u5F97\u6495\u88C2"
+      - "\u4F60\u7684\u82F1\u96C4\u83B7\u5F97\u75DB\u51FB"
       - "\u4F60\u7684\u82F1\u96C4\u7372\u5F97\u6495\u88C2"
       - 
       - 
@@ -24209,7 +24209,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Arsonist
-      - "\u70B9\u706B\u8005"
+      - "\u707C\u708E"
       - "\u9EDE\u706B\u8005"
       - 
       - 
@@ -24285,7 +24285,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Demon's Heart
-      - "\u6076\u9B54\u4E4B\u5FC3"
+      - "\u6267\u5FF5"
       - "\u60E1\u9B54\u4E4B\u5FC3"
       - 
       - 
@@ -28049,7 +28049,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Divulsion
-      - "\u6495\u88C2"
+      - "\u75DB\u51FB"
       - "\u6495\u88C2"
       - 
       - 
@@ -33229,7 +33229,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Tricked!
-      - "\u88AB\u9A97\u4E86\uFF01"
+      - "\u4ED6\u8D70\u4E86\uFF01"
       - "\u88AB\u9A19\u4E86\uFF01"
       - 
       - 
@@ -76211,7 +76211,7 @@ MonoBehaviour:
       Languages:
       - '"How dare you!!!" The statue trembled, and 4 ancient spirits suddenly surrounded
         you.'
-      - "\"\u5927\u80C6\uFF01\uFF01\uFF01\" \u90A3\u4E2A\u795E\u50CF\u6296\u52A8\u4E86\u4E00\u4E0B\uFF0C4\u4E2A\u8FDC\u53E4\u7075\u9B42\u77AC\u95F4\u51FA\u73B0\u5728\u4E86\u4F60\u4EEC\u7684\u56DB\u5468\u3002"
+      - "\"\u5927\u80C6\uFF01\uFF01\uFF01\" \u90A3\u4E2A\u795E\u50CF\u6296\u52A8\u4E86\u4E00\u4E0B\uFF0C\u56DB\u4E2A\u8FDC\u53E4\u751F\u7269\u77AC\u95F4\u51FA\u73B0\u5728\u4E86\u4F60\u4EEC\u7684\u56DB\u5468\u3002"
       - "\"\u5927\u81BD\uFF01\uFF01\uFF01\" \u90A3\u500B\u795E\u50CF\u6296\u52D5\u4E86\u4E00\u4E0B\uFF0C4\u500B\u9060\u53E4\u9748\u9B42\u77AC\u9593\u51FA\u73FE\u5728\u4E86\u4F60\u5011\u7684\u56DB\u5468\u3002"
       - 
       - 
@@ -76249,7 +76249,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - That god statue shook, and four ancient souls suddenly appeared around you.
-      - "\u90A3\u4E2A\u795E\u50CF\u6296\u52A8\u4E86\u4E00\u4E0B\uFF0C4\u4E2A\u8FDC\u53E4\u7075\u9B42\u77AC\u95F4\u51FA\u73B0\u5728\u4E86\u4F60\u4EEC\u7684\u56DB\u5468\u3002"
+      - "\"\u5927\u80C6\uFF01\uFF01\uFF01\" \u90A3\u4E2A\u795E\u50CF\u6296\u52A8\u4E86\u4E00\u4E0B\uFF0C\u56DB\u4E2A\u8FDC\u53E4\u751F\u7269\u77AC\u95F4\u51FA\u73B0\u5728\u4E86\u4F60\u4EEC\u7684\u56DB\u5468\u3002"
       - "\u90A3\u500B\u795E\u50CF\u6296\u52D5\u4E86\u4E00\u4E0B\uFF0C4\u500B\u9060\u53E4\u9748\u9B42\u77AC\u9593\u51FA\u73FE\u5728\u4E86\u4F60\u5011\u7684\u56DB\u5468\u3002"
       - 
       - 
@@ -76947,7 +76947,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Mad Growth
-      - "\u75AF\u72C2\u751F\u957F"
+      - "\u751F\u957F"
       - "\u760B\u72C2\u751F\u9577"
       - 
       - 
@@ -119454,7 +119454,7 @@ MonoBehaviour:
       Languages:
       - "The goblin stated that it left yelling \"Water\u2026 Water\u2026.\", and
         pointed to the south. Maybe we should go look for it in the desert oasis."
-      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
+      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201C\u6C34~\u6C34~\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
       - "\u54E5\u5E03\u6797\u8AAA\u5B83\u558A\u8457\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u96E2\u958B\u4E86\uFF0C\u4E26\u4E14\u6307\u5411\u4E86\u5357\u908A\u3002\u6216\u8A31\u6211\u5011\u61C9\u8A72\u53BB\u6C99\u6F20\u7684\u7DA0\u6D32\u627E\u627E\u5B83"
       - 
       - 
@@ -119493,7 +119493,7 @@ MonoBehaviour:
       Languages:
       - "The goblin stated that it left yelling \"Water\u2026 Water\u2026.\", and
         pointed to the south. Maybe we should go look for it in the desert oasis."
-      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
+      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201C\u6C34~\u6C34~\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
       - "\u54E5\u5E03\u6797\u8AAA\u5B83\u558A\u8457\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u96E2\u958B\u4E86\uFF0C\u4E26\u4E14\u6307\u5411\u4E86\u5357\u908A\u3002\u6216\u8A31\u6211\u5011\u61C9\u8A72\u53BB\u6C99\u6F20\u7684\u7DA0\u6D32\u627E\u627E\u5B83"
       - 
       - 
@@ -120432,7 +120432,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "You seem delicious, meow\u2026"
-      - "\u4F60\u770B\u8D77\u6765\u597D\u597D\u5403\u5440,\u55B5~"
+      - "\u4F60\u770B\u8D77\u6765\u597D\u597D\u5403\u5440\uFF0C\u55B5~"
       - "\u4F60\u770B\u8D77\u4F86\u597D\u597D\u5403\u5440,\u55B5~"
       - 
       - 
@@ -121282,7 +121282,7 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: "\u783E\u5CA9\u9B3C_chat"
+    - Term: "\u783E\u5CA9\u517D_chat"
       TermType: 0
       Description: 
       Languages:

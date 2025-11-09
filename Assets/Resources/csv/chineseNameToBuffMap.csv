@@ -20,7 +20,7 @@
 蠕虫孵化,亡语：在同一位置上产生对手控制的{{曼思里蠕虫}},icon_stamp_1018
 波特海文护腕,每当你的英雄攻击时，获得格挡1,icon_stamp_1019
 鼓舞人心,与您相邻的友方随从获得+1攻击力,icon_stamp_1020
-大杀四方,使用任何近战武器的攻击均具有劈砍效果,icon_stamp_1051
+大斩四方,使用任何近战武器的攻击均具有劈砍效果,icon_stamp_1051
 健臂,使用任何远程武器进行的远程攻击都带有穿透效果,icon_stamp_1022
 虚弱,降低等于虚弱值的攻击力，直到回合结束,icon_stamp_1023
 侵蚀,被摧毁时，在其位置孵化一个带有此效果的随从。,icon_stamp_1152
@@ -126,7 +126,7 @@
 屏障,,icon_stamp_1080
 毒粉末,,
 成长力量,,icon_stamp_1038
-残忍,,icon_stamp_1040
+隐痛,,icon_stamp_1040
 鲜血祝福,,icon_stamp_1074
 毒疗,,icon_stamp_1024
 龙晶果,,icon_stamp_1058
@@ -134,7 +134,7 @@
 部署,,icon_stamp_1060
 反噬,,icon_stamp_1014
 振奋,,icon_stamp_1028
-恶魔之心,,icon_stamp_1054
+执念,,icon_stamp_1054
 猛击,,icon_stamp_1043
 机动作战,,icon_stamp_1085
 荆棘铠甲,,icon_stamp_1009
@@ -146,7 +146,7 @@
 愤怒,,icon_stamp_1056
 缠斗,,icon_stamp_1042
 炎盾,,icon_stamp_1054
-点火者,,icon_stamp_1073
+灼炎,,icon_stamp_1073
 调用,,icon_stamp_1068
 弱点,,icon_stamp_1075
 横冲直撞,,icon_stamp_1041
