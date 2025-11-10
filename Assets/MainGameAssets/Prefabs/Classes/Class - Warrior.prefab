@@ -69,6 +69,7 @@ MonoBehaviour:
   - {fileID: 7762805283351796176, guid: bd74dbf445ddc44a7aefb496e19514a8, type: 3}
   - {fileID: 7762805283351796176, guid: bd74dbf445ddc44a7aefb496e19514a8, type: 3}
   - {fileID: 621198866724557324, guid: 8e00bec8413e9484d8c3345e37cef6b1, type: 3}
+  - {fileID: 114972017770591136, guid: b14c73c2ddb7d4e83a0689d19ced9b96, type: 3}
   basicTalents:
   - {fileID: 7756418509735178840, guid: 265b3fbf28cd447c1b56ec89debb46ff, type: 3}
   - {fileID: 7756418509735178840, guid: 3c26393b365cd4d739f7af7ae6ba2b25, type: 3}
@@ -114,12 +115,12 @@ MonoBehaviour:
   - Borin the Lightbringer
   - Haskar the Barbarian
   cutscenes:
-  - {fileID: 7757890371900061504, guid: e1349ec034c6344f09c382100c24c7eb, type: 3}
-  - {fileID: 7757890371900061504, guid: 587ecbd5a0ce3454a9fe1e72381b39bf, type: 3}
-  - {fileID: 7757890371900061504, guid: 33b19ec9dcb734a83a510e1eeced8b4f, type: 3}
-  - {fileID: 7757890371900061504, guid: 24bee81d7ba224518a2ddae2a59af17b, type: 3}
-  - {fileID: 7757890371900061504, guid: 03e24bfbffad84cd7bf42b44ec135a13, type: 3}
-  - {fileID: 7757890371900061504, guid: c5b85ba3d099f426eb885b55674ead34, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   cutsceneAreas: 010000000100000002000000020000000300000003000000
   startTalents:
   - {fileID: 7756418509735178840, guid: 3cad158ad977f8d42aa2e078549bfc1a, type: 3}

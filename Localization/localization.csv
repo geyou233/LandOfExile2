@@ -3576,14 +3576,14 @@ ImmuneRootedEffectCardName,Text,,Immune to rooted,免疫定身,免疫定身,,,,,
 ImmuneToSunTrapCardDescription,Text,,Unaffected by Scorched Field terrain,不会受到焦土地形的影响,不會受到焦土地形的影響,,,,,,,焦土地形の影響を受けない,,,
 ImmuneToSunTrapCardName,Text,,Neglect Scorched Field,无视焦土,無視焦土,,,,,,,焦土無効化,,,
 ImplantThoughtCardDescription,Text,,Put a {{SelfHatred}} into your opponent's deck,将一张{{SelfHatred}}放入对手牌组,將一張{{SelfHatred}}放入對手牌組,,,,,,,相手のデッキに{{SelfHatred}}を1枚入れる,,,
-ImplantThoughtCardName,Text,,Neurotoxin,神经毒素,神經毒素,,,,,,,神経毒,,,
+ImplantThoughtCardName,Text,,Neurotoxin,头痛,神經毒素,,,,,,,神経毒,,,
 InfectedChimoEncounter13CardDescription,Text,,"This adventure chimo seems to have same symptoms as the strange guys in Snowy Village lately, or rather... even more worse.",这个冒险者奇莫似乎和最近白雪村里的奇怪的家伙们有些相同的症状，确切地说……更严重,這個冒險者奇莫似乎和最近白雪村裡的奇怪的傢伙們有些相同的症狀，確切地說……更嚴重,,,,,,,この冒険者チモは、最近白雪村の変なやつらと同じ症状が出たようだ。正確に言えば……もっとひどいんだ,,,
 InfectedChimoEncounter13CardName,Text,,Infected,寄生体,寄生體,,,,,,,寄生体,,,
 InfestKeywordDescription,Text,,Adds a deathrattle effect to the unit attacked by this card.,在被这张卡攻击的单位身上增加被摧毁：效果,在被這張卡攻擊的單位身上增加被摧毀：效果,,,,,,,このカードに攻撃されたユニットに破壊効果を付与する,,,
 InfestKeywordName,Text,,Infect,侵染,侵染,,,,,,,浸食,,,
 Information,Text,,Hint,提示,提示,,,,,,,ヒント,,,
 Initial Mana,Text,,Initial Mana,初始法力值,初始法力值,,,,,,,初期マナ,,,
-InstantThunderCardDescription,Text,,Swap the positions of your own and enemy heroes,与敌方英雄交换位置，如果他有雷附着，则改为对其造成3但伤害,與敵方英雄交換位置，如果他有雷附著，則改為對其造成3但傷害,,,,,,,敵ヒーローと位置交換する。相手が雷付着を持つ場合、代わりに3ダメージを与える,,,
+InstantThunderCardDescription,Text,,Swap the positions of your own and enemy heroes,与敌方英雄交换位置，如果他有雷附着，则改为对其造成3点伤害,與敵方英雄交換位置，如果他有雷附著，則改為對其造成3但傷害,,,,,,,敵ヒーローと位置交換する。相手が雷付着を持つ場合、代わりに3ダメージを与える,,,
 InstantThunderCardName,Text,,Thunder Flash,瞬雷,瞬雷,,,,,,,瞬雷,,,
 IntoThePotCardDescription,Text,,"Draw an enemy follower within range 2 to the Lady, shatter it, and summon a {{Gloop}} next to the Lady on the next turn.",将一个射程2范围内的敌方随从吸引到夫人那里，摧毁它，下一回合，在夫人旁边召唤一个{{Gloop}},將一個射程2範圍內的敵方隨從吸引到夫人那裡，摧毀它，下一回合，在夫人旁邊召喚一個{{Gloop}},,,,,,,射程2範囲内の敵従者を夫人のところに引き寄せて破壊する。次のターン、夫人の隣に{{Gloop}}を1個召喚する,,,
 IntoThePotCardName,Text,,Lady's Pet Bell,夫人的宠物铃铛,夫人的寵物鈴鐺,,,,,,,マダムのペットベル,,,
@@ -3658,13 +3658,13 @@ After shattering a unit, restores 4 HP and loses Flying for the rest of the turn
 摧毁一个单位后恢复4点生命，且本回合失去飞行","飛行
 摧毀一個單位後恢復4點生命，且本回合失去飛行",,,,,,,"飛行
 ユニットを1体破壊すると、HPが4回復し、このターン飛行を失う",,,
-LavusianCardName,Text,,Raged Rock Chonchon Dragon,觅食的岩宅龙,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
+LavusianCardName,Text,,Raged Rock Chonchon Dragon,巨龙守护者,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
 LavusianMageCardDescription,Text,,"Flying 
 After shattering a unit, restores 4 HP and loses Flying for the rest of the turn","飞行
 摧毁一个单位后恢复4点生命，且本回合失去飞行","飛行
 摧毀一個單位後恢復4點生命，且本回合失去飛行",,,,,,,"飛行
 ユニットを1体破壊すると、HPが4回復し、このターン飛行を失う",,,
-LavusianMageCardName,Text,,Raged Rock Chonchon Dragon,觅食的岩宅龙,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
+LavusianMageCardName,Text,,Raged Rock Chonchon Dragon,巨龙守护者,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
 LeapKeywordDescription,Text,,You can move past enemy units up to the displayed number of tiles in a single move.,单次移动时可越过敌人单位，至所显示的格数,單次移動時可越過敵人單位，至所顯示的格數,,,,,,,1回の移動で敵ユニットを通り抜け、表示されているマス数まで移動できる,,,
 LeapKeywordName,Text,,Leap,跳跃,跳躍,,,,,,,ジャンプ,,,
 Leave,Text,,Leave,离开,離開,,,,,,,立ち去る,,,
@@ -5624,13 +5624,13 @@ At the end of the turn, the opponent must exhaust 2 cards from the first 5 cards
 在回合结束时，对手必须要从其牌组中的前4张牌中选择1张牌移除","射程4
 在回合結束時，對手必須要從其牌組中的前4張牌中選擇1張牌移除",,,,,,,"射程4
 ターン終了時、ライバルはそのデッキの最初の4枚のカードから1枚削除しなければならない",,,
-MechanicalGodlingCardName,Text,,Lavatsky,拉瓦茨基,拉瓦茨基,,,,,,,ラヴァツキー,,,
+MechanicalGodlingCardName,Text,,Lavatsky,拉瓦茨基夫人,拉瓦茨基,,,,,,,ラヴァツキー,,,
 MechanicalGodlingMageCardDescription,Text,,"Range 4
 At the end of the turn, the opponent must exhaust 2 cards from the first 5 cards of his deck.","射程4
 在回合结束时，对手必须要从其牌组中的前4张牌中选择1张牌移除","射程4
 在回合結束時，對手必須要從其牌組中的前4張牌中選擇1張牌移除",,,,,,,"射程4
 ターン終了時、ライバルはそのデッキの最初の4枚のカードから1枚削除しなければならない",,,
-MechanicalGodlingMageCardName,Text,,Lavatsky,拉瓦茨基,拉瓦茨基,,,,,,,ラヴァツキー,,,
+MechanicalGodlingMageCardName,Text,,Lavatsky,拉瓦茨基夫人,拉瓦茨基,,,,,,,ラヴァツキー,,,
 MechanicalHeroCardDescription,Text,,,,,,,,,,,,,,
 MechanicalHeroCardName,Text,,Mechanical Heroes,机械英雄,機械英雄,,,,,,,機械ヒーロー,,,
 MentalLureCardDescription,Text,,All allied units gain Combo 1,所有友方单位获得连击1,所有友方單位獲得連擊1,,,,,,,すべての味方ユニットが連撃1を獲得する,,,
@@ -7633,7 +7633,7 @@ Deal 2 DMG on your hero when this card is drawn. ","移除
 抽到这张卡时，对你的英雄造成1点伤害。","移除
 抽到這張卡時，對你的英雄造成1點傷害。",,,,,,,"削除
 このカードを引き当てると、あなたのヒーローに1ダメージを与える。",,,
-SelfHatredCardName,Text,,Neurotoxin,神经毒素,神經毒素,,,,,,,神経毒,,,
+SelfHatredCardName,Text,,Neurotoxin,刺痛,神經毒素,,,,,,,神経毒,,,
 SelfHatredToxicCardDescription,Text,,"Exhaust
 Automatically play this card when it is drawn to deal 2 damage and Weakened 1 to your heroes","移除
 抽到这张卡时自动使用此卡牌，对你的英雄造成2点伤害和虚弱1","移除
@@ -7665,7 +7665,7 @@ ShopPurchasePrompt,Text,,"I've got everything here. The first purchase is free, 
 ShopRemovalConfirmationPrompt,Text,,Would you like to exhaust this card?,你想要移除这张卡吗？,你想要移除這張卡嗎？,,,,,,,このカードを削除したい？,,,
 ShopRemovalPrompt,Text,,"You can exhaust your card for the first time for free, and I'll only charge a few crystals each time in the future",移除你的卡牌，第一次免费，之后的也仅需要给我几个水晶,移除你的卡牌，第一次免費，之後的也僅需要給我幾個水晶,,,,,,,あなたのカードを削除します。初回は無料で、初回以降は水晶をいくつかください,,,
 ShopTreasureConfirmationPrompt,Text,,Is this the card you want?,你想要这张卡吗？,你想要這張卡嗎？,,,,,,,このカードが欲しい？,,,
-ShopTreasurePrompt,Text,,There are some cards in the treasure chest! You can acquire as many as you want.,宝箱里有一些卡牌！ 你可以选择任意张获得。,寶箱裡有一些卡牌！ 你可以選擇任意張獲得。,,,,,,,宝箱にはカードがいくつかあります！任意1枚選択して獲得できます。,,,
+ShopTreasurePrompt,Text,,There are some cards in the treasure chest! You can acquire as many as you want.,宝箱里有一些卡牌！ 你可以选择任意数量获得。,寶箱裡有一些卡牌！ 你可以選擇任意張獲得。,,,,,,,宝箱にはカードがいくつかあります！任意1枚選択して獲得できます。,,,
 ShopUpgradeConfirmationPrompt,Text,,Would you like to upgrade this card?,你想要升级这张卡吗？,你想要升級這張卡嗎？,,,,,,,このカードをレベルアップしたい？,,,
 ShopUpgradePrompt,Text,,"I can help you with the card upgrade. The first time is free, and I'll only charge a few crystals each time in the future",我可以升级你的卡牌，第一次免费，之后的也仅需要给我几个水晶,我可以升級你的卡牌，第一次免費，之後的也僅需要給我幾個水晶,,,,,,,あなたのカードをレベルアップできます。初回は無料で、初回以降は水晶をいくつかください,,,
 Shopping,Text,,,,,,,,,,,,,,
@@ -8771,7 +8771,7 @@ WarriorBasic09CardDescription,Text,,"When your follower is summoned to a positio
 WarriorBasic09CardName,Text,,Daring,无畏,無畏,,,,,,,恐れ知らず,,,
 WarriorBasic10CardDescription,Text,,"ATK of your hero +1, but Max HP -2",你的英雄攻击力+1，但最大生命值-2,你的英雄攻擊力+1，但最大生命值-2,,,,,,,あなたのヒーローの攻撃力+1、ただし最大HP-2,,,
 WarriorBasic10CardName,Text,,Power,力量,力量,,,,,,,力,,,
-WarriorBasic11CardDescription,Text,,Draw 1 more card in every turn.,每回合抽多1张卡。,每回合抽多1張卡。,,,,,,,毎ターンカードを1枚多く引く。,,,
+WarriorBasic11CardDescription,Text,,Draw 1 more card in every turn.,每回合多抽1张卡。,每回合抽多1張卡。,,,,,,,毎ターンカードを1枚多く引く。,,,
 WarriorBasic11CardName,Text,,Knowledge,学识,學識,,,,,,,学識,,,
 WarriorBasic12CardDescription,Text,,Grants 1 temporary HP to the follower upon taking damage,你的随从受到伤害时，本回合会增加1点临时生命,你的隨從受到傷害時，本回合會增加1點臨時生命,,,,,,,あなたの従者がダメージを受けると、このターン臨時HP+1,,,
 WarriorBasic12CardName,Text,,Rage,坚毅,憤怒,,,,,,,怒り,,,
@@ -9002,7 +9002,7 @@ You lack Flarestones to pay with.,Text,,Pay with crystals,用水晶支付,用水
 You lack treasure cards to pay with.,Text,,You don't have enough treasure cards for this purchase,你缺少宝藏牌来支付,你缺少寶藏牌來支付,,,,,,,支払い用の宝物カードが足りません,,,
 Your Turn,Text,,yourturn chinese,yourturn chinese,yourturn chinese,,,,,,,yourturn chinese,,,
 YoureMineCardDescription,Text,,"Opponent draws a card, and grants all his units Weakness 2",对手抽一张牌，并且其所有单位获得虚弱2,對手抽一張牌，並且其所有單位獲得虛弱2,,,,,,,相手がカードを1枚引き、全ての敵ユニットが虚弱2を獲得する,,,
-YoureMineCardName,Text,,Control Mind,操控思维,操控思維,,,,,,,マインドコントロール,,,
+YoureMineCardName,Text,,Control Mind,操纵,操控思維,,,,,,,マインドコントロール,,,
 battleDialogue_300010,Text,,Give me mushrooms!,给我菌菇！,給我菌菇！,,,,,,,キノコをよこせ！,,,
 battleDialogue_300020,Text,,Must put an end to it,必须做个了断,必須做個了斷,,,,,,,決着をつけねば,,,
 battleDialogue_300030,Text,,Flame is going out…,火焰将熄……,火焰將熄……,,,,,,,炎がじきに消える…,,,
