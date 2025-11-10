@@ -3052,7 +3052,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nian
-      - "\u5E74\u517D"
+      - "\u89D2\u517D"
       - "\u5E74\u7378"
       - 
       - 
@@ -3091,7 +3091,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nian
-      - "\u5E74\u517D"
+      - "\u89D2\u517D"
       - "\u5E74\u7378"
       - 
       - 
@@ -31384,7 +31384,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Give me your stuff, then I give you mine in return. That's how it works.
-      - "\u4F60\u5148\u7ED9\u6211\u4F60\u7684\u4E1C\u897F\uFF0C\u7136\u540E\u6211\u518D\u7ED9\u4F60\u6211\u7684\u4E1C\u897F\uFF0C\u55EF\uFF0C\u5C31\u8FD9\u6837"
+      - "\u4F60\u5148\u7ED9\u6211\u4F60\u7684\u4E1C\u897F\uFF0C\u7136\u540E\u6211\u518D\u7ED9\u4F60\u6211\u7684\u4E1C\u897F\uFF0C\u55EF\uFF0C\u5C31\u8FD9\u6837\u3002"
       - "\u4F60\u5148\u7D66\u6211\u4F60\u7684\u6771\u897F\uFF0C\u7136\u5F8C\u6211\u518D\u7D66\u4F60\u6211\u7684\u6771\u897F\uFF0C\u55EF\uFF0C\u5C31\u9019\u6A23"
       - 
       - 
@@ -96959,7 +96959,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nian
-      - "\u5E74\u517D"
+      - "\u89D2\u517D"
       - "\u5E74\u7378"
       - 
       - 
@@ -96999,7 +96999,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Nian
-      - "\u5E74\u517D"
+      - "\u89D2\u517D"
       - "\u5E74\u7378"
       - 
       - 
@@ -102837,7 +102837,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Pot Man
-      - "\u58F6\u4E2D\u5C0F\u4EBA"
+      - "\u58F6\u4E2D\u7CBE\u7075"
       - "\u58FA\u4E2D\u5C0F\u4EBA"
       - 
       - 
@@ -103187,7 +103187,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cursed Claws
-      - "\u8150\u8680\u4E4B\u722A"
+      - "\u9F99\u4E4B\u722A"
       - "\u8150\u8755\u4E4B\u722A"
       - 
       - 
@@ -103532,7 +103532,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Core of Life
-      - "\u751F\u547D\u6838\u5FC3"
+      - "\u6F5C\u80FD\u6838\u5FC3"
       - "\u751F\u547D\u6838\u5FC3"
       - 
       - 
@@ -103804,7 +103804,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Strange Plants
-      - "\u8150\u8680\u5A03\u5A03"
+      - "\u795E\u79D8\u571F\u5076"
       - "\u8150\u8755\u5A03\u5A03"
       - 
       - 
@@ -120679,7 +120679,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Burn! Burn!
-      - "\u70E7\u5427\uFF01\u70E7\u5427\uFF01"
+      - "\u54FC\uFF01"
       - "\u71D2\u5427\uFF01\u71D2\u5427\uFF01"
       - 
       - 
@@ -121572,7 +121572,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ah, the Spring Festival is here?
-      - "\u554A\uFF0C\u8FC7\u5E74\u5566\uFF1F\uFF01"
+      - "\u8C01\u5728\u90A3\uFF1F"
       - "\u554A\uFF0C\u904E\u5E74\u5566\uFF1F\uFF01"
       - 
       - 

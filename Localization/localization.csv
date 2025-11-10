@@ -167,9 +167,9 @@ AncientEncounter2CardName,Text,,Pyrofruit Dragon,火果龙,火果龍,,,,,,,パ�
 AncientEncounter2MageCardDescription,Text,,"You arrive at a grove abundant with fire fruit trees, where the owner consistently expels anyone attempting to steal the fruit, including you.",你来到了一个长满了火果树的灌木丛中，这里的主人正不停驱赶着想要吃果子的暗精灵,你來到了一個長滿了火果樹的灌木叢中，這裡的主人正不停驅趕著想要偷吃果子的人，當然也包括你,,,,,,,あなたはパイロフルーツの木が生い茂る茂みにやって来た。そこのオーナーは果実を盗もうとする人を常に追い払っている、あなたももちろん例外ではない,,,
 AncientEncounter2MageCardName,Text,,Pyrofruit Dragon,火果龙,火果龍,,,,,,,パイロフルーツ・ドラゴン,,,
 AncientEncounter3CardDescription,Text,,"It appears to welcome you, but every time you attempt to move forward, it will always get in your way again.",它看起来很欢迎你，不过只要你想要继续前进时，它总会再次挡到你面前,它看起來很歡迎你，不過只要你想要繼續前進時，它總會再次擋到你面前,,,,,,,そいつはあなたを歓迎しているように見えるが、あなたが先に進みたい時はいつもあなたの前に立ち塞がる,,,
-AncientEncounter3CardName,Text,,Nian,年兽,年獸,,,,,,,年獣,,,
+AncientEncounter3CardName,Text,,Nian,角兽,年獸,,,,,,,年獣,,,
 AncientEncounter3MageCardDescription,Text,,"It appears to welcome you, but every time you attempt to move forward, it will always get in your way again.",它看起来很欢迎你，不过只要你想要继续前进时，它总会再次挡到你面前,它看起來很歡迎你，不過只要你想要繼續前進時，它總會再次擋到你面前,,,,,,,そいつはあなたを歓迎しているように見えるが、あなたが先に進みたい時はいつもあなたの前に立ち塞がる,,,
-AncientEncounter3MageCardName,Text,,Nian,年兽,年獸,,,,,,,年獣,,,
+AncientEncounter3MageCardName,Text,,Nian,角兽,年獸,,,,,,,年獣,,,
 AncientEncounter4CardDescription,Text,,"You are attracted by a huge flower, and as you are about to pluck it, the ground beneath you begins to tremble violently, causing volcanic rock to erupt from below.",你被一株巨大的花朵所吸引，当你准备摘下它时，地面突然开始剧烈晃动，你脚下的火山石也开始露出它的本貌,你被一株巨大的花朵所吸引，當你準備摘下它時，地面突然開始劇烈晃動，你腳下的火山石也開始露出它的本貌,,,,,,,あなたは巨大な花に惹かれ、それを摘もうとしたとき、突然地面が激しく揺れ始め、あなたの下にある火山岩がその真の姿を現し始めた,,,
 AncientEncounter4CardName,Text,,Venusaur Dragon,妙蛙花龙,妙蛙花龍,,,,,,,フシギバナ・ドラゴン,,,
 AncientEncounter5CardDescription,Text,,"As you walked by a Kangaroo Dragon's nest, you accidentally woke up the sleeping dragon, and it roared angrily while tightening the rope that holding its baby.",你们路过了一个袋龙的巢穴，弄醒了在这里沉睡的主人,你們路過了一個袋龍的巢穴，弄醒了在這裡沉睡的主人，它生氣地狂吼，並拉緊著拴著它孩子的繩子,,,,,,,あなた達はカンガルー・ドラゴンの隠れ家を通り過ぎ、うっかり眠っているオーナーを起こしてしまった。カンガルー・ドラゴンは子供をつないだロープを引っ張りながら、 怒りに咆哮した,,,
@@ -7523,13 +7523,13 @@ Move: Knockback adjacent units by 1 grid","突进2
 移动：击退相邻单位1格","突進2
 移動：擊退相鄰單位1格",,,,,,,"突進2
 移動：隣接するユニットを1マスノックバックさせる",,,
-RustingGolemCardName,Text,,Nian,年兽,年獸,,,,,,,年獣,,,
+RustingGolemCardName,Text,,Nian,角兽,年獸,,,,,,,年獣,,,
 RustingGolemMageCardDescription,Text,,"Rush 2
 Move: Knockback adjacent units by 1 grid","突进2
 移动：击退相邻单位1格","突進2
 移動：擊退相鄰單位1格",,,,,,,"突進2
 移動：隣接するユニットを1マスノックバックさせる",,,
-RustingGolemMageCardName,Text,,Nian,年兽,年獸,,,,,,,年獣,,,
+RustingGolemMageCardName,Text,,Nian,角兽,年獸,,,,,,,年獣,,,
 SacrificeKeywordDescription,Text,,Shatters specific followers to trigger relevant effects,摧毁特定随从以触发相应的效果,摧毀特定隨從以觸發相應的效果,,,,,,,特定の従者を破壊することで対応する効果を発動する,,,
 SacrificeKeywordName,Text,,Sacrifice,献祭,獻祭,,,,,,,生贄,,,
 SapStrengthEffectCardDescription,Text,,Inflict -1/-1 on the unit till the end of the next turn,该单位被-1/-1，直到下一回合结束,該單位被-1/-1，直到下一回合結束,,,,,,,次のターン終了時まで、ユニットは-1/-1される,,,
@@ -7886,7 +7886,7 @@ Treasure15CardName,Text,,Vitality Armor,生机铠甲,生機鎧甲,,,,,,,生気�
 Treasure16CardDescription,Text,,Leap 4,跳跃4,跳躍4,,,,,,,ジャンプ4,,,
 Treasure16CardName,Text,,Magic Rug,魔术地毯,魔術地毯,,,,,,,魔術絨毯,,,
 Treasure17CardDescription,Text,,Swap. Cannot move,换位，无法移动,換位，無法移動,,,,,,,位置交換、移動不能,,,
-Treasure17CardName,Text,,Pot Man,壶中小人,壺中小人,,,,,,,壺の中の小人,,,
+Treasure17CardName,Text,,Pot Man,壶中精灵,壺中小人,,,,,,,壺の中の小人,,,
 Treasure18CardDescription,Text,,"Enter: restores 6 HP for your hero
 Defeated: Shatters your hero","进场：恢复英雄6点生命。
 被摧毁：摧毁你的英雄","進場：恢復英雄6點生命。
@@ -7912,7 +7912,7 @@ Enter: deals 3 damage to your hero","急速，攻击施加易伤1
 进场：对你的英雄造成3点伤害","急速，攻擊施加易傷1
 進場：對你的英雄造成3點傷害",,,,,,,"急速攻撃が衰弱1を付与する
 入場：あなたのヒーローに3ダメージを与える",,,
-Treasure25CardName,Text,,Cursed Claws,腐蚀之爪,腐蝕之爪,,,,,,,呪いの爪,,,
+Treasure25CardName,Text,,Cursed Claws,龙之爪,腐蝕之爪,,,,,,,呪いの爪,,,
 Treasure26CardDescription,Text,,Move: Gain Combo 1,移动：获得连击1,移動：獲得連擊1,,,,,,,移動：連撃1を獲得する,,,
 Treasure26CardName,Text,,Golden Cat Burglar,金色飞贼,金色飛賊,,,,,,,黄金のスニッチ,,,
 Treasure27CardDescription,Text,,"Draw 1 card, then return 1 card from hand to the top of the deck",抽1张牌，然后将1张手牌放回卡组的顶部。,抽1張牌，然後將1張手牌放回卡組的頂部。,,,,,,,カードを1枚引いて、1枚の手札をデッキの一番上に戻す。,,,
@@ -7934,7 +7934,7 @@ Grants an allied unit invincible and shatters it after 2 turns","移除
 使一个友方单位获得无敌，2回合后摧毁它","移除
 使一個友方單位獲得無敵，2回合後摧毀它",,,,,,,"削除
 一体の味方ユニットを無敵にし、2ターン後にそれを破壊する",,,
-Treasure33CardName,Text,,Core of Life,生命核心,生命核心,,,,,,,生命のコア,,,
+Treasure33CardName,Text,,Core of Life,潜能核心,生命核心,,,,,,,生命のコア,,,
 Treasure33EnemyCardDescription,Text,,"Grants a {{LegionReaver1}} invincible, +1/+8 and Combo 2, shatters it after 2 turns",使一个{{LegionReaver1}}获得无敌，+1/+8和连击2，2回合后摧毁它,使一個{{LegionReaver1}}獲得無敵，+1/+8和連擊2，2回合後摧毀它,,,,,,,{{LegionReaver1}}一体を無敵にし、+1/+8と連撃2を付与する、2ターン後それを破壊する,,,
 Treasure33EnemyCardName,Text,,Core of Life,生命核心,生命核心,,,,,,,生命のコア,,,
 Treasure34CardDescription,Text,,Unknown Ability,能力未知,能力未知,,,,,,,未知の能力,,,
@@ -7956,7 +7956,7 @@ Treasure37CardName,Text,,Marble,弹珠,彈珠,,,,,,,ビー玉,,,
 Treasure38CardDescription,Text,,"Start of turn: take 2 damage, draw a card",回合开始：受到2点伤害，你抽一张卡,回合開始：受到2點傷害，你抽一張卡,,,,,,,ターン開始時：あなたが2ダメージを受けて、カードを一枚引く,,,
 Treasure38CardName,Text,,Lamp Fairy,灯神,燈神,,,,,,,ランプフェアリー,,,
 Treasure39CardDescription,Text,,Take Damage: deals the same damage to enemy heroes,受到伤害：对敌方英雄造成相同伤害,受到傷害：對敵方英雄造成相同傷害,,,,,,,ダメージを受けた時：敵ヒーローに同じダメージを与える,,,
-Treasure39CardName,Text,,Strange Plants,腐蚀娃娃,腐蝕娃娃,,,,,,,呪いの人形,,,
+Treasure39CardName,Text,,Strange Plants,神秘土偶,腐蝕娃娃,,,,,,,呪いの人形,,,
 Treasure40CardDescription,Text,,"After using Spell 5 times, shatter this follower and summon a Strange Plant at the original position",你使用5次法术后，摧毁此随从，并在原地召唤一个奇怪的植物,你使用5次法術後，摧毀此隨從，並在原地召喚一個奇怪的植物,,,,,,,魔法を5回使うと、この従者を破壊し、元の場所に不思議な植物を一体召喚する,,,
 Treasure40CardName,Text,,Strange Egg,奇怪的蛋,奇怪的蛋,,,,,,,不思議な卵,,,
 Treasure41CardDescription,Text,,"Grant a unit Aerial in this turn, but the unit will shatter when taking DMG",使一个友方单位本回合获得飞行，但其受到伤害时会被摧毁,使一個友方單位本回合獲得飛行，但其受到傷害時會被摧毀,,,,,,,このターン、味方ユニット一体に飛行を付与するが、そのユニットがダメージを受けると破壊される,,,
@@ -9249,7 +9249,7 @@ wwSharkPaulcopyCardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サ
 寄生体_chat,Text,,They're all infested.,全都寄生~,全都寄生~,,,,,,,みんな感染しちゃえ～,,,
 密码,Text,,Password,密码,密碼,,,,,,,,,,
 小妖精_chat,Text,,Ah… Eliminate… The infected!,啊~消灭~寄生者！,啊~消滅~寄生者！,,,,,,,あぁ～寄生者を～根絶やしにしてやる！,,,
-岩浆狼_chat,Text,,Burn! Burn!,烧吧！烧吧！,燒吧！燒吧！,,,,,,,燃えろ！燃えろ！,,,
+岩浆狼_chat,Text,,Burn! Burn!,哼！,燒吧！燒吧！,,,,,,,燃えろ！燃えろ！,,,
 已解锁,Text,,Unlocked,已解锁,已解鎖,,,,,,,解放済み,,,
 心愿单DESC,Text,,,,,,,,,,,,,,
 感谢您的试玩,Text,,Thank you for playing,感谢您的游玩,感謝您的遊玩,,,,,,,体験版をプレイしていただきありがとうございます,,,
@@ -9298,7 +9298,7 @@ wwSharkPaulcopyCardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サ
 选择一个英雄,Text,,Select a hero,选择一个英雄,選擇一個英雄,,,,,,,ヒーローの一人を選択してください,,,
 选择升级方案,Text,,Select upgrade plan,选择升级方案,選擇升級方案,,,,,,,レベルアッププランを選択してください,,,
 铁匠铺_chat,Text,,"Aha, I can make you stronger, in exchange for your story.",啊哈，我可以让你变强，用你的故事来换。,啊哈，我可以讓你變強，用你的故事來換。,,,,,,,あは、あんたの物語と引き換えに、あんたを強くすることができるぞ。,,,
-锈魔_chat,Text,,"Ah, the Spring Festival is here?",啊，过年啦？！,啊，過年啦？！,,,,,,,あ、もうお正月なの？ ！,,,
+锈魔_chat,Text,,"Ah, the Spring Festival is here?",谁在那？,啊，過年啦？！,,,,,,,あ、もうお正月なの？ ！,,,
 锻造之灵_chat,Text,,"This is my turf, you bugs!",这是我的地盘！,這是我的地盤，小蟲子們！,,,,,,,ここは私の縄張りだ、虫どもめ！,,,
 锻造者_chat,Text,,Who's pulling my hair now?,又是谁在扒我的头发！,又是誰在扒我的頭髮！,,,,,,,誰だ、また私の髪の毛を引っ張るなんて！,,,
 雷光妖_chat,Text,,Beep! Beep…,哔哩！哔哩~,嗶哩！嗶哩~,,,,,,,ビリー！ビリー～,,,
