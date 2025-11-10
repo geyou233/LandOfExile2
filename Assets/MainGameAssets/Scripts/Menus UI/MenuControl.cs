@@ -725,14 +725,14 @@ public class MenuControl : MonoBehaviour
         }
         else
         {
-            if (!skipLogin)
-            {
-                ShowLoginMenu();
-            }
-            else
-            {
+            // if (!skipLogin && loginMenu.Check)
+            // {
+            //     ShowLoginMenu();
+            // }
+            // else
+            // {
                 ShowMainMenu();
-            }
+            // }
 
         }
         //add loading page here?
