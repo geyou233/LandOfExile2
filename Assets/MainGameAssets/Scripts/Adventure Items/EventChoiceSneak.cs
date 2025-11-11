@@ -16,7 +16,7 @@ public class EventChoiceSneak : EventChoice
         string chanceString = Mathf.RoundToInt(MenuControl.Instance.areaMenu.GetSkipChance() * 100).ToString() + "% ";
 
 
-        return "<color=red>" + chanceString + "</color>" + base.GetName();
+        return "<color=#D1C8AA>" + chanceString + "</color>" + base.GetName();
     }
 
     public override void PerformChoice()

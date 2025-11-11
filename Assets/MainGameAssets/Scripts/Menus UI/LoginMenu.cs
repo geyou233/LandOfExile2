@@ -174,7 +174,7 @@ public class LoginMenu : BasicMenu
             DateTime now = DateTime.Now;
 
             var offsetTime = now - oldTime;
-            if (offsetTime.TotalSeconds >= 1 * 3600)
+            if (offsetTime.TotalSeconds >= 10 * 3600)
                 return;
             
             var phone = PlayerPrefs.GetString("phone");
