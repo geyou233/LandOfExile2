@@ -67,7 +67,7 @@ public class CardDescriptionPanel : MonoBehaviour
         else if(value1<value2)
         {
             
-            text = "<color=red>" + text + "</color>";
+            text = "<color=#D1C8AA>" + text + "</color>";
         }
 
         return text;

@@ -277,7 +277,7 @@ public class AdventureItemEncounter : AdventureItem
             extraString += " - ";
             foreach (string signpost in signPosts)
             {
-                extraString += "<color=red>"+MenuControl.Instance.GetLocalizedString(signpost) + "</color>, ";
+                extraString += "<color=#F8D69E>"+MenuControl.Instance.GetLocalizedString(signpost) + "</color>, ";
             }
             extraString  = extraString.Substring(0, extraString.Length - 2);
         }
