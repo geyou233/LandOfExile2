@@ -16474,7 +16474,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Cursed Potion
-      - "\u8150\u8680\u836F\u6C34"
+      - "\u7279\u6B8A\u836F\u6C34"
       - "\u8150\u8755\u85E5\u6C34"
       - 
       - 
@@ -25761,7 +25761,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Greedy Dragon
-      - "\u8D2A\u5A6A\u5DE8\u9F99"
+      - "\u6C89\u7761\u7684\u5DE8\u9F99"
       - "\u8CAA\u5A6A\u5DE8\u9F8D"
       - 
       - 
@@ -28106,7 +28106,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Puppet Master
-      - "\u4EBA\u5076\u5E08"
+      - "\u571F\u5076\u5E08"
       - "\u4EBA\u5076\u5E2B"
       - 
       - 
@@ -28145,7 +28145,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Puppet Master
-      - "\u4EBA\u5076\u5E08"
+      - "\u571F\u5076\u5E08"
       - "\u4EBA\u5076\u5E2B"
       - 
       - 
@@ -31790,7 +31790,7 @@ MonoBehaviour:
 
 
         There''s only a little box left.'
-      - "\u4F60\u88AB\u5723\u8BDE\u9B54\u9B3C\u7ED1\u67B6\u548C\u6BB4\u6253\u4E86!\n\uFF08\u635F\u5931\u4E8630%\u7684\u751F\u547D\u503C\uFF09\u3002\n\n\u53EA\u5269\u4E0B\u4E00\u4E2A\u5C0F\u76D2\u5B50\u4E86\u3002"
+      - "\u4F60\u88AB\u5723\u8BDE\u9B54\u9B3C\u7ED1\u67B6\u548C\u6BB4\u6253\u4E86\uFF01\n\uFF08\u635F\u5931\u4E8630%\u7684\u751F\u547D\u503C\uFF09\u3002\n\n\u53EA\u5269\u4E0B\u4E00\u4E2A\u5C0F\u76D2\u5B50\u4E86\u3002"
       - "\u4F60\u88AB\u8056\u8A95\u9B54\u9B3C\u7D81\u67B6\u548C\u6BC6\u6253\u4E86!\n\uFF08\u640D\u5931\u4E8630%\u7684\u751F\u547D\u503C\uFF09\u3002\n\n\u53EA\u5269\u4E0B\u4E00\u500B\u5C0F\u76D2\u5B50\u4E86\u3002"
       - 
       - 
@@ -31809,7 +31809,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Christmas demon
-      - "\u5723\u8BDE\u9B54\u9B3C!"
+      - "\u5723\u8BDE\u9B54\u9B3C\uFF01"
       - "\u8056\u8A95\u9B54\u9B3C!"
       - 
       - 
@@ -32138,7 +32138,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - God knows how much filth is buried under this desert.
-      - "\u9B3C\u77E5\u9053\u8FD9\u6C99\u6F20\u5E95\u4E0B\u5230\u5E95\u57CB\u4E86\u591A\u5C11\u810F\u4E1C\u897F\u3002"
+      - "\u8FD9\u6C99\u6F20\u5E95\u4E0B\u5230\u5E95\u57CB\u4E86\u591A\u5C11\u4E1C\u897F\u3002"
       - "\u9B3C\u77E5\u9053\u9019\u6C99\u6F20\u5E95\u4E0B\u5230\u5E95\u57CB\u4E86\u591A\u5C11\u9AD2\u6771\u897F\u3002"
       - 
       - 
@@ -32176,7 +32176,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ah~ Deserts and poetry truly complement each other.
-      - "\u554A~\u6C99\u6F20\u548C\u8BD7\u6B4C\u771F\u662F\u822C\u914D\u3002"
+      - "\u6C99\u6F20\u548C\u8BD7\u6B4C\u771F\u662F\u822C\u914D\u3002"
       - "\u554A~\u6C99\u6F20\u548C\u8A69\u6B4C\u771F\u662F\u822C\u914D\u3002"
       - 
       - 
@@ -32271,7 +32271,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Beep beep beep~ I am silent~ I explode, hotter than fire.
-      - "\u561F\u561F\u561F~\u6211\u6C89\u9ED8~\u6211\u7206\u53D1\uFF0C\u6BD4\u706B\u8FD8\u7099\u70ED\u3002"
+      - "\u561F\u561F\u561F\uFF0C\u6211\u6C89\u9ED8\uFF0C\u6211\u7206\u53D1\uFF0C\u6BD4\u706B\u8FD8\u7099\u70ED\u3002"
       - "\u561F\u561F\u561F~\u6211\u6C89\u9ED8~\u6211\u7206\u767C\uFF0C\u6BD4\u706B\u9084\u7099\u71B1\u3002"
       - 
       - 
@@ -32387,7 +32387,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ah~ you see, I have fresh blood here
-      - "\u554A~\u4F60\u770B\uFF0C\u6211\u8FD9\u53EF\u90FD\u662F\u65B0\u9C9C\u7684\u836F\u6C34"
+      - "\u4F60\u770B\uFF0C\u6211\u8FD9\u53EF\u90FD\u662F\u65B0\u9C9C\u7684\u836F\u6C34"
       - "\u554A~\u4F60\u770B\uFF0C\u6211\u9019\u53EF\u90FD\u662F\u65B0\u9BAE\u7684\u85E5\u6C34"
       - 
       - 
@@ -32563,7 +32563,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Santa Claus!
-      - "\u5723\u8BDE\u8001\u4EBA!"
+      - "\u5723\u8BDE\u8001\u4EBA\uFF01"
       - "\u8056\u8A95\u8001\u4EBA!"
       - 
       - 
@@ -32622,8 +32622,8 @@ MonoBehaviour:
       - To your disappointment, you find an empty room. You need to collect more
         naughty or goody cards! Each card has a 15% chance of finding Santa Claus
         or the Christmas demon!
-      - "\u8BA9\u4F60\u5931\u671B\u7684\u662F\uFF0C\u4F60\u53D1\u73B0\u4E00\u4E2A\u7A7A\u623F\u95F4\u3002\u4F60\u9700\u8981\u6536\u96C6\u66F4\u591A\u7684\u6DD8\u6C14\u5361\u6216\u597D\u4EBA\u5361!
-        \u6BCF\u5F20\u5361\u90FD\u670915%\u7684\u673A\u4F1A\u627E\u5230\u5723\u8BDE\u8001\u4EBA\u6216\u5723\u8BDE\u9B54\u9B3C!"
+      - "\u8BA9\u4F60\u5931\u671B\u7684\u662F\uFF0C\u4F60\u53D1\u73B0\u4E00\u4E2A\u7A7A\u623F\u95F4\u3002\u4F60\u9700\u8981\u6536\u96C6\u66F4\u591A\u7684\u6DD8\u6C14\u5361\u6216\u597D\u4EBA\u5361\uFF01
+        \u6BCF\u5F20\u5361\u90FD\u670915%\u7684\u673A\u4F1A\u627E\u5230\u5723\u8BDE\u8001\u4EBA\u6216\u5723\u8BDE\u9B54\u9B3C\uFF01"
       - "\u8B93\u4F60\u5931\u671B\u7684\u662F\uFF0C\u4F60\u767C\u73FE\u4E00\u500B\u7A7A\u623F\u9593\u3002\u4F60\u9700\u8981\u6536\u96C6\u66F4\u591A\u7684\u6DD8\u6C23\u5361\u6216\u597D\u4EBA\u5361!
         \u6BCF\u5F35\u5361\u90FD\u670915%\u7684\u6A5F\u6703\u627E\u5230\u8056\u8A95\u8001\u4EBA\u6216\u8056\u8A95\u9B54\u9B3C!"
       - 
@@ -33190,7 +33190,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - The Beggar
-      - "\u4E5E\u4E10"
+      - "\u82E6\u884C\u8005"
       - "\u4E5E\u4E10"
       - 
       - 
@@ -34727,7 +34727,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Where did the firecrackers come from!
-      - "\u54EA\u91CC\u6765\u7684\u97AD\u70AE!"
+      - "\u54EA\u91CC\u6765\u7684\u97AD\u70AE\uFF01"
       - "\u54EA\u88E1\u4F86\u7684\u97AD\u70AE!"
       - 
       - 
@@ -34981,7 +34981,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Contention! Lady's Love!
-      - "\u4E89\u593A\uFF01\u592B\u4EBA\u7684\u7231\uFF01"
+      - "\u6289\u62E9"
       - "\u722D\u596A\uFF01\u592B\u4EBA\u7684\u611B\uFF01"
       - 
       - 
@@ -35020,7 +35020,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Contention! Lady's Love!
-      - "\u4E89\u593A\uFF01\u592B\u4EBA\u7684\u7231\uFF01"
+      - "\u6289\u62E9"
       - "\u722D\u596A\uFF01\u592B\u4EBA\u7684\u611B\uFF01"
       - 
       - 
@@ -35314,7 +35314,7 @@ MonoBehaviour:
       - He picked up a labradorite that had just mined, feeling the magic power contained
         within the gem. This dragon knight seemed to be the figure you detected from
         the monster's thoughts.
-      - "\u4ED6\u62FE\u8D77\u4E00\u628A\u624B\u4E0B\u521A\u521A\u91C7\u6398\u597D\u7684\u62C9\u957F\u77F3\uFF0C\u611F\u53D7\u7740\u5B9D\u77F3\u91CC\u8574\u542B\u7740\u7684\u9B54\u529B\uFF0C\u8FD9\u4E2A\u9F99\u9A91\u58EB\u4F3C\u4E4E\u5C31\u662F\u4F60\u4ECE\u9B54\u7269\u601D\u60F3\u4E2D\u4FA6\u6D4B\u5230\u7684\u90A3\u4E2A\u8EAB\u5F71\u3002"
+      - "\u4ED6\u62FE\u8D77\u4E00\u628A\u624B\u4E0B\u521A\u521A\u91C7\u6398\u597D\u7684\u62C9\u957F\u77F3\uFF0C\u611F\u53D7\u7740\u5B9D\u77F3\u91CC\u8574\u542B\u7740\u7684\u9B54\u529B\uFF0C\u8FD9\u4E2A\u9F99\u9A91\u58EB\u4F3C\u4E4E\u5C31\u662F\u4F60\u4FA6\u6D4B\u5230\u7684\u90A3\u4E2A\u8EAB\u5F71\u3002"
       - "\u4ED6\u62FE\u8D77\u4E00\u628A\u624B\u4E0B\u525B\u525B\u63A1\u6398\u597D\u7684\u62C9\u9577\u77F3\uFF0C\u611F\u53D7\u8457\u5BF6\u77F3\u88E1\u860A\u542B\u8457\u7684\u9B54\u529B\uFF0C\u9019\u500B\u9F8D\u9A0E\u58EB\u4F3C\u4E4E\u5C31\u662F\u4F60\u5F9E\u9B54\u7269\u601D\u60F3\u4E2D\u5075\u6E2C\u5230\u7684\u90A3\u500B\u8EAB\u5F71\u3002"
       - 
       - 
@@ -36350,7 +36350,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - He has roamed many countries, seeking an opponent who can grant him a win.
-      - "\u4ED6\u6D41\u6D6A\u4E86\u8BB8\u591A\u56FD\u5EA6\uFF0C\u53EA\u4E3A\u5BFB\u627E\u4E00\u4E2A\u80FD\u8BA9\u4ED6\u8D62\u4E00\u6B21\u7684\u5BF9\u624B"
+      - "\u4ED6\u5468\u6E38\u4E86\u8BB8\u591A\u56FD\u5EA6\uFF0C\u53EA\u4E3A\u5BFB\u627E\u4E00\u4E2A\u80FD\u8BA9\u4ED6\u8D62\u4E00\u6B21\u7684\u5BF9\u624B"
       - "\u4ED6\u6D41\u6D6A\u4E86\u8A31\u591A\u570B\u5EA6\uFF0C\u53EA\u70BA\u5C0B\u627E\u4E00\u500B\u80FD\u8B93\u4ED6\u8D0F\u4E00\u6B21\u7684\u5C0D\u624B"
       - 
       - 
@@ -36369,7 +36369,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wandering Swordsman
-      - "\u6D41\u6D6A\u5251\u5BA2"
+      - "\u5947\u602A\u7684\u5251\u5BA2"
       - "\u6D41\u6D6A\u528D\u5BA2"
       - 
       - 
@@ -36714,8 +36714,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wandering Boy
-      - "\u6D41\u6D6A\u7537\u5B69"
-      - "\u6D41\u6D6A\u7537\u5B69"
+      - "\u5E05\u54E5\u5947\u83AB"
+      - "\u5E05\u54E5\u5947\u83AB"
       - 
       - 
       - 
@@ -37056,7 +37056,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wandering Swordsman
-      - "\u6D41\u6D6A\u5251\u5BA2"
+      - "\u5947\u602A\u7684\u5251\u5BA2"
       - "\u6D41\u6D6A\u528D\u5BA2"
       - 
       - 
@@ -46896,7 +46896,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infected
-      - "\u5BC4\u751F\u4F53"
+      - "\u751F\u957F\u5947\u83AB"
       - "\u5BC4\u751F\u9AD4"
       - 
       - 
@@ -46904,7 +46904,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u5BC4\u751F\u4F53"
+      - "\u751F\u957F\u5947\u83AB"
       - 
       - 
       - 
@@ -47788,7 +47788,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Neurotoxin
-      - "\u5934\u75DB"
+      - "\u5E72\u6270"
       - "\u795E\u7D93\u6BD2\u7D20"
       - 
       - 
@@ -47827,7 +47827,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Infected
-      - "\u5BC4\u751F\u4F53"
+      - "\u751F\u957F\u5947\u83AB"
       - "\u5BC4\u751F\u9AD4"
       - 
       - 
@@ -47835,7 +47835,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u5BC4\u751F\u4F53"
+      - "\u751F\u957F\u5947\u83AB"
       - 
       - 
       - 
@@ -48404,7 +48404,7 @@ MonoBehaviour:
       Languages:
       - It's him, the figure you detected from the monster's thoughts. He is constantly
         berating and whipping his men, urging them to gather labradorite.
-      - "\u5C31\u662F\u4ED6\uFF0C\u4F60\u4ECE\u9B54\u7269\u7684\u601D\u60F3\u4E2D\u4FA6\u6D4B\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u50AC\u4FC3\u7740\u624B\u4E0B\u91C7\u96C6\u7740\u62C9\u957F\u77F3\u3002 "
+      - "\u5C31\u662F\u4ED6\uFF0C\u90A3\u4E2A\u4F60\u4FA6\u6D4B\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u50AC\u4FC3\u7740\u624B\u4E0B\u91C7\u96C6\u7740\u62C9\u957F\u77F3\u3002 "
       - "\u5C31\u662F\u4ED6\uFF0C\u4F60\u5F9E\u9B54\u7269\u7684\u601D\u60F3\u4E2D\u5075\u6E2C\u5230\u7684\u8EAB\u5F71\uFF0C\u5B83\u6B63\u4E0D\u505C\u5730\u5475\u65A5\u548C\u97AD\u6253\u8457\u624B\u4E0B\uFF0C\u50AC\u4FC3\u4ED6\u5011\u63A1\u96C6\u8457\u62C9\u9577\u77F3\u3002"
       - 
       - 
@@ -57447,8 +57447,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ignition
-      - "\u5F15\u71C3"
-      - "\u5F15\u71C3"
+      - "\u70ED\u70B9"
+      - "\u70ED\u70B9"
       - 
       - 
       - 
@@ -61297,8 +61297,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ignition
-      - "\u5F15\u71C3"
-      - "\u5F15\u71C3"
+      - "\u70ED\u70B9"
+      - "\u70ED\u70B9"
       - 
       - 
       - 
@@ -75799,7 +75799,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Councilor
-      - "\u6C38\u6052\u8BAE\u5458"
+      - "\u6C38\u6052\u661F"
       - "\u6C38\u6046\u8B70\u54E1"
       - 
       - 
@@ -75838,7 +75838,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Councilor
-      - "\u6C38\u6052\u8BAE\u5458"
+      - "\u6C38\u6052\u661F"
       - "\u6C38\u6046\u8B70\u54E1"
       - 
       - 
@@ -75877,7 +75877,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Councilor
-      - "\u6C38\u6052\u8BAE\u5458"
+      - "\u6C38\u6052\u661F"
       - "\u6C38\u6046\u8B70\u54E1"
       - 
       - 
@@ -76230,7 +76230,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Councilor
-      - "\u6C38\u6052\u8BAE\u5458"
+      - "\u6C38\u6052\u661F"
       - "\u6C38\u6046\u8B70\u54E1"
       - 
       - 
@@ -76268,7 +76268,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Eternal Councilor
-      - "\u6C38\u6052\u8BAE\u5458"
+      - "\u6C38\u6052\u661F"
       - "\u6C38\u6046\u8B70\u54E1"
       - 
       - 
@@ -77215,7 +77215,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet X
-      - "\u8150\u8680\u571F\u5076 \u4E00"
+      - "\u795E\u79D8\u571F\u5076 \u4E00"
       - "\u8150\u8755\u4EBA\u5076 \u4E00"
       - 
       - 
@@ -77253,7 +77253,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet Y
-      - "\u8150\u8680\u571F\u5076 \u4E8C"
+      - "\u795E\u79D8\u571F\u5076 \u4E8C"
       - "\u8150\u8755\u4EBA\u5076 \u4E8C"
       - 
       - 
@@ -77291,7 +77291,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Curse Puppet Z
-      - "\u8150\u8680\u4EBA\u5076 \u4E09"
+      - "\u795E\u79D8\u571F\u5076 \u4E09"
       - "\u8150\u8755\u4EBA\u5076 \u4E09"
       - 
       - 
@@ -79339,7 +79339,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - This monster just ate the farmer's daughter and played a Cosplay.
-      - "\u8FD9\u5BB6\u4F19\u521A\u628A\u4EC0\u4E48\u4E1C\u897F\u541E\u8FDB\u4E86\u809A\u5B50\uFF0C\u5E76\u4E14\u8FD8\u73A9\u4E86\u4E0B\u89D2\u8272\u626E\u6F14\u3002"
+      - "\u4F60\u9762\u524D\u7684\u8FD9\u5BB6\u4F19\u9177\u7231\u89D2\u8272\u626E\u6F14\uFF0C\u5B83\u73B0\u5728\u6B63\u5B8C\u5168\u6C89\u6D78\u5728\u81EA\u5DF1\u7684\u8868\u6F14\u4E2D"
       - "\u9019\u500B\u602A\u7269\u525B\u628A\u4EC0\u9EBC\u6771\u897F\u541E\u9032\u809A\u5B50\u4E86\uFF0C\u4E26\u4E14\u9084\u73A9\u4E86\u4E0B\u89D2\u8272\u626E\u6F14\u3002"
       - 
       - 
@@ -79378,8 +79378,7 @@ MonoBehaviour:
       Languages:
       - A prisoner wearing a cardboard box on his head caught your attention. He
         yelled "Don't steal the express!" and rushed towards you.
-      - "\u4E00\u4E2A\u5934\u6234\u7EB8\u76D2\u7684\u4EBA\u5438\u5F15\u4E86\u4F60\u7684\u6CE8\u610F\u3002\u4ED6\u5927\u543C\u4E86\u4E00\u58F0\u201C\u4E0D\u51C6\u5077\u5FEB\u9012\uFF01\u201D
-        \u5C31\u5411\u4F60\u51B2\u4E86\u8FC7\u6765\u3002"
+      - "\u4E00\u4E2A\u5934\u6234\u7EB8\u76D2\u7684\u4EBA\u5438\u5F15\u4E86\u4F60\u7684\u6CE8\u610F\u3002\u4ED6\u5927\u543C\u4E86\u4E00\u58F0\u5C31\u5411\u4F60\u51B2\u4E86\u8FC7\u6765\u3002 "
       - "\u4E00\u500B\u982D\u6234\u7D19\u76D2\u7684\u4EBA\u5438\u5F15\u4E86\u4F60\u7684\u6CE8\u610F\u3002\u4ED6\u5927\u543C\u4E86\u4E00\u8072\u201C\u4E0D\u51C6\u5077\u5FEB\u905E\uFF01\u201D
         \u5C31\u5411\u4F60\u6C96\u4E86\u904E\u4F86\u3002"
       - 
@@ -79399,7 +79398,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Delivery Thief
-      - "\u5FEB\u9012\u7981\u95ED\u8005"
+      - "\u5954\u8DD1\u8005"
       - "\u5FEB\u905E\u7981\u9589\u8005"
       - 
       - 
@@ -79742,7 +79741,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Delivery Thief
-      - "\u5FEB\u9012\u7981\u95ED\u8005"
+      - "\u5954\u8DD1\u8005"
       - "\u5FEB\u905E\u7981\u9589\u8005"
       - 
       - 
@@ -81572,7 +81571,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Hehehehehe\u2026!"
-      - "\u563F\u563F\u563F\u563F\u2026\u2026!"
+      - "\u563F\u563F\u563F\u563F\u2026\u2026\uFF01"
       - "\u563F\u563F\u563F\u563F\u2026\u2026!"
       - 
       - 
@@ -81900,7 +81899,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Prisoner of Redemption
-      - "\u5FEB\u9012\u5947\u83AB"
+      - "\u8DD1\u6B65\u5947\u83AB "
       - "\u8D16\u7F6A\u7981\u9589\u8005"
       - 
       - 
@@ -81957,7 +81956,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Prisoner of Redemption\u2B50\u2B50"
-      - "\u5FEB\u9012\u5947\u83AB"
+      - "\u8DD1\u6B65\u5947\u83AB"
       - "\u8D16\u7F6A\u7981\u9589\u8005\u2B50\u2B50"
       - 
       - 
@@ -82014,7 +82013,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Rage Prisoner
-      - "\u5FEB\u9012\u5947\u83AB\xB7\u4F20\u5947"
+      - "\u8DD1\u6B65\u5947\u83AB\xB7\u4F20\u5947"
       - "\u66B4\u6012\u7981\u9589\u8005"
       - 
       - 
@@ -82073,7 +82072,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Hungry Prisoner\u2B50\u2B50\u2B50"
-      - "\u5FEB\u9012\u5947\u83AB\xB7\u8D85\u51E1"
+      - "\u8DD1\u6B65\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u9951\u6E34\u7981\u9589\u8005\u2B50\u2B50\u2B50"
       - 
       - 
@@ -82589,7 +82588,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Wandering Swordsman
-      - "\u6D41\u6D6A\u5251\u5BA2"
+      - "\u5251\u5BA2\u5947\u83AB"
       - "\u6D41\u6D6A\u528D\u5BA2"
       - 
       - 
@@ -82627,7 +82626,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Wandering Swordsman\u2B50\u2B50"
-      - "\u6D41\u6D6A\u5251\u5BA2\u2B50\u2B50"
+      - "\u5251\u5BA2\u5947\u83AB\u2B50\u2B50"
       - "\u6D41\u6D6A\u528D\u5BA2\u2B50\u2B50"
       - 
       - 
@@ -82668,7 +82667,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Still-water Swordsman
-      - "\u6D41\u6D6A\u5251\u5BA2\xB7\u4F20\u5947"
+      - "\u5251\u5BA2\u5947\u83AB\xB7\u4F20\u5947"
       - "\u975C\u6C34\u528D\u5BA2"
       - 
       - 
@@ -82709,7 +82708,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Strong-wind Swordsman
-      - "\u6D41\u6D6A\u5251\u5BA2\xB7\u8D85\u51E1"
+      - "\u5251\u5BA2\u5947\u83AB\xB7\u8D85\u51E1"
       - "\u72C2\u98A8\u528D\u5BA2"
       - 
       - 
@@ -97569,7 +97568,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Golden Cat Burglar
-      - "\u91D1\u8272\u98DE\u8D3C"
+      - "\u91D1\u8272\u98DE\u7403"
       - "\u91D1\u8272\u98DB\u8CCA"
       - 
       - 
@@ -103225,7 +103224,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Golden Cat Burglar
-      - "\u91D1\u8272\u98DE\u8D3C"
+      - "\u91D1\u8272\u98DE\u7403"
       - "\u91D1\u8272\u98DB\u8CCA"
       - 
       - 
@@ -105785,7 +105784,7 @@ MonoBehaviour:
       - "You found some loot! \n\nSelect any card you want. The first 2 cards are
         free (acquire 3 for free from Bosses and Elites)\nEvery extra card costs
         1 crystal each time in the future."
-      - "\u4F60\u53D1\u73B0\u6218\u5229\u54C1\u4E86! \n\n\u9009\u62E9\u4F60\u60F3\u83B7\u53D6\u7684\u4EFB\u610F\u5361\u724C\u3002\u83B7\u53D6\u524D2\u5F20\u5361\u724C\u662F\u514D\u8D39\u7684
+      - "\u4F60\u53D1\u73B0\u6218\u5229\u54C1\u4E86\uFF01 \n\n\u9009\u62E9\u4F60\u60F3\u83B7\u53D6\u7684\u4EFB\u610F\u5361\u724C\u3002\u83B7\u53D6\u524D2\u5F20\u5361\u724C\u662F\u514D\u8D39\u7684
         \uFF08\u9996\u9886\u548C\u7CBE\u82F1\u53EF\u514D\u8D39\u83B7\u53D63\u5F20\uFF09\n\u53EA\u540E\u83B7\u53D6\u6BCF\u5F20\u989D\u5916\u5361\u724C\u9700\u8981\u82B1\u8D391\u4E2A\u6C34\u6676\u3002"
       - "\u4F60\u767C\u73FE\u6230\u5229\u54C1\u4E86!\n\n\u9078\u64C7\u4F60\u60F3\u7372\u53D6\u7684\u4EFB\u610F\u5361\u724C\u3002\u7372\u53D6\u524D2\u5F35\u5361\u724C\u662F\u514D\u8CBB\u7684
         \uFF08\u9996\u9818\u548C\u7CBE\u82F1\u53EF\u514D\u8CBB\u7372\u53D63\u5F35\uFF09\n\u53EA\u5F8C\u7372\u53D6\u6BCF\u5F35\u984D\u5916\u5361\u724C\u9700\u8981\u82B1\u8CBB1\u500B\u6C34\u6676\u3002"
@@ -110860,7 +110859,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Dogfight
-      - "\u4E71\u6597"
+      - "\u51B3\u6597"
       - "\u4E82\u9B25"
       - 
       - 
@@ -110898,7 +110897,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Dogfight
-      - "\u4E71\u6597"
+      - "\u51B3\u6597"
       - "\u4E82\u9B25"
       - 
       - 
@@ -110937,7 +110936,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Ultimate Dogfight
-      - "\u4E71\u6597\xB7\u4F20\u5947"
+      - "\u51B3\u6597\xB7\u4F20\u5947"
       - "\u7D42\u6975\u4E82\u9B25"
       - 
       - 
@@ -110976,7 +110975,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Brutal Dogfight
-      - "\u4E71\u6597\xB7\u8D85\u51E1"
+      - "\u51B3\u6597\xB7\u8D85\u51E1"
       - "\u72C2\u71B1\u4E82\u9B25"
       - 
       - 
@@ -111823,7 +111822,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Killing Spray
-      - "\u5927\u65A9\u56DB\u65B9"
+      - "\u5F00\u5408"
       - "\u5927\u6BBA\u56DB\u65B9"
       - 
       - 
@@ -112736,7 +112735,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Killing Spray
-      - "\u5927\u65A9\u56DB\u65B9"
+      - "\u5F00\u5408"
       - "\u5927\u6BBA\u56DB\u65B9"
       - 
       - 
@@ -114117,7 +114116,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Killing Spray
-      - "\u5927\u65A9\u56DB\u65B9"
+      - "\u5F00\u5408"
       - "\u5927\u6BBA\u56DB\u65B9"
       - 
       - 
@@ -114155,7 +114154,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Killing Spray
-      - "\u5927\u65A9\u56DB\u65B9"
+      - "\u5F00\u5408"
       - "\u5927\u6BBA\u56DB\u65B9"
       - 
       - 
@@ -117112,7 +117111,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Lunch Time~Miao\uFF01"
-      - "\u5348\u9910\u65F6\u95F4\u5230\u5566\uFF01~\u55B5\uFF01"
+      - "\u6349\u8FF7\u85CF\u65F6\u95F4\uFF01"
       - "\u5348\u9910\u6642\u9593\u5230\u5566\uFF01~\u55B5\uFF01"
       - 
       - 
@@ -117872,7 +117871,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Burn to ashes, you bug!
-      - "\u70E7\u6210\u7070\u5427\uFF01"
+      - "\u706B\u7130\uFF01"
       - "\u71D2\u6210\u7070\u5427\uFF0C\u87F2\u5B50\uFF01"
       - 
       - 
@@ -118689,7 +118688,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - 
-      - "\u6B22\u8FCE\u60A8\u8FDB\u5165\u6E38\u620F!\u672A\u7ECF\u60A8\u7684\u6388\u6743\uFF0C\u6211\u4EEC\u4E0D\u4F1A\u5411\u4EFB\u4F55\u7B2C\u4E09\u65B9\u63D0\u4F9B\u60A8\u7684\u4FE1\u606F\u3002\u5728\u60A8\u4F7F\u7528\u672C\u4EA7\u54C1\u524D\uFF0C\u8BF7\u4ED4\u7EC6\u9605\u8BFB\u5E76\u540C\u610F\u300A\u4E86\u4E0D\u8D77\u9B54\u5854\u300B<a
+      - "\u6B22\u8FCE\u60A8\u8FDB\u5165\u6E38\u620F\uFF01\u672A\u7ECF\u60A8\u7684\u6388\u6743\uFF0C\u6211\u4EEC\u4E0D\u4F1A\u5411\u4EFB\u4F55\u7B2C\u4E09\u65B9\u63D0\u4F9B\u60A8\u7684\u4FE1\u606F\u3002\u5728\u60A8\u4F7F\u7528\u672C\u4EA7\u54C1\u524D\uFF0C\u8BF7\u4ED4\u7EC6\u9605\u8BFB\u5E76\u540C\u610F\u300A\u4E86\u4E0D\u8D77\u9B54\u5854\u300B<a
         href=https://wqrny7jyxm.feishu.cn/wiki/Ex2CwkRLAipPRQkxCWPcoOHDnGc>\u9690\u79C1\u653F\u7B56</a>\u4E2D\u7684\u6240\u6709\u6761\u6B3E\uFF0C\u4EE5\u4FBF\u4E86\u89E3\u6211\u4EEC\u6536\u96C6\u3001\u4F7F\u7528\u3001\u5171\u4EAB\u3001\u5B58\u50A8\u4FE1\u606F\u7684\u60C5\u51B5\uFF0C\u4EE5\u53CA\u5BF9\u8FD9\u4E9B\u4FE1\u606F\u7684\u4FDD\u62A4\u63AA\u65BD\u3002\u60A8\u70B9\u51FB\u201C\u540C\u610F\u201D\u7684\u884C\u4E3A\u5373\u8868\u793A\u60A8\u5DF2\u9605\u8BFB\u5B8C\u6BD5\u5E76\u540C\u610F\u4E0A\u8FF0\u534F\u8BAE\u548C\u653F\u7B56\u4E2D\u7684\u5168\u90E8\u5185\u5BB9\u3002\u4E3A\u4E86\u4FDD\u969C\u60A8\u7684\u6E38\u620F\u4F53\u9A8C\uFF0C\u6211\u4EEC\u5C06\u5728\u6E38\u620F\u670D\u52A1\u8FC7\u7A0B\u4E2D\u7533\u8BF7\u8C03\u7528\u90E8\u5206\u4E0B\u8FF0\u6743\u9650\u3002\u60A8\u53EF\u4EE5\u5728\u5F39\u51FA\u8C03\u7528\u6743\u9650\u65F6\uFF0C\u9009\u62E9\u540C\u610F\u6216\u8005\u62D2\u7EDD\u5F00\u542F\u76F8\u5173\u6743\u9650\u3002\u82E5\u62D2\u7EDD\uFF0C\u4F1A\u5F71\u54CD\u90E8\u5206\u529F\u80FD\u7684\u4F7F\u7528\uFF0C\u540E\u7EED\u60A8\u53EF\u4EE5\u624B\u673A\u8BBE\u7F6E\u4E2D\u968F\u65F6\u5F00\u542F\u76F8\u5173\u6743\u9650\u3002\n\n\u8BBE\u5907\n\u83B7\u53D6\u8BBE\u5907\u4FE1\u606F\u4E3A\u60A8\u6E38\u620F\u8D26\u53F7\u83B7\u5F97\u66F4\u5B89\u5168\u7684\u6570\u636E\u4FDD\u969C"
       - "\u6B61\u8FCE\u60A8\u9032\u5165\u904A\u6232!\u672A\u7D93\u60A8\u7684\u6388\u6B0A\uFF0C\u6211\u5011\u4E0D\u6703\u5411\u4EFB\u4F55\u5354\u529B\u5EE0\u5546\u63D0\u4F9B\u60A8\u7684\u8CC7\u8A0A\u3002\u5728\u60A8\u4F7F\u7528\u672C\u7522\u54C1\u524D\uFF0C\u8ACB\u4ED4\u7D30\u95B1\u8B80\u4E26\u540C\u610F\u300A\u4E86\u4E0D\u8D77\u9B54\u5854\u300B<a
         href=https://wqrny7jyxm.feishu.cn/wiki/Ex2CwkRLAipPRQkxCWPcoOHDnGc>\u96B1\u79C1\u653F\u7B56</a>\u4E2D\u7684\u6240\u6709\u689D\u6B3E\uFF0C\u4EE5\u4FBF\u77AD\u89E3\u6211\u5011\u6536\u96C6\u3001\u4F7F\u7528\u3001\u5171\u7528\u3001\u5B58\u5132\u8CC7\u8A0A\u7684\u60C5\u6CC1\uFF0C\u4EE5\u53CA\u5C0D\u9019\u4E9B\u8CC7\u8A0A\u7684\u4FDD\u8B77\u63AA\u65BD\u3002\u60A8\u9EDE\u64CA\u201C\u540C\u610F\u201D\u7684\u884C\u70BA\u5373\u8868\u793A\u60A8\u5DF2\u95B1\u8B80\u5B8C\u7562\u4E26\u540C\u610F\u4E0A\u8FF0\u5354\u5B9A\u548C\u653F\u7B56\u4E2D\u7684\u5168\u90E8\u5167\u5BB9\u3002\u70BA\u4E86\u4FDD\u969C\u60A8\u7684\u904A\u6232\u9AD4\u9A57\uFF0C\u6211\u5011\u5C07\u5728\u904A\u6232\u670D\u52D9\u904E\u7A0B\u4E2D\u7533\u8ACB\u8ABF\u7528\u90E8\u5206\u4E0B\u8FF0\u8A31\u53EF\u6B0A\u3002\u60A8\u53EF\u4EE5\u5728\u5F48\u51FA\u8ABF\u7528\u8A31\u53EF\u6B0A\u6642\uFF0C\u9078\u64C7\u540C\u610F\u6216\u8005\u62D2\u7D55\u958B\u555F\u76F8\u95DC\u8A31\u53EF\u6B0A\u3002\u82E5\u62D2\u7D55\uFF0C\u6703\u5F71\u97FF\u90E8\u5206\u529F\u80FD\u7684\u4F7F\u7528\uFF0C\u5F8C\u7E8C\u60A8\u53EF\u4EE5\u624B\u6A5F\u8A2D\u7F6E\u4E2D\u96A8\u6642\u958B\u555F\u76F8\u95DC\u8A31\u53EF\u6B0A\u3002\n\n\u8A2D\u5099\n\u7372\u53D6\u8A2D\u5099\u8CC7\u8A0A\u70BA\u60A8\u904A\u6232\u5E33\u865F\u7372\u5F97\u66F4\u5B89\u5168\u7684\u8CC7\u6599\u4FDD\u969C"
@@ -119454,7 +119453,7 @@ MonoBehaviour:
       Languages:
       - "The goblin stated that it left yelling \"Water\u2026 Water\u2026.\", and
         pointed to the south. Maybe we should go look for it in the desert oasis."
-      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201C\u6C34~\u6C34~\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
+      - "\u54E5\u5E03\u6797\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83\u3002 "
       - "\u54E5\u5E03\u6797\u8AAA\u5B83\u558A\u8457\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u96E2\u958B\u4E86\uFF0C\u4E26\u4E14\u6307\u5411\u4E86\u5357\u908A\u3002\u6216\u8A31\u6211\u5011\u61C9\u8A72\u53BB\u6C99\u6F20\u7684\u7DA0\u6D32\u627E\u627E\u5B83"
       - 
       - 
@@ -119493,7 +119492,7 @@ MonoBehaviour:
       Languages:
       - "The goblin stated that it left yelling \"Water\u2026 Water\u2026.\", and
         pointed to the south. Maybe we should go look for it in the desert oasis."
-      - "\u54E5\u5E03\u6797\u8BF4\u5B83\u558A\u7740\u201C\u6C34~\u6C34~\u201D\u79BB\u5F00\u4E86\uFF0C\u5E76\u4E14\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83"
+      - "\u54E5\u5E03\u6797\u6307\u5411\u4E86\u5357\u8FB9\u3002\u6216\u8BB8\u6211\u4EEC\u5E94\u8BE5\u53BB\u6C99\u6F20\u7684\u7EFF\u6D32\u627E\u627E\u5B83\u3002 "
       - "\u54E5\u5E03\u6797\u8AAA\u5B83\u558A\u8457\u201D\u6C34\u2026\u2026\u6C34\u2026\u2026\u201D\u96E2\u958B\u4E86\uFF0C\u4E26\u4E14\u6307\u5411\u4E86\u5357\u908A\u3002\u6216\u8A31\u6211\u5011\u61C9\u8A72\u53BB\u6C99\u6F20\u7684\u7DA0\u6D32\u627E\u627E\u5B83"
       - 
       - 
@@ -120370,7 +120369,7 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: "\u4EBA\u5076\u5E08_chat"
+    - Term: "\u571F\u5076\u5E08_chat"
       TermType: 0
       Description: 
       Languages:
@@ -120432,7 +120431,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "You seem delicious, meow\u2026"
-      - "\u4F60\u770B\u8D77\u6765\u597D\u597D\u5403\u5440\uFF0C\u55B5~"
+      - "\u4F60\u597D\u53EF\u7231\u5440"
       - "\u4F60\u770B\u8D77\u4F86\u597D\u597D\u5403\u5440,\u55B5~"
       - 
       - 
@@ -120451,7 +120450,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Granny\u2026 Whimp, whimp\u2026"
-      - "\u5916\u5A46~\u545C\u545C\u545C\u545C~"
+      - "\u5916\u5A46\u2026\u2026\u545C\u545C\u545C\u545C\u2026\u2026"
       - "\u5916\u5A46~\u55DA\u55DA\u55DA\u55DA~"
       - 
       - 
@@ -120470,7 +120469,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Roar\u2026"
-      - "\u543C~"
+      - "\u543C\uFF01"
       - "\u543C~"
       - 
       - 
@@ -120527,7 +120526,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Ah\u2026 How tasty are mushrooms!"
-      - "\u554A~\u83CC\u83C7\u597D\u7F8E\u5473\uFF01"
+      - "\u83CC\u83C7\u597D\u7F8E\u5473\uFF01"
       - "\u554A~\u83CC\u83C7\u597D\u7F8E\u5473\uFF01"
       - 
       - 
@@ -120546,7 +120545,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Being invincible is lonely\u2026"
-      - "\u65E0\u654C\u662F\u591A\u4E48\u5BC2\u5BDE~"
+      - "\u65E0\u654C\u662F\u591A\u4E48\u5BC2\u5BDE"
       - "\u7121\u6575\u662F\u591A\u9EBC\u5BC2\u5BDE~"
       - 
       - 
@@ -120565,7 +120564,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - I hate this bow knot
-      - "\u6211\u8BA8\u538C\u8FD9\u4E2A\u8774\u8776\u7ED3~"
+      - "\u6211\u8BA8\u538C\u8FD9\u4E2A\u8774\u8776\u7ED3"
       - "\u6211\u8A0E\u53AD\u9019\u500B\u8774\u8776\u7D50~"
       - 
       - 
@@ -120584,8 +120583,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Croak\u2026"
-      - "\u5471~"
-      - "\u5471~"
+      - "\u5471"
+      - "\u5471"
       - 
       - 
       - 
@@ -120617,12 +120616,12 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: "\u5BC4\u751F\u4F53_chat"
+    - Term: "\u751F\u957F\u5947\u83AB_chat"
       TermType: 0
       Description: 
       Languages:
       - They're all infested.
-      - "\u5168\u90FD\u5BC4\u751F~"
+      - "\u957F\u51FA\u690D\u7269\uFF01"
       - "\u5168\u90FD\u5BC4\u751F~"
       - 
       - 
@@ -120660,7 +120659,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Ah\u2026 Eliminate\u2026 The infected!"
-      - "\u554A~\u6D88\u706D~\u5BC4\u751F\u8005\uFF01"
+      - "\u6D88\u706D\u5BC4\u751F\u8005\uFF01"
       - "\u554A~\u6D88\u6EC5~\u5BC4\u751F\u8005\uFF01"
       - 
       - 
@@ -120755,7 +120754,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Water! Water! Water!
-      - "\u6C34\uFF01~\u6C34\uFF01~\u6C34\uFF01~"
+      - "\u6C34\uFF01"
       - "\u6C34\uFF01~\u6C34\uFF01~\u6C34\uFF01~"
       - 
       - 
@@ -120869,7 +120868,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "My master\u2026 I heard your summoning\u2026"
-      - "\u6211\u7684\u4E3B\u4EBA~\u6211\u542C\u5230\u4E86\u4F60\u7684\u547C\u5524~"
+      - "\u6211\u7684\u4E3B\u4EBA\uFF0C\u6211\u542C\u5230\u4E86\u4F60\u7684\u547C\u5524"
       - "\u6211\u7684\u4E3B\u4EBA~\u6211\u807D\u5230\u4E86\u4F60\u7684\u547C\u559A~"
       - 
       - 
@@ -121002,7 +121001,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "The smell of magic\u2026"
-      - "\u9B54\u6CD5\u7684\u5473\u9053~"
+      - "\u9B54\u6CD5\u7684\u5473\u9053"
       - "\u9B54\u6CD5\u7684\u5473\u9053~"
       - 
       - 
@@ -121268,7 +121267,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - 
-      - "\u6211\u7ED9\u6211\u4F60\u7684\u4E1C\u897F\uFF0C\u4F60\u7ED9\u4F60\u6211\u7684\u2026\u2026\u4E0D\u5BF9!"
+      - "\u6211\u7ED9\u6211\u4F60\u7684\u4E1C\u897F\uFF0C\u4F60\u7ED9\u4F60\u6211\u7684\u2026\u2026\u4E0D\u5BF9\uFF01"
       - "\u6211\u7D66\u6211\u4F60\u7684\u6771\u897F\uFF0C\u4F60\u7D66\u4F60\u6211\u7684\u2026\u2026\u4E0D\u5C0D!"
       - 
       - 
@@ -121453,7 +121452,7 @@ MonoBehaviour:
       - 
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: "\u8D2A\u5A6A\u5DE8\u9F99_chat"
+    - Term: "\u6C89\u7761\u7684\u5DE8\u9F99_chat"
       TermType: 0
       Description: 
       Languages:
@@ -121629,7 +121628,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Beep! Beep\u2026"
-      - "\u54D4\u54E9\uFF01\u54D4\u54E9~"
+      - "\u54D4\u54E9\uFF01\u54D4\u54E9\uFF01"
       - "\u55F6\u54E9\uFF01\u55F6\u54E9~"
       - 
       - 
@@ -121648,8 +121647,8 @@ MonoBehaviour:
       Description: 
       Languages:
       - "I'm the master of the sea! Ah! Honey, the title should be yours\u2026"
-      - "\u5728\u6D77\u4E0A\u6211\u624D\u662F\u8001\u5927\uFF01\u554A\uFF01\u592B\u4EBA\uFF0C\u4F60\u624D\u662F~"
-      - "\u5728\u6D77\u4E0A\u6211\u624D\u662F\u8001\u5927\uFF01\u554A\uFF01\u592B\u4EBA\uFF0C\u4F60\u624D\u662F~"
+      - "\u5728\u6D77\u4E0A\u6211\u624D\u662F\u8001\u5927\uFF01\u554A\uFF01\u592B\u4EBA\uFF0C\u4F60\u624D\u662F"
+      - "\u5728\u6D77\u4E0A\u6211\u624D\u662F\u8001\u5927\uFF01\u554A\uFF01\u592B\u4EBA\uFF0C\u4F60\u624D\u662F"
       - 
       - 
       - 
@@ -121705,7 +121704,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "Beep! Beep\u2026"
-      - "\u54D4\u54E9\uFF01\u54D4\u54E9~"
+      - "\u62D2\u7EDD\u56DE\u7B54\uFF01"
       - "\u55F6\u54E9\uFF01\u55F6\u54E9~"
       - 
       - 
