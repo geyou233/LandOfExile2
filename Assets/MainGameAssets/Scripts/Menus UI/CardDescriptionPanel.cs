@@ -301,28 +301,28 @@ public class CardDescriptionPanel : MonoBehaviour
         {
             if (card == MenuControl.Instance.heroMenu.hero && card.GetZone() != MenuControl.Instance.battleMenu.board)
             {
-                statsText.text = MenuControl.Instance.GetLocalizedString("Power") + ":  ";
+                statsText.text = MenuControl.Instance.GetLocalizedString("Power") + "：  ";
                 statsTextStatic.text = ((Unit)card).GetInitialPower().ToString();
-                statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("HP") + ":  ";
+                statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("HP") + "：  ";
                 statsTextStatic.text += "\n" + ((Unit)card).GetHP().ToString() + " / " + ((Unit)card).GetInitialHP().ToString();
             }
             else if (card.GetZone() == MenuControl.Instance.battleMenu.board)
             {
                 var condition = ((Unit)card).GetPower() > ((Unit)card).GetInitialPower();
-                statsText.text = wrapColor(((Unit)card).GetPower(),((Unit)card).GetInitialPower(), MenuControl.Instance.GetLocalizedString("Power") + ":  ");
+                statsText.text = wrapColor(((Unit)card).GetPower(),((Unit)card).GetInitialPower(), MenuControl.Instance.GetLocalizedString("Power") + "：  ");
                 statsTextStatic.text = wrapColor(((Unit)card).GetPower(),((Unit)card).GetInitialPower(), ((Unit)card).GetPower() + " / " + ((Unit)card).GetInitialPower().ToString());
                 // ... similar changes for hpString, actionsString, movesString
 
                 condition = ((Unit)card).GetHP() > ((Unit)card).GetInitialHP();
-                statsText.text += wrapColor(((Unit)card).GetHP(),((Unit)card).GetInitialHP(),"\n" + MenuControl.Instance.GetLocalizedString("HP") + ":  ");
+                statsText.text += wrapColor(((Unit)card).GetHP(),((Unit)card).GetInitialHP(),"\n" + MenuControl.Instance.GetLocalizedString("HP") + "：  ");
                 statsTextStatic.text += wrapColor(((Unit)card).GetHP(),((Unit)card).GetInitialHP(),"\n" +((Unit)card).GetHP().ToString() + " / " + ((Unit)card).GetInitialHP().ToString());
 
                 condition = ((Unit)card).remainingActions > ((Unit)card).GetInitialActions();
-                statsText.text += wrapColor(((Unit)card).remainingActions,((Unit)card).GetInitialActions(),"\n" + MenuControl.Instance.GetLocalizedString("Actions") + ":  ");
+                statsText.text += wrapColor(((Unit)card).remainingActions,((Unit)card).GetInitialActions(),"\n" + MenuControl.Instance.GetLocalizedString("Actions") + "：  ");
                 statsTextStatic.text += wrapColor(((Unit)card).remainingActions,((Unit)card).GetInitialActions(),"\n" +((Unit)card).remainingActions.ToString() + " / " +
                                                             ((Unit)card).GetInitialActions().ToString());
                 condition = ((Unit)card).remainingMoves > ((Unit)card).GetInitialMoves();
-                statsText.text += wrapColor( ((Unit)card).remainingMoves, ((Unit)card).GetInitialMoves(),"\n" + MenuControl.Instance.GetLocalizedString("Moves") + ":  ");
+                statsText.text += wrapColor( ((Unit)card).remainingMoves, ((Unit)card).GetInitialMoves(),"\n" + MenuControl.Instance.GetLocalizedString("Moves") + "：  ");
                 statsTextStatic.text += wrapColor(((Unit)card).remainingMoves, ((Unit)card).GetInitialMoves(),"\n" +((Unit)card).remainingMoves.ToString() + " / " +
                                                             ((Unit)card).GetInitialMoves().ToString());
 
@@ -330,18 +330,18 @@ public class CardDescriptionPanel : MonoBehaviour
             }
             else
             {
-                statsText.text = MenuControl.Instance.GetLocalizedString("Power") + ":  ";
+                statsText.text = MenuControl.Instance.GetLocalizedString("Power") + "：  ";
                 statsTextStatic.text = ((Unit)card).GetInitialPower().ToString();
-                statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("Hit Points") + ":  ";
+                statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("Hit Points") + "：  ";
                 statsTextStatic.text += "\n" +  ((Unit)card).GetInitialHP().ToString();
             }
         }
 
         if (card is NewWeapon)
         {
-            statsText.text = MenuControl.Instance.GetLocalizedString("Power") + ":";
+            statsText.text = MenuControl.Instance.GetLocalizedString("Power") + "：";
             statsTextStatic.text = ((NewWeapon)card).initialPower.ToString();
-            statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("Duality") + ":";
+            statsText.text += "\n" + MenuControl.Instance.GetLocalizedString("Duality") + "：";
             statsTextStatic.text += "\n" +  ((NewWeapon)card).initialDuality.ToString();
         }
 //tested here
@@ -349,7 +349,7 @@ public class CardDescriptionPanel : MonoBehaviour
         if (card is Artifact artifact && artifact.initialCoolDown!=0)
         {
             cooldownLabel.transform.parent.gameObject.SetActive(true);
-            cooldownLabel.text = MenuControl.Instance.GetLocalizedString("CooldownKeywordName") + ": " +
+            cooldownLabel.text = MenuControl.Instance.GetLocalizedString("CooldownKeywordName") + "： " +
                                  artifact.initialCoolDown.ToString();
         }
         else
