@@ -1162,14 +1162,12 @@ ChoiceLoseSpellCardDescription,Text,,"Draw 3 random spell cards from your deck, 
 ChoiceLoseSpellCardName,Text,,Lose a spell,失去法术,失去法術,,,,,,,失われた魔法,,,
 ChoiceMageSpellCardDescription,Text,,"""Come on, let's pull off something big together!""
 
-Obtain 1 Random 2-Star Mage follower","“来吧，我们一起干票大的！”
-
-获得1张随机2星魔导师随从","“來吧，我們一起幹票大的！”
+Obtain 1 Random 2-Star Mage follower",获得1张随机2星魔导师随从,"“來吧，我們一起幹票大的！”
 
 獲得1張隨機2星魔導師隨從",,,,,,,"「さあ、一緒に派手なことをやってやろうぜ！」
 
 ランダムな星2魔道士従者を1枚獲得する",,,
-ChoiceMageSpellCardName,Text,,Take the veteran,带走老兵,帶走老兵,,,,,,,ベテランを連れて行く,,,
+ChoiceMageSpellCardName,Text,,Take the veteran,跟我走吧,帶走老兵,,,,,,,ベテランを連れて行く,,,
 ChoiceMageTrainingCardDescription,Text,,Choose a spell card,选择一张法术牌,選擇一張法術牌,,,,,,,魔法カードを一枚選択する,,,
 ChoiceMageTrainingCardName,Text,,Learn a spell,学习法术,學習法術,,,,,,,魔法を学ぶ,,,
 ChoiceManthriCouncillorCardDescription,Text,,,,,,,,,,,,,,
@@ -1249,14 +1247,12 @@ Your hero loses 6 HP","""为了平息这破事，你花费了大量的精力""
 ChoiceTakeDamageCardName,Text,,Take it all on,承担一切,承擔一切,,,,,,,全てを背負う,,,
 ChoiceTakeElderCardDescription,Text,,"""Come on, let's pull off something big together!""
 
-Obtain 1 Random 2-star Warrior follower","“来吧，我们一起干票大的！”
-
-获得1张随机2星战士随从","“來吧，我們一起幹票大的！”
+Obtain 1 Random 2-star Warrior follower",获得1张随机2星战士随从,"“來吧，我們一起幹票大的！”
 
 獲得1張隨機2星戰士隨從",,,,,,,"「さあ、一緒に派手なことをやってやろうぜ！」
 
 ランダムな星2戦士従者を1枚獲得する",,,
-ChoiceTakeElderCardName,Text,,Take the veteran,带走老兵,帶走老兵,,,,,,,ベテランを連れて行く,,,
+ChoiceTakeElderCardName,Text,,Take the veteran,跟我走吧,帶走老兵,,,,,,,ベテランを連れて行く,,,
 ChoiceTakeGiftCardDescription,Text,,Obtain 3 Kalim followers,获得3张卡利姆随从,獲得3張卡利姆隨從,,,,,,,カリム従者を3体獲得する,,,
 ChoiceTakeGiftCardName,Text,,Accept the gift,接受礼物,接受禮物,,,,,,,プレゼントを受け入れる,,,
 ChoiceTakeItCardDescription,Text,,Add Resurrection Cross to your deck,加入复活十字章到你的牌组,加入復活十字章到你的牌組,,,,,,,復活の十字架をあなたのデッキに追加する,,,
