@@ -24,23 +24,23 @@ AccompliceKeywordDescription,Text,,"If your hero and the unit attack a target un
 AccompliceKeywordName,Text,,Accomplice,同谋,同謀,,,,,,,共犯者,,,
 AccountPwd,Text,,,账号密码,帳號密碼,,,,,,,,,,
 Achievement Completed,Text,,Achievement Reached,成就达成,成就達成,,,,,,,実績達成,,,
-Achievement01CardDescription,Text,,Complete the tutorial and defeat the mad Knight of the Round Table.,完成游戏教程并击败奇怪的圆桌武士,完成遊戲教程並擊敗瘋狂的圓桌武士,,,,,,,ゲームチュートリアルを完了し、狂気の円卓の騎士を倒す,,,
+Achievement01CardDescription,Text,,Complete the tutorial and defeat the mad Knight of the Round Table.,完成游戏教程并击败奇怪的圆桌武士。,完成遊戲教程並擊敗瘋狂的圓桌武士,,,,,,,ゲームチュートリアルを完了し、狂気の円卓の騎士を倒す,,,
 Achievement01CardName,Text,,Complete the Tutorial,完成教程,完成教程,,,,,,,チュートリアルを完了する,,,
-Achievement02CardDescription,Text,,Defeat the boss in 1F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第一层的首领,使用戰士·亞瑟的卡組擊敗第一層的首領,,,,,,,戦士・アーサーのデッキを使って第一階のボスを倒す,,,
+Achievement02CardDescription,Text,,Defeat the boss in 1F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第一层的首领。,使用戰士·亞瑟的卡組擊敗第一層的首領,,,,,,,戦士・アーサーのデッキを使って第一階のボスを倒す,,,
 Achievement02CardName,Text,,Overture of Sword and Fire - I,剑与炎的序曲·一,劍與炎的序曲·一,,,,,,,剣と炎の序曲・一,,,
-Achievement03CardDescription,Text,,Defeat the boss in 2F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第二层的首领,使用戰士·亞瑟的卡組擊敗第二層的首領,,,,,,,戦士・アーサーのデッキを使って第二階のボスを倒す,,,
+Achievement03CardDescription,Text,,Defeat the boss in 2F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第二层的首领。,使用戰士·亞瑟的卡組擊敗第二層的首領,,,,,,,戦士・アーサーのデッキを使って第二階のボスを倒す,,,
 Achievement03CardName,Text,,Overture of Sword and Fire - II,剑与炎的序曲·二,劍與炎的序曲·二,,,,,,,剣と炎の序曲・二,,,
-Achievement04CardDescription,Text,,Defeat the boss in 3F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第三层的首领,使用戰士·亞瑟的卡組擊敗第三層的首領,,,,,,,戦士・アーサーのデッキを使って第三階のボスを倒す,,,
+Achievement04CardDescription,Text,,Defeat the boss in 3F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第三层的首领。,使用戰士·亞瑟的卡組擊敗第三層的首領,,,,,,,戦士・アーサーのデッキを使って第三階のボスを倒す,,,
 Achievement04CardName,Text,,Overture of Sword and Fire - III,剑与炎的序曲·三,劍與炎的序曲·三,,,,,,,剣と炎の序曲・三,,,
-Achievement11CardDescription,Text,,Defeat the boss in the 1F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第一层的首领,使用魔導師·艾莉亞的卡組擊敗第一層的首領,,,,,,,魔道士・アリアのデッキを使って第一階のボスを倒す,,,
+Achievement11CardDescription,Text,,Defeat the boss in the 1F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第一层的首领。,使用魔導師·艾莉亞的卡組擊敗第一層的首領,,,,,,,魔道士・アリアのデッキを使って第一階のボスを倒す,,,
 Achievement11CardName,Text,,Overture of Magic and Frost - I,魔法与霜的序曲·一,魔法與霜的序曲·一,,,,,,,魔法と霜の序曲・一,,,
-Achievement12CardDescription,Text,,Defeat the boss in the 2F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第二层的首领,使用魔導師·艾莉亞的卡組擊敗第二層的首領,,,,,,,魔道士・アリアのデッキを使って第二階のボスを倒す,,,
+Achievement12CardDescription,Text,,Defeat the boss in the 2F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第二层的首领。,使用魔導師·艾莉亞的卡組擊敗第二層的首領,,,,,,,魔道士・アリアのデッキを使って第二階のボスを倒す,,,
 Achievement12CardName,Text,,Overture of Magic and Frost - II,魔法与霜的序曲·二,魔法與霜的序曲·二,,,,,,,魔法と霜の序曲・二,,,
-Achievement13CardDescription,Text,,Defeat the boss in the 3F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第三层的首领,使用魔導師·艾莉亞的卡組擊敗第三層的首領,,,,,,,魔道士・アリアのデッキを使って第三階のボスを倒す,,,
+Achievement13CardDescription,Text,,Defeat the boss in the 3F using the Mage Eliya deck,使用魔导师·艾莉亚的卡组击败第三层的首领。,使用魔導師·艾莉亞的卡組擊敗第三層的首領,,,,,,,魔道士・アリアのデッキを使って第三階のボスを倒す,,,
 Achievement13CardName,Text,,Overture of Magic and Frost - III,魔法与霜的序曲·三,魔法與霜的序曲·三,,,,,,,魔法と霜の序曲・三,,,
 Achievement15CardDescription,Text,,Deal 12 or more damage to a large enemy with 1 unit.,用一个单位对大型敌人造成12点或以上的伤害。,用一個單位對大型敵人造成12點或以上的傷害。,,,,,,,一体のユニットを使って大型の敵に12ポイント以上のダメージを与える。,,,
 Achievement15CardName,Text,,Here Comes the Titan,泰坦来了,泰坦來了,,,,,,,タイタンが来る,,,
-Achievement16CardDescription,Text,,Shatter an enemy on your first turn,在你第一回合摧毁一个敌人,在你第一回合摧毀一個敵人,,,,,,,自分の最初のターンで敵を一体破壊する,,,
+Achievement16CardDescription,Text,,Shatter an enemy on your first turn,在你第一回合摧毁一个敌人。,在你第一回合摧毀一個敵人,,,,,,,自分の最初のターンで敵を一体破壊する,,,
 Achievement16CardName,Text,,I'm in a rush,我在赶时间,我在趕時間,,,,,,,急いでいるので,,,
 Achievement17CardDescription,Text,,Shatter 3 enemy units in enemy's turn,在敌人的回合摧毁三个敌方单位。,在敵人的回合摧毀三個敵方單位。,,,,,,,敵のターン中に敵ユニットを三体破壊する。,,,
 Achievement17CardName,Text,,It all counts,都在计算之内,都在計算之內,,,,,,,全て計算の内,,,
@@ -48,23 +48,23 @@ Achievement18CardDescription,Text,,Defeat the third boss with the deck consistin
 Achievement18CardName,Text,,Extreme Cuts,极致裁剪,極致裁剪,,,,,,,節減の極地,,,
 Achievement19CardDescription,Text,,Defeat the third boss with the deck consisting of no less than 30 cards.,用30张或更多卡牌组成的牌组击败第三位首领。,用30張或更多卡牌組成的牌組擊敗第三位首領。,,,,,,,カードが30枚以上のデッキで三番目のボスを倒す。,,,
 Achievement19CardName,Text,,Time to Lose Weight,该减肥了,該減肥了,,,,,,,ダイエットしなきゃ,,,
-Achievement20CardDescription,Text,,Clear within 60 mins,在60分钟内通关,在60分鐘內通關,,,,,,,60分以内にクリアする,,,
+Achievement20CardDescription,Text,,Clear within 60 mins,在60分钟内通关。,在60分鐘內通關,,,,,,,60分以内にクリアする,,,
 Achievement20CardName,Text,,Relax,放松放松,放鬆放鬆,,,,,,,リラックス、リラックス,,,
-Achievement21CardDescription,Text,,Move your hero 4 times in 1 turn,在一回合内移动你的英雄4次,在一回合內移動你的英雄4次,,,,,,,1ターンに自分のヒーローを4回移動させる,,,
+Achievement21CardDescription,Text,,Move your hero 4 times in 1 turn,在一回合内移动你的英雄4次。,在一回合內移動你的英雄4次,,,,,,,1ターンに自分のヒーローを4回移動させる,,,
 Achievement21CardName,Text,,The ground is hot,地板很烫,地板很燙,,,,,,,床が暑い,,,
-Achievement22CardDescription,Text,,Filling the battlefield with your units except for enemy heroes,除敌方英雄外，用你的单位填满整场,除敵方英雄外，用你的單位填滿整場,,,,,,,敵ヒーローを除き、フィールド全体を自分のユニットで埋める,,,
+Achievement22CardDescription,Text,,Filling the battlefield with your units except for enemy heroes,除敌方英雄外，用你的单位填满整场。,除敵方英雄外，用你的單位填滿整場,,,,,,,敵ヒーローを除き、フィールド全体を自分のユニットで埋める,,,
 Achievement22CardName,Text,,We got this place booked today,今天我们包场,今天我們包場,,,,,,,今日は貸し切り,,,
-Achievement23CardDescription,Text,,Put the deck on hand,将整个卡组置于手牌,將整個卡組置於手牌,,,,,,,デッキ全体を手札に置く,,,
+Achievement23CardDescription,Text,,Put the deck on hand,将整个卡组置于手牌。,將整個卡組置於手牌,,,,,,,デッキ全体を手札に置く,,,
 Achievement23CardName,Text,,Poverty makes me strong,极简使我强大,極簡使我強大,,,,,,,貧困は私を強くしてくれる,,,
-Achievement24CardDescription,Text,,Defeat the boss without summoning a follower,不召唤随从击败首领,不召喚隨從擊敗首領,,,,,,,従者を召喚せずにボスを倒す,,,
+Achievement24CardDescription,Text,,Defeat the boss without summoning a follower,不召唤随从击败首领。,不召喚隨從擊敗首領,,,,,,,従者を召喚せずにボスを倒す,,,
 Achievement24CardName,Text,,I'm on my own,有我就够了,有我就夠了,,,,,,,私だけで十分だ,,,
-Achievement25CardDescription,Text,,Own 5 3-star cards in a battle deck,在一场战斗的牌组中拥有5张三星卡牌,在一場戰鬥的牌組中擁有5張三星卡牌,,,,,,,一回の戦闘のデッキに星3カードが5枚存在する,,,
+Achievement25CardDescription,Text,,Own 5 3-star cards in a battle deck,在一场战斗的牌组内拥有至少5张三星卡牌。,在一場戰鬥的牌組中擁有5張三星卡牌,,,,,,,一回の戦闘のデッキに星3カードが5枚存在する,,,
 Achievement25CardName,Text,,Investment,投资,投資,,,,,,,投資,,,
-Achievement26CardDescription,Text,,Play 10 cards in 1 turn,在一回合打出10张卡牌,在一回合打出10張卡牌,,,,,,,1ターンに10枚のカードをプレイする,,,
+Achievement26CardDescription,Text,,Play 10 cards in 1 turn,在一回合打出10张卡牌。,在一回合打出10張卡牌,,,,,,,1ターンに10枚のカードをプレイする,,,
 Achievement26CardName,Text,,One Man Show,一个人的表演,一個人的表演,,,,,,,ワンマンショー,,,
-Achievement27CardDescription,Text,,Shatter 5 followers in 1 turn,在一回合内摧毁5个随从,在一回合內摧毀5個隨從,,,,,,,1ターンに従者を5体破壊する,,,
+Achievement27CardDescription,Text,,Shatter 5 followers in 1 turn,在一回合内摧毁5个随从。,在一回合內摧毀5個隨從,,,,,,,1ターンに従者を5体破壊する,,,
 Achievement27CardName,Text,,Destroyer,除草专家,除草專家,,,,,,,デストロイヤー,,,
-Achievement28CardDescription,Text,,Survive with only 1 HP and no followers,在只有1点生命值且没有随从的情况下生存,在只有1點生命值且沒有隨從的情況下生存,,,,,,,HPが1しかなく、従者がいない状態で生き残る,,,
+Achievement28CardDescription,Text,,Survive with only 1 HP and no followers,在只有1点生命值且没有随从的情况下生存。,在只有1點生命值且沒有隨從的情況下生存,,,,,,,HPが1しかなく、従者がいない状態で生き残る,,,
 Achievement28CardName,Text,,Extreme,极限,極限,,,,,,,ギリギリ,,,
 Achievement29CardDescription,Text,,Hero has 10 or more Block.,英雄拥有10点或更多的格挡。,英雄擁有10點或更多的格擋。,,,,,,,ヒーローは10ポイント以上のブロックを持っている。,,,
 Achievement29CardName,Text,,Metal Wall,铁墙,鐵牆,,,,,,,鉄の壁,,,
@@ -86,13 +86,13 @@ Achievement37CardDescription,Text,,Heal HP more than 15 for followers in an enco
 Achievement37CardName,Text,,Quick healing,快速治疗,快速治療,,,,,,,快速回復,,,
 Achievement38CardDescription,Text,,Shatter the bound Gestalt,摧毁被束缚的格式塔,摧毀被束縛的格式塔,,,,,,,束縛されたゲシュタルトを破壊する,,,
 Achievement38CardName,Text,,Multiple to none,多对无,多對無,,,,,,,多対無,,,
-Achievement39CardDescription,Text,,Attack enemy heroes in the first turn with your follower,让你的随从第一回合就攻击敌方英雄,讓你的隨從第一回合就攻擊敵方英雄,,,,,,,最初のターンにあなたの従者に敵ヒーローを攻撃させる,,,
+Achievement39CardDescription,Text,,Attack enemy heroes in the first turn with your follower,让你的随从第一回合就攻击敌方英雄。,讓你的隨從第一回合就攻擊敵方英雄,,,,,,,最初のターンにあなたの従者に敵ヒーローを攻撃させる,,,
 Achievement39CardName,Text,,Onslaught,猛攻,猛攻,,,,,,,猛襲,,,
-Achievement40CardDescription,Text,,Defeat 1 boss,击败一个首领,擊敗一個首領,,,,,,,ボスを一体倒す,,,
+Achievement40CardDescription,Text,,Defeat 1 boss,击败一个首领。,擊敗一個首領,,,,,,,ボスを一体倒す,,,
 Achievement40CardName,Text,,Boss terminator,首领终结者,首領終結者,,,,,,,ボス・ターミネーター,,,
-Achievement41CardDescription,Text,,Defeat the boss in 3F,击败第三层首领,擊敗第三層首領,,,,,,,第三階のボスを倒す,,,
+Achievement41CardDescription,Text,,Defeat the boss in 3F,击败第三层首领。,擊敗第三層首領,,,,,,,第三階のボスを倒す,,,
 Achievement41CardName,Text,,Lava flow,熔岩流域,熔岩流域,,,,,,,溶岩エリア,,,
-Achievement43CardDescription,Text,,Defeat the boss in 2F,击败第二层的首领,擊敗第二層的首領,,,,,,,第二階のボスを倒す,,,
+Achievement43CardDescription,Text,,Defeat the boss in 2F,击败第二层的首领。,擊敗第二層的首領,,,,,,,第二階のボスを倒す,,,
 Achievement43CardName,Text,,Death Desert,迷失荒漠,迷失荒漠,,,,,,,迷失砂漠,,,
 AchievementCutScene,Text,,Story,剧情,劇情,,,,,,,ストーリー,,,
 Achievements,Text,,Achievement,成就,成就,,,,,,,実績,,,
@@ -1268,7 +1268,6 @@ ChoiceTakeThreeCardName,Text,,Take the warriors,带走勇士们,帶走勇士們,
 ChoiceTakeThreeMageCardDescription,Text,,"""You should focus your strength on more important things.""
 
 Gain a 1-star follower.","""你应该把力量放到更重要的事情上。""
-
 获得一个1星的随从","""你應該把力量放到更重要的事情上""
 
 獲得一個1星的隨從",,,,,,,"「もっと大事なことに力を注ぐべきだ」
@@ -1278,7 +1277,6 @@ ChoiceTakeThreeMageCardName,Text,,Come with me!,跟我走吧！,跟我走吧！,
 ChoiceTakeThreeWarriorCardDescription,Text,,"""You should focus your strength on more important things.""
 
 Gain a 1-star follower.","""你应该把力量放到更重要的事情上。""
-
 获得一个1星的随从","""你應該把力量放到更重要的事情上""
 
 獲得一個1星的隨從",,,,,,,"「もっと大事なことに力を注ぐべきだ」
@@ -1442,7 +1440,7 @@ CommonEffect03CardDescription,Text,,Cannot move or attack this turn.,本回合�
 CommonEffect03CardName,Text,,Freeze,冰冻,冰凍,,,,,,,フリーズ,,,
 CommonEffect04CardDescription,Text,,This unit cannot move or take action during this turn.,该单位本回合无法移动或采取行动,該單位本回合無法移動或採取行動,,,,,,,このターン、このユニットは移動と行動ができない,,,
 CommonEffect04CardName,Text,,Stunned,晕眩,暈眩,,,,,,,スタン,,,
-CommonEffect05CardDescription,Text,,This unit cannot move this turn (but can attack).,该单位本回合无法移动(但可攻击),該單位本回合無法移動(但可攻擊),,,,,,,このターンこのユニットは移動できなくなる（ただし攻撃できる）,,,
+CommonEffect05CardDescription,Text,,This unit cannot move this turn (but can attack).,该单位本回合无法移动（但可攻击）,該單位本回合無法移動(但可攻擊),,,,,,,このターンこのユニットは移動できなくなる（ただし攻撃できる）,,,
 CommonEffect05CardName,Text,,Rooted,定身,定身,,,,,,,拘束,,,
 CommonEffect06CardDescription,Text,,Increase ATK by an amount equal to the number of units you control in the game,增加你在游戏中控制的单位数相等的攻击力,增加你在遊戲中控制的單位數相等的攻擊力,,,,,,,ゲーム内で制御したユニット数に等しい攻撃力を獲得する,,,
 CommonEffect06CardName,Text,,Inspire,激励,激勵,,,,,,,激励,,,
@@ -3463,7 +3461,7 @@ At the start of the turn, deals damage to an enemy hero for 1 time. If your hero
 回合開始時，對敵方英雄造成一次攻擊傷害。如果你的英雄或者敵方英雄進行了移動，則清除此效果。",,,,,,,"射程3
 ターン開始時、敵ヒーローに攻撃ダメージを一回与える。あなたのヒーローまたは敵ヒーローが移動した場合、この効果を消去する。",,,
 HellfireTorturerMinionCardName,Text,,Bone Bandit Leader,骨头匪徒头目,骨頭匪徒頭目,,,,,,,骨の強盗頭領,,,
-Hero (Unit),Text,,Hero (Unit),英雄(单位),英雄(單位),,,,,,,ヒーロー（ユニット）,,,
+Hero (Unit),Text,,Hero (Unit),英雄（单位）,英雄(單位),,,,,,,ヒーロー（ユニット）,,,
 Hero Talents,Text,,Hero Talent,英雄天赋,英雄天賦,,,,,,,ヒーローアビリティ,,,
 Hero0_Description,Text,,"I come from the Knight's Fortress in the Green Meadows.
 Followers and weapons are my way to victory.","我来自绿意草原的骑士堡垒。
@@ -3643,7 +3641,7 @@ LacunaDropCardName,Text,,Lacuna Drop,裂纹下坠,裂紋下墜,,,,,,,クラッ�
 LacunaDropEffectCardDescription,Text,,This point increases by 1 each time {{LacunaDrop}} is cast.,每次施放{{LacunaDrop}}时该值加1,每次施放{{LacunaDrop}}時該值加1,,,,,,,{{LacunaDrop}}を発動するたび、この値+1,,,
 LacunaDropEffectCardName,Text,,Lacuna Drop,裂纹下坠,裂紋下墜,,,,,,,クラックドロップ,,,
 Language,Text,,Language,语言,語言,,,,,,,言語,,,
-Large Hero (Unit),Text,,Large Hero (Unit),大型英雄(单位),大型英雄(單位),,,,,,,大型ヒーロー（ユニット）,,,
+Large Hero (Unit),Text,,Large Hero (Unit),大型英雄（单位）,大型英雄(單位),,,,,,,大型ヒーロー（ユニット）,,,
 LargeBossPrompt,Text,,Large units take up 4 tiles and can pass through obstacles.,大型单位占据4个格子，且能够穿越障碍物,大型單位佔據4個格子，且能夠穿越障礙物,,,,,,,大型ユニットが4マス占める。さらに障害物を通り抜けることができる,,,
 LavaDemonEncounter17CardDescription,Text,,,,,,,,,,,,,,
 LavaDemonEncounter17CardName,Text,,Lava Demon,熔岩恶魔,熔岩惡魔,,,,,,,溶岩悪魔,,,
@@ -3793,13 +3791,13 @@ LogOut,Text,,,退出登录,退出登錄,,,,,,,,,,
 Login,Text,,,登录,登錄,,,,,,,,,,
 LoginAccountOrPhone,Text,,,登录账号/手机号,登錄帳號/手機號,,,,,,,,,,
 Loot,Text,,Consumable,消耗品,消耗品,,,,,,,消耗品,,,
-Loot01CardDescription,Text,,One of your units get Combo 1.,使你的一个单位获得连击1。,使你的一個單位獲得連擊1。,,,,,,,あなたのユニット1体に連撃1を付与する。,,,
+Loot01CardDescription,Text,,One of your units get Combo 1.,使你的一个单位获得连击1,使你的一個單位獲得連擊1。,,,,,,,あなたのユニット1体に連撃1を付与する。,,,
 Loot01CardName,Text,,Assault Potion,强攻药水,強攻藥水,,,,,,,強攻ポーション,,,
-Loot02CardDescription,Text,,Heals 6 HP.,治疗6点生命值。,治療6點生命值。,,,,,,,HPが6回復する。,,,
+Loot02CardDescription,Text,,Heals 6 HP.,治疗6点生命值,治療6點生命值。,,,,,,,HPが6回復する。,,,
 Loot02CardName,Text,,Healing Potion,面包,治療藥水,,,,,,,回復ポーション,,,
-Loot03CardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速。,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
+Loot03CardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
 Loot03CardName,Text,,Speed Potion,速度药水,速度藥水,,,,,,,速度ポーション,,,
-Loot03CopyCardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速。,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
+Loot03CopyCardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
 Loot03CopyCardName,Text,,Speed Potion,速度药水,速度藥水,,,,,,,速度ポーション,,,
 Loot13CardDescription,Text,,,,,,,,,,,,,,
 Loot13CardName,Text,,Rusty Dagger,生锈的匕首,生銹的匕首,,,,,,,錆びたダガー,,,
@@ -3809,15 +3807,15 @@ Loot15CardDescription,Text,,,,,,,,,,,,,,
 Loot15CardName,Text,,Swiftblade,敏锐之刃,敏銳之刃,,,,,,,鋭敏な刃,,,
 Loot29CardDescription,Text,,Heals the target unit and its nearby units by up to 3 HP. Consumable,治愈目标单位以及附近单位最高3点生命值。 消耗品,治癒目標單位以及附近單位最高3點生命值。 消耗品,,,,,,,ターゲットユニットと付近のユニットを最大3HP回復する。消耗品,,,
 Loot29CardName,Text,,Healing Gourd,治愈葫芦,治癒葫蘆,,,,,,,回復の瓢箪,,,
-Loot34CardDescription,Text,,Get Mana +3 after consuming.,消耗后获得+3法力值。,消耗後獲得+3法力值。,,,,,,,消費するとマナ+3。,,,
+Loot34CardDescription,Text,,Get Mana +3 after consuming.,消耗后获得+3法力值,消耗後獲得+3法力值。,,,,,,,消費するとマナ+3。,,,
 Loot34CardName,Text,,Mana Potion,法力药水,法力藥水,,,,,,,マナポーション,,,
 Loot35CardDescription,Text,,,,,,,,,,,,,,
 Loot35CardName,Text,,,,,,,,,,,,,,
 Loot36CardDescription,Text,,,,,,,,,,,,,,
 Loot36CardName,Text,,,,,,,,,,,,,,
-Loot41CardDescription,Text,,Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.,对一个敌人和其周围所有敌人造成1点伤害和灼烧1。,對一個敵人和其周圍所有敵人造成1點傷害和灼燒1。,,,,,,,敵1体とその周囲の敵全員に1ダメージと燃焼1を与える。,,,
+Loot41CardDescription,Text,,Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.,对一个敌人和其周围所有敌人造成1点伤害和灼烧1,對一個敵人和其周圍所有敵人造成1點傷害和灼燒1。,,,,,,,敵1体とその周囲の敵全員に1ダメージと燃焼1を与える。,,,
 Loot41CardName,Text,,Burning Potion,燃烧药水,燃燒藥水,,,,,,,燃焼ポーション,,,
-Loot41CopyCardDescription,Text,,Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.,对一个敌人和其周围所有敌人造成1点伤害和灼烧1。,對一個敵人和其周圍所有敵人造成1點傷害和灼燒1。,,,,,,,敵1体とその周囲の敵全員に1ダメージと燃焼1を与える。,,,
+Loot41CopyCardDescription,Text,,Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.,对一个敌人和其周围所有敌人造成1点伤害和灼烧1,對一個敵人和其周圍所有敵人造成1點傷害和灼燒1。,,,,,,,敵1体とその周囲の敵全員に1ダメージと燃焼1を与える。,,,
 Loot41CopyCardName,Text,,Burning Potion,燃烧药水,燃燒藥水,,,,,,,燃焼ポーション,,,
 Loot42CardDescription,Text,,{{MagicFrozen}} an enemy. Consumable,{{MagicFrozen}}一个敌人,{{MagicFrozen}}一個敵人,,,,,,,{{MagicFrozen}}敵1名,,,
 Loot42CardName,Text,,Freeze Potion,冰冻药水,冰凍藥水,,,,,,,フリーズポーション,,,
@@ -4721,7 +4719,7 @@ Magic009cCardDescription,Text,,"Taunt, Toughness 1
 Magic009cCardName,Text,,Shardrock Demon,岩兽·传奇,碎岩兽,,,,,,,ロックブレイカー,,,
 Magic009dCardDescription,Text,,"Taunt, Toughness 1
  <color=upgrade>Enter: gain a copy of {{MagicS01a}} with mana cost = 0</color>","嘲讽，坚硬1
-<color=upgrade>进场：获得一张法力消耗=0的{{MagicS01a}}的复制</color>","嘲諷，堅硬1
+<color=upgrade>进场：获得一张法力消耗为0的{{MagicS01a}}的复制</color>","嘲諷，堅硬1
 <color=upgrade>進場：獲得一張法力消耗=0的{{MagicS01a}}的複製</color>",,,,,,,"挑発、堅固1
 <color=upgrade>入場：マナ消費=0の{{MagicS01a}}のコピーを1枚獲得する</color>",,,
 Magic009dCardName,Text,,Rock Toss Demon,岩兽·超凡,抛岩兽,,,,,,,ロックスリンガー,,,
@@ -5015,7 +5013,7 @@ MagicS04aCardDescription,Text,,"Deals 1 damage to an enemy unit within Arcing Ra
 MagicS04aCardName,Text,,Nightmare Arrow,雷鸣箭,噩夢箭,,,,,,,悪夢の矢,,,
 MagicS04bCardDescription,Text,,"Deals 3 damage to an enemy unit within Arcing Range 3, then gain Spell Enhancement 1",对一个箭术射程3距离内的敌方单位造成3点伤害，之后你获得法术强化1,對一個箭術射程3距離內的敵方單位造成3點傷害，之後你獲得法術強化1,,,,,,,射術射程3以内の敵ユニット1体に3ダメージを与え、魔法強化1を獲得する,,,
 MagicS04bCardName,Text,,Nightmare Arrow,雷鸣箭,噩夢箭,,,,,,,悪夢の矢,,,
-MagicS04cCardDescription,Text,,"Deals 5 damage to an enemy unit within Arcing Range 3, then gain Spell Enhancement 1 and <color=upgrade>make your next spell card cost 0 mana</color>",对一个箭术射程3距离内的敌方单位造成5点伤害，之后你获得法术强化1，<color=upgrade>并使你的下一张法术卡的法力消耗=0</color>,對一個箭術射程3距離內的敵方單位造成5點傷害，之後你獲得法術強化1，<color=upgrade>並使你的下一張法術卡的法力消耗=0</color>,,,,,,,射術射程3以内の敵ユニット1体に5ダメージを与え、魔法強化1を獲得する。<color=upgrade>さらに自分の次の魔法カードのマナ消費=0</color>,,,
+MagicS04cCardDescription,Text,,"Deals 5 damage to an enemy unit within Arcing Range 3, then gain Spell Enhancement 1 and <color=upgrade>make your next spell card cost 0 mana</color>",对一个箭术射程3距离内的敌方单位造成5点伤害，之后你获得法术强化1，<color=upgrade>并使你的下一张法术卡的法力消耗为0</color>,對一個箭術射程3距離內的敵方單位造成5點傷害，之後你獲得法術強化1，<color=upgrade>並使你的下一張法術卡的法力消耗=0</color>,,,,,,,射術射程3以内の敵ユニット1体に5ダメージを与え、魔法強化1を獲得する。<color=upgrade>さらに自分の次の魔法カードのマナ消費=0</color>,,,
 MagicS04cCardName,Text,,Infinite Nightmare Arrow,雷鸣箭·传奇,無限的噩夢箭,,,,,,,無限の悪夢の矢,,,
 MagicS04dCardDescription,Text,,"<color=upgrade>Backfire 2</color>
 Deals 3 damage to an enemy within Arcing Range 3, then gains Spell Enhancement <color=upgrade>2</color>","<color=upgrade>反噬2</color>
@@ -5546,7 +5544,7 @@ MagmaWolfMageCardName,Text,,Chonchon Dragon,大飞头龙,大飛頭龍,,,,,,,チ�
 Main Menu,Text,,Home,主页,主頁,,,,,,,ホームページ,,,
 Mana,Text,,Mana,法力,法力,,,,,,,マナ,,,
 Mana:,Text,,Mana:,法力值:,法力值:,,,,,,,マナ:,,,
-ManaPotionEnemyCardDescription,Text,,Get Mana +3 after consuming.,消耗后获得+3法力值。,消耗後獲得+3法力值。,,,,,,,消費するとマナ+3。,,,
+ManaPotionEnemyCardDescription,Text,,Get Mana +3 after consuming.,消耗后获得+3法力值,消耗後獲得+3法力值。,,,,,,,消費するとマナ+3。,,,
 ManaPotionEnemyCardName,Text,,Mana Potion,法力药水,法力藥水,,,,,,,マナポーション,,,
 ManaPylonCardDescription,Text,,"Range 4. Cannot move
 When an opponent's card is exhausted, he also loses 1 mana","射程4，无法移动
@@ -5826,7 +5824,7 @@ PossessCardName,Text,,Occupation,占有,佔有,,,,,,,占有,,,
 PotentIgniteKeywordDescription,Text,,The Burn cannot be removed,该灼烧不会被清除,該灼燒不會被清除,,,,,,,この燃焼は解除されない,,,
 PotentIgniteKeywordName,Text,,Potent Burn,强效灼烧,強效灼燒,,,,,,,強力燃焼,,,
 Potion,Text,,Potion,药水,藥水,,,,,,,ポーション,,,
-PotionSpeedEnemyCardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速。,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
+PotionSpeedEnemyCardDescription,Text,,One of your followers gets Haste.,使一个你的随从获得急速,使一個你的隨從獲得急速。,,,,,,,あなたの従者1体に急速を付与する。,,,
 PotionSpeedEnemyCardName,Text,,Speed Potion,速度药水,速度藥水,,,,,,,速度ポーション,,,
 Potions,Text,,Potion,药水,藥水,,,,,,,ポーション,,,
 Power,Text,,ATK,攻击力,攻擊力,,,,,,,攻撃力,,,
@@ -6275,16 +6273,16 @@ At the beginning of the turn: adjacent allied units get Block 1 and <color=upgra
 ターン開始：隣接する味方ユニットがブロック1を獲得し、<color=upgrade>次の武器カードを引く</color>",,,
 Red45dCardName,Text,,Knight of the Sun Never Sets⭐⭐⭐,日落骑士·超凡,皇家騎士,,,,,,,サンネバーセッツ騎士⭐⭐⭐,,,
 Red45dFlavourText,Text,,,,,,,,,,,,,,
-Red46CardDescription,Text,,Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.,进场：获得1张{{Warrior203}}的复制品，其法力消耗=0,進場：獲得1張{{Warrior203}}的複製品，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
+Red46CardDescription,Text,,Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.,进场：获得1张{{Warrior203}}的复制品，其法力消耗为0,進場：獲得1張{{Warrior203}}的複製品，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
 Red46CardName,Text,,Chain Hammer Fighter,链锤斗士,鏈錘鬥士,,,,,,,ハンマーファイター,,,
 Red46FlavourText,Text,,,,,,,,,,,,,,
-Red47CardDescription,Text,,Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.,进场：获得1张{{Warrior203}}的复制品，其法力消耗=0,進場：獲得1張{{Warrior203}}的複製品，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
+Red47CardDescription,Text,,Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.,进场：获得1张{{Warrior203}}的复制品，其法力消耗为0,進場：獲得1張{{Warrior203}}的複製品，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
 Red47CardName,Text,,Chain Hammer Fighter⭐⭐,链锤斗士⭐⭐,鏈錘鬥士⭐⭐,,,,,,,ハンマーファイター⭐⭐,,,
 Red47FlavourText,Text,,,,,,,,,,,,,,
-Red48CardDescription,Text,,"<color=upgrade>Take damage</color>, Enter: Get 1 {{Warrior203}} card and its mana cost is 0.",<color=upgrade>受到伤害</color>、进场：获得1张{{Warrior203}}，其法力消耗=0,<color=upgrade>受到傷害</color>、進場：獲得1張{{Warrior203}}，其法力消耗=0,,,,,,,<color=upgrade>被ダメージ</color>、入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
+Red48CardDescription,Text,,"<color=upgrade>Take damage</color>, Enter: Get 1 {{Warrior203}} card and its mana cost is 0.",<color=upgrade>受到伤害</color>、进场：获得1张{{Warrior203}}，其法力消耗为0,<color=upgrade>受到傷害</color>、進場：獲得1張{{Warrior203}}，其法力消耗=0,,,,,,,<color=upgrade>被ダメージ</color>、入場：マナ消費=0の{{Warrior203}}の複製品を1枚獲得する,,,
 Red48CardName,Text,,Chain Hammer Torturer,链锤斗士·传奇,鏈錘懲戒者,,,,,,,ハンマー拷問者,,,
 Red48FlavourText,Text,,,,,,,,,,,,,,
-Red48dCardDescription,Text,,Enter: Get <color=upgrade>2</color> {{Warrior203}} cards and their mana cost is 0.,进场：获得<color=upgrade>2</color>张{{Warrior203}}，其法力消耗=0,進場：獲得<color=upgrade>2</color>張{{Warrior203}}，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を<color=upgrade>2</color>枚獲得する,,,
+Red48dCardDescription,Text,,Enter: Get <color=upgrade>2</color> {{Warrior203}} cards and their mana cost is 0.,进场：获得<color=upgrade>2</color>张{{Warrior203}}，其法力消耗为0,進場：獲得<color=upgrade>2</color>張{{Warrior203}}，其法力消耗=0,,,,,,,入場：マナ消費=0の{{Warrior203}}の複製品を<color=upgrade>2</color>枚獲得する,,,
 Red48dCardName,Text,,Chain Hammer Scavenger,链锤斗士·超凡,鏈錘拾荒者,,,,,,,ハンマー拾い屋,,,
 Red48dFlavourText,Text,,,,,,,,,,,,,,
 Red49CardDescription,Text,,All {{Red22}} you control get ATK +2,你所控制的所有{{Red22}}获得+2攻击力,你所控制的所有{{Red22}}獲得+2攻擊力,,,,,,,あなたが制御した全ての{{Red22}}の攻撃力+2,,,
@@ -7884,7 +7882,7 @@ Treasure16CardName,Text,,Magic Rug,魔术地毯,魔術地毯,,,,,,,魔術絨毯,
 Treasure17CardDescription,Text,,Swap. Cannot move,换位，无法移动,換位，無法移動,,,,,,,位置交換、移動不能,,,
 Treasure17CardName,Text,,Pot Man,壶中精灵,壺中小人,,,,,,,壺の中の小人,,,
 Treasure18CardDescription,Text,,"Enter: restores 6 HP for your hero
-Defeated: Shatters your hero","进场：恢复英雄6点生命。
+Defeated: Shatters your hero","进场：恢复英雄6点生命
 被摧毁：摧毁你的英雄","進場：恢復英雄6點生命。
 被摧毀：摧毀你的英雄",,,,,,,"入場：ヒーローのHPを6回復。
 被摧毁：あなたのヒーローを破壊する",,,
@@ -8499,7 +8497,7 @@ Warrior229CardDescription,Text,,"Gain Thrust 1 in this turn
 Transform the equipped weapon into a sword with Combo 1
 (2/2)","本回合获得突进1
 将武器更改为攻击具有连击1效果的剑
-(2/2)","本回合獲得突進1
+（2/2）","本回合獲得突進1
 將武器更改為攻擊具有連擊1效果的劍
 (2/2)",,,,,,,"このターン、突進1を獲得する
 武器を連撃1を持つ剣に変更する
@@ -8513,7 +8511,7 @@ Warrior230CardDescription,Text,,"Gain Thrust 1 in this turn
 Transform the equipped weapon into a sword with Combo 1
 (3/2)","本回合获得突进1
 将武器更改为攻击具有连击1效果的剑
-(3/2)","本回合獲得突進1
+（3/2）","本回合獲得突進1
 將武器更改為攻擊具有連擊1效果的劍
 (3/2)",,,,,,,"このターン、突進1を獲得する
 武器を連撃1を持つ剣に変更する
@@ -8523,7 +8521,7 @@ Warrior231CardDescription,Text,,"Gain Thrust 1 in this turn
 Transform the equipped weapon into a sword with Combo 1 and <color=upgrade>can inflict Burn 1</color>
 <color=upgrade>(4/2)</color>","本回合获得突进1
 将武器更改为具有连击1效果且<color=upgrade>能施加灼烧1</color>的剑
-<color=upgrade>(4/2)</color>","本回合獲得突進1
+<color=upgrade>（4/2）</color>","本回合獲得突進1
 將武器更改為具有連擊1效果且<color=upgrade>能施加灼燒1</color>的劍
 <color=upgrade>(4/2)</color>",,,,,,,"このターン、突進1を獲得する
 武器を連撃1を持ち、かつ<color=upgrade>燃焼1</color>を付与できる剣に変更する
@@ -8533,7 +8531,7 @@ Warrior231dCardDescription,Text,,"Gain Thrust 1 in this turn
 Transform the equipped weapon into a sword with Combo <color=upgrade>2</color>
 <color=upgrade>(3/3)</color>","本回合获得突进1
 将武器更改为攻击具有连击<color=upgrade>2</color>效果的剑
-<color=upgrade>(3/3)</color>","本回合獲得突進1
+<color=upgrade>（3/3）</color>","本回合獲得突進1
 將武器更改為攻擊具有連擊<color=upgrade>2</color>效果的劍
 <color=upgrade>(3/3)</color>",,,,,,,"このターン、突進1を獲得する
 武器を連撃<color=upgrade>2</color>を持つ剣に変更する
@@ -9035,8 +9033,8 @@ battleDialogue_300330,Text,,At your service,为您效劳。,為您效勞,,,,,,,�
 battleDialogue_300340,Text,,…,……,…,,,,,,,…,,,
 battleDialogue_300350,Text,,…' …' …,……，……，……,……，……，……,,,,,,,…，…，…,,,
 battleDialogue_300360,Text,,Follow me… to take… the fortress!,随我，拿下，堡垒！,隨我，拿下，堡壘！,,,,,,,私についてこい、砦を攻め落とすぞ！,,,
-battleDialogue_300370,Text,,You- You're not so useless,有，有两下子,有，有兩下子,,,,,,,や、やるじゃないか,,,
-battleDialogue_300380,Text,,You're… not getting out of here alive!,别想，活着离开！,別想，活著離開！,,,,,,,生きて帰れると思うなよ！,,,
+battleDialogue_300370,Text,,You- You're not so useless,有，有两下子。,有，有兩下子,,,,,,,や、やるじゃないか,,,
+battleDialogue_300380,Text,,You're… not getting out of here alive!,别想，离开！,別想，活著離開！,,,,,,,生きて帰れると思うなよ！,,,
 battleDialogue_300390,Text,,They are close by…,还没跑远……,還沒跑遠…,,,,,,,まだ遠くへ行っていないはず…,,,
 battleDialogue_300400,Text,,Where's everyone,大伙人呢？,大夥人呢,,,,,,,みんなはどこ,,,
 battleDialogue_300410,Text,,Is he the only one left,只剩他一人了吗？,只剩他一人了嗎,,,,,,,残っているのは彼だけか,,,
@@ -9092,7 +9090,7 @@ enemyEventWantedLevel,Text,,Level:,等级：,等級：,,,,,,,レベル：,,,
 eventTileName_boss,Text,,Boss,首领,首領,,,,,,,ボス,,,
 eventTileName_elite,Text,,Elite,精英,精英,,,,,,,精鋭,,,
 eventTileName_normal,Text,,Minion,小怪,小怪,,,,,,,雑魚,,,
-firePotionEnemyCardDescription,Text,,Deal 1 DMG and Burn 1 on a follower and all their adjacent units,对一个单位和其相邻所有单位造成1点伤害和灼烧1。,對一個單位和其相鄰所有單位造成1點傷害和灼燒1。,,,,,,,ユニット一体とそれに隣接する全てのユニットに1ダメージを与え、燃焼1を付与する。,,,
+firePotionEnemyCardDescription,Text,,Deal 1 DMG and Burn 1 on a follower and all their adjacent units,对一个单位和其相邻所有单位造成1点伤害和灼烧1,對一個單位和其相鄰所有單位造成1點傷害和灼燒1。,,,,,,,ユニット一体とそれに隣接する全てのユニットに1ダメージを与え、燃焼1を付与する。,,,
 firePotionEnemyCardName,Text,,Burning Potion,燃烧药水,燃燒藥水,,,,,,,燃焼ポーション,,,
 gameTitleImage,Text,,img_login_1002,img_login_1001,img_login_1001,,,,,,,img_login_1002,,,
 img_login_1010,Text,,img_login_1012,img_login_1010,img_login_1010,,,,,,,img_login_1012,,,
@@ -9204,13 +9202,13 @@ After attacking non-large hero units, drag them to adjacent tiles","射程2
 warrior002bCardName,Text,,Fisherman's Trident,渔夫三叉戟,漁夫的三叉戟,,,,,,,漁師のトライデント,,,
 warrior002cCardDescription,Text,,"<color=upgrade>Guardian</color>, Range 2
 After attacking non-large hero units, drag them to adjacent tiles.","<color=upgrade>守卫</color>，射程2
-攻击非大型英雄单位后，将其拉到自身相邻的格子中。","<color=upgrade>守衛</color>，射程2
+攻击非大型英雄单位后，将其拉到自身相邻的格子中","<color=upgrade>守衛</color>，射程2
 攻擊非大型英雄單位後，將其拉到自身相鄰的格子中。",,,,,,,"<color=upgrade>守衛</color>、射程2
 非大型のヒーローユニットを攻撃した後、対象を自身に隣接するマスに引き寄せる",,,
 warrior002cCardName,Text,,Guardian's Trident,渔夫三叉戟·传奇,守衛的三叉戟,,,,,,,守衛のトライデント,,,
 warrior002dCardDescription,Text,,"<color=upgrade>Range 3</color>
 After attacking non-large hero units, drag them to adjacent tiles.","<color=upgrade>射程3</color>
-攻击非大型英雄单位后，将其拉到自身相邻的格子中。","<color=upgrade>射程3</color>
+攻击非大型英雄单位后，将其拉到自身相邻的格子中","<color=upgrade>射程3</color>
 攻擊非大型英雄單位後，將其拉到自身相鄰的格子中。",,,,,,,"<color=upgrade>射程3</color>
 非大型のヒーローユニットを攻撃した後、対象を自身に隣接するマスに引き寄せる",,,
 warrior002dCardName,Text,,Throw Trident,渔夫三叉戟·超凡,投擲三叉戟,,,,,,,トライデント投擲,,,

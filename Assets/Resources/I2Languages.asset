@@ -498,7 +498,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Complete the tutorial and defeat the mad Knight of the Round Table.
-      - "\u5B8C\u6210\u6E38\u620F\u6559\u7A0B\u5E76\u51FB\u8D25\u5947\u602A\u7684\u5706\u684C\u6B66\u58EB"
+      - "\u5B8C\u6210\u6E38\u620F\u6559\u7A0B\u5E76\u51FB\u8D25\u5947\u602A\u7684\u5706\u684C\u6B66\u58EB\u3002"
       - "\u5B8C\u6210\u904A\u6232\u6559\u7A0B\u4E26\u64CA\u6557\u760B\u72C2\u7684\u5713\u684C\u6B66\u58EB"
       - 
       - 
@@ -536,7 +536,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in 1F using the Warrior - Arthur deck
-      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E00\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E00\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u6230\u58EB\xB7\u4E9E\u745F\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E00\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -574,7 +574,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in 2F using the Warrior - Arthur deck
-      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u6230\u58EB\xB7\u4E9E\u745F\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E8C\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -612,7 +612,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in 3F using the Warrior - Arthur deck
-      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E09\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u6218\u58EB\xB7\u4E9A\u745F\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E09\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u6230\u58EB\xB7\u4E9E\u745F\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E09\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -650,7 +650,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in the 1F using the Mage Eliya deck
-      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E00\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E00\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u9B54\u5C0E\u5E2B\xB7\u827E\u8389\u4E9E\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E00\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -688,7 +688,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in the 2F using the Mage Eliya deck
-      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u9B54\u5C0E\u5E2B\xB7\u827E\u8389\u4E9E\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E8C\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -726,7 +726,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in the 3F using the Mage Eliya deck
-      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E09\u5C42\u7684\u9996\u9886"
+      - "\u4F7F\u7528\u9B54\u5BFC\u5E08\xB7\u827E\u8389\u4E9A\u7684\u5361\u7EC4\u51FB\u8D25\u7B2C\u4E09\u5C42\u7684\u9996\u9886\u3002"
       - "\u4F7F\u7528\u9B54\u5C0E\u5E2B\xB7\u827E\u8389\u4E9E\u7684\u5361\u7D44\u64CA\u6557\u7B2C\u4E09\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -802,7 +802,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Shatter an enemy on your first turn
-      - "\u5728\u4F60\u7B2C\u4E00\u56DE\u5408\u6467\u6BC1\u4E00\u4E2A\u654C\u4EBA"
+      - "\u5728\u4F60\u7B2C\u4E00\u56DE\u5408\u6467\u6BC1\u4E00\u4E2A\u654C\u4EBA\u3002"
       - "\u5728\u4F60\u7B2C\u4E00\u56DE\u5408\u6467\u6BC0\u4E00\u500B\u6575\u4EBA"
       - 
       - 
@@ -954,7 +954,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Clear within 60 mins
-      - "\u572860\u5206\u949F\u5185\u901A\u5173"
+      - "\u572860\u5206\u949F\u5185\u901A\u5173\u3002"
       - "\u572860\u5206\u9418\u5167\u901A\u95DC"
       - 
       - 
@@ -992,7 +992,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Move your hero 4 times in 1 turn
-      - "\u5728\u4E00\u56DE\u5408\u5185\u79FB\u52A8\u4F60\u7684\u82F1\u96C44\u6B21"
+      - "\u5728\u4E00\u56DE\u5408\u5185\u79FB\u52A8\u4F60\u7684\u82F1\u96C44\u6B21\u3002"
       - "\u5728\u4E00\u56DE\u5408\u5167\u79FB\u52D5\u4F60\u7684\u82F1\u96C44\u6B21"
       - 
       - 
@@ -1030,7 +1030,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Filling the battlefield with your units except for enemy heroes
-      - "\u9664\u654C\u65B9\u82F1\u96C4\u5916\uFF0C\u7528\u4F60\u7684\u5355\u4F4D\u586B\u6EE1\u6574\u573A"
+      - "\u9664\u654C\u65B9\u82F1\u96C4\u5916\uFF0C\u7528\u4F60\u7684\u5355\u4F4D\u586B\u6EE1\u6574\u573A\u3002"
       - "\u9664\u6575\u65B9\u82F1\u96C4\u5916\uFF0C\u7528\u4F60\u7684\u55AE\u4F4D\u586B\u6EFF\u6574\u5834"
       - 
       - 
@@ -1068,7 +1068,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Put the deck on hand
-      - "\u5C06\u6574\u4E2A\u5361\u7EC4\u7F6E\u4E8E\u624B\u724C"
+      - "\u5C06\u6574\u4E2A\u5361\u7EC4\u7F6E\u4E8E\u624B\u724C\u3002"
       - "\u5C07\u6574\u500B\u5361\u7D44\u7F6E\u65BC\u624B\u724C"
       - 
       - 
@@ -1106,7 +1106,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss without summoning a follower
-      - "\u4E0D\u53EC\u5524\u968F\u4ECE\u51FB\u8D25\u9996\u9886"
+      - "\u4E0D\u53EC\u5524\u968F\u4ECE\u51FB\u8D25\u9996\u9886\u3002"
       - "\u4E0D\u53EC\u559A\u96A8\u5F9E\u64CA\u6557\u9996\u9818"
       - 
       - 
@@ -1144,7 +1144,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Own 5 3-star cards in a battle deck
-      - "\u5728\u4E00\u573A\u6218\u6597\u7684\u724C\u7EC4\u4E2D\u62E5\u67095\u5F20\u4E09\u661F\u5361\u724C"
+      - "\u5728\u4E00\u573A\u6218\u6597\u7684\u724C\u7EC4\u5185\u62E5\u6709\u81F3\u5C115\u5F20\u4E09\u661F\u5361\u724C\u3002"
       - "\u5728\u4E00\u5834\u6230\u9B25\u7684\u724C\u7D44\u4E2D\u64C1\u67095\u5F35\u4E09\u661F\u5361\u724C"
       - 
       - 
@@ -1182,7 +1182,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Play 10 cards in 1 turn
-      - "\u5728\u4E00\u56DE\u5408\u6253\u51FA10\u5F20\u5361\u724C"
+      - "\u5728\u4E00\u56DE\u5408\u6253\u51FA10\u5F20\u5361\u724C\u3002"
       - "\u5728\u4E00\u56DE\u5408\u6253\u51FA10\u5F35\u5361\u724C"
       - 
       - 
@@ -1220,7 +1220,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Shatter 5 followers in 1 turn
-      - "\u5728\u4E00\u56DE\u5408\u5185\u6467\u6BC15\u4E2A\u968F\u4ECE"
+      - "\u5728\u4E00\u56DE\u5408\u5185\u6467\u6BC15\u4E2A\u968F\u4ECE\u3002"
       - "\u5728\u4E00\u56DE\u5408\u5167\u6467\u6BC05\u500B\u96A8\u5F9E"
       - 
       - 
@@ -1258,7 +1258,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Survive with only 1 HP and no followers
-      - "\u5728\u53EA\u67091\u70B9\u751F\u547D\u503C\u4E14\u6CA1\u6709\u968F\u4ECE\u7684\u60C5\u51B5\u4E0B\u751F\u5B58"
+      - "\u5728\u53EA\u67091\u70B9\u751F\u547D\u503C\u4E14\u6CA1\u6709\u968F\u4ECE\u7684\u60C5\u51B5\u4E0B\u751F\u5B58\u3002"
       - "\u5728\u53EA\u67091\u9EDE\u751F\u547D\u503C\u4E14\u6C92\u6709\u96A8\u5F9E\u7684\u60C5\u6CC1\u4E0B\u751F\u5B58"
       - 
       - 
@@ -1676,7 +1676,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Attack enemy heroes in the first turn with your follower
-      - "\u8BA9\u4F60\u7684\u968F\u4ECE\u7B2C\u4E00\u56DE\u5408\u5C31\u653B\u51FB\u654C\u65B9\u82F1\u96C4"
+      - "\u8BA9\u4F60\u7684\u968F\u4ECE\u7B2C\u4E00\u56DE\u5408\u5C31\u653B\u51FB\u654C\u65B9\u82F1\u96C4\u3002"
       - "\u8B93\u4F60\u7684\u96A8\u5F9E\u7B2C\u4E00\u56DE\u5408\u5C31\u653B\u64CA\u6575\u65B9\u82F1\u96C4"
       - 
       - 
@@ -1714,7 +1714,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat 1 boss
-      - "\u51FB\u8D25\u4E00\u4E2A\u9996\u9886"
+      - "\u51FB\u8D25\u4E00\u4E2A\u9996\u9886\u3002"
       - "\u64CA\u6557\u4E00\u500B\u9996\u9818"
       - 
       - 
@@ -1752,7 +1752,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in 3F
-      - "\u51FB\u8D25\u7B2C\u4E09\u5C42\u9996\u9886"
+      - "\u51FB\u8D25\u7B2C\u4E09\u5C42\u9996\u9886\u3002"
       - "\u64CA\u6557\u7B2C\u4E09\u5C64\u9996\u9818"
       - 
       - 
@@ -1790,7 +1790,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Defeat the boss in 2F
-      - "\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886"
+      - "\u51FB\u8D25\u7B2C\u4E8C\u5C42\u7684\u9996\u9886\u3002"
       - "\u64CA\u6557\u7B2C\u4E8C\u5C64\u7684\u9996\u9818"
       - 
       - 
@@ -19258,7 +19258,7 @@ MonoBehaviour:
 
         Gain
         a 1-star follower.'
-      - "\"\u4F60\u5E94\u8BE5\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\u3002\"\n\n\u83B7\u5F97\u4E00\u4E2A1\u661F\u7684\u968F\u4ECE"
+      - "\"\u4F60\u5E94\u8BE5\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\u3002\"\n\u83B7\u5F97\u4E00\u4E2A1\u661F\u7684\u968F\u4ECE"
       - "\"\u4F60\u61C9\u8A72\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\"\n\n\u7372\u5F97\u4E00\u500B1\u661F\u7684\u96A8\u5F9E"
       - 
       - 
@@ -19300,7 +19300,7 @@ MonoBehaviour:
 
         Gain
         a 1-star follower.'
-      - "\"\u4F60\u5E94\u8BE5\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\u3002\"\n\n\u83B7\u5F97\u4E00\u4E2A1\u661F\u7684\u968F\u4ECE"
+      - "\"\u4F60\u5E94\u8BE5\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\u3002\"\n\u83B7\u5F97\u4E00\u4E2A1\u661F\u7684\u968F\u4ECE"
       - "\"\u4F60\u61C9\u8A72\u628A\u529B\u91CF\u653E\u5230\u66F4\u91CD\u8981\u7684\u4E8B\u60C5\u4E0A\"\n\n\u7372\u5F97\u4E00\u500B1\u661F\u7684\u96A8\u5F9E"
       - 
       - 
@@ -21561,7 +21561,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - This unit cannot move this turn (but can attack).
-      - "\u8BE5\u5355\u4F4D\u672C\u56DE\u5408\u65E0\u6CD5\u79FB\u52A8(\u4F46\u53EF\u653B\u51FB)"
+      - "\u8BE5\u5355\u4F4D\u672C\u56DE\u5408\u65E0\u6CD5\u79FB\u52A8\uFF08\u4F46\u53EF\u653B\u51FB\uFF09"
       - "\u8A72\u55AE\u4F4D\u672C\u56DE\u5408\u7121\u6CD5\u79FB\u52D5(\u4F46\u53EF\u653B\u64CA)"
       - 
       - 
@@ -46435,7 +46435,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Hero (Unit)
-      - "\u82F1\u96C4(\u5355\u4F4D)"
+      - "\u82F1\u96C4\uFF08\u5355\u4F4D\uFF09"
       - "\u82F1\u96C4(\u55AE\u4F4D)"
       - 
       - 
@@ -48691,7 +48691,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Large Hero (Unit)
-      - "\u5927\u578B\u82F1\u96C4(\u5355\u4F4D)"
+      - "\u5927\u578B\u82F1\u96C4\uFF08\u5355\u4F4D\uFF09"
       - "\u5927\u578B\u82F1\u96C4(\u55AE\u4F4D)"
       - 
       - 
@@ -51039,7 +51039,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - One of your units get Combo 1.
-      - "\u4F7F\u4F60\u7684\u4E00\u4E2A\u5355\u4F4D\u83B7\u5F97\u8FDE\u51FB1\u3002"
+      - "\u4F7F\u4F60\u7684\u4E00\u4E2A\u5355\u4F4D\u83B7\u5F97\u8FDE\u51FB1"
       - "\u4F7F\u4F60\u7684\u4E00\u500B\u55AE\u4F4D\u7372\u5F97\u9023\u64CA1\u3002"
       - 
       - 
@@ -51077,7 +51077,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Heals 6 HP.
-      - "\u6CBB\u75976\u70B9\u751F\u547D\u503C\u3002"
+      - "\u6CBB\u75976\u70B9\u751F\u547D\u503C"
       - "\u6CBB\u76426\u9EDE\u751F\u547D\u503C\u3002"
       - 
       - 
@@ -51115,7 +51115,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - One of your followers gets Haste.
-      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F\u3002"
+      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F"
       - "\u4F7F\u4E00\u500B\u4F60\u7684\u96A8\u5F9E\u7372\u5F97\u6025\u901F\u3002"
       - 
       - 
@@ -51153,7 +51153,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - One of your followers gets Haste.
-      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F\u3002"
+      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F"
       - "\u4F7F\u4E00\u500B\u4F60\u7684\u96A8\u5F9E\u7372\u5F97\u6025\u901F\u3002"
       - 
       - 
@@ -51345,7 +51345,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Get Mana +3 after consuming.
-      - "\u6D88\u8017\u540E\u83B7\u5F97+3\u6CD5\u529B\u503C\u3002"
+      - "\u6D88\u8017\u540E\u83B7\u5F97+3\u6CD5\u529B\u503C"
       - "\u6D88\u8017\u5F8C\u7372\u5F97+3\u6CD5\u529B\u503C\u3002"
       - 
       - 
@@ -51459,7 +51459,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.
-      - "\u5BF9\u4E00\u4E2A\u654C\u4EBA\u548C\u5176\u5468\u56F4\u6240\u6709\u654C\u4EBA\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71\u3002"
+      - "\u5BF9\u4E00\u4E2A\u654C\u4EBA\u548C\u5176\u5468\u56F4\u6240\u6709\u654C\u4EBA\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71"
       - "\u5C0D\u4E00\u500B\u6575\u4EBA\u548C\u5176\u5468\u570D\u6240\u6709\u6575\u4EBA\u9020\u62101\u9EDE\u50B7\u5BB3\u548C\u707C\u71D21\u3002"
       - 
       - 
@@ -51497,7 +51497,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Deal 1 damage and Burn 1 to one enemy and all its nearby enemies.
-      - "\u5BF9\u4E00\u4E2A\u654C\u4EBA\u548C\u5176\u5468\u56F4\u6240\u6709\u654C\u4EBA\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71\u3002"
+      - "\u5BF9\u4E00\u4E2A\u654C\u4EBA\u548C\u5176\u5468\u56F4\u6240\u6709\u654C\u4EBA\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71"
       - "\u5C0D\u4E00\u500B\u6575\u4EBA\u548C\u5176\u5468\u570D\u6240\u6709\u6575\u4EBA\u9020\u62101\u9EDE\u50B7\u5BB3\u548C\u707C\u71D21\u3002"
       - 
       - 
@@ -65756,7 +65756,7 @@ MonoBehaviour:
       Languages:
       - "Taunt, Toughness 1\n <color=upgrade>Enter: gain a copy of {{MagicS01a}}
         with mana cost = 0</color>"
-      - "\u5632\u8BBD\uFF0C\u575A\u786C1\n<color=upgrade>\u8FDB\u573A\uFF1A\u83B7\u5F97\u4E00\u5F20\u6CD5\u529B\u6D88\u8017=0\u7684{{MagicS01a}}\u7684\u590D\u5236</color>"
+      - "\u5632\u8BBD\uFF0C\u575A\u786C1\n<color=upgrade>\u8FDB\u573A\uFF1A\u83B7\u5F97\u4E00\u5F20\u6CD5\u529B\u6D88\u8017\u4E3A0\u7684{{MagicS01a}}\u7684\u590D\u5236</color>"
       - "\u5632\u8AF7\uFF0C\u5805\u786C1\n<color=upgrade>\u9032\u5834\uFF1A\u7372\u5F97\u4E00\u5F35\u6CD5\u529B\u6D88\u8017=0\u7684{{MagicS01a}}\u7684\u8907\u88FD</color>"
       - 
       - 
@@ -69659,7 +69659,7 @@ MonoBehaviour:
       Languages:
       - Deals 5 damage to an enemy unit within Arcing Range 3, then gain Spell Enhancement
         1 and <color=upgrade>make your next spell card cost 0 mana</color>
-      - "\u5BF9\u4E00\u4E2A\u7BAD\u672F\u5C04\u7A0B3\u8DDD\u79BB\u5185\u7684\u654C\u65B9\u5355\u4F4D\u9020\u62105\u70B9\u4F24\u5BB3\uFF0C\u4E4B\u540E\u4F60\u83B7\u5F97\u6CD5\u672F\u5F3A\u53161\uFF0C<color=upgrade>\u5E76\u4F7F\u4F60\u7684\u4E0B\u4E00\u5F20\u6CD5\u672F\u5361\u7684\u6CD5\u529B\u6D88\u8017=0</color>"
+      - "\u5BF9\u4E00\u4E2A\u7BAD\u672F\u5C04\u7A0B3\u8DDD\u79BB\u5185\u7684\u654C\u65B9\u5355\u4F4D\u9020\u62105\u70B9\u4F24\u5BB3\uFF0C\u4E4B\u540E\u4F60\u83B7\u5F97\u6CD5\u672F\u5F3A\u53161\uFF0C<color=upgrade>\u5E76\u4F7F\u4F60\u7684\u4E0B\u4E00\u5F20\u6CD5\u672F\u5361\u7684\u6CD5\u529B\u6D88\u8017\u4E3A0</color>"
       - "\u5C0D\u4E00\u500B\u7BAD\u8853\u5C04\u7A0B3\u8DDD\u96E2\u5167\u7684\u6575\u65B9\u55AE\u4F4D\u9020\u62105\u9EDE\u50B7\u5BB3\uFF0C\u4E4B\u5F8C\u4F60\u7372\u5F97\u6CD5\u8853\u5F37\u53161\uFF0C<color=upgrade>\u4E26\u4F7F\u4F60\u7684\u4E0B\u4E00\u5F35\u6CD5\u8853\u5361\u7684\u6CD5\u529B\u6D88\u8017=0</color>"
       - 
       - 
@@ -75624,7 +75624,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Get Mana +3 after consuming.
-      - "\u6D88\u8017\u540E\u83B7\u5F97+3\u6CD5\u529B\u503C\u3002"
+      - "\u6D88\u8017\u540E\u83B7\u5F97+3\u6CD5\u529B\u503C"
       - "\u6D88\u8017\u5F8C\u7372\u5F97+3\u6CD5\u529B\u503C\u3002"
       - 
       - 
@@ -80617,7 +80617,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - One of your followers gets Haste.
-      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F\u3002"
+      - "\u4F7F\u4E00\u4E2A\u4F60\u7684\u968F\u4ECE\u83B7\u5F97\u6025\u901F"
       - "\u4F7F\u4E00\u500B\u4F60\u7684\u96A8\u5F9E\u7372\u5F97\u6025\u901F\u3002"
       - 
       - 
@@ -86709,7 +86709,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - 'Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.'
-      - "\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\u7684\u590D\u5236\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
+      - "\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\u7684\u590D\u5236\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017\u4E3A0"
       - "\u9032\u5834\uFF1A\u7372\u5F971\u5F35{{Warrior203}}\u7684\u8907\u88FD\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
       - 
       - 
@@ -86766,7 +86766,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - 'Enter: Get 1 replica of {{Warrior203}} and its mana cost is 0.'
-      - "\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\u7684\u590D\u5236\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
+      - "\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\u7684\u590D\u5236\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017\u4E3A0"
       - "\u9032\u5834\uFF1A\u7372\u5F971\u5F35{{Warrior203}}\u7684\u8907\u88FD\u54C1\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
       - 
       - 
@@ -86824,7 +86824,7 @@ MonoBehaviour:
       Languages:
       - '<color=upgrade>Take damage</color>, Enter: Get 1 {{Warrior203}} card and
         its mana cost is 0.'
-      - "<color=upgrade>\u53D7\u5230\u4F24\u5BB3</color>\u3001\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
+      - "<color=upgrade>\u53D7\u5230\u4F24\u5BB3</color>\u3001\u8FDB\u573A\uFF1A\u83B7\u5F971\u5F20{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017\u4E3A0"
       - "<color=upgrade>\u53D7\u5230\u50B7\u5BB3</color>\u3001\u9032\u5834\uFF1A\u7372\u5F971\u5F35{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
       - 
       - 
@@ -86882,7 +86882,7 @@ MonoBehaviour:
       Languages:
       - 'Enter: Get <color=upgrade>2</color> {{Warrior203}} cards and their mana
         cost is 0.'
-      - "\u8FDB\u573A\uFF1A\u83B7\u5F97<color=upgrade>2</color>\u5F20{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
+      - "\u8FDB\u573A\uFF1A\u83B7\u5F97<color=upgrade>2</color>\u5F20{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017\u4E3A0"
       - "\u9032\u5834\uFF1A\u7372\u5F97<color=upgrade>2</color>\u5F35{{Warrior203}}\uFF0C\u5176\u6CD5\u529B\u6D88\u8017=0"
       - 
       - 
@@ -102857,7 +102857,7 @@ MonoBehaviour:
       - 'Enter: restores 6 HP for your hero
 
         Defeated: Shatters your hero'
-      - "\u8FDB\u573A\uFF1A\u6062\u590D\u82F1\u96C46\u70B9\u751F\u547D\u3002\n\u88AB\u6467\u6BC1\uFF1A\u6467\u6BC1\u4F60\u7684\u82F1\u96C4"
+      - "\u8FDB\u573A\uFF1A\u6062\u590D\u82F1\u96C46\u70B9\u751F\u547D\n\u88AB\u6467\u6BC1\uFF1A\u6467\u6BC1\u4F60\u7684\u82F1\u96C4"
       - "\u9032\u5834\uFF1A\u6062\u5FA9\u82F1\u96C46\u9EDE\u751F\u547D\u3002\n\u88AB\u6467\u6BC0\uFF1A\u6467\u6BC0\u4F60\u7684\u82F1\u96C4"
       - 
       - 
@@ -109271,7 +109271,7 @@ MonoBehaviour:
         sword with Combo 1
 
         (2/2)'
-      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u7684\u5251\n(2/2)"
+      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u7684\u5251\n\uFF082/2\uFF09"
       - "\u672C\u56DE\u5408\u7372\u5F97\u7A81\u90321\n\u5C07\u6B66\u5668\u66F4\u6539\u70BA\u653B\u64CA\u5177\u6709\u9023\u64CA1\u6548\u679C\u7684\u528D\n(2/2)"
       - 
       - 
@@ -109390,7 +109390,7 @@ MonoBehaviour:
         sword with Combo 1
 
         (3/2)'
-      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u7684\u5251\n(3/2)"
+      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u7684\u5251\n\uFF083/2\uFF09"
       - "\u672C\u56DE\u5408\u7372\u5F97\u7A81\u90321\n\u5C07\u6B66\u5668\u66F4\u6539\u70BA\u653B\u64CA\u5177\u6709\u9023\u64CA1\u6548\u679C\u7684\u528D\n(3/2)"
       - 
       - 
@@ -109433,7 +109433,7 @@ MonoBehaviour:
         sword with Combo 1 and <color=upgrade>can inflict Burn 1</color>
 
         <color=upgrade>(4/2)</color>'
-      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u4E14<color=upgrade>\u80FD\u65BD\u52A0\u707C\u70E71</color>\u7684\u5251\n<color=upgrade>(4/2)</color>"
+      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u5177\u6709\u8FDE\u51FB1\u6548\u679C\u4E14<color=upgrade>\u80FD\u65BD\u52A0\u707C\u70E71</color>\u7684\u5251\n<color=upgrade>\uFF084/2\uFF09</color>"
       - "\u672C\u56DE\u5408\u7372\u5F97\u7A81\u90321\n\u5C07\u6B66\u5668\u66F4\u6539\u70BA\u5177\u6709\u9023\u64CA1\u6548\u679C\u4E14<color=upgrade>\u80FD\u65BD\u52A0\u707C\u71D21</color>\u7684\u528D\n<color=upgrade>(4/2)</color>"
       - 
       - 
@@ -109476,7 +109476,7 @@ MonoBehaviour:
         sword with Combo <color=upgrade>2</color>
 
         <color=upgrade>(3/3)</color>'
-      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB<color=upgrade>2</color>\u6548\u679C\u7684\u5251\n<color=upgrade>(3/3)</color>"
+      - "\u672C\u56DE\u5408\u83B7\u5F97\u7A81\u8FDB1\n\u5C06\u6B66\u5668\u66F4\u6539\u4E3A\u653B\u51FB\u5177\u6709\u8FDE\u51FB<color=upgrade>2</color>\u6548\u679C\u7684\u5251\n<color=upgrade>\uFF083/3\uFF09</color>"
       - "\u672C\u56DE\u5408\u7372\u5F97\u7A81\u90321\n\u5C07\u6B66\u5668\u66F4\u6539\u70BA\u653B\u64CA\u5177\u6709\u9023\u64CA<color=upgrade>2</color>\u6548\u679C\u7684\u528D\n<color=upgrade>(3/3)</color>"
       - 
       - 
@@ -117434,7 +117434,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - You- You're not so useless
-      - "\u6709\uFF0C\u6709\u4E24\u4E0B\u5B50"
+      - "\u6709\uFF0C\u6709\u4E24\u4E0B\u5B50\u3002"
       - "\u6709\uFF0C\u6709\u5169\u4E0B\u5B50"
       - 
       - 
@@ -117453,7 +117453,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - "You're\u2026 not getting out of here alive!"
-      - "\u522B\u60F3\uFF0C\u6D3B\u7740\u79BB\u5F00\uFF01"
+      - "\u522B\u60F3\uFF0C\u79BB\u5F00\uFF01"
       - "\u5225\u60F3\uFF0C\u6D3B\u8457\u96E2\u958B\uFF01"
       - 
       - 
@@ -118517,7 +118517,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - Deal 1 DMG and Burn 1 on a follower and all their adjacent units
-      - "\u5BF9\u4E00\u4E2A\u5355\u4F4D\u548C\u5176\u76F8\u90BB\u6240\u6709\u5355\u4F4D\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71\u3002"
+      - "\u5BF9\u4E00\u4E2A\u5355\u4F4D\u548C\u5176\u76F8\u90BB\u6240\u6709\u5355\u4F4D\u9020\u62101\u70B9\u4F24\u5BB3\u548C\u707C\u70E71"
       - "\u5C0D\u4E00\u500B\u55AE\u4F4D\u548C\u5176\u76F8\u9130\u6240\u6709\u55AE\u4F4D\u9020\u62101\u9EDE\u50B7\u5BB3\u548C\u707C\u71D21\u3002"
       - 
       - 
@@ -120083,7 +120083,7 @@ MonoBehaviour:
 
         After attacking non-large
         hero units, drag them to adjacent tiles.'
-      - "<color=upgrade>\u5B88\u536B</color>\uFF0C\u5C04\u7A0B2\n\u653B\u51FB\u975E\u5927\u578B\u82F1\u96C4\u5355\u4F4D\u540E\uFF0C\u5C06\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u90BB\u7684\u683C\u5B50\u4E2D\u3002"
+      - "<color=upgrade>\u5B88\u536B</color>\uFF0C\u5C04\u7A0B2\n\u653B\u51FB\u975E\u5927\u578B\u82F1\u96C4\u5355\u4F4D\u540E\uFF0C\u5C06\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u90BB\u7684\u683C\u5B50\u4E2D"
       - "<color=upgrade>\u5B88\u885B</color>\uFF0C\u5C04\u7A0B2\n\u653B\u64CA\u975E\u5927\u578B\u82F1\u96C4\u55AE\u4F4D\u5F8C\uFF0C\u5C07\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u9130\u7684\u683C\u5B50\u4E2D\u3002"
       - 
       - 
@@ -120124,7 +120124,7 @@ MonoBehaviour:
 
         After attacking non-large hero units,
         drag them to adjacent tiles.'
-      - "<color=upgrade>\u5C04\u7A0B3</color>\n\u653B\u51FB\u975E\u5927\u578B\u82F1\u96C4\u5355\u4F4D\u540E\uFF0C\u5C06\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u90BB\u7684\u683C\u5B50\u4E2D\u3002"
+      - "<color=upgrade>\u5C04\u7A0B3</color>\n\u653B\u51FB\u975E\u5927\u578B\u82F1\u96C4\u5355\u4F4D\u540E\uFF0C\u5C06\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u90BB\u7684\u683C\u5B50\u4E2D"
       - "<color=upgrade>\u5C04\u7A0B3</color>\n\u653B\u64CA\u975E\u5927\u578B\u82F1\u96C4\u55AE\u4F4D\u5F8C\uFF0C\u5C07\u5176\u62C9\u5230\u81EA\u8EAB\u76F8\u9130\u7684\u683C\u5B50\u4E2D\u3002"
       - 
       - 
