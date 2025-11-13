@@ -24,7 +24,7 @@ AccompliceKeywordDescription,Text,,"If your hero and the unit attack a target un
 AccompliceKeywordName,Text,,Accomplice,同谋,同謀,,,,,,,共犯者,,,
 AccountPwd,Text,,,账号密码,帳號密碼,,,,,,,,,,
 Achievement Completed,Text,,Achievement Reached,成就达成,成就達成,,,,,,,実績達成,,,
-Achievement01CardDescription,Text,,Complete the tutorial and defeat the mad Knight of the Round Table.,完成游戏教程并击败奇怪的圆桌武士。,完成遊戲教程並擊敗瘋狂的圓桌武士,,,,,,,ゲームチュートリアルを完了し、狂気の円卓の騎士を倒す,,,
+Achievement01CardDescription,Text,,Complete the tutorial and defeat the mad Knight of the Round Table.,完成教程并击败奇怪的圆桌武士。,完成遊戲教程並擊敗瘋狂的圓桌武士,,,,,,,ゲームチュートリアルを完了し、狂気の円卓の騎士を倒す,,,
 Achievement01CardName,Text,,Complete the Tutorial,完成教程,完成教程,,,,,,,チュートリアルを完了する,,,
 Achievement02CardDescription,Text,,Defeat the boss in 1F using the Warrior - Arthur deck,使用战士·亚瑟的卡组击败第一层的首领。,使用戰士·亞瑟的卡組擊敗第一層的首領,,,,,,,戦士・アーサーのデッキを使って第一階のボスを倒す,,,
 Achievement02CardName,Text,,Overture of Sword and Fire - I,剑与炎的序曲·一,劍與炎的序曲·一,,,,,,,剣と炎の序曲・一,,,
@@ -148,9 +148,9 @@ AlchemistCardDescription,Text,,"Ranged 2, return 1 HP when our follower is shatt
 回合结束：获得一张随机药水","射程2.
 回合結束：獲得一張隨機藥水",,,,,,,"射程2.
 ターンエンド：ランダムなポーションを一枚獲得する",,,
-AlchemistCardName,Text,,The obsessed pawnshop owener,着魔的当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
+AlchemistCardName,Text,,The obsessed pawnshop owener,当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
 AlchemistEncounter10CardDescription,Text,,"This is the warlock from the next village, but he looks particularly strange today.",这是隔壁村的当铺老板，但是今天的他看起来格外地古怪。,這是隔壁村的當鋪老闆，但是今天的他看起來格外地古怪。,,,,,,,こちらは隣の村の術師だが、今日は特に様子がおかしい。,,,
-AlchemistEncounter10CardName,Text,,The obsessed pawnshop owener,着魔的当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
+AlchemistEncounter10CardName,Text,,The obsessed pawnshop owener,当铺老板,著魔的當鋪老闆,,,,,,,魅入られたの質屋オーナー,,,
 All,Text,,All,所有,所有,,,,,,,全て,,,
 AllOptionsInLibrary,Text,,All,全部,全部,,,,,,,全部,,,
 Allegiance,Text,,Faction,阵营,陣營,,,,,,,陣営,,,
@@ -2191,7 +2191,7 @@ EventPurchaseCardDescription,Text,,"Greetings, my friend! I have everything here
 EventPurchaseCardName,Text,,Traveling merchant,旅行商人,旅行商人,,,,,,,旅する商人,,,
 EventRemovalCard2Description,Text,,Give me... Give me what you don't want. This is gonna get expensive...,给我……给我你不想要的东西。这会越来越贵……,給我……給我你不想要的東西。這會越來越貴……,,,,,,,渡せ…要らないものを渡せ。どんどん高くなっていく…,,,
 EventRemovalCardDescription,Text,,Give me... Give me what you don't want and it's free for the first time,给我……给我你不想要的东西，而且第一次免费,給我……給我你不想要的東西，而且第一次免費,,,,,,,渡せ…要らないものを渡せ、初回は無料だ,,,
-EventRemovalCardName,Text,,Exorcist,驱灵人,驅靈人,,,,,,,悪霊払い,,,
+EventRemovalCardName,Text,,Exorcist,净化者,驅靈人,,,,,,,悪霊払い,,,
 EventSantaCardDescription,Text,,"""You've been good!""
 
 A cute old wizard offers you a choice of blessings!","""你一直都很乖！""
@@ -2386,7 +2386,7 @@ FrostCardName,Text,,Crystallized Skin,寒冰壁障,寒冰壁障,,,,,,,アイス�
 Full Screen,Text,,Full-screen,全屏,全屏,,,,,,,フルスクリーン,,,
 FurnaceCardDescription,Text,,Start of turn: Gains Fire Affliction,回合开始：获得火附着,回合開始：獲得火附著,,,,,,,ターン開始：炎付着を獲得する,,,
 FurnaceCardName,Text,,Forge,熔炉,熔爐,,,,,,,溶炉,,,
-FurnaceEncounter3CardDescription,Text,,"Some powerful mages utilize mental magic to control these monsters as heaters; however, this one appears to be wild.",一些强大的法师会用心灵魔法控制这种魔物，让他们成为取暖的工具，但这一只显然是野生的。,一些強大的法師會用心靈魔法控制這種魔物，讓他們成為取暖的工具，但這一隻顯然是野生的。,,,,,,,強力なメイジの中には、魂魔法を使ってこの魔物を操って暖房道具にする者もいるが、こいつは明らかに野生なものだ。,,,
+FurnaceEncounter3CardDescription,Text,,"Some powerful mages utilize mental magic to control these monsters as heaters; however, this one appears to be wild.",一个强大的魔导师为了给冰晶雪原的人们取暖所制造的机械魔物，但当他离开后这个魔物也失控了。,一些強大的法師會用心靈魔法控制這種魔物，讓他們成為取暖的工具，但這一隻顯然是野生的。,,,,,,,強力なメイジの中には、魂魔法を使ってこの魔物を操って暖房道具にする者もいるが、こいつは明らかに野生なものだ。,,,
 FurnaceEncounter3CardName,Text,,Forge,熔炉,熔爐,,,,,,,溶炉,,,
 Game Settings,Text,,Settings,设置,設置,,,,,,,設定,,,
 Game Speed,Text,,Game Speed,游戏速度,遊戲速度,,,,,,,ゲーム速度,,,
@@ -2394,7 +2394,7 @@ General,Text,,,,,,,,,,,,,,
 GetBetterCardDescription,Text,,Grants +1/+1 to all allied units,给友方所有单位+1/+1,給友方所有單位+1/+1,,,,,,,全ての味方ユニットに+1/+1を付与する,,,
 GetBetterCardName,Text,,Power Grow,力量成长,力量成長,,,,,,,力の成長,,,
 GetCrystalDescription,Text,,"During the forest sage, exorcist, and traveling merchant events, you can sell <color=#F4E5AF>treasure cards</color> and obtain crystals.
-There's a probability to obtain <color=#F4E5AF>Treasure cards</color> after defeating an enemy.","在林野先知、驱灵人、旅行商人事件中，可以出售<color=#F4E5AF>宝藏卡</color>来获得水晶。
+There's a probability to obtain <color=#F4E5AF>Treasure cards</color> after defeating an enemy.","在林野先知、净化者、旅行商人事件中，可以出售<color=#F4E5AF>宝藏卡</color>来获得水晶。
 <color=#F4E5AF>宝藏卡</color>在击败敌人后有概率获得。","在林野先知、驅靈人、旅行商人事件中，可以出售<color=#F4E5AF>寶藏卡</color>來獲得水晶。
 <color=#F4E5AF>寶藏卡</color>在擊敗敵人後有概率獲得。",,,,,,,森の先覚、悪霊払い、旅する商人イベントでは、<color=#F4E5AF>宝物カード</color>を売却して水晶を獲得することができる。敵を倒すと確率で<color=#F4E5AF>宝物カード</color>を獲得できる,,,
 GetCrystalTitle,Text,,Obtain Crystals,获取水晶,獲取水晶,,,,,,,水晶を入手する,,,
@@ -3585,7 +3585,7 @@ IntroPopupText1,Text,,"Red eyes, missing relatives, crazy friends, and monsters 
 
 As the patrol captain of the Knight's Castle and a brave warrior who once participated in the Exile War, you cannot lose more. No matter who the enemy is, you will do your best to protect your home. Go to the source of the news: the logging camp in the east to investigate!","失踪的亲人，失控的朋友，还有长满植物的怪物。一时间，骑士城堡里的每个人都在谈论这些诡异可怕的事情……
 
-作为骑士城堡的巡逻队长，也作为曾参与过流放战争的英勇战士，你已经不能失去更多，无论敌人是谁，你都会尽力守护你的家园。前往消息的源头：东边的伐木场展开调查吧！","紅色的眼睛，失蹤的親人，發瘋的朋友，還有長滿植物的怪物。一時間，騎士城堡裡的每個人都在談論這些詭異可怕的事情……
+作为骑士城堡的巡逻队长，也作为曾参与过旧世战争的英勇战士，你已经不能失去更多，无论敌人是谁，你都会尽力守护你的家园。前往消息的源头：东边的伐木场展开调查吧！","紅色的眼睛，失蹤的親人，發瘋的朋友，還有長滿植物的怪物。一時間，騎士城堡裡的每個人都在談論這些詭異可怕的事情……
 
 作為騎士城堡的巡邏隊長，也作為曾參與過流放戰爭的英勇戰士，你已經不能失去更多，無論敵人是誰，你都會盡力守護你的家園。前往消息的源頭：東邊的伐木場展開調查吧！",,,,,,,"赤い目、行方不明の家族、発狂した友人、そして植物がいっぱい生えたモンスター。しばらくの間、騎士の砦の誰もがこの一連の恐ろしいことについて話している……
 
@@ -4965,7 +4965,7 @@ MagicFrozenKeywordDescription,Text,,Cannot move or attack this turn.,本回合�
 MagicFrozenKeywordName,Text,,Freeze,冰冻,冰凍,,,,,,,フリーズ,,,
 MagicMirrorCardDescription,Text,,"Bounce 2: At the beginning of the turn, copy the highest ATK on the field.",射程3，弹射2，无法移动,射程3，彈射2，無法移動,,,,,,,射程3、バウンス2、移動不能,,,
 MagicMirrorCardName,Text,,Magic Mirror,魔镜,魔鏡,,,,,,,魔法の鏡,,,
-MagicMirrorEncounter7CardDescription,Text,,"The legendary magic mirror that knows everything once predicted the occurrence of the Exile War, but the most frequently asked question is who is the most beautiful one in the world.",传说中知晓一切的魔镜，曾预言了流放战争的发生，但被问得最多的还是关于‘谁最美’。,傳說中知曉一切的魔鏡，曾預言了流放戰爭的發生，但被問得最多的還是關於‘誰最美’。,,,,,,,全てを知っている、伝説の魔法の鏡。かつて亡命戦争の勃発を予言したが、最も聞かれるのは「誰が一番美しい」という質問だ。,,,
+MagicMirrorEncounter7CardDescription,Text,,"The legendary magic mirror that knows everything once predicted the occurrence of the Exile War, but the most frequently asked question is who is the most beautiful one in the world.",传说中知晓一切的魔镜，曾预言了旧世战争的发生，但被问得最多的还是关于‘谁最美’。,傳說中知曉一切的魔鏡，曾預言了流放戰爭的發生，但被問得最多的還是關於‘誰最美’。,,,,,,,全てを知っている、伝説の魔法の鏡。かつて亡命戦争の勃発を予言したが、最も聞かれるのは「誰が一番美しい」という質問だ。,,,
 MagicMirrorEncounter7CardName,Text,,Magic Mirror,魔镜,魔鏡,,,,,,,魔法の鏡,,,
 MagicMirrorKeywordDescription,Text,,Reflects the next X times of damage taken back to the attacker.,将下次受到的伤害，反射给攻击者,將下次受到的傷害，反射給攻擊者,,,,,,,次のX回の被ダメージを攻撃者に反射する,,,
 MagicMirrorKeywordName,Text,,Reflect,反射,反射,,,,,,,反射,,,
@@ -6366,20 +6366,20 @@ Red63dCardDescription,Text,,"Combo 2
 Red63dCardName,Text,,Bleed Ninja,忍者奇莫·超凡,邪術忍者,,,,,,,血術忍者,,,
 Red63dFlavourText,Text,,,,,,,,,,,,,,
 Red64CardDescription,Text,,Attacks inflict Burn 1,攻击附带灼烧1,攻擊附帶灼燒1,,,,,,,攻撃時に燃焼1を付与する,,,
-Red64CardName,Text,,Barrel Master,桶大师,釀桶大師,,,,,,,酒樽マスター,,,
+Red64CardName,Text,,Barrel Master,炎桶大师,釀桶大師,,,,,,,酒樽マスター,,,
 Red64FlavourText,Text,,,,,,,,,,,,,,
 Red65CardDescription,Text,,Attack can apply Burn 2,攻击附带灼烧2,攻擊附帶灼燒2,,,,,,,攻撃時に燃焼2を付与する,,,
-Red65CardName,Text,,Barrel Master⭐⭐,桶大师⭐⭐,釀桶大師⭐⭐,,,,,,,酒樽マスター⭐⭐,,,
+Red65CardName,Text,,Barrel Master⭐⭐,炎桶大师⭐⭐,釀桶大師⭐⭐,,,,,,,酒樽マスター⭐⭐,,,
 Red65FlavourText,Text,,,,,,,,,,,,,,
 Red66CardDescription,Text,,"<color=upgrade>Exhaust</color>
 Attacks inflict Burn 2 <color=upgrade>and forces the target to move once</color>","<color=upgrade>移除</color>
 攻击施加灼烧2，<color=upgrade>并强制让目标进行一次移动</color>","<color=upgrade>移除</color>
 攻擊施加灼燒2，<color=upgrade>並強制讓目標進行一次移動</color>",,,,,,,"<color=upgrade>削除</color>
 攻撃時に燃焼2を付与し、<color=upgrade>ターゲットを1回移動させる</color>",,,
-Red66CardName,Text,,Drunken Master,桶大师·传奇,醉拳大師,,,,,,,酔拳マスター,,,
+Red66CardName,Text,,Drunken Master,炎桶大师·传奇,醉拳大師,,,,,,,酔拳マスター,,,
 Red66FlavourText,Text,,,,,,,,,,,,,,
 Red66dCardDescription,Text,,<color=upgrade>Haste</color>. Attacks inflict Burn 2,<color=upgrade>急速</color>，攻击施加灼烧2,<color=upgrade>急速</color>，攻擊施加灼燒2,,,,,,,<color=upgrade>急速</color>、攻撃時に燃焼2を付与する,,,
-Red66dCardName,Text,,Spark Master,桶大师·超凡,火花大師,,,,,,,花火マスター,,,
+Red66dCardName,Text,,Spark Master,炎桶大师·超凡,火花大師,,,,,,,花火マスター,,,
 Red66dFlavourText,Text,,,,,,,,,,,,,,
 Red67CardDescription,Text,,Adjacent allied followers inflict Burn 1 when attacking,与其相邻的友方随从攻击施加灼烧1,與其相鄰的友方隨從攻擊施加灼燒1,,,,,,,それに隣接する味方従者の攻撃に燃焼1を付与する,,,
 Red67CardName,Text,,Castle Arsonist,城堡守夜者,城堡點火者,,,,,,,砦の点火者,,,
@@ -7239,7 +7239,7 @@ Improving your adventure level brings you a chance to select from 3 random Hero 
 
 After every adventure, your Explore Level improves based on the monsters defeated. During the process, new cards will be unlocked, and there's a certain probability that you will see these cards again in your future adventure","<color=white>宝藏卡</color>
 
-游戏内珍贵的卡牌，可以在战斗中使用，同时还能在林野先知、旅行商人、驱灵人事件中出售来换取水晶
+游戏内珍贵的卡牌，可以在战斗中使用，同时还能在林野先知、旅行商人、净化者事件中出售来换取水晶
 
 <color=white>圣物</color>
 
@@ -7705,7 +7705,7 @@ Equip a {{UndeadSpear}} of 4/2 that inflicts Cleave","获得跳跃3。
 4/2、斬撃効果を持つ{{UndeadSpear}}を装着する",,,
 SpearSpellCardName,Text,,Mountain Splinter,开山斧,開山斧,,,,,,,山を開く斧,,,
 SpecialChallenge_Card,Text,,"When checked, the enemy hero gains 50% extra HP and extra cards, and your rewards will also change",勾选后，敌方英雄会获得50%的额外生命值和额外卡牌，并改变你本场战斗的奖励,勾選後，敵方英雄會獲得50%的額外生命值和額外卡牌，並改變你本場戰鬥的獎勵,,,,,,,選択すると、敵ヒーローは50%の追加HPと追加カードを獲得し、この戦闘の報酬が変更されます,,,
-SpecialChallenge_DeleteBattleDescription,Text,,<color=#FEE599>[Real Deal]</color> This follower is seriously injured and bid his farewell to you,<color=#FEE599>【来真的】</color>这个随从的伤势过于严重，他永远的离开了你,<color=#FEE599>【來真的】</color>這個隨從的傷勢過於嚴重，他永遠的離開了你,,,,,,,<color=#FEE599>【マジか】</color>この従者は重傷を負い、あなたと永遠に別れることになりました,,,
+SpecialChallenge_DeleteBattleDescription,Text,,<color=#FEE599>[Real Deal]</color> This follower is seriously injured and bid his farewell to you,<color=#FEE599>【来真的】</color>这个随从的伤势过重，他永远的离开了你,<color=#FEE599>【來真的】</color>這個隨從的傷勢過於嚴重，他永遠的離開了你,,,,,,,<color=#FEE599>【マジか】</color>この従者は重傷を負い、あなたと永遠に別れることになりました,,,
 SpecialChallenge_DeleteBattleDescriptionNone,Text,,<color=#FEE599>[Real Deal]</color> None of your cards are removed.,<color=#FEE599>【来真的】</color>你没有任何卡牌被删除,<color=#FEE599>【來真的】</color>你沒有任何卡牌被刪除。,,,,,,,<color=#FEE599>【マジか】</color>削除されたカードはありません。,,,
 SpecialChallenge_DeleteBattleTitle,Text,,Follower Defeated,随从被摧毁,隨從被摧毀,,,,,,,従者死亡,,,
 SpecialChallenge_DeleteCardDescription,Text,,"No loots for you in this battle, and random {0} of your followers shattered in this battle will be removed",<color=#86979c>无法获得战利品</color>，但会<color=#86979c>随机删除</color>你的{0}个在本场战斗中<color=#86979c>被摧毁的随从</color>,本場戰鬥你將<color=#86979c>無法獲得戰利品</color>，但會<color=#86979c>隨機刪除</color>你的{0}個在本場戰鬥中<color=#86979c>被摧毀的隨從</color>,,,,,,,この戦闘では<color=#86979c>戦利品を獲得できません</color>が、この戦闘中に<color=#86979c>破壊された従者</color>は{0}体<color=#86979c>ランダムに削除されます</color>,,,
@@ -7975,7 +7975,7 @@ Treasure46CardDescription,Text,,"Chant: At the start of next turn, deals 10 dama
 Treasure46CardName,Text,,Desert Caravan Wand,荒漠商队的魔杖,荒漠商隊的魔杖,,,,,,,砂漠隊商のワンド,,,
 Treasure47CardDescription,Text,,,,,,,,,,,,,,
 Treasure47CardName,Text,,Desert Caravan Lantern,荒漠商队的提灯,荒漠商隊的提燈,,,,,,,砂漠隊商のランタン,,,
-TreasureKeywordDescription,Text,,"Treasure Card can be sold in Exorcist, Forest Sage, and Traveling Merchant for <color=#86979c>crystals</color>",宝藏卡可以在驱灵人、林野先知、旅行商人处出售，出售后可获得<color=#86979c>水晶</color>,寶藏卡可以在驅靈人、林野先知、旅行商人處出售，出售後可獲得<color=#86979c>水晶</color>,,,,,,,宝物カードは悪霊払い、森の先覚、旅する商人のところで売却可能、売却後は<color=#86979c>水晶</color>を獲得できる,,,
+TreasureKeywordDescription,Text,,"Treasure Card can be sold in Exorcist, Forest Sage, and Traveling Merchant for <color=#86979c>crystals</color>",宝藏卡可以在净化者、林野先知、旅行商人处出售，出售后可获得<color=#86979c>水晶</color>,寶藏卡可以在驅靈人、林野先知、旅行商人處出售，出售後可獲得<color=#86979c>水晶</color>,,,,,,,宝物カードは悪霊払い、森の先覚、旅する商人のところで売却可能、売却後は<color=#86979c>水晶</color>を獲得できる,,,
 TreasureKeywordName,Text,,<color=#FEE599>Treasure</color>,<color=#FEE599>宝藏</color>,<color=#FEE599>寶藏</color>,,,,,,,<color=#FEE599>宝物</color>,,,
 TreasurePaymentPrompt,Text,,Select a treasure card to pay (and remove it from your deck):,选择一张藏宝卡进行支付（它将从你的卡组中删除）：,選擇一張藏寶卡進行支付（它將從你的卡組中刪除）：,,,,,,,支払いに使うトレジャーカードを一枚選択してください（そのカードはあなたのデッキから削除されます）：,,,
 Treasures,Text,,Treasure,宝藏,寶藏,,,,,,,宝物,,,
@@ -8265,7 +8265,7 @@ Warrior Red SpearsCardName,Text,,Archer Corps,弓兵团,弓兵團,,,,,,,弓兵�
 Warrior01CardDescription,Text,,,,,,,,,,,,,,
 Warrior01CardName,Text,,Warrior,战士,戰士,,,,,,,戦士,,,
 Warrior01HeroName,Text,,Brave Knight - Arthur,英勇骑士·亚瑟,英勇騎士·亞瑟,,,,,,,勇敢なる騎士・アーサー,,,
-Warrior01Tooltip,Text,,"Arthur was the patrol captain of the Knight's Fortress, and a Blazing Warrior engaged in the War of Exile.",亚瑟是骑士堡垒的巡逻队长，也是曾经参与过流放战争的炎之一族战士。,亞瑟是騎士堡壘的巡邏隊長，也是曾經參與過流放戰爭的炎之一族戰士。,,,,,,,アーサーは騎士の砦のパトロール隊長で、追放戦争で戦った炎の一族の戦士だった。,,,
+Warrior01Tooltip,Text,,"Arthur was the patrol captain of the Knight's Fortress, and a Blazing Warrior engaged in the War of Exile.",亚瑟是骑士堡垒的巡逻队长，也是曾经参与过旧世战争的炎之一族战士。,亞瑟是騎士堡壘的巡邏隊長，也是曾經參與過流放戰爭的炎之一族戰士。,,,,,,,アーサーは騎士の砦のパトロール隊長で、追放戦争で戦った炎の一族の戦士だった。,,,
 Warrior02CardDescription,Text,,Normal Sword,普通的剑,普通的劍,,,,,,,通常の剣,,,
 Warrior02CardName,Text,,Longsword,长剑,長劍,,,,,,,ロングソード,,,
 Warrior02CopyCardDescription,Text,,Normal Sword,普通的剑,普通的劍,,,,,,,通常の剣,,,
@@ -8753,7 +8753,7 @@ WarriorBasic03CardDescription,Text,,Your hero gains HP +4,你的英雄生命值+
 WarriorBasic03CardName,Text,,HP,生命,生命,,,,,,,HP,,,
 WarriorBasic04CardDescription,Text,,Get extra crystals when the battle ends,在战斗结束时获得额外的水晶,在戰鬥結束時獲得額外的水晶,,,,,,,戦闘終了時に追加の水晶を獲得する,,,
 WarriorBasic04CardName,Text,,Snatcher,抢劫者,搶劫者,,,,,,,スナッチャー,,,
-WarriorBasic05CardDescription,Text,,The hero restores 5 HP when battles end.,在每场战斗结束时，英雄恢复5点生命值。,在每場戰鬥結束時，英雄恢復5點生命值。,,,,,,,各戦闘終了時に、ヒーローのHPが5回復する,,,
+WarriorBasic05CardDescription,Text,,The hero restores 5 HP when battles end.,在每场战斗结束时，英雄恢复5点生命值,在每場戰鬥結束時，英雄恢復5點生命值。,,,,,,,各戦闘終了時に、ヒーローのHPが5回復する,,,
 WarriorBasic05CardName,Text,,Supply,补给,補給,,,,,,,補給,,,
 WarriorBasic06CardDescription,Text,,"Mana consumption of followers summoned by your +1, but they gain +2/+2",你召唤的随从消耗的法力+1，但是会获得+2/+2,你召喚的隨從消耗的法力+1，但是會獲得+2/+2,,,,,,,あなたが召喚した従者のマナコスト+1、ただし+2/+2を獲得する,,,
 WarriorBasic06CardName,Text,,Fully Prepared,充分备战,充分備戰,,,,,,,戦闘準備万端,,,
@@ -8765,7 +8765,7 @@ WarriorBasic09CardDescription,Text,,"When your follower is summoned to a positio
 WarriorBasic09CardName,Text,,Daring,无畏,無畏,,,,,,,恐れ知らず,,,
 WarriorBasic10CardDescription,Text,,"ATK of your hero +1, but Max HP -2",你的英雄攻击力+1，但最大生命值-2,你的英雄攻擊力+1，但最大生命值-2,,,,,,,あなたのヒーローの攻撃力+1、ただし最大HP-2,,,
 WarriorBasic10CardName,Text,,Power,力量,力量,,,,,,,力,,,
-WarriorBasic11CardDescription,Text,,Draw 1 more card in every turn.,每回合多抽1张卡。,每回合抽多1張卡。,,,,,,,毎ターンカードを1枚多く引く。,,,
+WarriorBasic11CardDescription,Text,,Draw 1 more card in every turn.,每回合多抽1张卡,每回合抽多1張卡。,,,,,,,毎ターンカードを1枚多く引く。,,,
 WarriorBasic11CardName,Text,,Knowledge,学识,學識,,,,,,,学識,,,
 WarriorBasic12CardDescription,Text,,Grants 1 temporary HP to the follower upon taking damage,你的随从受到伤害时，本回合会增加1点临时生命,你的隨從受到傷害時，本回合會增加1點臨時生命,,,,,,,あなたの従者がダメージを受けると、このターン臨時HP+1,,,
 WarriorBasic12CardName,Text,,Rage,坚毅,憤怒,,,,,,,怒り,,,
@@ -8921,7 +8921,7 @@ WarriorMid01CardDescription,Text,,Your Mana +1,你的法力值+1,你的法力值
 WarriorMid01CardName,Text,,Infinite Resource,无限资源,無限資源,,,,,,,無限資源,,,
 WarriorMid02CardDescription,Text,,"Your hero gains Combo 1, but ATK -1",你的英雄获得连击1，但是攻击力-1,你的英雄獲得連擊1，但是攻擊力-1,,,,,,,あなたのヒーローが連撃1を獲得するが、攻撃力-1,,,
 WarriorMid02CardName,Text,,Thrashing,狂舞,狂舞,,,,,,,狂舞,,,
-WarriorMid03CardDescription,Text,,"Traveling Merchant, Forest Sage, and Exorcist all provide an extra free attempt before charging gems",旅行商人、林野先知、驱灵人收取宝石之前都提供一次额外的免费次数,旅行商人、林野先知、驅靈人收取寶石之前都提供一次額外的免費次數,,,,,,,旅する商人、森の先覚、悪霊払いが宝石を貰う前に、追加の無料回数を一回提供してくれる,,,
+WarriorMid03CardDescription,Text,,"Traveling Merchant, Forest Sage, and Exorcist all provide an extra free attempt before charging gems",旅行商人、林野先知、净化者收取宝石之前都提供一次额外的免费次数,旅行商人、林野先知、驅靈人收取寶石之前都提供一次額外的免費次數,,,,,,,旅する商人、森の先覚、悪霊払いが宝石を貰う前に、追加の無料回数を一回提供してくれる,,,
 WarriorMid03CardName,Text,,Negotiation Proficiency,谈判专精,談判專精,,,,,,,交渉熟練,,,
 WarriorMid04CardDescription,Text,,"Gain HP +4, ATK + 1, and Thrust + 1",获得生命值+4，攻击力+ 1，突进+ 1,獲得生命值+4，攻擊力+ 1，突進+ 1,,,,,,,HP+4、攻撃力+ 1、突進+ 1を獲得する,,,
 WarriorMid04CardName,Text,,Soaring Grow,爆发增长,爆發增長,,,,,,,爆発的な成長,,,
@@ -8943,7 +8943,7 @@ WarriorRed07CardDescription,Text,,,,,,,,,,,,,,
 WarriorRed07CardName,Text,,,,,,,,,,,,,,
 WarriorRed08CardDescription,Text,,,,,,,,,,,,,,
 WarriorRed08CardName,Text,,,,,,,,,,,,,,
-WarriorStart01CardDescription,Text,,"As a hero who was a part of the War of Exile, you will influence choices in some random events",作为曾经参与过流放战争的英雄，你会影响一些随机事件的选项,作為曾經參與過流放戰爭的英雄，你會影響一些隨機事件的選項,,,,,,,追放戦争に参加したヒーローとして、あなたはいくつかのランダムイベントの選択肢に影響を与えることができます。,,,
+WarriorStart01CardDescription,Text,,"As a hero who was a part of the War of Exile, you will influence choices in some random events",作为曾经参与过旧世战争的英雄，你会影响一些随机事件的选项,作為曾經參與過流放戰爭的英雄，你會影響一些隨機事件的選項,,,,,,,追放戦争に参加したヒーローとして、あなたはいくつかのランダムイベントの選択肢に影響を与えることができます。,,,
 WarriorStart01CardName,Text,,Hero,英雄,英雄,,,,,,,ヒーロー,,,
 WarriorStart02CardDescription,Text,,Gain 1 {{Warrior1000}} Spell when the 1st turn of the battle begins,战斗的第1回合开始时获得1张{{Warrior1000}}法术,戰鬥的第1回合開始時獲得1張{{Warrior1000}}法術,,,,,,,戦闘の第1ターン目に{{Warrior1000}}魔法を1枚獲得する,,,
 WarriorStart02CardName,Text,,Reinforce,援护,援護,,,,,,,援護,,,
@@ -8997,7 +8997,7 @@ You lack treasure cards to pay with.,Text,,You don't have enough treasure cards 
 Your Turn,Text,,yourturn chinese,yourturn chinese,yourturn chinese,,,,,,,yourturn chinese,,,
 YoureMineCardDescription,Text,,"Opponent draws a card, and grants all his units Weakness 2",对手抽一张牌，并且其所有单位获得虚弱2,對手抽一張牌，並且其所有單位獲得虛弱2,,,,,,,相手がカードを1枚引き、全ての敵ユニットが虚弱2を獲得する,,,
 YoureMineCardName,Text,,Control Mind,操纵,操控思維,,,,,,,マインドコントロール,,,
-battleDialogue_300010,Text,,Give me mushrooms!,给我菌菇！,給我菌菇！,,,,,,,キノコをよこせ！,,,
+battleDialogue_300010,Text,,Give me mushrooms!,给我甜甜圈！,給我菌菇！,,,,,,,キノコをよこせ！,,,
 battleDialogue_300020,Text,,Must put an end to it,必须做个了断。,必須做個了斷,,,,,,,決着をつけねば,,,
 battleDialogue_300030,Text,,Flame is going out…,火焰将熄……,火焰將熄……,,,,,,,炎がじきに消える…,,,
 battleDialogue_300040,Text,,Has it already gotten this far…,蔓延到这里了吗……,蔓延到這裡了嗎……,,,,,,,ここまで広がったのか...,,,
@@ -9020,7 +9020,7 @@ battleDialogue_300200,Text,,Lunch Time~Miao！,捉迷藏时间！,午餐時間�
 battleDialogue_300210,Text,,I know nothing,我什么都不知道。,我什麼都不知道,,,,,,,私は何も知らない,,,
 battleDialogue_300220,Text,,Don't disturb my customers,别打扰我做生意。,別打擾我做生意,,,,,,,ビジネスの邪魔をするな,,,
 battleDialogue_300230,Text,,… new container,往这走！,往这走！,,,,,,,…新しい器,,,
-battleDialogue_300240,Text,,Granny… Where are you,外婆……你在哪儿？,外婆……你在哪兒,,,,,,,お婆ちゃん…どこにいるの？,,,
+battleDialogue_300240,Text,,Granny… Where are you,让我猜猜你在哪儿？,外婆……你在哪兒,,,,,,,お婆ちゃん…どこにいるの？,,,
 battleDialogue_300250,Text,,"Randall, snap out of it!",兰德尔，清醒一点！,蘭德爾，清醒一點！,,,,,,,ランドール、しっかりしろ！,,,
 battleDialogue_300260,Text,,Water… Water….,水……水……,水…水…,,,,,,,水…水…,,,
 battleDialogue_300270,Text,,This ain't no place for you,这不是你该来的地方,這不是你該來的地方,,,,,,,ここはあなたが来るべき場所ではない,,,
@@ -9106,7 +9106,7 @@ privacyContent,Text,,,"欢迎您进入游戏！未经您的授权，我们不会
 
 設備
 獲取設備資訊為您遊戲帳號獲得更安全的資料保障",,,,,,,,,,
-quest_11CardDescription,Text,,"You recognized him, the evil Grand Witch from the time of Exile War: a minion of Lavatsky, he can go through the guardian's barrier and get here, indicating that the power of guardians who blockade the lava flow has become weak",你认出了他，流放战争时期的邪恶大女巫：拉瓦茨基的爪牙，他能够飞跃守护者的屏障来到这，说明封锁熔岩流域的守护者的力量已经变得微弱。,你認出了他，流放戰爭時期的邪惡大女巫：拉瓦茨基的爪牙，他能夠飛躍守護者的屏障來到這，說明封鎖熔岩流域的守護者的力量已經變得微弱,,,,,,,あなたは彼を知っている、追放戦争時期の邪悪な大魔女：ラヴァツキーの走狗だ。彼が守護者のバリアを飛び越えてここまで来られたということは、溶岩エリアを封鎖した守護者の力が弱まった証明だ,,,
+quest_11CardDescription,Text,,"You recognized him, the evil Grand Witch from the time of Exile War: a minion of Lavatsky, he can go through the guardian's barrier and get here, indicating that the power of guardians who blockade the lava flow has become weak",你认出了他，大女巫：拉瓦茨基的爪牙，他能够飞跃守护者的屏障来到这，说明封锁熔岩流域的守护者的力量已经变得微弱。,你認出了他，流放戰爭時期的邪惡大女巫：拉瓦茨基的爪牙，他能夠飛躍守護者的屏障來到這，說明封鎖熔岩流域的守護者的力量已經變得微弱,,,,,,,あなたは彼を知っている、追放戦争時期の邪悪な大魔女：ラヴァツキーの走狗だ。彼が守護者のバリアを飛び越えてここまで来られたということは、溶岩エリアを封鎖した守護者の力が弱まった証明だ,,,
 quest_11CardName,Text,,Kingdom Guns,王国之枪,王國之槍,,,,,,,王国の銃,,,
 quest_11_option_1CardDescription,Text,,The Mana Statue is responsible for supplying energy needed by the guardians. Let's check there first.,魔力雕像负责供给守护者所需的魔法能量，先去那里看看吧,魔力雕像負責供給守護者所需的魔法能量，先去那裡看看吧。,,,,,,,魔力の彫像は守護者に必要な魔法のエネルギーを供給する役割を担っている。まずはそこに行ってみよう,,,
 quest_11_option_1CardName,Text,,Leave,离开,離開,,,,,,,立ち去る,,,
@@ -9231,11 +9231,11 @@ wwSharkPaulcopyCardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サ
 兽人先锋_chat,Text,,"Honey, I swear that I will never steal the packages again…",我就去……,夫人，我發誓再也不偷快遞了……,,,,,,,マダム、二度と宅配便を盗まないことを誓います……,,,
 兽人巡逻队_chat,Text,,"Skewers, in the infected flavor.",烤串，牛油果风味。,烤串，寄生者風味。,,,,,,,串焼き、寄生者味。,,,
 兽人战队_chat,Text,,"You seem delicious, meow…",你好可爱呀。,"你看起來好好吃呀,喵~",,,,,,,めっちゃおいしそうだみゃ～,,,
-兽人酋长_chat,Text,,"Granny… Whimp, whimp…",外婆……呜呜呜呜……,外婆~嗚嗚嗚嗚~,,,,,,,お婆ちゃん～うううう～,,,
+兽人酋长_chat,Text,,"Granny… Whimp, whimp…",呜呜呜呜……,外婆~嗚嗚嗚嗚~,,,,,,,お婆ちゃん～うううう～,,,
 冰晶兽_chat,Text,,Roar…,吼！,吼~,,,,,,,ガオ～,,,
 双子掠夺者_chat,Text,,…,……,……,,,,,,,...,,,
 地狱火拷打者_chat,Text,,"Guys, we've got some living!",兄弟们，是活人！,兄弟們，是活人！,,,,,,,みんな、生きている人間だ！,,,
-地精侦察兵_chat,Text,,Ah… How tasty are mushrooms!,菌菇好美味！,啊~菌菇好美味！,,,,,,,あ～菌類が美味しい！,,,
+地精侦察兵_chat,Text,,Ah… How tasty are mushrooms!,甜甜圈好美味！,啊~菌菇好美味！,,,,,,,あ～菌類が美味しい！,,,
 地精战士_chat,Text,,Being invincible is lonely…,无敌是多么寂寞。,無敵是多麼寂寞~,,,,,,,無敵であることはとても寂しいことだ～,,,
 地精投石者_chat,Text,,I hate this bow knot,我讨厌这个蝴蝶结。,我討厭這個蝴蝶結~,,,,,,,この蝶結び大嫌い～,,,
 地精狂战士_chat,Text,,Croak…,呱。,呱,,,,,,,ゲロゲロ～,,,
@@ -9252,7 +9252,7 @@ wwSharkPaulcopyCardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サ
 曼思里之王_chat,Text,,No! Passing! Through! Here!,禁！……止！……通！……行！,禁！……止！……通！……行！,,,,,,,通！…行！…禁！…止！…,,,
 曼思里聚合物_chat,Text,,Join… Me… In hell!,你们不应该在这里！,來~地獄~坐坐！,,,,,,,地獄へようこそ～さあ座って座って！,,,
 曼思里议会_chat,Text,,The audacity!,大胆！,大膽！,,,,,,,いい度胸だ！,,,
-曼思里通灵者_chat,Text,,I'm thirsty… Need blood…,口渴……需要液体……,口渴……需要液體……,,,,,,,喉が渇いた……血が必要だ...,,,
+曼思里通灵者_chat,Text,,I'm thirsty… Need blood…,口渴……,口渴……需要液體……,,,,,,,喉が渇いた……血が必要だ...,,,
 机械之神_chat,Text,,My master… I heard your summoning…,我的主人，我听到了你的呼唤。,我的主人~我聽到了你的呼喚~,,,,,,,我が主よ～あなたの呼び声を聞こえました～,,,
 核心九头蛇_chat,Text,,Unforgivable! Let me show you my true color!,不可饶恕！见识下我的真面目吧！,不可饒恕！見識下我的真面目吧！,,,,,,,許さない！私の本当の姿に刮目せよ！,,,
 沉睡的恶魔_chat,Text,,,,,,,,,,,,,,
@@ -9276,7 +9276,7 @@ wwSharkPaulcopyCardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サ
 班纳_chat,Text,,"I'm ""Banner""!",我是“班纳”！,我是“班納”！,,,,,,,私は「バナー」！,,,
 登录,Text,,Login,登录,登錄,,,,,,,,,,
 着魔炎术士_chat,Text,,The power is so thick!,如此强大的力量！,如此強大的力量！,,,,,,,なんと強大な力だろう！,,,
-着魔的当铺老板_chat,Text,,,我给我你的东西，你给你我的……不对！,我給我你的東西，你給你我的……不對!,,,,,,,,,,
+当铺老板_chat,Text,,,我给我你的东西，你给你我的……不对！,我給我你的東西，你給你我的……不對!,,,,,,,,,,
 砾岩兽_chat,Text,,Whimp…,呜……,嗚……,,,,,,,うっ…,,,
 神殿_chat,Text,,Do you have things that you don't want? I'm talking about your soul and body.,你有什么不要的东西吗？我指的是灵魂和肉体。,你有什麼不要的東西嗎？我指的是靈魂和肉體。,,,,,,,いらないものはありますか？魂と肉体のことです。,,,
 蜥蜴女猎人_chat,Text,,Play with me!,快陪我玩！,快陪我玩！,,,,,,,早く私と一緒に遊んで！,,,
