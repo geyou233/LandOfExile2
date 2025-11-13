@@ -40,9 +40,9 @@ Achievement13CardDescription,Text,,Defeat the boss in the 3F using the Mage Eliy
 Achievement13CardName,Text,,Overture of Magic and Frost - III,魔法与霜的序曲·三,魔法與霜的序曲·三,,,,,,,魔法と霜の序曲・三,,,
 Achievement15CardDescription,Text,,Deal 12 or more damage to a large enemy with 1 unit.,用一个单位对大型敌人造成12点或以上的伤害。,用一個單位對大型敵人造成12點或以上的傷害。,,,,,,,一体のユニットを使って大型の敵に12ポイント以上のダメージを与える。,,,
 Achievement15CardName,Text,,Here Comes the Titan,泰坦来了,泰坦來了,,,,,,,タイタンが来る,,,
-Achievement16CardDescription,Text,,Shatter an enemy on your first turn,在你第一回合摧毁一个敌人。,在你第一回合摧毀一個敵人,,,,,,,自分の最初のターンで敵を一体破壊する,,,
+Achievement16CardDescription,Text,,Shatter an enemy on your first turn,在你第一回合消灭一个敌人。,在你第一回合摧毀一個敵人,,,,,,,自分の最初のターンで敵を一体破壊する,,,
 Achievement16CardName,Text,,I'm in a rush,我在赶时间,我在趕時間,,,,,,,急いでいるので,,,
-Achievement17CardDescription,Text,,Shatter 3 enemy units in enemy's turn,在敌人的回合摧毁三个敌方单位。,在敵人的回合摧毀三個敵方單位。,,,,,,,敵のターン中に敵ユニットを三体破壊する。,,,
+Achievement17CardDescription,Text,,Shatter 3 enemy units in enemy's turn,在敌人的回合消灭三个敌方单位。,在敵人的回合摧毀三個敵方單位。,,,,,,,敵のターン中に敵ユニットを三体破壊する。,,,
 Achievement17CardName,Text,,It all counts,都在计算之内,都在計算之內,,,,,,,全て計算の内,,,
 Achievement18CardDescription,Text,,Defeat the third boss with the deck consisting of no more than 6 cards.,用六张或更少卡牌组成的牌组击败第三位首领。,用六張或更少卡牌組成的牌組擊敗第三位首領。,,,,,,,カードが六枚以下のデッキで三番目のボスを倒す。,,,
 Achievement18CardName,Text,,Extreme Cuts,极致裁剪,極致裁剪,,,,,,,節減の極地,,,
@@ -62,13 +62,13 @@ Achievement25CardDescription,Text,,Own 5 3-star cards in a battle deck,在一场
 Achievement25CardName,Text,,Investment,投资,投資,,,,,,,投資,,,
 Achievement26CardDescription,Text,,Play 10 cards in 1 turn,在一回合打出10张卡牌。,在一回合打出10張卡牌,,,,,,,1ターンに10枚のカードをプレイする,,,
 Achievement26CardName,Text,,One Man Show,一个人的表演,一個人的表演,,,,,,,ワンマンショー,,,
-Achievement27CardDescription,Text,,Shatter 5 followers in 1 turn,在一回合内摧毁5个随从。,在一回合內摧毀5個隨從,,,,,,,1ターンに従者を5体破壊する,,,
+Achievement27CardDescription,Text,,Shatter 5 followers in 1 turn,在一回合内消灭5个随从。,在一回合內摧毀5個隨從,,,,,,,1ターンに従者を5体破壊する,,,
 Achievement27CardName,Text,,Destroyer,除草专家,除草專家,,,,,,,デストロイヤー,,,
 Achievement28CardDescription,Text,,Survive with only 1 HP and no followers,在只有1点生命值且没有随从的情况下生存。,在只有1點生命值且沒有隨從的情況下生存,,,,,,,HPが1しかなく、従者がいない状態で生き残る,,,
 Achievement28CardName,Text,,Extreme,极限,極限,,,,,,,ギリギリ,,,
 Achievement29CardDescription,Text,,Hero has 10 or more Block.,英雄拥有10点或更多的格挡。,英雄擁有10點或更多的格擋。,,,,,,,ヒーローは10ポイント以上のブロックを持っている。,,,
 Achievement29CardName,Text,,Metal Wall,铁墙,鐵牆,,,,,,,鉄の壁,,,
-Achievement30CardDescription,Text,,Shatter 4 followers in 1 turn,一回合摧毁4个随从。,一回合摧毀4個隨從。,,,,,,,1ターンに従者を4体破壊する,,,
+Achievement30CardDescription,Text,,Shatter 4 followers in 1 turn,一回合消灭4个随从。,一回合摧毀4個隨從。,,,,,,,1ターンに従者を4体破壊する,,,
 Achievement30CardName,Text,,Reaper,收割者,收割者,,,,,,,生の収穫者,,,
 Achievement31CardDescription,Text,,Clear the game in Nightmare difficulty,在梦魇难度下通关游戏。,在夢魘難度下通關遊戲。,,,,,,,悪夢難易度でゲームをクリアする。,,,
 Achievement31CardName,Text,,Nightmare Master,梦魇大师,夢魘大師,,,,,,,悪夢マスター,,,
@@ -84,7 +84,7 @@ Achievement36CardDescription,Text,,Shuffle the deck for 3 times in 1 turn,在同
 Achievement36CardName,Text,,Magic skill,魔术技法,魔術技法,,,,,,,魔術のテクニック,,,
 Achievement37CardDescription,Text,,Heal HP more than 15 for followers in an encounter,在一次遭遇战中所治疗随从的生命值超过15点。,在一次遭遇戰中所治療隨從的生命值超過15點。,,,,,,,一回の遭遇戦で従者のHPを15ポイント以上回復する。,,,
 Achievement37CardName,Text,,Quick healing,快速治疗,快速治療,,,,,,,快速回復,,,
-Achievement38CardDescription,Text,,Shatter the bound Gestalt,摧毁被束缚的格式塔,摧毀被束縛的格式塔,,,,,,,束縛されたゲシュタルトを破壊する,,,
+Achievement38CardDescription,Text,,Shatter the bound Gestalt,消灭被束缚的格式塔,摧毀被束縛的格式塔,,,,,,,束縛されたゲシュタルトを破壊する,,,
 Achievement38CardName,Text,,Multiple to none,多对无,多對無,,,,,,,多対無,,,
 Achievement39CardDescription,Text,,Attack enemy heroes in the first turn with your follower,让你的随从第一回合就攻击敌方英雄。,讓你的隨從第一回合就攻擊敵方英雄,,,,,,,最初のターンにあなたの従者に敵ヒーローを攻撃させる,,,
 Achievement39CardName,Text,,Onslaught,猛攻,猛攻,,,,,,,猛襲,,,
@@ -154,7 +154,7 @@ AlchemistEncounter10CardName,Text,,The obsessed pawnshop owener,当铺老板,著
 All,Text,,All,所有,所有,,,,,,,全て,,,
 AllOptionsInLibrary,Text,,All,全部,全部,,,,,,,全部,,,
 Allegiance,Text,,Faction,阵营,陣營,,,,,,,陣営,,,
-AlphaHatchEffectCardDescription,Text,,"After 2 turns, shatters this unit, and summons a {{LizardAlphaMinion}} in its place",2回合后摧毁此单位，在其位置召唤一个{{LizardAlphaMinion}},2回合後摧毀此單位，在其位置召喚一個{{LizardAlphaMinion}},,,,,,,2ターン後にこのユニットを破壊し、その位置に{{LizardAlphaMinion}}を一体召喚する,,,
+AlphaHatchEffectCardDescription,Text,,"After 2 turns, shatters this unit, and summons a {{LizardAlphaMinion}} in its place",2回合后消灭此单位，在其位置召唤一个{{LizardAlphaMinion}},2回合後摧毀此單位，在其位置召喚一個{{LizardAlphaMinion}},,,,,,,2ターン後にこのユニットを破壊し、その位置に{{LizardAlphaMinion}}を一体召喚する,,,
 AlphaHatchEffectCardName,Text,,Incubation,孵化,孵化,,,,,,,孵化,,,
 AmpUpCardDescription,Text,,Obtains ATK 1,获得1点攻击力,獲得1點攻擊力,,,,,,,攻撃力を1ポイント獲得する,,,
 AmpUpCardName,Text,,Enhance,强化,強化,,,,,,,強化,,,
@@ -360,13 +360,13 @@ AshLegionBowmasterCardDescription,Text,,"Range: 4
 
 Whenever an enemy follower dies, gain 1 point {{BurningSoulArrowEffect}}","射程4
 
-每当敌方随从被摧毁时，获得1点{{BurningSoulArrowEffect}}","射程4
+每当敌方随从被消灭时，获得1点{{BurningSoulArrowEffect}}","射程4
 
 每當敵方隨從被摧毀時，獲得1點{{BurningSoulArrowEffect}}",,,,,,,"射程4
 
 敵の従者が死亡するたびに、{{BurningSoulArrowEffect}}を1ポイントを獲得する",,,
 AshLegionBowmasterCardName,Text,,Ash Legion Archery Master,灰烬军团弓箭大师,灰燼軍團弓箭大師,,,,,,,灰の軍団弓矢マスター,,,
-AshLegionCommanderCardDescription,Text,,Range: 2. Penetrate. Adjacent allied followers cannot be shattered by damage dealt by followers.,射程2。穿透。相邻的友方随从无法被随从造成的伤害摧毁,射程2。穿透。相鄰的友方隨從無法被隨從造成的傷害摧毀,,,,,,,射程2。貫通。隣接する味方は従者に与えられたダメージによって破壊されることはない,,,
+AshLegionCommanderCardDescription,Text,,Range: 2. Penetrate. Adjacent allied followers cannot be shattered by damage dealt by followers.,射程2。穿透。相邻的友方随从无法被随从造成的伤害消灭,射程2。穿透。相鄰的友方隨從無法被隨從造成的傷害摧毀,,,,,,,射程2。貫通。隣接する味方は従者に与えられたダメージによって破壊されることはない,,,
 AshLegionCommanderCardName,Text,,Ash Legion Commander,灰烬军团指挥官,灰燼軍團指揮官,,,,,,,灰の軍団指揮官,,,
 AshLegionGruntCardDescription,Text,,,,,,,,,,,,,,
 AshLegionGruntCardName,Text,,Ash Legion Grumble Beast,灰烬军团咕噜兽,灰燼軍團咕嚕獸,,,,,,,灰の軍団グラブルビースト,,,
@@ -374,7 +374,7 @@ AshLegionHeroCardDescription,Text,,Attack inflicts chain: Burn 3.,攻击造成�
 AshLegionHeroCardName,Text,,Ash Legion Hero,灰烬军团英雄,灰燼軍團英雄,,,,,,,灰の軍団ヒーロー,,,
 AshLegionLieutenantCardDescription,Text,,Block 2. Allied units gain +1/+1,格挡2。友军单位拥有+1/+1,格擋2。友軍單位擁有+1/+1,,,,,,,ブロック2。味方ユニットは+1/+1を持つ,,,
 AshLegionLieutenantCardName,Text,,Ash Legion Lieutenant,灰烬军团中尉,灰燼軍團中尉,,,,,,,灰の軍団中尉,,,
-AshLegionSoldierCardDescription,Text,,Defeated: Deals 3 damage to {{ArmourFiendMage}} and grants it Spell Enhancement 1 for the turn,被摧毁：对{{ArmourFiendMage}}造成3点伤害，并使其本回合获得法术强化1,被摧毀：對{{ArmourFiendMage}}造成3點傷害，並使其本回合獲得法術強化1,,,,,,,被摧毁：{{ArmourFiendMage}}に3ダメージを与え、このターンに魔法強化1を獲得させる,,,
+AshLegionSoldierCardDescription,Text,,Defeated: Deals 3 damage to {{ArmourFiendMage}} and grants it Spell Enhancement 1 for the turn,被消灭：对{{ArmourFiendMage}}造成3点伤害，并使其本回合获得法术强化1,被摧毀：對{{ArmourFiendMage}}造成3點傷害，並使其本回合獲得法術強化1,,,,,,,被消灭：{{ArmourFiendMage}}に3ダメージを与え、このターンに魔法強化1を獲得させる,,,
 AshLegionSoldierCardName,Text,,Snail Dragon Larva,蜗龙幼虫,蝸龍幼蟲,,,,,,,スネイル・ドラゴンの幼虫,,,
 AshLegionSpearmanCardDescription,Text,,"Engagement 2
 Able to emerge from anywhere.","缠斗2
@@ -389,15 +389,15 @@ Auto Equip New Weapons,Text,,Auto-equip newly acquired weapons,自动装备新�
 BETAMessage,Text,,,,,,,,,,,,,,
 BabyDragonGreenCardDescription,Text,,"Guardian, Attack inflicts Poison 3
 Defeated: Gain 1 {{Domination}}.","守卫，攻击施加中毒2
-被摧毁：获得1张{{Domination}}","守衛，攻擊施加中毒2
+被消灭：获得1张{{Domination}}","守衛，攻擊施加中毒2
 被摧毀：獲得1張{{Domination}}",,,,,,,"守衛、攻撃は中毒3を与える
-被摧毁： {{Domination}}を1枚獲得する",,,
+被消灭： {{Domination}}を1枚獲得する",,,
 BabyDragonGreenCardName,Text,,Puppet Green Dragonling,提线绿幼龙,提線綠幼龍,,,,,,,グリーンドラゴンの幼体の傀儡,,,
 BabyDragonRedCardDescription,Text,,"Knockback 1, attack inflicts Burns 3
 Defeated: Gain 1 {{Domination}}.","攻击附带击退1和灼烧2
-被摧毁：获得1张{{Domination}}","攻擊附帶擊退1和灼燒2
+被消灭：获得1张{{Domination}}","攻擊附帶擊退1和灼燒2
 被摧毀：獲得1張{{Domination}}",,,,,,,"ノックバック1、攻撃は燃焼3を与える
-被摧毁： {{Domination}}を1枚獲得する",,,
+被消灭： {{Domination}}を1枚獲得する",,,
 BabyDragonRedCardName,Text,,Puppet Red Dragonling,提线红幼龙,提線紅幼龍,,,,,,,レッドドラゴンの幼体の傀儡,,,
 Back,Text,,Back,返回,返回,,,,,,,戻る,,,
 BatEscapeCardDescription,Text,,"After moving, summons a Flame Bat, Frost Bat, and Thunder Bat on its original position",移动后，在原位置召唤一个火焰蝙蝠、冰霜蝙蝠、雷电蝙蝠,移動後，在原位置召喚一個火焰蝙蝠、冰霜蝙蝠、雷電蝙蝠,,,,,,,移動後、同じ位置に炎コウモリ、氷コウモリ、雷電コウモリを一体召喚する,,,
@@ -459,19 +459,19 @@ Black04bFlavourText,Text,,,,,,,,,,,,,,
 Black05CardDescription,Text,,Enter: Sacrifice an adjacent allied follower and summon a {{Black05Servitor}}.,进场：献祭一个相邻的友方随从并召唤一个{{Black05Servitor}},進場：獻祭一個相鄰的友方隨從並召喚一個{{Black05Servitor}},,,,,,,エントリー：隣接する味方従者を生贄にして、{{Black05Servitor}}を1体召喚する,,,
 Black05CardName,Text,,Royal Priest of Kalim,卡利姆皇家祭司,卡利姆皇家祭司,,,,,,,カリム王家の祭司,,,
 Black05FlavourText,Text,,"The living god of Kalim demands absolute loyalty from his people, and the church serves as both reward and punishment.",卡利姆的活神要求他的子民完全忠诚，而教会既是胡萝卜又是棍子。,卡利姆的活神要求他的子民完全忠誠，而教會既是胡蘿蔔又是棍子。,,,,,,,カリムの現人神は民に完全なる忠誠を求めており、教会はそのための飴であり、鞭でもある。,,,
-Black05ServitorCardDescription,Text,,"When the follower is shattered, exile it.",当这个随从被摧毁时，放逐该随从,當這個隨從被摧毀時，放逐該隨從,,,,,,,この従者が破壊されると、この従者を追放する,,,
+Black05ServitorCardDescription,Text,,"When the follower is shattered, exile it.",当这个随从被消灭时，放逐该随从,當這個隨從被摧毀時，放逐該隨從,,,,,,,この従者が破壊されると、この従者を追放する,,,
 Black05ServitorCardName,Text,,Humble Servant,谦卑的仆从,謙卑的僕從,,,,,,,謙虚なる従者,,,
 Black05ServitorFlavourText,Text,,,,,,,,,,,,,,
 Black06CardDescription,Text,,Enter: Sacrifice an adjacent allied follower and summon a {{Black06Servitor}}.,进场：献祭一个相邻的友方随从并召唤一个{{Black06Servitor}},進場：獻祭一個相鄰的友方隨從並召喚一個{{Black06Servitor}},,,,,,,エントリー：隣接する味方従者を生贄にして、{{Black06Servitor}}を1体召喚する,,,
 Black06CardName,Text,,High Royal Priest,高等皇家祭司,高等皇家祭司,,,,,,,上級王家の祭司,,,
 Black06FlavourText,Text,,The accepted method of promotion in the Cathedral of Kings is through the shoes of the dead.,在王者教堂晋升的公认方法是通过死人的鞋子。,在王者教堂晉升的公認方法是通過死人的鞋子。,,,,,,,王の大聖堂において公認の出世方法は、死者の靴を履くことである。,,,
-Black06ServitorCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被摧毁时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
+Black06ServitorCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被消灭时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
 Black06ServitorCardName,Text,,Servant,仆从,僕從,,,,,,,従者,,,
 Black06ServitorFlavourText,Text,,,,,,,,,,,,,,
 Black07CardDescription,Text,,Enter: Sacrifice an adjacent allied follower and summon a {{Black07Servitor}}.,进场：献祭一个相邻的友方随从并召唤一个{{Black07Servitor}},進場：獻祭一個相鄰的友方隨從並召喚一個{{Black07Servitor}},,,,,,,エントリー：隣接する味方従者を生贄にして、{{Black07Servitor}}を1体召喚する,,,
 Black07CardName,Text,,King's Envoy,国王使节,國王使節,,,,,,,国王の使節,,,
 Black07FlavourText,Text,,"To attain the rank of Envoy, the priest must slay dozens of fellow members and sacrifice countless innocents in the name of the King.",想要达到使节的级别，牧师需要杀死数十名其他内部成员，并要以国王的名义牺牲无数无辜的人。,想要達到使節的級別，牧師需要殺死數十名其他內部成員，並要以國王的名義犧牲無數無辜的人。,,,,,,,使節の階級に到達するには、司祭は他の何十人ものメンバーを殺し、国王の名の下に無数の罪のない人を生贄にする必要がある。,,,
-Black07ServitorCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被摧毁时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
+Black07ServitorCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被消灭时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
 Black07ServitorCardName,Text,,Holy Servant,神圣仆从,神聖僕從,,,,,,,神聖なる従者,,,
 Black07ServitorFlavourText,Text,,,,,,,,,,,,,,
 Black08CardDescription,Text,,"Predator. For each allied Blacksteel follower on the field, this follower gains ATK +1",掠食者。场上每有一个其他友方黑钢随从，该随从攻击力+1,掠食者。場上每有一個其他友方黑鋼隨從，該隨從攻擊力+1,,,,,,,捕食者。フィールド上にいる味方のブラックスティール従者一体につき、この従者の攻撃力+1,,,
@@ -491,52 +491,52 @@ Black101FlavourText,Text,,,,,,,,,,,,,,
 Black102CardDescription,Text,,"If this follower is exhausted, grant your hero ATK +3.",如果这个随从被移除，给你的英雄+3攻击力,如果這個隨從被移除，給你的英雄+3攻擊力,,,,,,,この従者が削除された場合、あなたのヒーローの攻撃力+3,,,
 Black102CardName,Text,,Mad Vessel,疯狂的载体,瘋狂的載體,,,,,,,狂気の器,,,
 Black102FlavourText,Text,,,,,,,,,,,,,,
-Black103CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被摧毁：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被摧毁：{{Warrior31}}の複製品をあなたの手札に追加する,,,
+Black103CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被消灭：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被消灭：{{Warrior31}}の複製品をあなたの手札に追加する,,,
 Black103CardName,Text,,Shield Slave,盾奴,盾奴,,,,,,,シールドスレイブ,,,
 Black103FlavourText,Text,,,,,,,,,,,,,,
-Black104CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被摧毁：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被摧毁：{{Warrior31}}の複製品をあなたの手札に追加する,,,
+Black104CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被消灭：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被消灭：{{Warrior31}}の複製品をあなたの手札に追加する,,,
 Black104CardName,Text,,High Shield Slave,高等盾奴,高等盾奴,,,,,,,上級シールドスレイブ,,,
 Black104FlavourText,Text,,,,,,,,,,,,,,
-Black105CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被摧毁：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被摧毁：{{Warrior31}}の複製品をあなたの手札に追加する,,,
+Black105CardDescription,Text,,Defeated: Add a replica of {{Warrior31}} to your hand,被消灭：将{{Warrior31}}的复制品添加到你的手上,被摧毀：將{{Warrior31}}的複製品添加到你的手上,,,,,,,被消灭：{{Warrior31}}の複製品をあなたの手札に追加する,,,
 Black105CardName,Text,,Peak Shield Slave,巅峰盾奴,巔峰盾奴,,,,,,,ピークシールドスレイブ,,,
 Black105FlavourText,Text,,,,,,,,,,,,,,
 Black106CardDescription,Text,,"Predator.
 Units shattered by the follower are considered sacrifice","掠食者。
-被此随从摧毁的单位被视为献祭","掠食者。
+被此随从消灭的单位被视为献祭","掠食者。
 被此隨從摧毀的單位被視為獻祭",,,,,,,捕食者。この従者によって破壊されたユニットは生贄とみなされる,,,
 Black106CardName,Text,,Kalim Protocol Officer,卡利姆礼节使,卡利姆禮節使,,,,,,,カリム礼節の使者,,,
 Black106FlavourText,Text,,,,,,,,,,,,,,
 Black107CardDescription,Text,,"Predator.
 Units shattered by the follower are considered sacrifice","掠食者。
-被此随从摧毁的单位被视为献祭","掠食者。
+被此随从消灭的单位被视为献祭","掠食者。
 被此隨從摧毀的單位被視為獻祭",,,,,,,捕食者。この従者によって破壊されたユニットは生贄とみなされる,,,
 Black107CardName,Text,,Kalim High Protocol Officer,卡利姆高等礼节使,卡利姆高等禮節使,,,,,,,上級カリム礼節の使者,,,
 Black107FlavourText,Text,,,,,,,,,,,,,,
 Black108CardDescription,Text,,"Predator.
 Units shattered by the follower are considered sacrifice","掠食者。
-被此随从摧毁的单位被视为献祭","掠食者。
+被此随从消灭的单位被视为献祭","掠食者。
 被此隨從摧毀的單位被視為獻祭",,,,,,,捕食者。この従者によって破壊されたユニットは生贄とみなされる,,,
 Black108CardName,Text,,Kalim's Peak Protocol Officer,卡利姆巅峰礼节使,卡利姆巔峰禮節使,,,,,,,ピークカリム礼節の使者,,,
 Black108FlavourText,Text,,,,,,,,,,,,,,
-Black109CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被摧毁：触发相邻单位的被摧毁：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被摧毁：隣接するユニットの被破壊：効果を発動する,,,
+Black109CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被消灭：触发相邻单位的被消灭：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被消灭：隣接するユニットの被破壊：効果を発動する,,,
 Black109CardName,Text,,Kalim White Robe,卡利姆白袍,卡利姆白袍,,,,,,,カリムホワイトローブ,,,
 Black109FlavourText,Text,,,,,,,,,,,,,,
 Black10CardDescription,Text,,"Predator. For each allied Blacksteel follower on the field, this follower gains ATK +1",掠食者。场上每有一个其他友方黑钢随从，该随从攻击力+1,掠食者。場上每有一個其他友方黑鋼隨從，該隨從攻擊力+1,,,,,,,捕食者。フィールド上にいる味方のブラックスティール従者一体につき、この従者の攻撃力+1,,,
 Black10CardName,Text,,Blacksteel Knight,黑钢骑士,黑鋼騎士,,,,,,,ブラックスティール騎士,,,
 Black10FlavourText,Text,,"""Armor as black as night and a serrated sword? Stay away from him.""",“黑夜般漆黑的盔甲，还有一把锯齿剑？远离他。”,“黑夜般漆黑的盔甲，還有一把鋸齒劍？遠離他。”,,,,,,,「夜のように暗い鎧と鋸歯状の剣だと？そいつに近づくな。」,,,
-Black110CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被摧毁：触发相邻单位的被摧毁：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被摧毁：隣接するユニットの被破壊：効果を発動する,,,
+Black110CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被消灭：触发相邻单位的被消灭：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被消灭：隣接するユニットの被破壊：効果を発動する,,,
 Black110CardName,Text,,Kalim High White Robe,卡利姆高等白袍,卡利姆高等白袍,,,,,,,上級カリムホワイトローブ,,,
 Black110FlavourText,Text,,,,,,,,,,,,,,
-Black111CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被摧毁：触发相邻单位的被摧毁：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被摧毁：隣接するユニットの被破壊：効果を発動する,,,
+Black111CardDescription,Text,,Defeated: Trigger the Defeated effect of adjacent units,被消灭：触发相邻单位的被消灭：效果,被摧毀：觸發相鄰單位的被摧毀：效果,,,,,,,被消灭：隣接するユニットの被破壊：効果を発動する,,,
 Black111CardName,Text,,Kalim Peak White Robe,卡利姆巅峰白袍,卡利姆巔峰白袍,,,,,,,ピークカリムホワイトローブ,,,
 Black111FlavourText,Text,,,,,,,,,,,,,,
-Black112CardDescription,Text,,"Defeated: if shattered by a unit, deal 2 damage to that unit",被摧毁：如果被一个单位摧毁，则对该单位造成2点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成2點傷害,,,,,,,被摧毁：ユニットによって破壊された場合、そのユニットに2ダメージを与える,,,
+Black112CardDescription,Text,,"Defeated: if shattered by a unit, deal 2 damage to that unit",被消灭：如果被一个单位消灭，则对该单位造成2点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成2點傷害,,,,,,,被消灭：ユニットによって破壊された場合、そのユニットに2ダメージを与える,,,
 Black112CardName,Text,,Kalim Deathbringer,卡利姆迷失使者,卡利姆迷失使者,,,,,,,カリム死の使者,,,
 Black112FlavourText,Text,,,,,,,,,,,,,,
-Black113CardDescription,Text,,"Defeated: if shattered by a unit, deal 3 damage to that unit",被摧毁：如果被一个单位摧毁，则对该单位造成3点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成3點傷害,,,,,,,被摧毁：ユニットによって破壊された場合、そのユニットに3ダメージを与える,,,
+Black113CardDescription,Text,,"Defeated: if shattered by a unit, deal 3 damage to that unit",被消灭：如果被一个单位消灭，则对该单位造成3点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成3點傷害,,,,,,,被消灭：ユニットによって破壊された場合、そのユニットに3ダメージを与える,,,
 Black113CardName,Text,,High Deathbringer,高等迷失使者,高等迷失使者,,,,,,,上級死の使者,,,
 Black113FlavourText,Text,,,,,,,,,,,,,,
-Black114CardDescription,Text,,"Defeated: if shattered by a unit, deal 4 damage to that unit",被摧毁：如果被一个单位摧毁，则对该单位造成4点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成4點傷害,,,,,,,被摧毁：ユニットによって破壊された場合、そのユニットに4ダメージを与える,,,
+Black114CardDescription,Text,,"Defeated: if shattered by a unit, deal 4 damage to that unit",被消灭：如果被一个单位消灭，则对该单位造成4点伤害,被摧毀：如果被一個單位摧毀，則對該單位造成4點傷害,,,,,,,被消灭：ユニットによって破壊された場合、そのユニットに4ダメージを与える,,,
 Black114CardName,Text,,Peak Deathbringer,巅峰迷失使者,巔峰迷失使者,,,,,,,ピーク死の使者,,,
 Black114FlavourText,Text,,,,,,,,,,,,,,
 Black115CardDescription,Text,,Infection: Adjacent units gain Predator.,侵蚀：相邻单位获得掠食者,侵蝕：相鄰單位獲得掠食者,,,,,,,侵蚀：隣接するユニットが捕食者を獲得する,,,
@@ -556,16 +556,16 @@ Black118FlavourText,Text,,,,,,,,,,,,,,
 Black119CardDescription,Text,,"Leap 3, Predator",跳跃3，掠食者,跳躍3，掠食者,,,,,,,ジャンプ3、捕食者,,,
 Black119CardName,Text,,Large Divine Dragon,大型神龙,大型神龍,,,,,,,大型ディヴァイン・ドラゴン,,,
 Black119FlavourText,Text,,,,,,,,,,,,,,
-Black11CardDescription,Text,,Range 2. Followers shattered by this follower are considered sacrifices.,射程2。被此随从摧毁的随从被视为献祭,射程2。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程2。この従者によって破壊された従者は生贄とみなされる,,,
+Black11CardDescription,Text,,Range 2. Followers shattered by this follower are considered sacrifices.,射程2。被此随从消灭的随从被视为献祭,射程2。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程2。この従者によって破壊された従者は生贄とみなされる,,,
 Black11CardName,Text,,Faceless Instructor,无面者传授者,無面者傳授者,,,,,,,フェイスレス教育者,,,
 Black11FlavourText,Text,,The priest selects offerings from willing sacrifices. The Faceless Guild deals with those who are unwilling.,祭司从自愿献祭者中挑选祭品。无面者公会对付那些不自愿的人。,祭司從自願獻祭者中挑選祭品。無面者公會對付那些不自願的人。,,,,,,,祭司は生贄となることを志願した者の中から生贄を選ぶ。そしてフェイスレスギルドは、志願したくない者の対処を行う。,,,
 Black120CardDescription,Text,,"Leap 3, Predator",跳跃3，掠食者,跳躍3，掠食者,,,,,,,ジャンプ3、捕食者,,,
 Black120CardName,Text,,Giant Divine Dragon,巨型神龙,巨型神龍,,,,,,,巨大ディヴァイン・ドラゴン,,,
 Black120FlavourText,Text,,,,,,,,,,,,,,
-Black12CardDescription,Text,,Range 2. Followers shattered by this follower are considered sacrifices.,射程2。被此随从摧毁的随从被视为献祭,射程2。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程2。この従者によって破壊された従者は生贄とみなされる,,,
+Black12CardDescription,Text,,Range 2. Followers shattered by this follower are considered sacrifices.,射程2。被此随从消灭的随从被视为献祭,射程2。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程2。この従者によって破壊された従者は生贄とみなされる,,,
 Black12CardName,Text,,Faceless Assassin,无面者潜行者,無面者潛行者,,,,,,,フェイスレスアサシン,,,
 Black12FlavourText,Text,,"The Faceless comes from secluded villages isolated from Kalim society, born loyal to the Cathedral of Kings.",无面者来自与卡利姆社会隔绝的僻静村庄，生来忠于王者教堂。,無面者來自與卡利姆社會隔絕的僻靜村莊，生來忠於王者教堂。,,,,,,,フェイスレスはカリム社会から隔離された人里離れた村の出身で、生まれながらにして王の大聖堂に忠誠を誓っていた。,,,
-Black13CardDescription,Text,,Range 3. Followers shattered by this follower are considered sacrifices.,射程3。被此随从摧毁的随从被视为献祭,射程3。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程3。この従者によって破壊された従者は生贄とみなされる,,,
+Black13CardDescription,Text,,Range 3. Followers shattered by this follower are considered sacrifices.,射程3。被此随从消灭的随从被视为献祭,射程3。被此隨從摧毀的隨從被視為獻祭,,,,,,,射程3。この従者によって破壊された従者は生贄とみなされる,,,
 Black13CardName,Text,,Faceless Master,无面者大师,無面者大師,,,,,,,フェイスレスマスター,,,
 Black13FlavourText,Text,,The cursed bow is the preferred weapon of the faceless.,被腐蚀的弓箭是无面者一族的首选武器。,被腐蝕的弓箭是無面者一族的首選武器。,,,,,,,呪われた弓矢はフェイスレス一族御用達の武器である。,,,
 Black14CardDescription,Text,,Enter: Sacrifice a random adjacent allied follower and draw 1 card,进场：献祭一个随机的相邻友方随从并抽一张牌,進場：獻祭一個隨機的相鄰友方隨從並抽一張牌,,,,,,,エントリー：ランダムな隣接する味方従者を生贄にし、カードを1枚引く,,,
@@ -586,7 +586,7 @@ Black18FlavourText,Text,,Studies into summoning demons predate even the immortal
 Black19CardDescription,Text,,Gains 3 ATK for each other follower sacrificed,每有一个其他随从被献祭，获得3点攻击力,每有一個其他隨從被獻祭，獲得3點攻擊力,,,,,,,生贄にされた他の従者一体につき攻撃力を3獲得する,,,
 Black19CardName,Text,,Lord of Kalim Demons,卡利姆恶魔之主,卡利姆惡魔之主,,,,,,,カリム悪魔ロード,,,
 Black19FlavourText,Text,,"However, if demons are summoned too frequently, there exists a risk of souls becoming possessed and shattered.",但是，如果召唤恶魔的频率太高，就有灵魂被占有和毁灭的风险。,但是，如果召喚惡魔的頻率太高，就有靈魂被佔有和毀滅的風險。,,,,,,,ただし、悪魔召喚の頻度が高すぎると、魂が乗っ取られ、破滅に至る危険性がある。,,,
-Black20CardDescription,Text,,"Infest: Upon an attacked follower dies, incubate a new Cliff Dragon.",侵蚀：被攻击的随从被摧毁后，孵化一个新的崖龙,侵蝕：被攻擊的隨從被摧毀後，孵化一個新的崖龍,,,,,,,侵蚀：攻撃を受けた従者が死亡した後、新しいクリフ・ドラゴンを孵化させる,,,
+Black20CardDescription,Text,,"Infest: Upon an attacked follower dies, incubate a new Cliff Dragon.",侵蚀：被攻击的随从被消灭后，孵化一个新的崖龙,侵蝕：被攻擊的隨從被摧毀後，孵化一個新的崖龍,,,,,,,侵蚀：攻撃を受けた従者が死亡した後、新しいクリフ・ドラゴンを孵化させる,,,
 Black20CardName,Text,,Cliff Dragon,崖龙,崖龍,,,,,,,クリフ・ドラゴン,,,
 Black20FlavourText,Text,,,,,,,,,,,,,,
 Black21CardDescription,Text,,"When the follower is sacrificed, summon a {{Black22}} in its position.",献祭这个随从后，召唤一个{{Black22}}代替它,獻祭這個隨從後，召喚一個{{Black22}}代替它,,,,,,,この従者を生贄にした後、代わりに{{Black22}}を一体召喚する,,,
@@ -646,22 +646,22 @@ Black37FlavourText,Text,,The arrogance necessary to summon greater demons can on
 Black38CardDescription,Text,,"Enter: Raze 2. For each other follower sacrifice, gain +1/+1",进场：毁灭2。每有一个其他随从被献祭，获得+1/+1,進場：毀滅2。每有一個其他隨從被獻祭，獲得+1/+1,,,,,,,エントリー：破滅2。他の従者一体が生贄にされるたび、+1/+1を獲得する,,,
 Black38CardName,Text,,Archdemon,大魔王,大魔王,,,,,,,アーチデーモン,,,
 Black38FlavourText,Text,,,,,,,,,,,,,,
-Black39CardDescription,Text,,Defeated: deal 2 damage to adjacent units,被摧毁：对相邻单位造成2点伤害,被摧毀：對相鄰單位造成2點傷害,,,,,,,被摧毁：隣接するユニットに2ダメージを与える,,,
+Black39CardDescription,Text,,Defeated: deal 2 damage to adjacent units,被消灭：对相邻单位造成2点伤害,被摧毀：對相鄰單位造成2點傷害,,,,,,,被消灭：隣接するユニットに2ダメージを与える,,,
 Black39CardName,Text,,Tormented Kalim,受折磨的卡利姆人,受折磨的卡利姆人,,,,,,,トーメンテッドカリム人,,,
 Black39FlavourText,Text,,"Sadly, demon possession is common in Kalim.",可悲的是，恶魔占有在卡利姆很普遍。,可悲的是，惡魔佔有在卡利姆很普遍。,,,,,,,悲しいことに、カリムでは悪魔憑きがごく一般的な現象だ。,,,
-Black40CardDescription,Text,,Defeated: deal 4 damage to adjacent units,被摧毁：对相邻单位造成4点伤害,被摧毀：對相鄰單位造成4點傷害,,,,,,,被摧毁：隣接するユニットに4ダメージを与える,,,
+Black40CardDescription,Text,,Defeated: deal 4 damage to adjacent units,被消灭：对相邻单位造成4点伤害,被摧毀：對相鄰單位造成4點傷害,,,,,,,被消灭：隣接するユニットに4ダメージを与える,,,
 Black40CardName,Text,,Mad Kalims,疯狂的卡利姆人,瘋狂的卡利姆人,,,,,,,狂気のカリム人,,,
 Black40FlavourText,Text,,"Demons compel their hosts to harm those around them until they destroy themselves, spreading malice throughout the group.",恶魔驱使他们的宿主伤害他们周围的人，直到他们自我毁灭，将恶意传播到整个团体。,惡魔驅使他們的宿主傷害他們周圍的人，直到他們自我毀滅，將惡意傳播到整個團體。,,,,,,,悪魔は宿主が自滅するまで周囲の人間に危害を加えるように仕向け、団体全体に悪意をまき散らす。,,,
-Black41CardDescription,Text,,Defeated: deal 6 damage to adjacent units,被摧毁：对相邻单位造成6点伤害,被摧毀：對相鄰單位造成6點傷害,,,,,,,被摧毁：隣接するユニットに6ダメージを与える,,,
+Black41CardDescription,Text,,Defeated: deal 6 damage to adjacent units,被消灭：对相邻单位造成6点伤害,被摧毀：對相鄰單位造成6點傷害,,,,,,,被消灭：隣接するユニットに6ダメージを与える,,,
 Black41CardName,Text,,Demonized Kalim,着魔的卡利姆人,著魔的卡利姆人,,,,,,,魅入られたカリム人,,,
-Black41FlavourText,Text,,The worst case could destroy the entire group if they don't slow down.,如果不放慢脚步，最坏的情况可能会摧毁整个团体。,如果不放慢腳步，最壞的情況可能會摧毀整個團體。,,,,,,,歩を緩めなければ、最悪の場合、団体全体が壊滅しかねない。,,,
-Black42CardDescription,Text,,Defeated: Inflicts a knockback of 2 to adjacent followers (does not work on large heroes),被摧毁：对相邻的随从击退2（对大型英雄无效）,被摧毀：對相鄰的隨從擊退2（對大型英雄無效）,,,,,,,被摧毁：隣接する従者にノックバック2を与える （大型ヒーローには無効）,,,
+Black41FlavourText,Text,,The worst case could destroy the entire group if they don't slow down.,如果不放慢脚步，最坏的情况可能会消灭整个团体。,如果不放慢腳步，最壞的情況可能會摧毀整個團體。,,,,,,,歩を緩めなければ、最悪の場合、団体全体が壊滅しかねない。,,,
+Black42CardDescription,Text,,Defeated: Inflicts a knockback of 2 to adjacent followers (does not work on large heroes),被消灭：对相邻的随从击退2（对大型英雄无效）,被摧毀：對相鄰的隨從擊退2（對大型英雄無效）,,,,,,,被消灭：隣接する従者にノックバック2を与える （大型ヒーローには無効）,,,
 Black42CardName,Text,,Rock Cliff Bursters,岩崖爆裂者,岩崖爆裂者,,,,,,,ロック・クリフ・バースターズ,,,
 Black42FlavourText,Text,,Gaseous bellyworms living in destroyed cliffs evolve to explode upon death.,生活在破碎的悬崖中的气态腹虫进化成在死亡时会爆炸。,生活在破碎的懸崖中的氣態腹蟲進化成在死亡時會爆炸。,,,,,,,断崖絶壁に住む風船状の腹部を持つ虫、死ぬと爆発するように進化した。,,,
-Black43CardDescription,Text,,Defeated: Inflicts a knockback of 3 to adjacent followers (does not work on large heroes),被摧毁：对相邻的随从击退3（对大型英雄无效）,被摧毀：對相鄰的隨從擊退3（對大型英雄無效）,,,,,,,被摧毁：隣接する従者にノックバック3を与える（大型ヒーローには無効）,,,
+Black43CardDescription,Text,,Defeated: Inflicts a knockback of 3 to adjacent followers (does not work on large heroes),被消灭：对相邻的随从击退3（对大型英雄无效）,被摧毀：對相鄰的隨從擊退3（對大型英雄無效）,,,,,,,被消灭：隣接する従者にノックバック3を与える（大型ヒーローには無効）,,,
 Black43CardName,Text,,Large Rock Cliff Bursters,大型岩崖爆裂者,大型岩崖爆裂者,,,,,,,大型ロック・クリフ・バースターズ,,,
-Black43FlavourText,Text,,"Each worm can grow large enough to destroy houses upon death, however, they frequently crush each other on the cliffs, resulting in rockfalls at the time of their demise.",每只虫都可以长大到足以在死亡时摧毁房屋，但他们经常在悬崖上相互挤压，并因死亡而引起岩崩。,每只蟲都可以長大到足以在死亡時摧毀房屋，但他們經常在懸崖上相互擠壓，並因死亡而引起岩崩。,,,,,,,一匹一匹の虫は死ぬと家屋を破壊するほど大きく育ったが、そのせいで崖の上で互いに潰し合い、死に際の自爆で土砂崩れを引き起こすことも多い。,,,
-Black44CardDescription,Text,,Defeated: Inflicts a knockback of 4 to adjacent followers (does not work on large heroes),被摧毁：对相邻的随从击退4（对大型英雄无效）,被摧毀：對相鄰的隨從擊退4（對大型英雄無效）,,,,,,,被摧毁：隣接する従者にノックバック4を与える（大型ヒーローには無効）,,,
+Black43FlavourText,Text,,"Each worm can grow large enough to destroy houses upon death, however, they frequently crush each other on the cliffs, resulting in rockfalls at the time of their demise.",每只虫都可以长大到足以在死亡时消灭房屋，但他们经常在悬崖上相互挤压，并因死亡而引起岩崩。,每只蟲都可以長大到足以在死亡時摧毀房屋，但他們經常在懸崖上相互擠壓，並因死亡而引起岩崩。,,,,,,,一匹一匹の虫は死ぬと家屋を破壊するほど大きく育ったが、そのせいで崖の上で互いに潰し合い、死に際の自爆で土砂崩れを引き起こすことも多い。,,,
+Black44CardDescription,Text,,Defeated: Inflicts a knockback of 4 to adjacent followers (does not work on large heroes),被消灭：对相邻的随从击退4（对大型英雄无效）,被摧毀：對相鄰的隨從擊退4（對大型英雄無效）,,,,,,,被消灭：隣接する従者にノックバック4を与える（大型ヒーローには無効）,,,
 Black44CardName,Text,,Giant Rock Cliff Bursters,巨型岩崖爆裂者,巨型岩崖爆裂者,,,,,,,巨大ロック・クリフ・バースターズ,,,
 Black44FlavourText,Text,,The largest ones require careful hunting to prevent the collapse of villages beneath the cliffs,对于最大只的需要仔细狩猎，以免导致悬崖下的村庄倒塌。,對於最大只的需要仔細狩獵，以免導致懸崖下的村莊倒塌。,,,,,,,崖の下の村が崩壊に巻き込まれないように、最大級の虫は慎重に狩らなければならない。,,,
 Black45CardDescription,Text,,Enter: Sacrifice another random follower. Raze 1,进场：献祭另一个随机随从。毁灭1,進場：獻祭另一個隨機隨從。毀滅1,,,,,,,エントリー：別のランダムな従者を生贄にする。破滅1,,,
@@ -678,29 +678,29 @@ Black48CardName,Text,,Berserk Beast,狂暴猛兽,狂暴猛獸,,,,,,,狂暴猛獣
 Black48FlavourText,Text,,,,,,,,,,,,,,
 Black49CardDescription,Text,,Enter: Raze 1,进场：毁灭1,進場：毀滅1,,,,,,,エントリー：破滅1,,,
 Black49CardName,Text,,Scorpion,蝎子,蠍子,,,,,,,サソリ,,,
-Black49FlavourText,Text,,The venom of Kalim Scorpion obliterates all thoughts.,卡利姆蝎毒可以摧毁所有思想。,卡利姆蠍毒可以摧毀所有思想。,,,,,,,カリムのサソリ毒は全ての思考を破壊できる。,,,
+Black49FlavourText,Text,,The venom of Kalim Scorpion obliterates all thoughts.,卡利姆蝎毒可以消灭所有思想。,卡利姆蠍毒可以摧毀所有思想。,,,,,,,カリムのサソリ毒は全ての思考を破壊できる。,,,
 Black50CardDescription,Text,,Enter: Raze 1,进场：毁灭1,進場：毀滅1,,,,,,,エントリー：破滅1,,,
 Black50CardName,Text,,Flying Scorpion,飞掠蝎,飛掠蠍,,,,,,,フライング・サソリ,,,
 Black50FlavourText,Text,,The clicking sound emanating from the floor at night incites panic in Kalim.,晚上在地板上听到喀嗒声，是在卡利姆会恐慌的原因。,晚上在地板上聽到喀嗒聲，是在卡利姆會恐慌的原因。,,,,,,,夜中に床でカチカチという音がする、それがカリムでパニックに陥る原因の一つだ。,,,
 Black51CardDescription,Text,,Enter: Raze 1,进场：毁灭1,進場：毀滅1,,,,,,,エントリー：破滅1,,,
 Black51CardName,Text,,Venomous Scorpion,剧毒蝎,劇毒蠍,,,,,,,毒サソリ,,,
 Black51FlavourText,Text,,Some madmen have tried to eat scorpions. Few among them have a second chance.,一些疯子试图吃掉蝎子。他们之中极少有人能尝试两次。,一些瘋子試圖吃掉蠍子。他們之中極少有人能嘗試兩次。,,,,,,,一部の狂人がサソリを食べようとした。二回試すことができる人はほとんどいない。,,,
-Black52CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被摧毁：在其位置召唤一个没有该被摧毁：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被摧毁：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
+Black52CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被消灭：在其位置召唤一个没有该被消灭：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被消灭：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
 Black52CardName,Text,,Maggot Dragon Soldier,蛆龙士兵,蛆龍士兵,,,,,,,マゴットドラゴンソルジャー,,,
 Black52FlavourText,Text,,"Among all the slave legions of Kalim, the Maggot Dragon Soldier is the most legendary.",在卡利姆的所有奴隶军团中，蛆龙士兵最为传奇。,在卡利姆的所有奴隸軍團中，蛆龍士兵最為傳奇。,,,,,,,カリムの全ての奴隷軍団の中で、マゴットドラゴンソルジャーは最も伝説的な存在だ。,,,
-Black52NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被摧毁时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
+Black52NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被消灭时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
 Black52NoRespawnCardName,Text,,Maggot Dragon Soldier,蛆龙士兵,蛆龍士兵,,,,,,,マゴットドラゴンソルジャー,,,
 Black52NoRespawnFlavourText,Text,,,,,,,,,,,,,,
-Black53CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被摧毁：在其位置召唤一个没有该被摧毁：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被摧毁：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
+Black53CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被消灭：在其位置召唤一个没有该被消灭：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被消灭：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
 Black53CardName,Text,,Maggot Dragon Sergeant,蛆龙军士,蛆龍軍士,,,,,,,マゴットドラゴン軍曹,,,
 Black53FlavourText,Text,,"Initially, the legion was dispatched to hunt dragons with common weapons as a punishment for rebellion. However, the legion survived and thrived.",最初，该军团被送去以普通的武器狩猎龙，以示对叛乱的惩罚。然而军团幸存下来并茁壮发展。,最初，該軍團被送去以普通的武器狩獵龍，以示對叛亂的懲罰。然而軍團倖存下來並茁壯發展。,,,,,,,当初、この軍団は反乱への罰として、通常の武器でドラゴンを狩るように送り出された。しかし、軍団はその過酷な任務を生き残り、そして繁栄した。,,,
-Black53NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被摧毁时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
+Black53NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被消灭时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
 Black53NoRespawnCardName,Text,,Maggot Dragon Sergeant,蛆龙军士,蛆龍軍士,,,,,,,マゴットドラゴン軍曹,,,
 Black53NoRespawnFlavourText,Text,,,,,,,,,,,,,,
-Black54CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被摧毁：在其位置召唤一个没有该被摧毁：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被摧毁：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
+Black54CardDescription,Text,,Defeated: summon a replica without that Defeated effect and with haste in its position,被消灭：在其位置召唤一个没有该被消灭：效果，且带有急速的复制品,被摧毀：在其位置召喚一個沒有該被摧毀：效果，且帶有急速的複製品,,,,,,,被消灭：その位置にその「被破壊：効果」を持たず、急速を持つ複製品を一体召喚する,,,
 Black54CardName,Text,,Maggot Dragon Caption,蛆龙上尉,蛆龍上尉,,,,,,,マゴットドラゴン大尉,,,
 Black54FlavourText,Text,,"It is now considered the highest honor to serve in the legion, which has an abundance of soldier reserves",现在，能在该军团服役被认为是最高荣誉，并且拥有无数的士兵储备。,現在，能在該軍團服役被認為是最高榮譽，並且擁有無數的士兵儲備。,,,,,,,現在ではこの軍団で服役できることは最高の栄誉と見なされており、数え切れないほどの予備役兵士が存在する。,,,
-Black54NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被摧毁时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
+Black54NoRespawnCardDescription,Text,,"When the follower is shattered, exhaust this follower.",当这个随从被消灭时，移除该随从,當這個隨從被摧毀時，移除該隨從,,,,,,,この従者が破壊されると、この従者を削除する,,,
 Black54NoRespawnCardName,Text,,Maggot Dragon Caption,蛆龙上尉,蛆龍上尉,,,,,,,マゴットドラゴン大尉,,,
 Black54NoRespawnFlavourText,Text,,,,,,,,,,,,,,
 Black55CardDescription,Text,,"When a card is shattered, gain 1 ATK",当一张卡牌被毁灭时，获得1点攻击力,當一張卡牌被毀滅時，獲得1點攻擊力,,,,,,,カードが破滅させられるたびに、攻撃力を1獲得する,,,
@@ -730,82 +730,82 @@ Black62FlavourText,Text,,,,,,,,,,,,,,
 Black63CardDescription,Text,,"Range 3, Predator",射程3，掠食者,射程3，掠食者,,,,,,,射程3、捕食者,,,
 Black63CardName,Text,,Monstrous Frog,怪蛙,怪蛙,,,,,,,化けカエル,,,
 Black63FlavourText,Text,,,,,,,,,,,,,,
-Black64CardDescription,Text,,Defeated: Grant +1 / + 1 to adjacent units,被摧毁：给相邻单位+ 1 / + 1,被摧毀：給相鄰單位+ 1 / + 1,,,,,,,被摧毁：隣接するユニットに+1/+1を付与する,,,
+Black64CardDescription,Text,,Defeated: Grant +1 / + 1 to adjacent units,被消灭：给相邻单位+ 1 / + 1,被摧毀：給相鄰單位+ 1 / + 1,,,,,,,被消灭：隣接するユニットに+1/+1を付与する,,,
 Black64CardName,Text,,Blessed One,受祝福者,受祝福者,,,,,,,祝福されし者,,,
 Black64FlavourText,Text,,,,,,,,,,,,,,
-Black65CardDescription,Text,,Defeated: Grant +2 / + 2 to adjacent units,被摧毁：给相邻单位+ 2 / + 2,被摧毀：給相鄰單位+ 2 / + 2,,,,,,,被摧毁：隣接するユニットに+2/+2を付与する,,,
+Black65CardDescription,Text,,Defeated: Grant +2 / + 2 to adjacent units,被消灭：给相邻单位+ 2 / + 2,被摧毀：給相鄰單位+ 2 / + 2,,,,,,,被消灭：隣接するユニットに+2/+2を付与する,,,
 Black65CardName,Text,,High Blessed One,高等受祝福者,高等受祝福者,,,,,,,上級祝福されし者,,,
 Black65FlavourText,Text,,,,,,,,,,,,,,
-Black66CardDescription,Text,,Defeated: Grant +3 / + 3 to adjacent units,被摧毁：给相邻单位+ 3 / + 3,被摧毀：給相鄰單位+ 3 / + 3,,,,,,,被摧毁：隣接するユニットに+3/+3を付与する,,,
+Black66CardDescription,Text,,Defeated: Grant +3 / + 3 to adjacent units,被消灭：给相邻单位+ 3 / + 3,被摧毀：給相鄰單位+ 3 / + 3,,,,,,,被消灭：隣接するユニットに+3/+3を付与する,,,
 Black66CardName,Text,,Peak Blessed One,巅峰受祝福者,巔峰受祝福者,,,,,,,ピーク祝福されし者,,,
 Black66FlavourText,Text,,,,,,,,,,,,,,
-Black67CardDescription,Text,,Defeated: deals 2 damage to enemy heroes,被摧毁：对敌方英雄造成2点伤害,被摧毀：對敵方英雄造成2點傷害,,,,,,,被摧毁：敵ヒーローに2ダメージを与える,,,
+Black67CardDescription,Text,,Defeated: deals 2 damage to enemy heroes,被消灭：对敌方英雄造成2点伤害,被摧毀：對敵方英雄造成2點傷害,,,,,,,被消灭：敵ヒーローに2ダメージを与える,,,
 Black67CardName,Text,,Kalim Curse Engraver,卡利姆咒刻者,卡利姆咒刻者,,,,,,,カリム呪刻者,,,
 Black67FlavourText,Text,,,,,,,,,,,,,,
-Black68CardDescription,Text,,Defeated: deals 3 damage to enemy heroes,被摧毁：对敌方英雄造成3点伤害,被摧毀：對敵方英雄造成3點傷害,,,,,,,被摧毁：敵ヒーローに3ダメージを与える,,,
+Black68CardDescription,Text,,Defeated: deals 3 damage to enemy heroes,被消灭：对敌方英雄造成3点伤害,被摧毀：對敵方英雄造成3點傷害,,,,,,,被消灭：敵ヒーローに3ダメージを与える,,,
 Black68CardName,Text,,Tormented Curse Engraver,受折磨的咒刻者,受折磨的咒刻者,,,,,,,トーメンテッド呪刻者,,,
 Black68FlavourText,Text,,,,,,,,,,,,,,
-Black69CardDescription,Text,,Defeated: deals 4 damage to enemy heroes,被摧毁：对敌方英雄造成4点伤害,被摧毀：對敵方英雄造成4點傷害,,,,,,,被摧毁：敵ヒーローに4ダメージを与える,,,
+Black69CardDescription,Text,,Defeated: deals 4 damage to enemy heroes,被消灭：对敌方英雄造成4点伤害,被摧毀：對敵方英雄造成4點傷害,,,,,,,被消灭：敵ヒーローに4ダメージを与える,,,
 Black69CardName,Text,,Mad Curse Engraver,疯狂的咒刻者,瘋狂的咒刻者,,,,,,,狂気の呪刻者,,,
 Black69FlavourText,Text,,,,,,,,,,,,,,
-Black70CardDescription,Text,,Defeated: Chain: Deal 1 damage to enemy units,被摧毁：连锁：对敌方单位造成1点伤害,被摧毀：連鎖：對敵方單位造成1點傷害,,,,,,,被摧毁：連鎖：敵ユニットに1ダメージを与える,,,
+Black70CardDescription,Text,,Defeated: Chain: Deal 1 damage to enemy units,被消灭：连锁：对敌方单位造成1点伤害,被摧毀：連鎖：對敵方單位造成1點傷害,,,,,,,被消灭：連鎖：敵ユニットに1ダメージを与える,,,
 Black70CardName,Text,,Kalim Enchanted One,卡利姆灌魔人,卡利姆灌魔人,,,,,,,カリムの魔法注入されし者,,,
 Black70FlavourText,Text,,,,,,,,,,,,,,
-Black71CardDescription,Text,,Defeated: Chain: Deal 2 damage to enemy units,被摧毁：连锁：对敌方单位造成2点伤害,被摧毀：連鎖：對敵方單位造成2點傷害,,,,,,,被摧毁：連鎖：敵ユニットに2ダメージを与える,,,
+Black71CardDescription,Text,,Defeated: Chain: Deal 2 damage to enemy units,被消灭：连锁：对敌方单位造成2点伤害,被摧毀：連鎖：對敵方單位造成2點傷害,,,,,,,被消灭：連鎖：敵ユニットに2ダメージを与える,,,
 Black71CardName,Text,,Tormented Enchanted One,受折磨的灌魔人,受折磨的灌魔人,,,,,,,トーメンテッド魔法注入されし者,,,
 Black71FlavourText,Text,,,,,,,,,,,,,,
-Black72CardDescription,Text,,Defeated: Chain: Deal 3 damage to enemy units,被摧毁：连锁：对敌方单位造成3点伤害,被摧毀：連鎖：對敵方單位造成3點傷害,,,,,,,被摧毁：連鎖：敵ユニットに3ダメージを与える,,,
+Black72CardDescription,Text,,Defeated: Chain: Deal 3 damage to enemy units,被消灭：连锁：对敌方单位造成3点伤害,被摧毀：連鎖：對敵方單位造成3點傷害,,,,,,,被消灭：連鎖：敵ユニットに3ダメージを与える,,,
 Black72CardName,Text,,Mad Enchanted One,疯狂的灌魔人,瘋狂的灌魔人,,,,,,,狂気の魔法注入されし者,,,
 Black72FlavourText,Text,,,,,,,,,,,,,,
-Black73CardDescription,Text,,Defeated: draw a card.,被摧毁：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被摧毁：カードを1枚引く。,,,
+Black73CardDescription,Text,,Defeated: draw a card.,被消灭：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被消灭：カードを1枚引く。,,,
 Black73CardName,Text,,King's Librarian,国王图书管理员,國王圖書管理員,,,,,,,国王の司書,,,
 Black73FlavourText,Text,,,,,,,,,,,,,,
-Black74CardDescription,Text,,Defeated: draw a card.,被摧毁：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被摧毁：カードを1枚引く。,,,
+Black74CardDescription,Text,,Defeated: draw a card.,被消灭：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被消灭：カードを1枚引く。,,,
 Black74CardName,Text,,High Librarian,高等图书管理员,高等圖書管理員,,,,,,,上級司書,,,
 Black74FlavourText,Text,,,,,,,,,,,,,,
-Black75CardDescription,Text,,Defeated: draw a card.,被摧毁：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被摧毁：カードを1枚引く。,,,
+Black75CardDescription,Text,,Defeated: draw a card.,被消灭：抽一张牌。,被摧毀：抽一張牌。,,,,,,,被消灭：カードを1枚引く。,,,
 Black75CardName,Text,,Peak Librarian,巅峰图书管理员,巔峰圖書管理員,,,,,,,ピーク司書,,,
 Black75FlavourText,Text,,,,,,,,,,,,,,
-Black76CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被摧毁：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被摧毁：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
+Black76CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被消灭：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被消灭：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
 Black76CardName,Text,,Kalim Cleric,卡利姆教士,卡利姆教士,,,,,,,カリムクレリック,,,
 Black76FlavourText,Text,,,,,,,,,,,,,,
-Black77CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被摧毁：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被摧毁：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
+Black77CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被消灭：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被消灭：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
 Black77CardName,Text,,Kalim High Cleric,卡利姆高等教士,卡利姆高等教士,,,,,,,カリム上級クレリック,,,
 Black77FlavourText,Text,,,,,,,,,,,,,,
-Black78CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被摧毁：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被摧毁：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
+Black78CardDescription,Text,,Defeated: adjacent units gain {{CommonEffect31}} until the start of next turn,被消灭：直到下一回合开始，相邻单位获得{{CommonEffect31}},被摧毀：直到下一回合開始，相鄰單位獲得{{CommonEffect31}},,,,,,,被消灭：次のターンまで、隣接するユニットは{{CommonEffect31}}を獲得する,,,
 Black78CardName,Text,,Kalim Peak Cleric,卡利姆巅峰教士,卡利姆巔峰教士,,,,,,,カリムピーククレリック,,,
 Black78FlavourText,Text,,,,,,,,,,,,,,
 Black79CardDescription,Text,,"When played, draw a card.
 
 Defeated: Add a replica of this card to the deck","打出时，抽一张牌。
 
-被摧毁：将此卡的复制品添加到卡组中","打出時，抽一張牌。
+被消灭：将此卡的复制品添加到卡组中","打出時，抽一張牌。
 
 被摧毀：將此卡的複製品添加到卡組中",,,,,,,"フィールドに出すと、カードを1枚引く。
 
-被摧毁：このカードの複製品をデッキに追加する",,,
+被消灭：このカードの複製品をデッキに追加する",,,
 Black79CardName,Text,,Kalim Militia,卡利姆民兵,卡利姆民兵,,,,,,,カリム民兵,,,
 Black79FlavourText,Text,,,,,,,,,,,,,,
 Black80CardDescription,Text,,"When played, draw a card.
 
 Defeated: Add a replica of this card to the deck","打出时，抽一张牌。
 
-被摧毁：将此卡的复制品添加到卡组中","打出時，抽一張牌。
+被消灭：将此卡的复制品添加到卡组中","打出時，抽一張牌。
 
 被摧毀：將此卡的複製品添加到卡組中",,,,,,,"フィールドに出すと、カードを1枚引く。
 
-被摧毁：このカードの複製品をデッキに追加する",,,
+被消灭：このカードの複製品をデッキに追加する",,,
 Black80CardName,Text,,Kalim High Militia,卡利姆高等民兵,卡利姆高等民兵,,,,,,,カリム上級民兵,,,
 Black80FlavourText,Text,,,,,,,,,,,,,,
 Black81CardDescription,Text,,"When played, draw a card.
 
 Defeated: Add a replica of this card to the deck","打出时，抽一张牌。
 
-被摧毁：将此卡的复制品添加到卡组中","打出時，抽一張牌。
+被消灭：将此卡的复制品添加到卡组中","打出時，抽一張牌。
 
 被摧毀：將此卡的複製品添加到卡組中",,,,,,,"フィールドに出すと、カードを1枚引く。
 
-被摧毁：このカードの複製品をデッキに追加する",,,
+被消灭：このカードの複製品をデッキに追加する",,,
 Black81CardName,Text,,Kalim's Peak Militia,卡利姆巅峰民兵,卡利姆巔峰民兵,,,,,,,カリムピーク民兵,,,
 Black81FlavourText,Text,,,,,,,,,,,,,,
 Black82CardDescription,Text,,Allied units attacked by this follower will be sacrificed,被该随从攻击的友方单位将被献祭,被該隨從攻擊的友方單位將被獻祭,,,,,,,この従者に攻撃された味方ユニットは生贄にされる,,,
@@ -839,28 +839,28 @@ Black89FlavourText,Text,,,,,,,,,,,,,,
 Black90CardDescription,Text,,"If any cards have shattered this turn, that follower gains Predator",该回合如果有卡牌被毁灭，该随从获得掠食者,該回合如果有卡牌被毀滅，該隨從獲得掠食者,,,,,,,このターンにカードが破滅させられた場合、この従者は捕食者を獲得する,,,
 Black90CardName,Text,,Giant Ritual Beast,巨型仪式野兽,巨型儀式野獸,,,,,,,巨大儀式ビースト,,,
 Black90FlavourText,Text,,,,,,,,,,,,,,
-Black91CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 1 point of infected plague",连击1。侵蚀：当受侵蚀的单位被摧毁时，每1点侵蚀的灾祸对敌方英雄造成1点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成1點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに1ダメージを与える,,,
+Black91CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 1 point of infected plague",连击1。侵蚀：当受侵蚀的单位被消灭时，每1点侵蚀的灾祸对敌方英雄造成1点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成1點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに1ダメージを与える,,,
 Black91CardName,Text,,Plagueblade,"瘟疫之刃
 ","瘟疫之刃
 ",,,,,,,"疫病の刃
 ",,,
 Black91FlavourText,Text,,,,,,,,,,,,,,
-Black92CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 1 point of infected plague",连击1。侵蚀：当受侵蚀的单位被摧毁时，每1点侵蚀的灾祸对敌方英雄造成1点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成1點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに1ダメージを与える,,,
+Black92CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 1 point of infected plague",连击1。侵蚀：当受侵蚀的单位被消灭时，每1点侵蚀的灾祸对敌方英雄造成1点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成1點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに1ダメージを与える,,,
 Black92CardName,Text,,High Plagueblade,"高等瘟疫之刃
 ","高等瘟疫之刃
 ",,,,,,,"上級疫病の刃
 ",,,
 Black92FlavourText,Text,,,,,,,,,,,,,,
-Black93CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 2 points of infected plague",连击1。侵蚀：当受侵蚀的单位被摧毁时，每1点侵蚀的灾祸对敌方英雄造成2点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成2點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに2ダメージを与える,,,
+Black93CardDescription,Text,,"Combo 1. Infest: when an infected unit is shattered, inflict 1 damage to the enemy hero for every 2 points of infected plague",连击1。侵蚀：当受侵蚀的单位被消灭时，每1点侵蚀的灾祸对敌方英雄造成2点伤害,連擊1。侵蝕：當受侵蝕的單位被摧毀時，每1點侵蝕的災禍對敵方英雄造成2點傷害,,,,,,,連撃1侵蚀：侵蚀したユニットが破壊されると、侵蚀した災禍1ポイントにつき、敵のヒーローに2ダメージを与える,,,
 Black93CardName,Text,,Peak Plagueblade,巅峰瘟疫之刃,巔峰瘟疫之刃,,,,,,,ピーク疫病の刃,,,
 Black93FlavourText,Text,,,,,,,,,,,,,,
-Black94CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +1/+0",侵蚀：摧毁此随从时，相邻的玩家单位获得+1 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+1 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+1/+0を獲得する,,,
+Black94CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +1/+0",侵蚀：消灭此随从时，相邻的玩家单位获得+1 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+1 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+1/+0を獲得する,,,
 Black94CardName,Text,,Skinner,剥皮匠,剝皮匠,,,,,,,皮剥ぎ,,,
 Black94FlavourText,Text,,,,,,,,,,,,,,
-Black95CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +2/+0",侵蚀：摧毁此随从时，相邻的玩家单位获得+2 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+2 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+2/+0を獲得する,,,
+Black95CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +2/+0",侵蚀：消灭此随从时，相邻的玩家单位获得+2 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+2 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+2/+0を獲得する,,,
 Black95CardName,Text,,Tormented Skinner,受折磨的剥皮匠,受折磨的剝皮匠,,,,,,,トーメンテッド皮剥ぎ,,,
 Black95FlavourText,Text,,,,,,,,,,,,,,
-Black96CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +3/+0",侵蚀：摧毁此随从时，相邻的玩家单位获得+3 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+3 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+3/+0を獲得する,,,
+Black96CardDescription,Text,,"Infest: When the follower is shattered, adjacent player units gain +3/+0",侵蚀：消灭此随从时，相邻的玩家单位获得+3 /+0,侵蝕：摧毀此隨從時，相鄰的玩家單位獲得+3 /+0,,,,,,,侵蚀：この従者を破壊すると、隣接するプレイヤーのユニットが+3/+0を獲得する,,,
 Black96CardName,Text,,Mad Skinner,疯狂的剥皮匠,瘋狂的剝皮匠,,,,,,,狂気の皮剥ぎ,,,
 Black96FlavourText,Text,,,,,,,,,,,,,,
 Black97CardDescription,Text,,Infest: Chain: Deal 1 damage to enemy units,侵蚀：连锁：对敌方单位造成1点伤害,侵蝕：連鎖：對敵方單位造成1點傷害,,,,,,,侵蚀：連鎖：敵ユニットに1ダメージを与える,,,
@@ -902,16 +902,16 @@ BossHydraHeadCardDescription,Text,,"Attack: Steals 1 ATK from the target
 
 Defeated: Summons 2 copies of yourself on random tiles and restores the mana lost by the opponent due to {{Constrict}}.","攻击：偷取目标1点攻击力
 
-被摧毁：在随机空格召唤2个自己，并还原对手由{{Constrict}}失去的法力","攻擊：偷取目標1點攻擊力
+被消灭：在随机空格召唤2个自己，并还原对手由{{Constrict}}失去的法力","攻擊：偷取目標1點攻擊力
 
 被摧毀：在隨機空格召喚2個自己，並還原對手由{{Constrict}}失去的法力",,,,,,,"攻撃：ターゲットの攻撃力を1盗む
 
-被摧毁：ランダムな空きマスで自分を2個召喚し、相手の{{Constrict}}によって失ったマナを回復する",,,
+被消灭：ランダムな空きマスで自分を2個召喚し、相手の{{Constrict}}によって失ったマナを回復する",,,
 BossHydraHeadCardName,Text,,Eye of Deception,嗡嗡铃,嗡嗡鈴,,,,,,,虚妄の目,,,
 BossNeckSectionCardDescription,Text,,"Attack inflicts Stunned
 
 When moving, a new Eye of Deception on the tile it previously occupied. When either the void eye or itself is shattered, the other will be shattered simultaneously.","攻击施加晕眩。
-移动时在其之前所在格子生出一个新的嗡嗡铃。当它或本体被摧毁时，另一者也同时被摧毁。","攻擊施加暈眩。
+移动时在其之前所在格子生出一个新的嗡嗡铃。当它或本体被消灭时，另一者也同时被消灭。","攻擊施加暈眩。
 移動時在其之前所在格子生出一個新的嗡嗡鈴。當它或本體被摧毀時，另一者也同時被摧毀。",,,,,,,"攻撃時にスタン効果を付与する。
 移動時、前のマスに新しい虚妄の目を生み出す。虚妄の目または本体が破壊されると、相手も同時に破壊される。",,,
 BossNeckSectionCardName,Text,,Eye of Deception,嗡嗡铃,嗡嗡鈴,,,,,,,虚妄の目,,,
@@ -1021,7 +1021,7 @@ ChaosElementalMageCardName,Text,,Eight Bats,八大蝠,八大蝠,,,,,,,八大コ�
 ChaosEncounter8CardDescription,Text,,"""Frequent casting of elements can easily attract [Chaos]. If not dealt with in time, the consequences are your own responsibility."" - Article 14 of the ""Apprentice Code of Conduct"" at the Mage's Academy.",“频繁施放元素易招来【混沌】，若未及时处理，后果自负。”——《魔导学院学徒守则》第十四条。,“頻繁施放元素易招來【混沌】，若未及時處理，後果自負。”——《魔導學院學徒守則》第十四條,,,,,,,「元素を頻繁に発動すると、【カオス】を引き寄せやすい、迅速に対処しなければ、その結果は自己責任となる。」ーー『魔導学院見習い規程』第十四条,,,
 ChaosEncounter8CardName,Text,,Chaos,混沌,混沌,,,,,,,カオス,,,
 Character Sheet,Text,,Character Details,角色详情,角色詳情,,,,,,,キャラクター詳細情報,,,
-ChimoInfectionCardDescription,Text,,"When an infest follower is defeated, generate a {{HeroInfectedChimo}} in its original location.",被侵蚀的随从在被摧毁时，会在其原位置生成一个{{HeroInfectedChimo}},被侵蝕的隨從在被摧毀時，會在其原位置生成一個{{HeroInfectedChimo}},,,,,,,侵蚀した従者が死亡すると、元の位置に{{HeroInfectedChimo}}を一体生成する,,,
+ChimoInfectionCardDescription,Text,,"When an infest follower is defeated, generate a {{HeroInfectedChimo}} in its original location.",被侵蚀的随从在被消灭时，会在其原位置生成一个{{HeroInfectedChimo}},被侵蝕的隨從在被摧毀時，會在其原位置生成一個{{HeroInfectedChimo}},,,,,,,侵蚀した従者が死亡すると、元の位置に{{HeroInfectedChimo}}を一体生成する,,,
 ChimoInfectionCardName,Text,,Infest,侵蚀,侵蝕,,,,,,,侵蚀,,,
 Choice2HealthCardDescription,Text,,"Lose 6 HP
 
@@ -1352,12 +1352,12 @@ CloakOfLightCardDescription,Text,,Shatter an allied follower and summon a {{Less
 CloakOfLightCardName,Text,,Lash Armor,鞭笞装甲,鞭笞裝甲,,,,,,,笞罪装甲,,,
 CloakOfLightEffectCardDescription,Text,,Adjacent enemies take 3 damage at the end of your turn,相邻敌人在你的回合结束时受到3点伤害,相鄰敵人在你的回合結束時受到3點傷害,,,,,,,隣接する敵は、あなたのターン終了時に3ダメージを受ける,,,
 CloakOfLightEffectCardName,Text,,Light Cloak,光明披风,光明披風,,,,,,,光のマント,,,
-ClockworkAssassinCardDescription,Text,,Combo 2. Defeated: Deal 6 damage to the unit that shatters this follower,连击2。被摧毁：对摧毁此随从的单位造成6点伤害,連擊2。被摧毀：對摧毀此隨從的單位造成6點傷害,,,,,,,連撃2。被摧毁：この従者を破壊したユニットに6ダメージを与える,,,
+ClockworkAssassinCardDescription,Text,,Combo 2. Defeated: Deal 6 damage to the unit that shatters this follower,连击2。被消灭：对消灭此随从的单位造成6点伤害,連擊2。被摧毀：對摧毀此隨從的單位造成6點傷害,,,,,,,連撃2。被消灭：この従者を破壊したユニットに6ダメージを与える,,,
 ClockworkAssassinCardName,Text,,Stealing Lantern Bat,偷食的冥灯蝙蝠,偷食的冥燈蝙蝠,,,,,,,盗み食いの冥灯コウモリ,,,
 ClockworkBombCardDescription,Text,,"Cannot attack or move
 Move: Shatters this unit and deals 2 damage to all units on the same row 2 times","无法攻击和移动
 
-移动：摧毁本单位，对同一行上的所有敌方单位造成2点伤害2次","無法攻擊和移動
+移动：消灭本单位，对同一行上的所有敌方单位造成2点伤害2次","無法攻擊和移動
 
 移動：摧毀本單位，對同一行上的所有敵方單位造成2點傷害2次",,,,,,,"攻撃も移動もできない
 移動：このユニットを破壊し、同じ行にいる全ての敵に2ダメージを2回与える",,,
@@ -1388,7 +1388,7 @@ CoilOfPainCardDescription,Text,,Deals 2 damage to an enemy unit within Range 2 a
 CoilOfPainCardName,Text,,Magic Bullet Toss,魔弹抛掷,魔彈拋擲,,,,,,,魔弾トス,,,
 ColorfulEnergyCardDescription,Text,,Inflicts random elemental affliction and Slow to all enemy units,为所有敌方单位施加随机元素附着和减速,為所有敵方單位施加隨機元素附著和減速,,,,,,,全ての敵ユニットにランダムな元素付着とス減速を付与する,,,
 ColorfulEnergyCardName,Text,,Prismatic Bloom,幻彩绽放,幻彩綻放,,,,,,,イリュソリー・ブルーム,,,
-CommissarSpellCardDescription,Text,,Shatters an allied follower; grants other followers Dash 1 and Combo 1 until the end of the turn,摧毁一个友方随从；并给其他随从冲刺1和连击1，直到回合结束,摧毀一個友方隨從；並給其他隨從衝刺1和連擊1，直到回合結束,,,,,,,味方従者を一体破壊し。ターン終了時まで、他の従者にダッシュ1と連撃1を付与する,,,
+CommissarSpellCardDescription,Text,,Shatters an allied follower; grants other followers Dash 1 and Combo 1 until the end of the turn,消灭一个友方随从；并给其他随从冲刺1和连击1，直到回合结束,摧毀一個友方隨從；並給其他隨從衝刺1和連擊1，直到回合結束,,,,,,,味方従者を一体破壊し。ターン終了時まで、他の従者にダッシュ1と連撃1を付与する,,,
 CommissarSpellCardName,Text,,Seventh Circle,第七狱地委,第七獄地委,,,,,,,第七地獄の委員,,,
 Commit,Text,,,提交,提交,,,,,,,,,,
 Common Cards,Text,,,,,,,,,,,,,,
@@ -1450,7 +1450,7 @@ CommonEffect08CardDescription,Text,,Double basic ATK until end of turn,双倍基
 CommonEffect08CardName,Text,,Enhance,强化,強化,,,,,,,強化,,,
 CommonEffect09CardDescription,Text,,Increase the ATK of all your units by 2,你的所有单位增加2点攻击力,你的所有單位增加2點攻擊力,,,,,,,あなたのすべてのユニットの攻撃力+2,,,
 CommonEffect09CardName,Text,,Unity,团结,團結,,,,,,,団結,,,
-CommonEffect10CardDescription,Text,,"When this unit is shattered, restore it to full HP, it cannot be attacked for 1 turn.",当本单位被摧毁时，将其恢复至满生命值并在1回合内无法被攻击,當本單位被摧毀時，將其恢復至滿生命值並在1回合內無法被攻擊,,,,,,,このユニットが破壊されると、HP上限まで回復させ、1ターンの間攻撃受けなくなる,,,
+CommonEffect10CardDescription,Text,,"When this unit is shattered, restore it to full HP, it cannot be attacked for 1 turn.",当本单位被消灭时，将其恢复至满生命值并在1回合内无法被攻击,當本單位被摧毀時，將其恢復至滿生命值並在1回合內無法被攻擊,,,,,,,このユニットが破壊されると、HP上限まで回復させ、1ターンの間攻撃受けなくなる,,,
 CommonEffect10CardName,Text,,Rebirth,重生,重生,,,,,,,転生,,,
 CommonEffect11CardDescription,Text,,Cannot be targeted by enemies. Protect status decreases by 1 at the start of each turn.,无法被敌人作为目标。每回合开始时保护状态值减1,無法被敵人作為目標。每回合開始時保護狀態值減1,,,,,,,敵にターゲットにされない。各ターン開始時、保護状態値-1,,,
 CommonEffect11CardName,Text,,Protect,保护,保護,,,,,,,保護,,,
@@ -1458,9 +1458,9 @@ CommonEffect12CardDescription,Text,,"Take X damage at the start of turn. Burn Po
 CommonEffect12CardName,Text,,Burn,灼烧,灼燒,,,,,,,燃焼,,,
 CommonEffect14CardDescription,Text,,Reduces ATK equal to Weakened value by -1 at end of turn,降低等于虚弱值的攻击力，回合结束时，虚弱值-1,降低等於虛弱值的攻擊力，回合結束時，虛弱值-1,,,,,,,虚弱値に等しい攻撃力を低下させる。ターン終了時に、虚弱値-1,,,
 CommonEffect14CardName,Text,,Weakened,虚弱,虛弱,,,,,,,虚弱,,,
-CommonEffect15CardDescription,Text,,"When shattered, incubates a follower with this effect in its place.",被摧毁时，在其位置孵化一个带有此效果的随从。,被摧毀時，在其位置孵化一個帶有此效果的隨從。,,,,,,,破壊されるとこの効果を持つ従者がその位置に孵化する。,,,
+CommonEffect15CardDescription,Text,,"When shattered, incubates a follower with this effect in its place.",被消灭时，在其位置孵化一个带有此效果的随从。,被摧毀時，在其位置孵化一個帶有此效果的隨從。,,,,,,,破壊されるとこの効果を持つ従者がその位置に孵化する。,,,
 CommonEffect15CardName,Text,,Infest,侵蚀,侵蝕,,,,,,,侵蚀,,,
-CommonEffect16CardDescription,Text,,Gain the ATK of the follower shattered by this unit,获得被本单位摧毁随从的攻击力,獲得被本單位摧毀隨從的攻擊力,,,,,,,このユニットが破壊した従者の攻撃力を獲得する,,,
+CommonEffect16CardDescription,Text,,Gain the ATK of the follower shattered by this unit,获得被本单位消灭随从的攻击力,獲得被本單位摧毀隨從的攻擊力,,,,,,,このユニットが破壊した従者の攻撃力を獲得する,,,
 CommonEffect16CardName,Text,,Devour,吞食,吞食,,,,,,,呑食,,,
 CommonEffect17CardDescription,Text,,Move extra X times,每层可额外移动1次,每層可額外移動1次,,,,,,,追加でX回移動できる,,,
 CommonEffect17CardName,Text,,Thrust,突进,突進,,,,,,,突進,,,
@@ -1468,7 +1468,7 @@ CommonEffect18CardDescription,Text,,Reduces ATK equal to this value,降低等于
 CommonEffect18CardName,Text,,Weaken,弱化,弱化,,,,,,,弱体化,,,
 CommonEffect19CardDescription,Text,,"Once per turn, immediately performs an extra attack against enemies that move or are summoned to adjacent tile",一回合一次，对移动、被召唤到相邻格子的敌人立即进行一次额外攻击,一回合一次，對移動、被召喚到相鄰格子的敵人立即進行一次額外攻擊,,,,,,,1ターンに1回。移動、隣接するマスに召喚された敵に、すぐに追加攻撃を1回与える,,,
 CommonEffect19CardName,Text,,Guardian,守卫,守衛,,,,,,,守衛,,,
-CommonEffect20CardDescription,Text,,"When this card is discarded or shattered, exhaust it from the game",当这张卡被丢弃或摧毁时，从游戏中移除,當這張卡被丟棄或摧毀時，從遊戲中移除,,,,,,,このカードが廃棄または破壊された場合、ゲームから削除される,,,
+CommonEffect20CardDescription,Text,,"When this card is discarded or shattered, exhaust it from the game",当这张卡被丢弃或消灭时，从游戏中移除,當這張卡被丟棄或摧毀時，從遊戲中移除,,,,,,,このカードが廃棄または破壊された場合、ゲームから削除される,,,
 CommonEffect20CardName,Text,,Replica,复制品,複製品,,,,,,,複製品,,,
 CommonEffect21CardDescription,Text,,"When attacked within range and surviving, automatically makes an attack",当受到射程内的目标攻击并存活时，自动进行一次攻击,當受到射程內的目標攻擊並存活時，自動進行一次攻擊,,,,,,,射程内のターゲットから攻撃を受けて生き残った場合、自動的に攻撃を1回与える,,,
 CommonEffect21CardName,Text,,Counterattack,反击,反擊,,,,,,,反撃,,,
@@ -1521,13 +1521,13 @@ CommonEffect32aCardName,Text,,Predator,"掠食者
 ","掠食者
 ",,,,,,,"捕食者
 ",,,
-CommonEffect33CardDescription,Text,,Defeated: Deals damage to your hero equal to the specified value,被摧毁：对己方英雄造成相应数字的伤害,被摧毀：對己方英雄造成相應數字的傷害,,,,,,,被摧毁：味方ヒーローに対応する値のダメージを与える,,,
+CommonEffect33CardDescription,Text,,Defeated: Deals damage to your hero equal to the specified value,被消灭：对己方英雄造成相应数字的伤害,被摧毀：對己方英雄造成相應數字的傷害,,,,,,,被消灭：味方ヒーローに対応する値のダメージを与える,,,
 CommonEffect33CardName,Text,,Disaster,灾祸,災禍,,,,,,,災害,,,
-CommonEffect34CardDescription,Text,,Defeated: Grants ATK to an adjacent enemy unit equal to the specified value,被摧毁：相邻敌方单位获得相应数字的攻击力,被摧毀：相鄰敵方單位獲得相應數位的攻擊力,,,,,,,被摧毁：隣接する敵ユニットが対応する値の攻撃力を獲得する,,,
+CommonEffect34CardDescription,Text,,Defeated: Grants ATK to an adjacent enemy unit equal to the specified value,被消灭：相邻敌方单位获得相应数字的攻击力,被摧毀：相鄰敵方單位獲得相應數位的攻擊力,,,,,,,被消灭：隣接する敵ユニットが対応する値の攻撃力を獲得する,,,
 CommonEffect34CardName,Text,,Sliced,被切割,被切割,,,,,,,切断される,,,
-CommonEffect35CardDescription,Text,,Defeated: Chain: Deals damage equal to a specified value to adjacent unit,被摧毁：连锁：对相邻单位造成相应数字的伤害,被摧毀：連鎖：對相鄰單位造成相應數位的傷害,,,,,,,被摧毁：連鎖：隣接するユニットに対応する値のダメージを与える,,,
+CommonEffect35CardDescription,Text,,Defeated: Chain: Deals damage equal to a specified value to adjacent unit,被消灭：连锁：对相邻单位造成相应数字的伤害,被摧毀：連鎖：對相鄰單位造成相應數位的傷害,,,,,,,被消灭：連鎖：隣接するユニットに対応する値のダメージを与える,,,
 CommonEffect35CardName,Text,,Remote Controlled,被遥控,被遙控,,,,,,,遠隔操作される,,,
-CommonEffect36CardDescription,Text,,Defeated: adjacent unit gains Predator,被摧毁：相邻单位获得掠食者,被摧毀：相鄰單位獲得掠食者,,,,,,,被摧毁：隣接するユニットが捕食者を獲得する,,,
+CommonEffect36CardDescription,Text,,Defeated: adjacent unit gains Predator,被消灭：相邻单位获得掠食者,被摧毀：相鄰單位獲得掠食者,,,,,,,被消灭：隣接するユニットが捕食者を獲得する,,,
 CommonEffect36CardName,Text,,Infested Predator,"被侵蚀的掠食者
 ","被侵蝕的掠食者
 ",,,,,,,"侵蚀した捕食者
@@ -1715,27 +1715,27 @@ ConsumeHealingPotiontPrompt,Text,,Confirm to consume a potion to heal? (It will 
 ConsumeKeywordDescription,Text,,"Upon use, permanently remove this card from your deck",使用后，从卡组里永久删除这张卡,使用後，從卡組裡永久刪除這張卡,,,,,,,使用後、デッキからこのカードを永久に削除する,,,
 ConsumeKeywordName,Text,,Consumable,消耗品,消耗品,,,,,,,消耗品,,,
 Continue,Text,,Continue,继续,繼續,,,,,,,続く,,,
-ControlledEffectCardDescription,Text,,Return to the opponent's discard pile after shattering,摧毁后返回对手的弃牌区,摧毀後返回對手的棄牌區,,,,,,,破壊後、相手の捨て札に戻される,,,
+ControlledEffectCardDescription,Text,,Return to the opponent's discard pile after shattering,消灭后返回对手的弃牌区,摧毀後返回對手的棄牌區,,,,,,,破壊後、相手の捨て札に戻される,,,
 ControlledEffectCardName,Text,,Under control,受控,受控,,,,,,,制御されている,,,
-ControlledGestaltCardDescription,Text,,Range 2. Gain a {{AshLegionSpearman}} for each shattered enemy follower,射程2。每有一个敌方随从被摧毁时，获得一张{{AshLegionSpearman}},射程2。每有一個敵方隨從被摧毀時，獲得一張{{AshLegionSpearman}},,,,,,,射程2。敵の従者が破壊されるたびに、{{AshLegionSpearman}}を一枚獲得する,,,
+ControlledGestaltCardDescription,Text,,Range 2. Gain a {{AshLegionSpearman}} for each shattered enemy follower,射程2。每有一个敌方随从被消灭时，获得一张{{AshLegionSpearman}},射程2。每有一個敵方隨從被摧毀時，獲得一張{{AshLegionSpearman}},,,,,,,射程2。敵の従者が破壊されるたびに、{{AshLegionSpearman}}を一枚獲得する,,,
 ControlledGestaltCardName,Text,,Bones Royal Wizard,骨头皇家巫师,骨頭皇家巫師,,,,,,,王家ボーンウィザード,,,
 Convert,Text,,Convert to gold,转成金币,轉成金幣,,,,,,,金貨に変換する,,,
 ConvertGoldPrompt,Text,,"Select the treasure card you wish to convert to gold, remaining cards will stay in the game for this round.",选择你想要转换为金币的宝藏卡，其余宝藏卡将会被继续保留在本轮游戏中。,選擇你想要轉換為金幣的寶藏卡，其餘寶藏卡將會被繼續保留在本輪遊戲中。,,,,,,,金貨に変換したい宝物カードを選択してください、他の宝物カードはこのラウンドのゲームに残ります。,,,
 CooldownKeywordDescription,Text,,Cooldown turns of an artifact after usage,使用圣器后，需要等待才能再次使用的回合数,使用聖器後，需要等待才能再次使用的回合數,,,,,,,聖器を使用した後、再び使用可能になるまでのターン数,,,
 CooldownKeywordName,Text,,Cooldown,冷却时间,冷卻時間,,,,,,,クールダウン,,,
-CopyKeywordDescription,Text,,"Disappears upon being played, shattered, or discarded",在被打出，摧毁或弃牌后消失,在被打出，摧毀或棄牌後消失,,,,,,,フィールドに出され、破壊され、または廃棄された後に消滅する,,,
+CopyKeywordDescription,Text,,"Disappears upon being played, shattered, or discarded",在被打出，消灭或弃牌后消失,在被打出，摧毀或棄牌後消失,,,,,,,フィールドに出され、破壊され、または廃棄された後に消滅する,,,
 CopyKeywordName,Text,,Replica,复制品,複製品,,,,,,,複製品,,,
 CoreFlameCardDescription,Text,,Grant +2/+1 to adjacent allied followers at the end of your turn,在你的回合结束时，使相邻友方随从+2/+1,在你的回合結束時，使相鄰友方隨從+2/+1,,,,,,,あなたのターン終了時、隣接する味方従者に+2/+1を付与する,,,
 CoreFlameCardName,Text,,Core Flame,核心火焰,核心火焰,,,,,,,コアの炎,,,
 CoreHydraCardDescription,Text,,"Toughness 6, cannot move
 Whenever a {{BossHydraHead}} dies, inherits its gained ATK and reduces Toughness stack by 1","坚硬6，无法移动
-每当1个{{BossHydraHead}}被摧毁时，继承它所获得的攻击力，并减少1层坚硬","堅硬6，無法移動
+每当1个{{BossHydraHead}}被消灭时，继承它所获得的攻击力，并减少1层坚硬","堅硬6，無法移動
 每當1個{{BossHydraHead}}被摧毀時，繼承它所獲得的攻擊力，並減少1層堅硬",,,,,,,"堅固6、移動不能
 {{BossHydraHead}}が1体死亡するたびに、相手の獲得した攻撃力を受け継ぎ、堅固が1スタック減少する",,,
 CoreHydraCardName,Text,,Recalling Buddha,奶瓶龙,億亦佛,,,,,,,記憶の仏,,,
 CoreHydraMageCardDescription,Text,,"Toughness 6, cannot move
 Whenever a {{BossHydraHead}} dies, inherits its gained ATK and reduces Toughness stack by 1","坚硬6，无法移动
-每当1个{{BossHydraHead}}被摧毁时，继承它所获得的攻击力，并减少1层坚硬","堅硬6，無法移動
+每当1个{{BossHydraHead}}被消灭时，继承它所获得的攻击力，并减少1层坚硬","堅硬6，無法移動
 每當1個{{BossHydraHead}}被摧毀時，繼承它所獲得的攻擊力，並減少1層堅硬",,,,,,,"堅固6、移動不能
 {{BossHydraHead}}が1体死亡するたびに、相手の獲得した攻撃力を受け継ぎ、堅固が1スタック減少する",,,
 CoreHydraMageCardName,Text,,Recalling Buddha,奶瓶龙,億亦佛,,,,,,,記憶の仏,,,
@@ -1745,7 +1745,7 @@ CostModifierAlSpells1CardDescription,Text,,Card cost increases by 1 for this tur
 CostModifierAlSpells1CardName,Text,,High Tide,涨潮,漲潮,,,,,,,満潮,,,
 CostModifierAlSpellsCardDescription,Text,,Card Cost +1,卡牌消耗+1,卡牌消耗+1,,,,,,,カード消費+1,,,
 CostModifierAlSpellsCardName,Text,,High Tide,涨潮,漲潮,,,,,,,満潮,,,
-CostOfHealingCardDescription,Text,,Shatter an allied follower and restore 6 HP,摧毁一个友方随从，恢复自身6点生命,摧毀一個友方隨從，恢復自身6點生命,,,,,,,味方従者一体を破壊して、自身のHPを6回復する,,,
+CostOfHealingCardDescription,Text,,Shatter an allied follower and restore 6 HP,消灭一个友方随从，恢复自身6点生命,摧毀一個友方隨從，恢復自身6點生命,,,,,,,味方従者一体を破壊して、自身のHPを6回復する,,,
 CostOfHealingCardName,Text,,Cost of Healing,治愈的代价,治癒的代價,,,,,,,回復の代償,,,
 CounterattackKeywordDescription,Text,,Automatically attacks when attacked by a target within range and survives,当受到射程内的目标攻击并存活时，自动进行攻击,當受到射程內的目標攻擊並存活時，自動進行攻擊,,,,,,,射程内のターゲットの攻撃を受けて生き残った場合、自動的に攻撃を行う,,,
 CounterattackKeywordName,Text,,Counterattack,反击,反擊,,,,,,,反撃,,,
@@ -1796,7 +1796,7 @@ CutsceneArea2Rogue2CardDescription,Text,,"This Black Pit has been twisted by the
 CutsceneArea2Warrior1CardDescription,Text,,"The place exudes an ancient and eerie aura, devoid of any trace of kindness; it is peculiar how the walls have contorted into impossible shapes under some unknown power.",这个地方古老又古怪，老到已经没有任何善良的种子被留下，怪在于四面的墙壁已被不可知力弯曲成为不可能的形状。,這個地方古老又古怪，老到已經沒有任何善良的種子被留下，怪在於四面的牆壁已被不可知力彎曲成為不可能的形狀。,,,,,,,このおかしな場所はとても古く、善の種が一つも残されていないほど、四方の壁が得体の知れない力によって不可能な形に曲げられていたほど古い。,,,
 CutsceneArea2Warrior2CardDescription,Text,,"At the end of the long corridor, toxic mist saturates the air, permeated by a stench even more disgusting than rotten eggs.",在长长的走廊的尽头，胀气弥漫此间，到处都是比臭鸡蛋还要恶心的气味。,在長長的走廊的盡頭，脹氣彌漫此間，到處都是比臭雞蛋還要噁心的氣味。,,,,,,,長い廊下の果てには瘴気が充満し、いたるところに腐った卵よりも耐え難い悪臭が漂っている。,,,
 CutsceneArea3Mage1CardDescription,Text,,"The Forge Core, also known as the Great Furnace. Foolish dwarves once attempted to unravel the secrets of multiverse, it ultimately led to their destruction at the hands of its incredible power.",锻造核心，又被称为大熔炉。在那里，愚蠢的矮人曾经尝试要解开多元宇宙的奥秘，但最终被大熔炉的惊人力量反噬而毁灭。,鍛造核心，又被稱為大熔爐。在那裡，愚蠢的矮人曾經嘗試要解開多元宇宙的奧秘，但最終被大熔爐的驚人力量反噬而毀滅。,,,,,,,鍛造コア、またの名は大溶炉。そこでは、愚かなドワーフたちがかつて多元宇宙の謎を解き明かそうとしたが、結局大溶炉の恐ろしい力に飲み込まれて滅んでしまった。,,,
-CutsceneArea3Mage2CardDescription,Text,,"This place has remained sealed for a long time. Yet the walls continue to twist and distort relentlessly, perhaps cursed by the bitter resentment of dying dwarves. It must be destroyed!",这个地方早就被封锁起来了，但此处的墙壁形状却依然不停的扭曲变形，也许是矮人临死前的怨恨诅咒了这里，这里必须被摧毁！,這個地方早就被封鎖起來了，但此處的牆壁形狀卻依然不停的扭曲變形，也許是矮人臨死前的怨恨詛咒了這裡，這裡必須被摧毀！,,,,,,,この場所は長い間封鎖されていたが、その壁の形は未だ絶えずねじれて変形している。おそらくこの場所を呪ったのは、ドワーフたちの死に際の怨念なのだろう。何としてもこの場所を破壊しないと！,,,
+CutsceneArea3Mage2CardDescription,Text,,"This place has remained sealed for a long time. Yet the walls continue to twist and distort relentlessly, perhaps cursed by the bitter resentment of dying dwarves. It must be destroyed!",这个地方早就被封锁起来了，但此处的墙壁形状却依然不停的扭曲变形，也许是矮人临死前的怨恨诅咒了这里，这里必须被消灭！,這個地方早就被封鎖起來了，但此處的牆壁形狀卻依然不停的扭曲變形，也許是矮人臨死前的怨恨詛咒了這裡，這裡必須被摧毀！,,,,,,,この場所は長い間封鎖されていたが、その壁の形は未だ絶えずねじれて変形している。おそらくこの場所を呪ったのは、ドワーフたちの死に際の怨念なのだろう。何としてもこの場所を破壊しないと！,,,
 CutsceneArea3Rogue1CardDescription,Text,,"Once again, people in the inn are talking about the ancient legend that there had once been a city created by dwarves where eternal life was said to be attainable.",旅馆里的人们又在谈论那流传了不知道有多久的古老传说，曾经有过一个矮人创造的城市，人们在那里可以实现永生。,旅館裡的人們又在談論那流傳了不知道有多久的古老傳說，曾經有過一個矮人創造的城市，人們在那裡可以實現永生。,,,,,,,宿の人たちはまたあの太古の昔から語り継がれてきた伝説について話している。昔、ドワーフが作った都市があった、人はそこで不老不死を実現できるという。,,,
 CutsceneArea3Rogue2CardDescription,Text,,"The Great Forge might be the once great and mighty, but the grinning skulls on the floor seem to remind you peril lies ahead.",大熔炉可能就是那个曾经伟大过的城市，但地板上那些看起来似乎还在咧嘴笑的头骨们似乎在提醒你前路并不太妙。,大熔爐可能就是那個曾經偉大過的城市，但地板上那些看起來似乎還在咧嘴笑的頭骨們似乎在提醒你前路並不太妙。,,,,,,,大溶炉があのかつての偉大な都市であるかもしれないが、床に置かれた髑髏がいまだにニヤニヤしているように見えるのは、前途があまり安全ではないことを示しているようだ。,,,
 CutsceneArea3Warrior1CardDescription,Text,,"The legend of the Great Forge has spread for a long time; the inhabitants of this legendary city have mastered the art of creation, even transforming the mundane into marvels.",关于大熔炉的传说流传了很久；那座传说中的城市里的居民已经掌握了创造的艺术，他们甚至可以把现实中不起眼的东西变为人人珍视的宝物，化腐朽为神奇。,關於大熔爐的傳說流傳了很久；那座傳說中的城市裡的居民已經掌握了創造的藝術，他們甚至可以把現實中不起眼的東西變為人人珍視的寶物，化腐朽為神奇。,,,,,,,大溶炉の伝説は古くから伝わってきた。伝説によると、この都市の住人たちは創造の芸術を習得しており、現実にある平凡な物体を皆が大切にする宝物に変えられるという。,,,
@@ -1811,7 +1811,7 @@ CutsceneOpening1CardDescription,Text,,The dreaded Iron Curse has been raging abo
 CutsceneOpening2CardDescription,Text,,... The kingdom is weakened and in peril.,……整个王国虚弱不堪，危在旦夕。,……整個王國虛弱不堪，危在旦夕。,,,,,,,...王国全体が虚弱し、滅びの危機に瀕している。,,,
 CutsceneOpening3CardDescription,Text,,"Just when its people were summoning their remaining courage to rebuild, something even more dreadful occurred.",正当王国民众鼓舞最后之勇气，奋力重建之时，更可怕的事情出现了。,正當王國民眾鼓舞最後之勇氣，奮力重建之時，更可怕的事情出現了。,,,,,,,王国の民が最後の勇気をもって再建に努めていると、さらに恐ろしいことが起こった。,,,
 CutsceneOpening4CardDescription,Text,,Enormous black iron gates materialized in every city across the kingdom; swarms of monsters surged forth as demons from below emerged onto ground.,王国里的每个城市都出现了巨大的黑色铁门，成群的怪物喷涌而出，地底的恶魔再现人间。,王國裡的每個城市都出現了巨大的黑色鐵門，成群的怪物噴湧而出，地底的惡魔再現人間。,,,,,,,王国のあらゆる都市に巨大な黒鉄の扉が現れ、モンスターの群れが湧き出て、地下の悪魔たちが再びこの世界に現れた。,,,
-CutsceneOpening5CardDescription,Text,,Even the struggle for survival is now threatened. Humanity must strike back! The heroes of the kingdom have assembled and received orders to delve deep into the dungeons to destroy the source breeding these monstrous threats.,苟延残喘的生存也被剥夺，人类必须反击！王国的英雄们集结一处，受命前往地牢深处摧毁能产生怪物的源头。,苟延殘喘的生存也被剝奪，人類必須反擊！王國的英雄們集結一處，受命前往地牢深處摧毀能產生怪物的源頭。,,,,,,,かろうじて生き長らえる権利すら奪われ、人類は反撃しなければならない！王国のヒーローたちが一箇所に集まり、モンスターを生み出す大元を破壊するために、ダンジョンの奥深くに向かうことを命じられた。,,,
+CutsceneOpening5CardDescription,Text,,Even the struggle for survival is now threatened. Humanity must strike back! The heroes of the kingdom have assembled and received orders to delve deep into the dungeons to destroy the source breeding these monstrous threats.,苟延残喘的生存也被剥夺，人类必须反击！王国的英雄们集结一处，受命前往地牢深处消灭能产生怪物的源头。,苟延殘喘的生存也被剝奪，人類必須反擊！王國的英雄們集結一處，受命前往地牢深處摧毀能產生怪物的源頭。,,,,,,,かろうじて生き長らえる権利すら奪われ、人類は反撃しなければならない！王国のヒーローたちが一箇所に集まり、モンスターを生み出す大元を破壊するために、ダンジョンの奥深くに向かうことを命じられた。,,,
 Cutscenes,Text,,,,,,,,,,,,,,
 CuttingHandsCardDescription,Text,,"Deals damage to one enemy unit within Range 2, and if the target dies, gain Rush 1 and this card for the turn",对射程2范围内的一个敌方单位造成攻击伤害，如果目标被摧毀，则本回合获得突进1和此卡牌,對射程2範圍內的一個敵方單位造成攻擊傷害，如果目標被摧毀，則本回合獲得突進1和此卡牌,,,,,,,射程2範囲内の敵ユニット1体に攻撃ダメージを与える。ターゲットが死亡した場合、このターン、突進1とこのカードを獲得する,,,
 CuttingHandsCardName,Text,,Cut Hand Dance,预言舞,预言舞,,,,,,,手切りダンス,,,
@@ -1831,7 +1831,7 @@ DailyChallengeName,Text,,Daily Challenge,每日挑战,每日挑戰,,,,,,,デイ�
 Damage Dealt:,Text,,Total damage dealt:,造成的总伤害：,造成的總傷害：,,,,,,,合計与ダメージ：,,,
 DashKeywordDescription,Text,,Move extra X times,每层可额外移动1次,每層可額外移動1次,,,,,,,このターンは追加でX回移動できる,,,
 DashKeywordName,Text,,Thrust,突进,突進,,,,,,,突進,,,
-DeathCurseCardDescription,Text,,Deals 1 damage to all followers. Repeat this spell if a follower is shattered.,吟唱：下回合开始，对所有随从造成1点伤害。如果有随从被摧毁，则重复此法术的伤害效果,吟唱：下回合開始，對所有隨從造成1點傷害。如果有隨從被摧毀，則重複此法術的傷害效果,,,,,,,詠唱：次のターンの開始時、全ての従者に1ダメージを与える。いずれかの従者が破壊された場合、この魔法のダメージ効果を繰り返す,,,
+DeathCurseCardDescription,Text,,Deals 1 damage to all followers. Repeat this spell if a follower is shattered.,吟唱：下回合开始，对所有随从造成1点伤害。如果有随从被消灭，则重复此法术的伤害效果,吟唱：下回合開始，對所有隨從造成1點傷害。如果有隨從被摧毀，則重複此法術的傷害效果,,,,,,,詠唱：次のターンの開始時、全ての従者に1ダメージを与える。いずれかの従者が破壊された場合、この魔法のダメージ効果を繰り返す,,,
 DeathCurseCardName,Text,,Death Curse,凋零腐蚀,凋零腐蝕,,,,,,,死の呪い,,,
 Deck,Text,,Deck,卡组,卡組,,,,,,,デッキ,,,
 DefeatSummaryPrompt,Text,,"Gold left: AA
@@ -1889,12 +1889,12 @@ DemonEncounter7CardName,Text,,Strange Plants,奇怪的植物,奇怪的植物,,,,
 DemonEncounter8CardDescription,Text,,Demons have assembled before massive black iron gates—highly disciplined and poised for your entrance.,在一组巨大的黑铁门之前，恶魔已经排列成阵。他们具有极高的纪律性，为你进入铁门做好了准备。,在一組巨大的黑鐵門之前，惡魔已經排列成陣。他們具有極高的紀律性，為你進入鐵門做好了準備。,,,,,,,巨大な黒鉄の門の陣列の前に、悪魔たちが隊列を組んでいた。彼らの練度は非常に高く、あなたが鉄門に入ってくることを想定して万全に備えている。,,,
 DemonEncounter8CardName,Text,,Ash Legion Commander,灰烬军团指挥官,灰燼軍團指揮官,,,,,,,灰の軍団指揮官,,,
 DestroyKeywordDescription,Text,,Deal enough damage to kill the unit (ignoring damage reduction),造成足够的伤害以杀死单位(无视减伤),造成足夠的傷害以殺死單位(無視減傷),,,,,,,十分なダメージを与えてユニットを倒す（ダメージ軽減を無効化）,,,
-DestroyKeywordName,Text,,Shatter,摧毁,摧毀,,,,,,,破壊,,,
-DestructiveWaveCardDescription,Text,,Deals 2 damage to all enemy followers. Repeat the spell if any followers are shattered,对所有敌方随从造成2点伤害。如果有随从被摧毁，则重复此法术,對所有敵方隨從造成2點傷害。如果有隨從被摧毀，則重複此法術,,,,,,,全ての敵従者に2ダメージを与える。いずれかの従者が破壊された場合、この魔法を繰り返す,,,
+DestroyKeywordName,Text,,Shatter,消灭,摧毀,,,,,,,破壊,,,
+DestructiveWaveCardDescription,Text,,Deals 2 damage to all enemy followers. Repeat the spell if any followers are shattered,对所有敌方随从造成2点伤害。如果有随从被消灭，则重复此法术,對所有敵方隨從造成2點傷害。如果有隨從被摧毀，則重複此法術,,,,,,,全ての敵従者に2ダメージを与える。いずれかの従者が破壊された場合、この魔法を繰り返す,,,
 DestructiveWaveCardName,Text,,Destruction Wave,破坏波,破壞波,,,,,,,破壊波,,,
 DetonationKeywordDescription,Text,,"When attacking a unit with Burn, deal an extra damage equal to the number of Burn layers on the target",攻击具有灼烧的单位时，额外造成的目标身上的灼烧层数的伤害,攻擊具有灼燒的單位時，額外造成的目標身上的灼燒層數的傷害,,,,,,,燃焼を持つユニットを攻撃する時、ターゲットの燃焼層数に等しいダメージを追加で与える,,,
 DetonationKeywordName,Text,,Detonation,爆燃,爆燃,,,,,,,爆燃,,,
-DevourKeywordDescription,Text,,Increases its ATK by an amount equal to the ATK of the enemy it shatters.,自身攻击力增加等于其所摧毁敌人的攻击力数值,自身攻擊力增加等於其所摧毀敵人的攻擊力數值,,,,,,,自身の攻撃力を破壊した敵の攻撃力の等しい数値を増加する,,,
+DevourKeywordDescription,Text,,Increases its ATK by an amount equal to the ATK of the enemy it shatters.,自身攻击力增加等于其所消灭敌人的攻击力数值,自身攻擊力增加等於其所摧毀敵人的攻擊力數值,,,,,,,自身の攻撃力を破壊した敵の攻撃力の等しい数値を増加する,,,
 DevourKeywordName,Text,,Devour,吞食,吞食,,,,,,,呑食,,,
 DevourTheWeakCardDescription,Text,,"Randomly attacks an enemy unit to cause damage and restores an equal amount of HP to yourself, repeat 2 times.",随机对一个敌方单位造成攻击伤害，并恢复自身同等生命值，重复2次,隨機對一個敵方單位造成攻擊傷害，並恢復自身同等生命值，重複2次,,,,,,,ランダムな敵ユニット一体に攻撃ダメージを与え、自身のHPを同等値回復する、2回繰り返す,,,
 DevourTheWeakCardName,Text,,Draw,汲取,汲取,,,,,,,魂の吸収,,,
@@ -1917,9 +1917,9 @@ DollMakerEncounter14CardDescription,Text,,Every villager will tell you to stay a
 DollMakerEncounter14CardName,Text,,Puppet Master,土偶师,人偶師,,,,,,,人形使い,,,
 DominationCardDescription,Text,,Inflicts {{EffectPossessed}} to a follower,对一个随从施加{{EffectPossessed}},對一個隨從施加{{EffectPossessed}},,,,,,,従者一体に{{EffectPossessed}}を付与する,,,
 DominationCardName,Text,,Domination,统治,統治,,,,,,,統治,,,
-DoomMadContraptionCardDescription,Text,,"After shattering the follower, deal 10 damage to the enemy hero.",摧毁该随从后，对敌方英雄造成10点伤害,摧毀該隨從後，對敵方英雄造成10點傷害,,,,,,,この従者を破壊した後、敵のヒーローに10ダメージを与える,,,
+DoomMadContraptionCardDescription,Text,,"After shattering the follower, deal 10 damage to the enemy hero.",消灭该随从后，对敌方英雄造成10点伤害,摧毀該隨從後，對敵方英雄造成10點傷害,,,,,,,この従者を破壊した後、敵のヒーローに10ダメージを与える,,,
 DoomMadContraptionCardName,Text,,Doom Mad Trap,厄运疯狂陷阱,厄運瘋狂陷阱,,,,,,,悪運の狂気の罠,,,
-DoomMadContraptionSuperCardDescription,Text,,"After shattering the follower, deal 20 damage to the enemy hero.",摧毁该随从后，对敌方英雄造成20点伤害,摧毀該隨從後，對敵方英雄造成20點傷害,,,,,,,この従者を破壊した後、敵のヒーローに20ダメージを与える,,,
+DoomMadContraptionSuperCardDescription,Text,,"After shattering the follower, deal 20 damage to the enemy hero.",消灭该随从后，对敌方英雄造成20点伤害,摧毀該隨從後，對敵方英雄造成20點傷害,,,,,,,この従者を破壊した後、敵のヒーローに20ダメージを与える,,,
 DoomMadContraptionSuperCardName,Text,,Super Crazy Doom Mad Trap,厄运超级疯狂陷阱,厄運超級瘋狂陷阱,,,,,,,悪運のスーパー狂気の罠,,,
 DoubleTimeCardDescription,Text,,"Until the end of your next turn, your followers gain +1 Thrust.",直到你的下一回合结束，你的随从获得+1突进,直到你的下一回合結束，你的隨從獲得+1突進,,,,,,,次のターン終了まで、あなたの従者は+1突進を獲得する,,,
 DoubleTimeCardName,Text,,Double Time,双倍时间,雙倍時間,,,,,,,ダブルタイム,,,
@@ -2041,7 +2041,7 @@ EliteEncounter4CardDescription,Text,,The demons dispatched their highest-ranking
 EliteEncounter4CardName,Text,,Ash Legion Hero,灰烬军团英雄,灰燼軍團英雄,,,,,,,灰の軍団ヒーロー,,,
 EliteEncounter5CardDescription,Text,,The elementals dispatched their primal power.,元素们派出了原始力量。,元素們派出了原始力量。,,,,,,,元素は原始的な力を派遣した。,,,
 EliteEncounter5CardName,Text,,Elemental Heroes,元素英雄,元素英雄,,,,,,,元素ヒーロー,,,
-EnchantKeywordDescription,Text,,"After inflicting an effect to a unit, this card is exhausted from the game; It will be returned when the unit is shattered.",对单位施加效果后，这张卡牌将从游戏中移除；该单位被摧毁时，将这张卡牌归还于手牌,對單位施加效果後，這張卡牌將從遊戲中移除；該單位被摧毀時，將這張卡牌歸還於手牌,,,,,,,ユニットに効果を付与した後、このカードはゲームから削除される。該当ユニットが破壊されると、このカードを手札に戻される,,,
+EnchantKeywordDescription,Text,,"After inflicting an effect to a unit, this card is exhausted from the game; It will be returned when the unit is shattered.",对单位施加效果后，这张卡牌将从游戏中移除；该单位被消灭时，将这张卡牌归还于手牌,對單位施加效果後，這張卡牌將從遊戲中移除；該單位被摧毀時，將這張卡牌歸還於手牌,,,,,,,ユニットに効果を付与した後、このカードはゲームから削除される。該当ユニットが破壊されると、このカードを手札に戻される,,,
 EnchantKeywordName,Text,,Enchant,施魔,施魔,,,,,,,エンチャント,,,
 Encounter,Text,,Encounter,遭遇,遭遇,,,,,,,遭遇,,,
 Encounter Signposts,Text,,,,,,,,,,,,,,
@@ -2049,7 +2049,7 @@ EndureCardDescription,Text,,Gain Toughness 1,获得坚硬1,獲得堅硬1,,,,,,,�
 EndureCardName,Text,,Mystic Armor,晶甲,妖甲,,,,,,,妖魔の鎧,,,
 Enemy Deck,Text,,Enemy Deck,敌方卡组,敵方卡組,,,,,,,敵のデッキ,,,
 Enemy Discard Pile,Text,,Enemy Discard Pile,敌方弃卡堆,敵方棄卡堆,,,,,,,敵の捨て札の山,,,
-EphemeralBlurCardDescription,Text,,Defeated: Grant your hero Combo +2 until the end of your turn,被摧毁：在你的回合结束前，使你的英雄获得连击+2,被摧毀：在你的回合結束前，使你的英雄獲得連擊+2,,,,,,,被摧毁：ターン終了前にあなたのヒーローに連撃+2を付与する,,,
+EphemeralBlurCardDescription,Text,,Defeated: Grant your hero Combo +2 until the end of your turn,被消灭：在你的回合结束前，使你的英雄获得连击+2,被摧毀：在你的回合結束前，使你的英雄獲得連擊+2,,,,,,,被消灭：ターン終了前にあなたのヒーローに連撃+2を付与する,,,
 EphemeralBlurCardName,Text,,Temporary Confusion,暂时性混淆,暫時性混淆,,,,,,,一時的な混乱,,,
 Equipment,Text,,Equipment,装备,裝備,,,,,,,装備品,,,
 EscapedShadeCardDescription,Text,,Can be summoned on any unoccupied tile,可以被召唤在任意空格,可以被召喚在任意空格,,,,,,,任意の空きマスに召喚可能,,,
@@ -2265,21 +2265,21 @@ Events,Text,,,,,,,,,,,,,,
 Evolve Card EffectsCardDescription,Text,,,,,,,,,,,,,,
 Evolve Card EffectsCardName,Text,,,,,,,,,,,,,,
 Evolve Card EffectsFlavourText,Text,,,,,,,,,,,,,,
-EvolveKeywordDescription,Text,,"Whenever this unit shatters an enemy, all evolvable units gain a blessed evolution effect",每当该单位摧毁一个敌人时，所有可进化的单位获得一项祝福的进化效果,每當該單位摧毀一個敵人時，所有可進化的單位獲得一項祝福的進化效果,,,,,,,このユニットが敵一体を破壊するたびに、進化可能な全てのユニットが祝福の進化効果を一つ獲得する,,,
+EvolveKeywordDescription,Text,,"Whenever this unit shatters an enemy, all evolvable units gain a blessed evolution effect",每当该单位消灭一个敌人时，所有可进化的单位获得一项祝福的进化效果,每當該單位摧毀一個敵人時，所有可進化的單位獲得一項祝福的進化效果,,,,,,,このユニットが敵一体を破壊するたびに、進化可能な全てのユニットが祝福の進化効果を一つ獲得する,,,
 EvolveKeywordName,Text,,Evolve,进化,進化,,,,,,,進化,,,
 EvolvePrompt,Text,,Evolve! Choose the evolve effect you'd prefer.,进化！选择你想要获得的进化效果,進化！選擇你想要獲得的進化效果,,,,,,,進化！獲得したい進化効果を選択してください,,,
 ExhaustFromDeckPrompt,Text,,Exhaust 1 cards from your deck,从牌组中选择1张卡牌移除,從牌組中選擇1張卡牌移除,,,,,,,デッキから1枚のカードを選択して削除する,,,
 ExhaustKeywordDescription,Text,,"After use, remove the card from this battle.",使用后，将这张卡从本场战斗中删除,使用後，將這張卡從本場戰鬥中刪除,,,,,,,使用後、このカードをこの戦闘から削除する,,,
 ExhaustKeywordName,Text,,Exhaust,移除,移除,,,,,,,削除,,,
-ExplosiveEffectCardDescription,Text,,"At the start of the turn, remove 1 Explosion status. When it reaches 0, shatter this follower and deal 10 damage to all units on the same row and column.",回合开始时，清除一点爆炸状态值。归零时，摧毁该随从，并对同一行和同一列上的所有单位造成10点伤害,回合開始時，清除一點爆炸狀態值。歸零時，摧毀該隨從，並對同一行和同一列上的所有單位造成10點傷害,,,,,,,ターン開始時に、爆発状態値値を1消去する。0になると、この従者を破壊し、同じ列の全てのユニットに10ダメージを与える,,,
+ExplosiveEffectCardDescription,Text,,"At the start of the turn, remove 1 Explosion status. When it reaches 0, shatter this follower and deal 10 damage to all units on the same row and column.",回合开始时，清除一点爆炸状态值。归零时，消灭该随从，并对同一行和同一列上的所有单位造成10点伤害,回合開始時，清除一點爆炸狀態值。歸零時，摧毀該隨從，並對同一行和同一列上的所有單位造成10點傷害,,,,,,,ターン開始時に、爆発状態値値を1消去する。0になると、この従者を破壊し、同じ列の全てのユニットに10ダメージを与える,,,
 ExplosiveEffectCardName,Text,,Explosion,爆炸,爆炸,,,,,,,爆発,,,
-ExplosiveEffectSuperCardDescription,Text,,"At the start of the turn, remove 1 Explosion status. When it reaches 0, shatter this follower and deal 20 damage to all units on the same row and column.",回合开始时，清除一点爆炸状态值。归零时，摧毁该随从，并对同一行和同一列上的所有单位造成20点伤害,回合開始時，清除一點爆炸狀態值。歸零時，摧毀該隨從，並對同一行和同一列上的所有單位造成20點傷害,,,,,,,ターン開始時に、爆発状態値値を1消去する。0になると、この従者を破壊し、同じ列の全てのユニットに20ダメージを与える,,,
+ExplosiveEffectSuperCardDescription,Text,,"At the start of the turn, remove 1 Explosion status. When it reaches 0, shatter this follower and deal 20 damage to all units on the same row and column.",回合开始时，清除一点爆炸状态值。归零时，消灭该随从，并对同一行和同一列上的所有单位造成20点伤害,回合開始時，清除一點爆炸狀態值。歸零時，摧毀該隨從，並對同一行和同一列上的所有單位造成20點傷害,,,,,,,ターン開始時に、爆発状態値値を1消去する。0になると、この従者を破壊し、同じ列の全てのユニットに20ダメージを与える,,,
 ExplosiveEffectSuperCardName,Text,,Explosion,爆炸,爆炸,,,,,,,爆発,,,
-ExplosiveElementalCardDescription,Text,,Defeated: Deal damage equal to this follower's ATK to all units on the same row and column.,被摧毁：对同一行和同一列上所有单位造成等于此随从攻击力的伤害,被摧毀：對同一行和同一列上所有單位造成等於此隨從攻擊力的傷害,,,,,,,被摧毁：同じ列にいる全てのユニットに、この従者の攻撃力と同等のダメージを与える,,,
+ExplosiveElementalCardDescription,Text,,Defeated: Deal damage equal to this follower's ATK to all units on the same row and column.,被消灭：对同一行和同一列上所有单位造成等于此随从攻击力的伤害,被摧毀：對同一行和同一列上所有單位造成等於此隨從攻擊力的傷害,,,,,,,被消灭：同じ列にいる全てのユニットに、この従者の攻撃力と同等のダメージを与える,,,
 ExplosiveElementalCardName,Text,,Explosive Element,爆炸元素,爆炸元素,,,,,,,爆発元素,,,
-ExplosiveMadContraptionCardDescription,Text,,"After 2 turns, automatically shatter this follower. Upon shatterring, deal 10 damage to all units on the same row and column.",2回合后，自动摧毁该随从。摧毁时对同一行和同一列上的所有单位造成10点伤害,2回合後，自動摧毀該隨從。摧毀時對同一行和同一列上的所有單位造成10點傷害,,,,,,,2ターン後、この従者を自動的に破壊する。破壊時、同じ列と同じ行の全てのユニットに10ダメージを与える,,,
+ExplosiveMadContraptionCardDescription,Text,,"After 2 turns, automatically shatter this follower. Upon shatterring, deal 10 damage to all units on the same row and column.",2回合后，自动消灭该随从。消灭时对同一行和同一列上的所有单位造成10点伤害,2回合後，自動摧毀該隨從。摧毀時對同一行和同一列上的所有單位造成10點傷害,,,,,,,2ターン後、この従者を自動的に破壊する。破壊時、同じ列と同じ行の全てのユニットに10ダメージを与える,,,
 ExplosiveMadContraptionCardName,Text,,Explosive Mad Trap,爆炸性疯狂陷阱,爆炸性瘋狂陷阱,,,,,,,爆発性の狂気の罠,,,
-ExplosiveMadContraptionSuperCardDescription,Text,,"After 2 turns, automatically shatter this follower. Upon shatterring, deal 20 damage to all units on the same row and column.",2回合后，自动摧毁该随从。摧毁时对同一行和同一列上的所有单位造成20点伤害,2回合後，自動摧毀該隨從。摧毀時對同一行和同一列上的所有單位造成20點傷害,,,,,,,2ターン後、この従者を自動的に破壊する。破壊時、同じ列と同じ行の全てのユニットに20ダメージを与える,,,
+ExplosiveMadContraptionSuperCardDescription,Text,,"After 2 turns, automatically shatter this follower. Upon shatterring, deal 20 damage to all units on the same row and column.",2回合后，自动消灭该随从。消灭时对同一行和同一列上的所有单位造成20点伤害,2回合後，自動摧毀該隨從。摧毀時對同一行和同一列上的所有單位造成20點傷害,,,,,,,2ターン後、この従者を自動的に破壊する。破壊時、同じ列と同じ行の全てのユニットに20ダメージを与える,,,
 ExplosiveMadContraptionSuperCardName,Text,,Explosive Super Mad Trap,爆炸性超级疯狂陷阱,爆炸性超級瘋狂陷阱,,,,,,,爆発性のスーパー狂気の罠,,,
 Factions,Text,,,,,,,,,,,,,,
 FadeOutCardDescription,Text,,Gain protection for 1 turn,在1回合内获得保护,在1回合內獲得保護,,,,,,,1ターンの間保護を獲得する,,,
@@ -2289,7 +2289,7 @@ FadeOutCardName,Text,,Fade,"消退
 ",,,
 FallingMeteorCardDescription,Text,,"When your hero deals damge, ranged minions adjacent to your hero gain +1 Power this turn.",你的英雄造成伤害后，与你的英雄相邻的远程随从本回合获得+1攻击力,你的英雄造成傷害後，與你的英雄相鄰的遠端隨從本回合獲得+1攻擊力,,,,,,,あなたのヒーローがダメージを与えた後、このターン、ヒーローに隣接する遠距離従者が+1攻撃力を獲得する,,,
 FallingMeteorCardName,Text,,Shot Command,射击指令,射擊指令,,,,,,,射撃指令,,,
-FalseDeathCardDescription,Text,,Trigger the deathrattle effect of a follower,触发随从的被摧毁：特效,觸發隨從的被摧毀：特效,,,,,,,従者の「被破壊：特殊効果」を発動させる,,,
+FalseDeathCardDescription,Text,,Trigger the deathrattle effect of a follower,触发随从的被消灭：特效,觸發隨從的被摧毀：特效,,,,,,,従者の「被破壊：特殊効果」を発動させる,,,
 FalseDeathCardName,Text,,False Death,假死,假死,,,,,,,仮死,,,
 FastToxinCardDescription,Text,,Grants all allied units {{CommonEffect64}} equal to their Poison layers.,让所有友方单位获得与自身中毒相同层数的{{CommonEffect64}},讓所有友方單位獲得與自身中毒相同層數的{{CommonEffect64}},,,,,,,全ての味方ユニットに自身の中毒層数と同じ層数の{{CommonEffect64}}を獲得させる,,,
 FastToxinCardName,Text,,Poisonous Cure,毒疗,毒療,,,,,,,毒の治療,,,
@@ -2343,9 +2343,9 @@ FlareStoneTitle,Text,,Crystal,水晶,水晶,,,,,,,水晶,,,
 Flarestone Shards,Text,,Crystal Fragment,水晶碎片,水晶碎片,,,,,,,水晶の欠片,,,
 Flarestones,Text,,Crystal,水晶,水晶,,,,,,,水晶,,,
 FlavourText,Text,,,,,,,,,,,,,,
-FoodFightCardDescription,Text,,"Deal 3 damage to a follower within range 2. If the follower is shattered before the end of your next turn, restore 6 HP to yourself. Otherwise, restore 3 HP to the follower.",对射程2内的一个随从造成3点伤害。如果在你下一回合结束前该随从被摧毁，恢复自身6点生命值。否则，该随从恢复3点生命值。,對射程2內的一個隨從造成3點傷害。如果在你下一回合結束前該隨從被摧毀，恢復自身6點生命值。否則，該隨從恢復3點生命值。,,,,,,,射程2以内の従者一体に3ダメージを与える。あなたの次のターンの終了前にこの従者が破壊された場合、自身のHPを6回復する。それ以外の場合、この従者のHPを3回復する。,,,
+FoodFightCardDescription,Text,,"Deal 3 damage to a follower within range 2. If the follower is shattered before the end of your next turn, restore 6 HP to yourself. Otherwise, restore 3 HP to the follower.",对射程2内的一个随从造成3点伤害。如果在你下一回合结束前该随从被消灭，恢复自身6点生命值。否则，该随从恢复3点生命值。,對射程2內的一個隨從造成3點傷害。如果在你下一回合結束前該隨從被摧毀，恢復自身6點生命值。否則，該隨從恢復3點生命值。,,,,,,,射程2以内の従者一体に3ダメージを与える。あなたの次のターンの終了前にこの従者が破壊された場合、自身のHPを6回復する。それ以外の場合、この従者のHPを3回復する。,,,
 FoodFightCardName,Text,,Contention! Lady's Love!,抉择,爭奪！夫人的愛！,,,,,,,奪い合い！マダムの愛！,,,
-FoodFightEffectCardDescription,Text,,"Remove 1 status point at the end of the turn. When it reaches 0 and the follower is shattered, heal yourself for 6 HP. Otherwise, the follower regains 3 HP.",回合结束时清除1点状态值。归零时如果该随从被摧毁，治疗自身6点生命值。否则该随从恢复3点生命值,回合結束時清除1點狀態值。歸零時如果該隨從被摧毀，治療自身6點生命值。否則該隨從恢復3點生命值,,,,,,,ターン終了時に状態値を1消去する。0になる時、この従者が破壊された場合、自身のHPを6回復する。それ以外の場合、この従者のHPを3回復する。,,,
+FoodFightEffectCardDescription,Text,,"Remove 1 status point at the end of the turn. When it reaches 0 and the follower is shattered, heal yourself for 6 HP. Otherwise, the follower regains 3 HP.",回合结束时清除1点状态值。归零时如果该随从被消灭，治疗自身6点生命值。否则该随从恢复3点生命值,回合結束時清除1點狀態值。歸零時如果該隨從被摧毀，治療自身6點生命值。否則該隨從恢復3點生命值,,,,,,,ターン終了時に状態値を1消去する。0になる時、この従者が破壊された場合、自身のHPを6回復する。それ以外の場合、この従者のHPを3回復する。,,,
 FoodFightEffectCardName,Text,,Contention! Lady's Love!,抉择,爭奪！夫人的愛！,,,,,,,奪い合い！マダムの愛！,,,
 ForceBalanceCardDescription,Text,,All followers have ATK equal to their HP.,所有随从的攻击力都等于他们的生命值,所有隨從的攻擊力都等於他們的生命值,,,,,,,全ての従者の攻撃力がそのHPに等しい数値になる,,,
 ForceBalanceCardName,Text,,Power Balance,力量平衡,力量平衡,,,,,,,力の均衡,,,
@@ -2404,7 +2404,7 @@ GloopCardDescription,Text,,"Haste, Thrust 1",急速，突进1,急速，突進1,,
 GloopCardName,Text,,Teddy Bear,熊娃娃,熊娃娃,,,,,,,テディベア,,,
 GloopEffectCardDescription,Text,,"Next turn, summon 1 {{Gloop}} around the captain's wife for every 1 status, then remove this effect",下一回合，每1点状态值在船长夫人周围召唤1个{{Gloop}}，然后消除此效果,下一回合，每1點狀態值在船長夫人周圍召喚1個{{Gloop}}，然後消除此效果,,,,,,,次のターン、状態値1ポイントにつき、船長夫人の周りに{{Gloop}}を1体を召喚し、その後この効果を消去する,,,
 GloopEffectCardName,Text,,Tame,驯化,馴化,,,,,,,飼いならす,,,
-GobbombCardDescription,Text,,Defeated: deal 2 damage to adjacent units,被摧毁：对相邻单位造成2点伤害,被摧毀：對相鄰單位造成2點傷害,,,,,,,被摧毁：隣接するユニットに2ダメージを与える,,,
+GobbombCardDescription,Text,,Defeated: deal 2 damage to adjacent units,被消灭：对相邻单位造成2点伤害,被摧毀：對相鄰單位造成2點傷害,,,,,,,被消灭：隣接するユニットに2ダメージを与える,,,
 GobbombCardName,Text,,Goblin,哥布姆,哥布姆,,,,,,,ゴブリン,,,
 GoblinAlchemistCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 GoblinAlchemistCardName,Text,,Gnome Alchemist,地精炼金术士,地精煉金術士,,,,,,,ノーム錬金術師,,,
@@ -2458,7 +2458,7 @@ GoblinRatTotemCardDescription,Text,,Swap,换位,換位,,,,,,,位置交換,,,
 GoblinRatTotemCardName,Text,,Lady's Springtail,夫人的跳虫,夫人的跳蟲,,,,,,,マダムのトビムシ,,,
 GoblinScoutCardDescription,Text,,,,,,,,,,,,,,
 GoblinScoutCardName,Text,,Mad Knight of the Round Table,奇怪的圆桌武士,瘋狂的圓桌武士,,,,,,,狂気の円卓の騎士,,,
-GoblinScreamerCardDescription,Text,,Defeated: Grant your followers +1/+1,被摧毁：给你的随从+1/+1,被摧毀：給你的隨從+1/+1,,,,,,,被摧毁：あなたの従者に+1/+1を付与する,,,
+GoblinScreamerCardDescription,Text,,Defeated: Grant your followers +1/+1,被消灭：给你的随从+1/+1,被摧毀：給你的隨從+1/+1,,,,,,,被消灭：あなたの従者に+1/+1を付与する,,,
 GoblinScreamerCardName,Text,,Gnome Screamer,地精尖叫者,地精尖叫者,,,,,,,ノームスクリーマー,,,
 GoblinShamanCardDescription,Text,,,,,,,,,,,,,,
 GoblinShamanCardName,Text,,Gnome Shaman,地精萨满,地精薩滿,,,,,,,ノームシャーマン,,,
@@ -2468,7 +2468,7 @@ GoblinSlingerCardDescription,Text,,"Range 2, attack inflicts Burn 1",攻击施�
 GoblinSlingerCardName,Text,,Lady's Iron-Toothed Bat,夫人的铁齿蝙蝠,夫人的鐵齒蝙蝠,,,,,,,マダムの鉄歯コウモリ,,,
 GoblinStrikerCardDescription,Text,,Grant +1/+0 for each gnome striker on the field,为场上的每个地精前锋获得+1/+0,為場上的每個地精前鋒獲得+1/+0,,,,,,,フィールド上の全てのノームストライカーが+1/+0を獲得する,,,
 GoblinStrikerCardName,Text,,Gnome Striker,地精前锋,地精前鋒,,,,,,,ノームストライカー,,,
-GoblinWarleaderCardDescription,Text,,"When one of your followers is shattered, gain 1 Block.",当你的一个随从被摧毁时，获得1点格挡,當你的一個隨從被摧毀時，獲得1點格擋,,,,,,,あなたの従者一体が破壊された時、ブロック1を獲得する,,,
+GoblinWarleaderCardDescription,Text,,"When one of your followers is shattered, gain 1 Block.",当你的一个随从被消灭时，获得1点格挡,當你的一個隨從被摧毀時，獲得1點格擋,,,,,,,あなたの従者一体が破壊された時、ブロック1を獲得する,,,
 GoblinWarleaderCardName,Text,,Gnome War Captain,地精战队长,地精戰隊長,,,,,,,ノーム戦隊長,,,
 GoblinWarriorCardDescription,Text,,Knockback 1.,攻击造成击退1,攻擊造成擊退1,,,,,,,ノックバック1,,,
 GoblinWarriorCardName,Text,,Wandering Swordsman,奇怪的剑客,流浪劍客,,,,,,,放浪剣客,,,
@@ -2484,7 +2484,7 @@ Attack inflicts {{EffectPossessed}}","击退1
 GorgonCardName,Text,,Strange Plants,奇怪的植物,奇怪的植物,,,,,,,不思議な植物,,,
 GorgonGazeCardDescription,Text,,All units facing our hero will be stunned,所有直面我方英雄的单位（没有其他随从阻挡）都将被晕眩,所有直面我方英雄的單位（沒有其他隨從阻擋）都將被暈眩,,,,,,,味方ヒーローに直面する全てのユニットはスタンさせられる,,,
 GorgonGazeCardName,Text,,Eye of Judgment,凝视,審判之眼,,,,,,,審判の目,,,
-GraspingMonstrosityCardDescription,Text,,Defeated: Randomly shatters a wounded follower,被摧毁：随机摧毁一个受伤的随从,被摧毀：隨機摧毀一個受傷的隨從,,,,,,,被摧毁：ランダムな負傷した従者を破壊する,,,
+GraspingMonstrosityCardDescription,Text,,Defeated: Randomly shatters a wounded follower,被消灭：随机消灭一个受伤的随从,被摧毀：隨機摧毀一個受傷的隨從,,,,,,,被消灭：ランダムな負傷した従者を破壊する,,,
 GraspingMonstrosityCardName,Text,,Lazy Death,摸鱼术士,摸魚術士,,,,,,,怠け者の死神,,,
 Green - Tribes,Text,,,,,,,,,,,,,,
 Green01CardDescription,Text,,"Draw a card, then exhaust this card.
@@ -2698,7 +2698,7 @@ Green13CardName,Text,,Barbarous Shaman,野蛮萨满,野蠻薩滿,,,,,,,野蛮な
 Green13FlavourText,Text,,"Conducting ruthless and powerful experiments upon themselves, they've abandoned humanity.",对自己进行无情而强大的实验，已把人性抛在脑后。,對自己進行無情而強大的實驗，已把人性拋在腦後。,,,,,,,自分に残酷かつ強大な実験を行った彼は、既に人間性を捨てた。,,,
 Green14CardDescription,Text,,Infest: Add 1 Spore card to a player's hand cards,侵蚀：在玩家的手牌中添加1张孢子牌,侵蝕：在玩家的手牌中添加1張孢子牌,,,,,,,侵蚀：プレイヤーの手札に胞子カードを1枚追加する,,,
 Green14CardName,Text,,Flogger,鞭打者,鞭打者,,,,,,,スラッシャー,,,
-Green14EffectCardDescription,Text,,Defeated: Add Spore to the player's deck equal to cost,被摧毁：将孢子添加到玩家的牌组等于费用,被摧毀：將孢子添加到玩家的牌組等於費用,,,,,,,被摧毁：コストに等しい数の胞子をプレイヤーのデッキに追加する,,,
+Green14EffectCardDescription,Text,,Defeated: Add Spore to the player's deck equal to cost,被消灭：将孢子添加到玩家的牌组等于费用,被摧毀：將孢子添加到玩家的牌組等於費用,,,,,,,被消灭：コストに等しい数の胞子をプレイヤーのデッキに追加する,,,
 Green14EffectCardName,Text,,Infected Flogger,被侵蚀的鞭打者,被侵蝕的鞭打者,,,,,,,侵蚀したスラッシャー,,,
 Green14EffectFlavourText,Text,,,,,,,,,,,,,,
 Green14FlavourText,Text,,"""Everything here wants to eat you! Even the plants!""",“这里的一切东西都想吃掉你！甚至植物！”,“這裡的一切東西都想吃掉你！甚至植物！”,,,,,,,「ここの全てがあなたを食べようとしている！植物もだ！」,,,
@@ -2708,13 +2708,13 @@ Green15FlavourText,Text,,Some plants smell like rotten meat. Some have rotten me
 Green16CardDescription,Text,,Infest: Add 1 Spore card to a player's hand cards,侵蚀：在玩家的手牌中添加1张孢子牌,侵蝕：在玩家的手牌中添加1張孢子牌,,,,,,,侵蚀：プレイヤーの手札に胞子カードを1枚追加する,,,
 Green16CardName,Text,,Wild Whipper,狂野鞭打者,狂野鞭打者,,,,,,,ワイルドなスラッシャー,,,
 Green16FlavourText,Text,,Anything the spore enters becomes bigger and angrier - which makes them better prey for the Whipper.,孢子进入的任何东西都会变得更大，更愤怒 - 这使它们成为鞭打者的更佳猎物。,孢子進入的任何東西都會變得更大，更憤怒 - 這使它們成為鞭打者的更佳獵物。,,,,,,,胞子が入り込んだものは何でも大きくなり、怒りっぽくなる。そのため、スラッシャーにとっては格好の獲物となる。,,,
-Green17CardDescription,Text,,Defeated: Adds 2 Spores to the deck,被摧毁：将2个孢子添加到牌组中,被摧毀：將2個孢子添加到牌組中,,,,,,,被摧毁：デッキに胞子を2個追加する,,,
+Green17CardDescription,Text,,Defeated: Adds 2 Spores to the deck,被消灭：将2个孢子添加到牌组中,被摧毀：將2個孢子添加到牌組中,,,,,,,被消灭：デッキに胞子を2個追加する,,,
 Green17CardName,Text,,Jungle Guardian,丛林守护者,叢林守護者,,,,,,,ジャングルの守護者,,,
 Green17FlavourText,Text,,,,,,,,,,,,,,
-Green18CardDescription,Text,,Defeated: Adds 3 Spores to the deck,被摧毁：将3个孢子添加到牌组中,被摧毀：將3個孢子添加到牌組中,,,,,,,被摧毁：デッキに胞子を3個追加する,,,
+Green18CardDescription,Text,,Defeated: Adds 3 Spores to the deck,被消灭：将3个孢子添加到牌组中,被摧毀：將3個孢子添加到牌組中,,,,,,,被消灭：デッキに胞子を3個追加する,,,
 Green18CardName,Text,,Malicious Guardian,恶毒守护者,惡毒守護者,,,,,,,悪辣な守護者,,,
 Green18FlavourText,Text,,,,,,,,,,,,,,
-Green19CardDescription,Text,,Defeated: Adds 4 Spores to the deck,被摧毁：将4个孢子添加到牌组中,被摧毀：將4個孢子添加到牌組中,,,,,,,被摧毁：デッキに胞子を4個追加する,,,
+Green19CardDescription,Text,,Defeated: Adds 4 Spores to the deck,被消灭：将4个孢子添加到牌组中,被摧毀：將4個孢子添加到牌組中,,,,,,,被消灭：デッキに胞子を4個追加する,,,
 Green19CardName,Text,,Barbarous Guardian,野蛮守护者,野蠻守護者,,,,,,,野蛮な守護者,,,
 Green19FlavourText,Text,,,,,,,,,,,,,,
 Green20CardDescription,Text,,"At the start of your turn, adds 1 Spore to your hand cards",在回合开始时，将1个孢子加到手牌,在回合開始時，將1個孢子加到手牌,,,,,,,ターン開始時、胞子1個を手札に追加する,,,
@@ -2730,7 +2730,7 @@ Green23CardDescription,Text,,"Grow +3/+0
 
 At the start of your turn -3/-0. If this follower's ATK is less than 4, it will be shattered.","成长+3/+0
 
-在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被摧毁","成長+3/+0
+在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被消灭","成長+3/+0
 
 在你的回合開始時-3/-0。如果這個隨從的攻擊力小於4，則其會被摧毀",,,,,,,"成長+3/+0
 
@@ -2741,7 +2741,7 @@ Green24CardDescription,Text,,"Grow +3/+0
 
 At the start of your turn -3/-0. If this follower's ATK is less than 4, it will be shattered.","成长+3/+0
 
-在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被摧毁","成長+3/+0
+在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被消灭","成長+3/+0
 
 在你的回合開始時-3/-0。如果這個隨從的攻擊力小於4，則其會被摧毀",,,,,,,"成長+3/+0
 
@@ -2752,7 +2752,7 @@ Green25CardDescription,Text,,"Grow +4/+0
 
 At the start of your turn -3/-0. If this follower's ATK is less than 4, it will be shattered.","成长+4/+0
 
-在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被摧毁","成長+4/+0
+在你的回合开始时-3/-0。如果这个随从的攻击力小于4，则其会被消灭","成長+4/+0
 
 在你的回合開始時-3/-0。如果這個隨從的攻擊力小於4，則其會被摧毀",,,,,,,"成長+4/+0
 
@@ -2985,33 +2985,33 @@ Green59CardDescription,Text,,"Grow +1/+0
 
 Defeated: Draw a number of cards equal to this card's ATK.","成长+1/+0
 
-被摧毁：抽取相当于该卡攻击力数量的手牌","成長+1/+0
+被消灭：抽取相当于该卡攻击力数量的手牌","成長+1/+0
 
 被摧毀：抽取相當於該卡攻擊力數量的手牌",,,,,,,"成長+1/+0
 
-被摧毁：このカードの攻撃力に等しい枚数の手札を引く",,,
+被消灭：このカードの攻撃力に等しい枚数の手札を引く",,,
 Green59CardName,Text,,Tribe Speakers,部落发言者,部落發言者,,,,,,,部族の発言者,,,
 Green59FlavourText,Text,,,,,,,,,,,,,,
 Green60CardDescription,Text,,"Grow +1/+1
 
 Defeated: Draw a number of cards equal to this card's ATK.","成长+1/+1
 
-被摧毁：抽取相当于该卡攻击力数量的手牌","成長+1/+1
+被消灭：抽取相当于该卡攻击力数量的手牌","成長+1/+1
 
 被摧毀：抽取相當於該卡攻擊力數量的手牌",,,,,,,"成長+1/+1
 
-被摧毁：このカードの攻撃力に等しい枚数の手札を引く",,,
+被消灭：このカードの攻撃力に等しい枚数の手札を引く",,,
 Green60CardName,Text,,Adv. Speaker,高级发言者,高級發言者,,,,,,,上級発言者,,,
 Green60FlavourText,Text,,,,,,,,,,,,,,
 Green61CardDescription,Text,,"Grow +2/+1
 
 Defeated: Draw a number of cards equal to this card's ATK.","成长+2/+1
 
-被摧毁：抽取相当于该卡攻击力数量的手牌","成長+2/+1
+被消灭：抽取相当于该卡攻击力数量的手牌","成長+2/+1
 
 被摧毀：抽取相當於該卡攻擊力數量的手牌",,,,,,,"成長+2/+1
 
-被摧毁：このカードの攻撃力に等しい枚数の手札を引く",,,
+被消灭：このカードの攻撃力に等しい枚数の手札を引く",,,
 Green61CardName,Text,,Master Speaker,大师级发言者,大師級發言者,,,,,,,マスター発言者,,,
 Green61FlavourText,Text,,,,,,,,,,,,,,
 Green62CardDescription,Text,,Evolve,进化,進化,,,,,,,進化,,,
@@ -3087,33 +3087,33 @@ Green77CardDescription,Text,,"Evolve
 
 Defeated: Transfer all effects on this follower to your hero until the end of your turn","进化
 
-被摧毁：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
+被消灭：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
 
 被摧毀：將此隨從身上的所有效果轉移到你的英雄身上，直到你的回合結束",,,,,,,"進化
 
-被摧毁：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
+被消灭：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
 Green77CardName,Text,,Jungle Hound,丛林猎犬,叢林獵犬,,,,,,,ジャングル猟犬,,,
 Green77FlavourText,Text,,"Picture a boar that hunts in packs, is smart enough to dodge spears, and is as large as a pony.",“想象一头野猪，它成群结队地捕猎，聪明到可以躲避长矛，而且像小马一样大。 “,“想像一頭野豬，它成群結隊地捕獵，聰明到可以躲避長矛，而且像小馬一樣大。 “,,,,,,,「群れをなして狩り、槍をかわすほど賢く、ポニーと同じくらいの大きさのイノシシを想像してみてください。」,,,
 Green78CardDescription,Text,,"Evolve
 
 Defeated: Transfer all effects on this follower to your hero until the end of your turn","进化
 
-被摧毁：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
+被消灭：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
 
 被摧毀：將此隨從身上的所有效果轉移到你的英雄身上，直到你的回合結束",,,,,,,"進化
 
-被摧毁：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
+被消灭：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
 Green78CardName,Text,,Malicious Hound,恶毒猎犬,惡毒獵犬,,,,,,,悪辣な猟犬,,,
 Green78FlavourText,Text,,"""Yet there exists an elegant grace among hounds - they taste delicious.""",“不过，猎狗有一种优雅的恩典 - 它们味道鲜美。”,“不過，獵狗有一種優雅的恩典 - 它們味道鮮美。”,,,,,,,「しかし、猟犬はある種の優雅さを持っている-奴らの肉はとても旨いのだ。」,,,
 Green79CardDescription,Text,,"Evolve
 
 Defeated: Transfer all effects on this follower to your hero until the end of your turn","进化
 
-被摧毁：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
+被消灭：将此随从身上的所有效果转移到你的英雄身上，直到你的回合结束","進化
 
 被摧毀：將此隨從身上的所有效果轉移到你的英雄身上，直到你的回合結束",,,,,,,"進化
 
-被摧毁：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
+被消灭：自分のターン終了まで、この従者が持つ全ての効果を自分のヒーローに移転する",,,
 Green79CardName,Text,,Barbarous Hound,野蛮猎犬,野蠻獵犬,,,,,,,野蛮な猟犬,,,
 Green79FlavourText,Text,,"Unfortunately, they think the same of you.",“不幸的是，他们对你的看法也是一样。”,“不幸的是，他們對你的看法也是一樣。”,,,,,,,「残念なことに、奴らはあなたについて同じように感じている。」,,,
 Green80CardDescription,Text,,"Evolve
@@ -3219,11 +3219,11 @@ Green89CardDescription,Text,,"Evolve
 
 Defeated: Incubate a replica of the follower without the Defeated keyword on adjacent tile, and transfer all Evolve effects gained by the follower to the copy.","进化
 
-被摧毁：在其相邻格子上孵化一个不带被摧毁：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
+被消灭：在其相邻格子上孵化一个不带被消灭：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
 
 被摧毀：在其相鄰格子上孵化一個不帶被摧毀：關鍵字的該隨從複製品，並將該隨從之前所獲所有進化效果轉移到複製品上",,,,,,,"進化
 
-被摧毁：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
+被消灭：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
 Green89CardName,Text,,Jungle Splitter,丛林分裂者,叢林分裂者,,,,,,,ジャングルスプリッター,,,
 Green89FlavourText,Text,,,,,,,,,,,,,,
 Green89aCardDescription,Text,,Evolve,进化,進化,,,,,,,進化,,,
@@ -3233,11 +3233,11 @@ Green90CardDescription,Text,,"Evolve
 
 Defeated: Incubate a replica of the follower without the Defeated keyword on adjacent tile, and transfer all Evolve effects gained by the follower to the copy.","进化
 
-被摧毁：在其相邻格子上孵化一个不带被摧毁：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
+被消灭：在其相邻格子上孵化一个不带被消灭：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
 
 被摧毀：在其相鄰格子上孵化一個不帶被摧毀：關鍵字的該隨從複製品，並將該隨從之前所獲所有進化效果轉移到複製品上",,,,,,,"進化
 
-被摧毁：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
+被消灭：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
 Green90CardName,Text,,Malicious Splitter,恶毒分裂者,惡毒分裂者,,,,,,,悪辣なスプリッター,,,
 Green90FlavourText,Text,,,,,,,,,,,,,,
 Green90aCardDescription,Text,,Evolve,进化,進化,,,,,,,進化,,,
@@ -3247,11 +3247,11 @@ Green91CardDescription,Text,,"Evolve
 
 Defeated: Incubate a replica of the follower without the Defeated keyword on adjacent tile, and transfer all Evolve effects gained by the follower to the copy.","进化
 
-被摧毁：在其相邻格子上孵化一个不带被摧毁：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
+被消灭：在其相邻格子上孵化一个不带被消灭：关键词的该随从复制品，并将该随从之前所获所有进化效果转移到复制品上","進化
 
 被摧毀：在其相鄰格子上孵化一個不帶被摧毀：關鍵字的該隨從複製品，並將該隨從之前所獲所有進化效果轉移到複製品上",,,,,,,"進化
 
-被摧毁：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
+被消灭：隣接するマスに「被破壊：」のキーワードを持たない従者の複製品を一体孵化し、この従者が前に獲得した全ての進化効果をその複製品に移す",,,
 Green91CardName,Text,,Giant Splitter,巨大的分裂者,巨大的分裂者,,,,,,,巨大なスプリッター,,,
 Green91FlavourText,Text,,,,,,,,,,,,,,
 Green91aCardDescription,Text,,Evolve,进化,進化,,,,,,,進化,,,
@@ -3421,7 +3421,7 @@ HP:,Text,,HP:,生命值:,生命值:,,,,,,,HP：,,,
 HPAttributeName,Text,,HP,生命值,生命值,,,,,,,HP,,,
 HPAttributeTooltip,Text,,"Each {0} of Explore level will give you +1 HP, currently +{1} ({2} level)",探险等级每{0}级会为你+1生命，当前+{1}（{2}级）,探險等級每{0}級會為你+1生命，當前+{1}（{2}級）,,,,,,,探検レベルでは、{0} レベルごとにライフが +1 されます。現在は +{1} ({2} レベル),,,
 HPIncreaseAttributeName,Text,,HP Growth:,生命成长,生命成長,,,,,,,HP成長,,,
-HPKeywordDescription,Text,,The unit's HP. The unit will be shattered when its HP becomes 0. The unit's restored HP cannot exceed its Max HP.,单位生命值。当生命值为0时，该单位被摧毁。回复生命时无法超过最大生命值,單位生命值。當生命值為0時，該單位被摧毀。回復生命時無法超過最大生命值,,,,,,,ユニットHP。HPが0になった時、このユニットは破壊される。HPを回復する時、最大HPを超えることはできない,,,
+HPKeywordDescription,Text,,The unit's HP. The unit will be shattered when its HP becomes 0. The unit's restored HP cannot exceed its Max HP.,单位生命值。当生命值为0时，该单位被消灭。回复生命时无法超过最大生命值,單位生命值。當生命值為0時，該單位被摧毀。回復生命時無法超過最大生命值,,,,,,,ユニットHP。HPが0になった時、このユニットは破壊される。HPを回復する時、最大HPを超えることはできない,,,
 HPKeywordName,Text,,HP,生命值,生命值,,,,,,,HP,,,
 HardKeywordDescription,Text,,Take X less damage,每层使受到的伤害减少1点,每層使受到的傷害減少1點,,,,,,,受けるダメージ-X,,,
 HardKeywordName,Text,,Toughness,坚硬,堅硬,,,,,,,堅固,,,
@@ -3436,7 +3436,7 @@ HasteCardDescription,Text,,,,,,,,,,,,,,
 HasteCardName,Text,,Haste,急速,急速,,,,,,,急速,,,
 HasteKeywordDescription,Text,,Can move and attack immediately after being summoned.,被召唤后可以立即移动和攻击,被召喚後可以立即移動和攻擊,,,,,,,召喚された直後に移動と攻撃が可能,,,
 HasteKeywordName,Text,,Haste,急速,急速,,,,,,,急速,,,
-HatchEffectCardDescription,Text,,"Incubation Status -1 at the beginning of each turn. When it goes to 0, shatter it and summon a {{LizardWarrior}}.",每回合开始时孵化状态值减1，归零时将其摧毁并召唤一个{{LizardWarrior}},每回合開始時孵化狀態值減1，歸零時將其摧毀並召喚一個{{LizardWarrior}},,,,,,,各ターンの開始時に孵化状態値が1減少し、0になるとこのカードを破壊し、{{LizardWarrior}}を一体召喚する,,,
+HatchEffectCardDescription,Text,,"Incubation Status -1 at the beginning of each turn. When it goes to 0, shatter it and summon a {{LizardWarrior}}.",每回合开始时孵化状态值减1，归零时将其消灭并召唤一个{{LizardWarrior}},每回合開始時孵化狀態值減1，歸零時將其摧毀並召喚一個{{LizardWarrior}},,,,,,,各ターンの開始時に孵化状態値が1減少し、0になるとこのカードを破壊し、{{LizardWarrior}}を一体召喚する,,,
 HatchEffectCardName,Text,,Incubation,孵化,孵化,,,,,,,孵化,,,
 Healing Potions,Text,,Healing potion,面包,治癒藥水,,,,,,,回復ポーション,,,
 HealingPotionEnemyCardDescription,Text,,Heals 6 HP,治疗6点生命,治療6點生命,,,,,,,HPを6回復する,,,
@@ -3530,7 +3530,7 @@ Strong Burn: This Burn cannot be cleared.","该单位的初始生命增加场上
 強力燃焼：この燃焼は解除されない",,,
 HeroLavaDemonCardName,Text,,Lava Demon,熔岩恶魔,熔岩惡魔,,,,,,,溶岩悪魔,,,
 HeroNamePrompt,Text,,A new hero has entered the dungeon! May I know your name?,一位新英雄踏进地牢！敢问英雄大名？,一位新英雄踏進地牢！敢問英雄大名？,,,,,,,新しいヒーローがダンジョンに入った！お名前を伺ってもよろしいでしょうか？,,,
-HeroSleepingDemonCardDescription,Text,,"Summon Stun 99. When this unit is shattered, or there are 6 or more Scorched Field on the field, exhaust this unit and generate a [Lava Demon] with the same HP at the same location, replacing [Strange Heat Wave] with [Hellfire].",召唤眩晕99。当本单位被摧毁，或场上焦土数量不少于6个时，移除该单位，在原位置生成一只相同生命的【熔岩恶魔】，将【诡异的热浪】替换为【狱炎】,召喚眩暈99。當本單位被摧毀，或場上焦土數量不少於6個時，移除該單位，在原位置生成一隻相同生命的【熔岩惡魔】，將【詭異的熱浪】替換為【獄炎】,,,,,,,召喚スタン99。このユニットが破壊されると、またはフィールド上の焦土が6個以上の時、このユニットが削除され、元の位置に同じHPを持つ【溶岩悪魔】を生成し、【不気味な熱波】を【獄炎】に変更する,,,
+HeroSleepingDemonCardDescription,Text,,"Summon Stun 99. When this unit is shattered, or there are 6 or more Scorched Field on the field, exhaust this unit and generate a [Lava Demon] with the same HP at the same location, replacing [Strange Heat Wave] with [Hellfire].",召唤眩晕99。当本单位被消灭，或场上焦土数量不少于6个时，移除该单位，在原位置生成一只相同生命的【熔岩恶魔】，将【诡异的热浪】替换为【狱炎】,召喚眩暈99。當本單位被摧毀，或場上焦土數量不少於6個時，移除該單位，在原位置生成一隻相同生命的【熔岩惡魔】，將【詭異的熱浪】替換為【獄炎】,,,,,,,召喚スタン99。このユニットが破壊されると、またはフィールド上の焦土が6個以上の時、このユニットが削除され、元の位置に同じHPを持つ【溶岩悪魔】を生成し、【不気味な熱波】を【獄炎】に変更する,,,
 HeroSleepingDemonCardName,Text,,Sleeping Demon,沉睡的恶魔,沉睡的惡魔,,,,,,,眠る悪魔,,,
 Hidden AchievementsCardDescription,Text,,,,,,,,,,,,,,
 Hidden AchievementsCardName,Text,,,,,,,,,,,,,,
@@ -3573,13 +3573,13 @@ ImplantThoughtCardDescription,Text,,Put a {{SelfHatred}} into your opponent's de
 ImplantThoughtCardName,Text,,Neurotoxin,干扰,神經毒素,,,,,,,神経毒,,,
 InfectedChimoEncounter13CardDescription,Text,,"This adventure chimo seems to have same symptoms as the strange guys in Snowy Village lately, or rather... even more worse.",这个冒险者奇莫似乎和最近白雪村里的奇怪的家伙们有些相同的症状，确切地说……更严重。,這個冒險者奇莫似乎和最近白雪村裡的奇怪的傢伙們有些相同的症狀，確切地說……更嚴重,,,,,,,この冒険者チモは、最近白雪村の変なやつらと同じ症状が出たようだ。正確に言えば……もっとひどいんだ,,,
 InfectedChimoEncounter13CardName,Text,,Infected,生长奇莫,寄生體,,,,,,,生长奇莫,,,
-InfestKeywordDescription,Text,,Adds a deathrattle effect to the unit attacked by this card.,在被这张卡攻击的单位身上增加被摧毁：效果,在被這張卡攻擊的單位身上增加被摧毀：效果,,,,,,,このカードに攻撃されたユニットに破壊効果を付与する,,,
+InfestKeywordDescription,Text,,Adds a deathrattle effect to the unit attacked by this card.,在被这张卡攻击的单位身上增加被消灭：效果,在被這張卡攻擊的單位身上增加被摧毀：效果,,,,,,,このカードに攻撃されたユニットに破壊効果を付与する,,,
 InfestKeywordName,Text,,Infect,侵染,侵染,,,,,,,浸食,,,
 Information,Text,,Hint,提示,提示,,,,,,,ヒント,,,
 Initial Mana,Text,,Initial Mana,初始法力值,初始法力值,,,,,,,初期マナ,,,
 InstantThunderCardDescription,Text,,Swap the positions of your own and enemy heroes,与敌方英雄交换位置，如果他有雷附着，则改为对其造成3点伤害,與敵方英雄交換位置，如果他有雷附著，則改為對其造成3但傷害,,,,,,,敵ヒーローと位置交換する。相手が雷付着を持つ場合、代わりに3ダメージを与える,,,
 InstantThunderCardName,Text,,Thunder Flash,瞬雷,瞬雷,,,,,,,瞬雷,,,
-IntoThePotCardDescription,Text,,"Draw an enemy follower within range 2 to the Lady, shatter it, and summon a {{Gloop}} next to the Lady on the next turn.",将一个射程2范围内的敌方随从吸引到夫人那里，摧毁它，下一回合，在夫人旁边召唤一个{{Gloop}},將一個射程2範圍內的敵方隨從吸引到夫人那裡，摧毀它，下一回合，在夫人旁邊召喚一個{{Gloop}},,,,,,,射程2範囲内の敵従者を夫人のところに引き寄せて破壊する。次のターン、夫人の隣に{{Gloop}}を1個召喚する,,,
+IntoThePotCardDescription,Text,,"Draw an enemy follower within range 2 to the Lady, shatter it, and summon a {{Gloop}} next to the Lady on the next turn.",将一个射程2范围内的敌方随从吸引到夫人那里，消灭它，下一回合，在夫人旁边召唤一个{{Gloop}},將一個射程2範圍內的敵方隨從吸引到夫人那裡，摧毀它，下一回合，在夫人旁邊召喚一個{{Gloop}},,,,,,,射程2範囲内の敵従者を夫人のところに引き寄せて破壊する。次のターン、夫人の隣に{{Gloop}}を1個召喚する,,,
 IntoThePotCardName,Text,,Lady's Pet Bell,夫人的宠物铃铛,夫人的寵物鈴鐺,,,,,,,マダムのペットベル,,,
 IntroPopupText1,Text,,"Red eyes, missing relatives, crazy friends, and monsters covered with plants. For a while, everyone in the Knight's Castle was talking about these weird and terrifying things...
 
@@ -3649,13 +3649,13 @@ LavaGiantCardDescription,Text,,Attack can apply Burn 3,攻击附带灼烧3,攻�
 LavaGiantCardName,Text,,Lava Giant,熔岩巨人,熔岩巨人,,,,,,,溶岩ジャイアント,,,
 LavusianCardDescription,Text,,"Flying 
 After shattering a unit, restores 4 HP and loses Flying for the rest of the turn","飞行
-摧毁一个单位后恢复4点生命，且本回合失去飞行","飛行
+消灭一个单位后恢复4点生命，且本回合失去飞行","飛行
 摧毀一個單位後恢復4點生命，且本回合失去飛行",,,,,,,"飛行
 ユニットを1体破壊すると、HPが4回復し、このターン飛行を失う",,,
 LavusianCardName,Text,,Raged Rock Chonchon Dragon,巨龙守护者,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
 LavusianMageCardDescription,Text,,"Flying 
 After shattering a unit, restores 4 HP and loses Flying for the rest of the turn","飞行
-摧毁一个单位后恢复4点生命，且本回合失去飞行","飛行
+消灭一个单位后恢复4点生命，且本回合失去飞行","飛行
 摧毀一個單位後恢復4點生命，且本回合失去飛行",,,,,,,"飛行
 ユニットを1体破壊すると、HPが4回復し、このターン飛行を失う",,,
 LavusianMageCardName,Text,,Raged Rock Chonchon Dragon,巨龙守护者,覓食的岩宅龍,,,,,,,餌を漁るロック・オタク・ドラゴン,,,
@@ -3664,9 +3664,9 @@ LeapKeywordName,Text,,Leap,跳跃,跳躍,,,,,,,ジャンプ,,,
 Leave,Text,,Leave,离开,離開,,,,,,,立ち去る,,,
 LeechKeywordDescription,Text,,"After the enemy is attacked, its ATK will be reduced by a corresponding amount for one turn.",敌人被攻击后，其攻击力也减低相应数值，持续一回合,敵人被攻擊後，其攻擊力也減低相應數值，持續一回合,,,,,,,敵は攻撃を受けると、その攻撃力も受けたダメージ分減少する。1ターン持続,,,
 LeechKeywordName,Text,,Leech,吸血,吸血,,,,,,,吸血,,,
-LegionReaver1CardDescription,Text,,Defeated: Grants another twins Combo 2,被摧毁：给予另一个双子连击2,被摧毀：給予另一個雙子連擊2,,,,,,,被摧毁：もう1個の双子が与えられる連撃2,,,
+LegionReaver1CardDescription,Text,,Defeated: Grants another twins Combo 2,被消灭：给予另一个双子连击2,被摧毀：給予另一個雙子連擊2,,,,,,,被消灭：もう1個の双子が与えられる連撃2,,,
 LegionReaver1CardName,Text,,Twins,双子,雙子,,,,,,,双子,,,
-LegionReaver1MageCardDescription,Text,,Defeated: Grants another twins Combo 2,被摧毁：给予另一个双子连击2,被摧毀：給予另一個雙子連擊2,,,,,,,被摧毁：もう1個の双子が与えられる連撃2,,,
+LegionReaver1MageCardDescription,Text,,Defeated: Grants another twins Combo 2,被消灭：给予另一个双子连击2,被摧毀：給予另一個雙子連擊2,,,,,,,被消灭：もう1個の双子が与えられる連撃2,,,
 LegionReaver1MageCardName,Text,,Twins,双子,雙子,,,,,,,双子,,,
 LesserChaosCardDescription,Text,,Combo 2. Range 4. Haste.,连击2。射程4。急速。,連擊2。射程4。急速。,,,,,,,連撃2。射程4。急速。,,,
 LesserChaosCardName,Text,,Iron-toothed Bat,铁齿蝙蝠,鐵齒蝙蝠,,,,,,,鉄歯コウモリ,,,
@@ -3701,7 +3701,7 @@ LittleThunderSpriteCardDescription,Text,,Warcry: Add a Thunder Affliction to you
 LittleThunderSpriteCardName,Text,,Little Lightning Fiend,小雷光妖,小雷光妖,,,,,,,ミニサンダーモン,,,
 LivingFlameCardDescription,Text,,Swap. Combo 1,换位。连击1,換位。連擊1,,,,,,,位置交換。連撃1,,,
 LivingFlameCardName,Text,,Fire Elemental,火元素,火元素,,,,,,,炎元素,,,
-LizardAlphaEggCardDescription,Text,,"After 2 turns, shatter this follower and summon a {{LizardAlphaMinion}} to replace it.",两回合后，摧毁该随从并召唤一个{{LizardAlphaMinion}}代替它。,兩回合後，摧毀該隨從並召喚一個{{LizardAlphaMinion}}代替它。,,,,,,,2ターン後、この従者を破壊し、代わりに{{LizardAlphaMinion}}を1体召喚する。,,,
+LizardAlphaEggCardDescription,Text,,"After 2 turns, shatter this follower and summon a {{LizardAlphaMinion}} to replace it.",两回合后，消灭该随从并召唤一个{{LizardAlphaMinion}}代替它。,兩回合後，摧毀該隨從並召喚一個{{LizardAlphaMinion}}代替它。,,,,,,,2ターン後、この従者を破壊し、代わりに{{LizardAlphaMinion}}を1体召喚する。,,,
 LizardAlphaEggCardName,Text,,Alpha Egg,阿尔法卵,阿爾法卵,,,,,,,アルファエッグ,,,
 LizardAlphaMinionCardDescription,Text,,Combo 1,连击1,連擊1,,,,,,,連撃1,,,
 LizardAlphaMinionCardName,Text,,Alpha Lizard,阿尔法蜥蜴,阿爾法蜥蜴,,,,,,,アルファトカゲ,,,
@@ -3713,7 +3713,7 @@ LizardBowmasterCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 LizardBowmasterCardName,Text,,Mad Wizard,奇怪的巫师,瘋狂的巫師,,,,,,,狂気のウィザード,,,
 LizardCrossbowmanCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 LizardCrossbowmanCardName,Text,,Lizard Arbalist,蜥蜴十字弓手,蜥蜴十字弓手,,,,,,,トカゲ十字射手,,,
-LizardDefenderCardDescription,Text,,"Whenever a Lizard Egg is shattered, get ATK +1 until the end of the next turn.",每当一个蜥蜴蛋被摧毁时，到下一回合结束前获得+1攻击力,每當一個蜥蜴蛋被摧毀時，到下一回合結束前獲得+1攻擊力,,,,,,,トカゲの卵が破壊されるたび、次のターン終了時まで攻撃力+1,,,
+LizardDefenderCardDescription,Text,,"Whenever a Lizard Egg is shattered, get ATK +1 until the end of the next turn.",每当一个蜥蜴蛋被消灭时，到下一回合结束前获得+1攻击力,每當一個蜥蜴蛋被摧毀時，到下一回合結束前獲得+1攻擊力,,,,,,,トカゲの卵が破壊されるたび、次のターン終了時まで攻撃力+1,,,
 LizardDefenderCardName,Text,,Lizard Defender,蜥蜴后卫,蜥蜴後衛,,,,,,,トカゲ後衛,,,
 LizardEggrunnerCardDescription,Text,,Thrust 1,突进1,突進1,,,,,,,突進1,,,
 LizardEggrunnerCardName,Text,,Lizard Egg Walker,蜥蜴蛋行​​者,蜥蜴蛋行​​者,,,,,,,トカゲの卵行者,,,
@@ -3721,9 +3721,9 @@ LizardHuntressCardDescription,Text,,"Swap, at the end of the turn, make adjacent
 LizardHuntressCardName,Text,,Naughty Jimmy,淘气的吉米,淘氣的吉米,,,,,,,やんちゃなジミー,,,
 LizardHuntressMinionCardDescription,Text,,"Swap, at the end of the turn, make adjacent enemy units unable to move for one turn.
 Defeated: Captain's Wife gets +5/+5 and Thrust 1.","换位，回合结束时，使相邻的敌方单位不能移动一回合。
-被摧毁：船长夫人获得+5/+5和突进1。","換位，回合結束時，使相鄰的敵方單位不能移動一回合。
+被消灭：船长夫人获得+5/+5和突进1。","換位，回合結束時，使相鄰的敵方單位不能移動一回合。
 被摧毀：船長夫人獲得+5/+5和突進1。",,,,,,,"位置交換、ターン終了時、隣接する敵ユニットを1ターン移動できないようにする。
-被摧毁：船長夫人が+5/+5と突進1を獲得する。",,,
+被消灭：船長夫人が+5/+5と突進1を獲得する。",,,
 LizardHuntressMinionCardName,Text,,Naughty Jimmy,淘气的吉米,淘氣的吉米,,,,,,,やんちゃなジミー,,,
 LizardLongspearCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 LizardLongspearCardName,Text,,Lizard Spearman,蜥蜴长矛兵,蜥蜴長矛兵,,,,,,,トカゲの長槍兵,,,
@@ -3774,7 +3774,7 @@ LizardSpearmasterCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 LizardSpearmasterCardName,Text,,Lizard Spear Master,蜥蜴长矛大师,蜥蜴長矛大師,,,,,,,トカゲの槍マスター,,,
 LizardWarriorCardDescription,Text,,Haste,急速,急速,,,,,,,急速,,,
 LizardWarriorCardName,Text,,Wukichimo,乌鸡奇莫,烏雞奇莫,,,,,,,烏骨鶏チモ,,,
-LizardlingEggCardDescription,Text,,"After 2 turns, shatter this follower and summon a {{LizardWarrior}} to replace it.",2回合后，摧毁该随从并召唤一个{{LizardWarrior}}代替它,2回合後，摧毀該隨從並召喚一個{{LizardWarrior}}代替它,,,,,,,2ターン後、この従者を破壊し、代わりに{{LizardWarrior}}を1体召喚する,,,
+LizardlingEggCardDescription,Text,,"After 2 turns, shatter this follower and summon a {{LizardWarrior}} to replace it.",2回合后，消灭该随从并召唤一个{{LizardWarrior}}代替它,2回合後，摧毀該隨從並召喚一個{{LizardWarrior}}代替它,,,,,,,2ターン後、この従者を破壊し、代わりに{{LizardWarrior}}を1体召喚する,,,
 LizardlingEggCardName,Text,,Egg,鸡蛋,雞蛋,,,,,,,卵,,,
 LizardlingEncounter7CardDescription,Text,,"The air smells of shed skin, and in the corner of the room, a lizard twice your height curls around a pile of eggs. It looks like you've found the Lizard Queen.",空气中弥漫着脱落的皮肤的气味，在房间的角落里，一只两倍你身高的蜥蜴卷曲在一堆卵的周围。 看来你已找到了女王。,空氣中彌漫著脫落的皮膚的氣味，在房間的角落裡，一隻兩倍你身高的蜥蜴捲曲在一堆卵的周圍。 看來你已找到了女王。,,,,,,,空気は脱皮したスキンの匂いで満たされ、部屋の隅では、あなたの身長の2倍はあるトカゲが卵の山を囲んで丸くなっている。どうやら女王を見つけたようだ。,,,
 LizardlingEncounter7CardName,Text,,Lizard Chieftain,蜥蜴族长,蜥蜴族長,,,,,,,トカゲの族長,,,
@@ -3843,7 +3843,7 @@ LootEffect02CardDescription,Text,,,,,,,,,,,,,,
 LootEffect02CardName,Text,,,,,,,,,,,,,,
 LootEffect03CardDescription,Text,,The unit cannot act this turn (but it still can move).,单位本回合不能行动（但仍可以移动）,單位本回合不能行動（但仍可以移動）,,,,,,,このターン、ユニットは行動できなくなる（ただし移動はできる）,,,
 LootEffect03CardName,Text,,Smoke Bomb,烟雾弹,煙霧彈,,,,,,,発煙弾,,,
-LootEffect05CardDescription,Text,,"Status -1 at the beginning of each turn. When it goes to 0, shatter this unit.",回合结束时状态值减1；归零时，摧毁本单位,回合結束時狀態值減1；歸零時，摧毀本單位,,,,,,,ターン終了時、状態値-1、0になると、このユニットは破壊される,,,
+LootEffect05CardDescription,Text,,"Status -1 at the beginning of each turn. When it goes to 0, shatter this unit.",回合结束时状态值减1；归零时，消灭本单位,回合結束時狀態值減1；歸零時，摧毀本單位,,,,,,,ターン終了時、状態値-1、0になると、このユニットは破壊される,,,
 LootEffect05CardName,Text,,Countdown,倒计时,倒計時,,,,,,,カウントダウン,,,
 LootEffect06CardDescription,Text,,Can attack X extra times per turn,每层使每回合可额外攻击1次,每層使每回合可額外攻擊1次,,,,,,,各ターン追加でX回攻撃できる,,,
 LootEffect06CardName,Text,,Combo,连击,連擊,,,,,,,連撃,,,
@@ -3883,7 +3883,7 @@ Mage05CardDescription,Text,,Range 3,射程3,射程3,,,,,,,射程3,,,
 Mage05CardName,Text,,Staff of the Grand Mage,大法师的法杖,大法師的法杖,,,,,,,上級メイジの杖,,,
 Mage06CardDescription,Text,,"Range 2, Attack can apply Burn 1",射程2，攻击附带灼烧1,射程2，攻擊附帶灼燒1,,,,,,,射程2、攻撃時に燃焼1を付与する,,,
 Mage06CardName,Text,,Burning Wand,燃烧魔杖,燃燒魔杖,,,,,,,燃焼ワンド,,,
-Mage07CardDescription,Text,,"If your hero shatters an enemy, get mana +1.",如果你的英雄摧毁了敌人，则获得+1法力值,如果你的英雄摧毀了敵人，則獲得+1法力值,,,,,,,あなたのヒーローが敵を破壊すると、マナ+1,,,
+Mage07CardDescription,Text,,"If your hero shatters an enemy, get mana +1.",如果你的英雄消灭了敌人，则获得+1法力值,如果你的英雄摧毀了敵人，則獲得+1法力值,,,,,,,あなたのヒーローが敵を破壊すると、マナ+1,,,
 Mage07CardName,Text,,Crystal Dagger,水晶匕首,水晶匕首,,,,,,,水晶ダガー,,,
 Mage08CardDescription,Text,,"Can be summoned on any unoccupied tile. At the start of your turn, put {{Mage09}} into your hand.",可以在任何空方格上被召唤。在回合开始时，将{{Mage09}}放入你的手牌,可以在任何空方格上被召喚。在回合開始時，將{{Mage09}}放入你的手牌,,,,,,,いかなる空きマスで召喚できる。ターン開始時、{{Mage09}}を手札に追加する,,,
 Mage08CardName,Text,,Illusion,幻象,幻象,,,,,,,幻像,,,
@@ -3923,11 +3923,11 @@ Mage16aCardDescription,Text,,Draw 1 card and get Block 2,抽一张牌并且获�
 Mage16aCardName,Text,,Adv. Accelerate,高级加速,高級加速,,,,,,,上級加速,,,
 Mage16bCardDescription,Text,,Draw 1 card and get Block 3,抽两张牌并且获得格挡3,抽兩張牌並且獲得格擋3,,,,,,,カードを2枚引き、ブロック3を獲得する,,,
 Mage16bCardName,Text,,Master Accelerate,大师级加速,大師級加速,,,,,,,マスター加速,,,
-Mage17CardDescription,Text,,"Deal 1 damage to a unit. If this unit is shattered, get 1 mana and draw 1 card.",对单位造成1点伤害如果该单位被摧毁，则获得1点法力值并抽一张牌,對單位造成1點傷害如果該單位被摧毀，則獲得1點法力值並抽一張牌,,,,,,,ユニット1体に１ダメージを与える。そのユニットが破壊された場合、1マナを獲得し、カードを1枚引く,,,
+Mage17CardDescription,Text,,"Deal 1 damage to a unit. If this unit is shattered, get 1 mana and draw 1 card.",对单位造成1点伤害如果该单位被消灭，则获得1点法力值并抽一张牌,對單位造成1點傷害如果該單位被摧毀，則獲得1點法力值並抽一張牌,,,,,,,ユニット1体に１ダメージを与える。そのユニットが破壊された場合、1マナを獲得し、カードを1枚引く,,,
 Mage17CardName,Text,,Soul Conversion,灵魂转化,靈魂轉化,,,,,,,魂の転換,,,
-Mage17aCardDescription,Text,,"Deal 2 damage to a unit. If this unit is shattered, get 1 mana and draw 1 card.",对单位造成2点伤害如果该单位被摧毁，则获得1点法力值并抽一张牌,對單位造成2點傷害如果該單位被摧毀，則獲得1點法力值並抽一張牌,,,,,,,ユニット1体に2ダメージを与える。そのユニットが破壊された場合、1マナを獲得し、カードを1枚引く,,,
+Mage17aCardDescription,Text,,"Deal 2 damage to a unit. If this unit is shattered, get 1 mana and draw 1 card.",对单位造成2点伤害如果该单位被消灭，则获得1点法力值并抽一张牌,對單位造成2點傷害如果該單位被摧毀，則獲得1點法力值並抽一張牌,,,,,,,ユニット1体に2ダメージを与える。そのユニットが破壊された場合、1マナを獲得し、カードを1枚引く,,,
 Mage17aCardName,Text,,Adv. Soul Conversion,高级灵魂转化,高級靈魂轉化,,,,,,,上級魂の転換,,,
-Mage17bCardDescription,Text,,"Deal 2 damage to a unit. If this unit is shattered, get 2 mana and draw 1 card.",对单位造成2点伤害如果该单位被摧毁，则获得2点法力值并抽一张牌,對單位造成2點傷害如果該單位被摧毀，則獲得2點法力值並抽一張牌,,,,,,,ユニット1体に2ダメージを与える。そのユニットが破壊された場合、2マナを獲得し、カードを1枚引く,,,
+Mage17bCardDescription,Text,,"Deal 2 damage to a unit. If this unit is shattered, get 2 mana and draw 1 card.",对单位造成2点伤害如果该单位被消灭，则获得2点法力值并抽一张牌,對單位造成2點傷害如果該單位被摧毀，則獲得2點法力值並抽一張牌,,,,,,,ユニット1体に2ダメージを与える。そのユニットが破壊された場合、2マナを獲得し、カードを1枚引く,,,
 Mage17bCardName,Text,,Master Soul Conversion,大师级灵魂转化,大師級靈魂轉化,,,,,,,マスター魂の転換,,,
 Mage18CardDescription,Text,,"Choose an adjacent unit, and your hero deals 2 damage to all units in its row or column.",选择一个相邻单位，英雄对其所指一排或一列上的所有单位造成2点伤害,選擇一個相鄰單位，英雄對其所指一排或一列上的所有單位造成2點傷害,,,,,,,隣接するユニットを1体選択する。ヒーローはそのユニットと同じ列/または同じ行にいる全てのユニットに2ダメージを与える,,,
 Mage18CardName,Text,,Shock,震击,震擊,,,,,,,ショック,,,
@@ -3947,7 +3947,7 @@ Mage20aCardDescription,Text,,Deals 6 damage to target unit and 3 damage to all a
 Mage20aCardName,Text,,Adv. Fireball,高级火球,高級火球,,,,,,,上級火玉,,,
 Mage20bCardDescription,Text,,Deals 6 damage to target unit and 4 damage to all adjacent units; all units hit will be applied with Burn 3.,对目标单位造成6点伤害，对目标所有相邻单位造成4点伤害；所有命中的目标被施加灼烧3,對目標單位造成6點傷害，對目標所有相鄰單位造成4點傷害；所有命中的目標被施加灼燒3,,,,,,,ターゲットユニットに6ダメージを与え、ターゲットに隣接する全てのユニットに4ダメージを与える。命中した全てのターゲットに燃焼3を付与する,,,
 Mage20bCardName,Text,,Master Fireball,大师级火球,大師級火球,,,,,,,マスター火玉,,,
-Mage21CardDescription,Text,,Shatter a follower,摧毁一个随从,摧毀一個隨從,,,,,,,従者を1体破壊する,,,
+Mage21CardDescription,Text,,Shatter a follower,消灭一个随从,摧毀一個隨從,,,,,,,従者を1体破壊する,,,
 Mage21CardName,Text,,Shatter,破坏,破壞,,,,,,,破壊,,,
 Mage22CardDescription,Text,,"Select a follower, its ATK -2",选择一个随从并将其攻击力降低2,選擇一個隨從並將其攻擊力降低2,,,,,,,従者を1体選択し、その攻撃力を2低下させる,,,
 Mage22CardName,Text,,Exhaustion,衰竭,衰竭,,,,,,,フェード,,,
@@ -3981,11 +3981,11 @@ Mage25aCardDescription,Text,,"Choose an allied follower and give it 2 transfer p
 Mage25aCardName,Text,,Adv. Transfer,高级转移,高級轉移,,,,,,,上級移転,,,
 Mage25bCardDescription,Text,,"Choose an allied follower and give it 3 transfer points. When your hero takes damage, transfer the damage to the allied follower and reduce the transfer point by 1.",选择一个友方随从并给予其3点转移值。当你的英雄受到伤害时，转移伤害至该友方随从并减少1点转移值,選擇一個友方隨從並給予其3點轉移值。當你的英雄受到傷害時，轉移傷害至該友方隨從並減少1點轉移值,,,,,,,味方従者を1名選択し、3移転値を付与する。あなたのヒーローがダメージを受けると、そのダメージを味方従者に移転する、移転値-1,,,
 Mage25bCardName,Text,,Master Transfer,大师级转移,大師級轉移,,,,,,,マスター移転,,,
-Mage26CardDescription,Text,,"Deal 1 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+1 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成1点伤害。如果此伤害摧毁了该随从，则重复对下一个相邻敌方随从造成额外+1点伤害（X为本次法术摧毁的敌方数量）,對一個相鄰敵方隨從造成1點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成額外+1點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に1ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+1のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
+Mage26CardDescription,Text,,"Deal 1 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+1 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成1点伤害。如果此伤害消灭了该随从，则重复对下一个相邻敌方随从造成额外+1点伤害（X为本次法术消灭的敌方数量）,對一個相鄰敵方隨從造成1點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成額外+1點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に1ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+1のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
 Mage26CardName,Text,,Arcane Whip,奥术鞭挞,奧術鞭撻,,,,,,,秘術鞭撻,,,
-Mage26aCardDescription,Text,,"Deal 2 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+2 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成2点伤害。如果此伤害摧毁了该随从，则重复对下一个相邻敌方随从造成额外+2点伤害（X为本次法术摧毁的敌方数量）,對一個相鄰敵方隨從造成2點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成額外+2點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に2ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+2のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
+Mage26aCardDescription,Text,,"Deal 2 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+2 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成2点伤害。如果此伤害消灭了该随从，则重复对下一个相邻敌方随从造成额外+2点伤害（X为本次法术消灭的敌方数量）,對一個相鄰敵方隨從造成2點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成額外+2點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に2ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+2のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
 Mage26aCardName,Text,,Adv. Arcane Whip,高级奥术鞭挞,高級奧術鞭撻,,,,,,,上級秘術鞭撻,,,
-Mage26bCardDescription,Text,,"Deal 3 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+3 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成3点伤害。如果此伤害摧毁了该随从，则重复对下一个相邻敌方随从造成X+3点伤害（X为本次法术摧毁的敌方数量）,對一個相鄰敵方隨從造成3點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成X+3點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に3ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+3のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
+Mage26bCardDescription,Text,,"Deal 3 damage to an adjacent enemy follower. If this damage shatters the follower, deal X+3 damage to the next adjacent enemy follower again (X is the number of enemies shattered by this spell).",对一个相邻敌方随从造成3点伤害。如果此伤害消灭了该随从，则重复对下一个相邻敌方随从造成X+3点伤害（X为本次法术消灭的敌方数量）,對一個相鄰敵方隨從造成3點傷害。如果此傷害摧毀了該隨從，則重複對下一個相鄰敵方隨從造成X+3點傷害（X為本次法術摧毀的敵方數量）,,,,,,,隣接する敵従者に3ダメージを与える。このダメージで従者を破壊した場合、隣接する次の敵従者にX+3のダメージを与える（Xはこの魔法で破壊した敵の数になる）,,,
 Mage26bCardName,Text,,Master Arcane Whip,大师级奥术鞭挞,大師級奧術鞭撻,,,,,,,マスター秘術鞭撻,,,
 Mage27CardDescription,Text,,Forces an enemy follower to attack a random adjacent follower.,强迫敌方随从攻击一个随机的相邻随从,強迫敵方隨從攻擊一個隨機的相鄰隨從,,,,,,,敵従者に、隣接するランダムな従者を攻撃させる,,,
 Mage27CardName,Text,,Manipulate Puppets,木偶操纵,木偶操縱,,,,,,,操り人形,,,
@@ -4015,7 +4015,7 @@ Mage34aCardDescription,Text,,The next spell card you play will be cast twice.,�
 Mage34aCardName,Text,,Adv. Double,高级加倍,高級加倍,,,,,,,上級ダブル,,,
 Mage34bCardDescription,Text,,The next spell card you play will be cast twice.,你打出的下一张法术牌会施法两遍,你打出的下一張法術牌會施法兩遍,,,,,,,次に出す魔法カードは2回発動する,,,
 Mage34bCardName,Text,,Master Double,大师级加倍,大師級加倍,,,,,,,マスターダブル,,,
-Mage35CardDescription,Text,,"Void a follower, then return it to the field after one turn. If another follower is standing at the position of the voided follower, shatter both followers; if a hero is standing at the position of the voided follower, deal 5 damage to that hero.",虚无一个随从，然后一回合后将其返回。如果此时另一个随从正站在被虚无随从的位置上，则将两个随从全部摧毁；如果英雄站在被虚无随从的位置上，则对英雄造成5点伤害,虛無一個隨從，然後一回合後將其返回。如果此時另一個隨從正站在被虛無隨從的位置上，則將兩個隨從全部摧毀；如果英雄站在被虛無隨從的位置上，則對英雄造成5點傷害,,,,,,,従者1体に虚無効果を付与する。1ターン後にそれを戻す。その時、もう一人の従者が虚無効果を持つ従者のマスにいる場合、二人の従者を破壊する。ヒーローが虚無効果を持つ従者のマスにいる場合、ヒーローに5ダメージを与える,,,
+Mage35CardDescription,Text,,"Void a follower, then return it to the field after one turn. If another follower is standing at the position of the voided follower, shatter both followers; if a hero is standing at the position of the voided follower, deal 5 damage to that hero.",虚无一个随从，然后一回合后将其返回。如果此时另一个随从正站在被虚无随从的位置上，则将两个随从全部消灭；如果英雄站在被虚无随从的位置上，则对英雄造成5点伤害,虛無一個隨從，然後一回合後將其返回。如果此時另一個隨從正站在被虛無隨從的位置上，則將兩個隨從全部摧毀；如果英雄站在被虛無隨從的位置上，則對英雄造成5點傷害,,,,,,,従者1体に虚無効果を付与する。1ターン後にそれを戻す。その時、もう一人の従者が虚無効果を持つ従者のマスにいる場合、二人の従者を破壊する。ヒーローが虚無効果を持つ従者のマスにいる場合、ヒーローに5ダメージを与える,,,
 Mage35CardName,Text,,Void,虚无,虛無,,,,,,,虚無,,,
 Mage36CardDescription,Text,,One of your units get Combo 1 before the end of the turn.,在回合结束前，使一个单位获得连击1,在回合結束前，使一個單位獲得連擊1,,,,,,,ターン終了前に、ユニット1体に連撃1を獲得させる,,,
 Mage36CardName,Text,,Combo Skill,连击术,連擊術,,,,,,,連撃術,,,
@@ -4057,7 +4057,7 @@ Mage46aCardDescription,Text,,Deal 2 basic damage to a unit; deals 2 extra damage
 Mage46aCardName,Text,,Adv. Center Crush,高级中心粉碎,高級中心粉碎,,,,,,,上級中心粉砕,,,
 Mage46bCardDescription,Text,,Deal 4 basic damage to a unit; deals 2 extra damage to that unit equals to the number of its adjacent units.,对一个单位造成4点基础伤害；每有一个相邻单位，对该单位造成额外2点伤害,對一個單位造成4點基礎傷害；每有一個相鄰單位，對該單位造成額外2點傷害,,,,,,,ユニット1体に4基礎ダメージを与える。隣接するユニット1体ごとに、追加でそのユニットに2ダメージを与える,,,
 Mage46bCardName,Text,,Master Center Crush,大师级中心粉碎,大師級中心粉碎,,,,,,,マスター中心粉砕,,,
-Mage47CardDescription,Text,,"Enchant a follower and let it become Bomb-Infused until it is shattered: When this follower moves, deal 3 damage to it and all its adjacent units.",施魔一个随从，使其获得炸弹注入直到被摧毁：当该随从移动时，对其和其所有相邻单位造成3点伤害,施魔一個隨從，使其獲得炸彈注入直到被摧毀：當該隨從移動時，對其和其所有相鄰單位造成3點傷害,,,,,,,従者1体にエンチャントを付与し、破壊されるまで爆弾注入を獲得させる。その従者が移動すると、従者と従者に隣接する全てのユニットに3ダメージを与える,,,
+Mage47CardDescription,Text,,"Enchant a follower and let it become Bomb-Infused until it is shattered: When this follower moves, deal 3 damage to it and all its adjacent units.",施魔一个随从，使其获得炸弹注入直到被消灭：当该随从移动时，对其和其所有相邻单位造成3点伤害,施魔一個隨從，使其獲得炸彈注入直到被摧毀：當該隨從移動時，對其和其所有相鄰單位造成3點傷害,,,,,,,従者1体にエンチャントを付与し、破壊されるまで爆弾注入を獲得させる。その従者が移動すると、従者と従者に隣接する全てのユニットに3ダメージを与える,,,
 Mage47CardName,Text,,Bomb-Infused,炸弹注入,炸彈注入,,,,,,,爆弾注入,,,
 Mage48CardDescription,Text,,Deal up to 6 damage to the target unit; reduce 2 damage for each adjacent unit of the target.,对目标单位造成最高6点伤害；目标每有一个相邻单位，伤害降低2点,對目標單位造成最高6點傷害；目標每有一個相鄰單位，傷害降低2點,,,,,,,ターゲットに最大6ダメージを与える。ターゲットの隣接するユニット2体ごとに、ダメージが2低下する,,,
 Mage48CardName,Text,,Wild Whip,狂野之鞭,狂野之鞭,,,,,,,ワイルドな鞭,,,
@@ -4207,7 +4207,7 @@ MageBasic08CardDescription,Text,,Your hero gets {{CommonEffect77}},你的英雄�
 MageBasic08CardName,Text,,Flame Blade,烈焰之刃,烈焰之刃,,,,,,,炎の刃,,,
 MageBasic09CardDescription,Text,,"When summoned, adjacent allied followers 1 range.",被召唤时，相邻友方随从增加1点射程,被召喚時，相鄰友方隨從增加1點射程,,,,,,,召喚される時、隣接する味方従者の射程+1,,,
 MageBasic09CardName,Text,,Far Blade,远刃,遠刃,,,,,,,遠刃,,,
-MageBasic12CardDescription,Text,,"The first time you shatter an allied follower in your turn, you can get mana equal to its point.",第一次在你的回合中摧毁友方随从时，获得等于该值的法力值,第一次在你的回合中摧毀友方隨從時，獲得等於該值的法力值,,,,,,,初めてあなたのターン味方従者を破壊した場合、その値に等しいマナを獲得する,,,
+MageBasic12CardDescription,Text,,"The first time you shatter an allied follower in your turn, you can get mana equal to its point.",第一次在你的回合中消灭友方随从时，获得等于该值的法力值,第一次在你的回合中摧毀友方隨從時，獲得等於該值的法力值,,,,,,,初めてあなたのターン味方従者を破壊した場合、その値に等しいマナを獲得する,,,
 MageBasic12CardName,Text,,Absorb Souls,灵魂吸收,靈魂吸收,,,,,,,魂の吸収,,,
 MageBasic13CardDescription,Text,,Each loot grants an extra follower choice.,每次战利品可获得一个额外的随从选择,每次戰利品可獲得一個額外的隨從選擇,,,,,,,戦利品ごとに追加の従者を選択できる,,,
 MageBasic13CardName,Text,,Legion Recruit,军团招募,軍團招募,,,,,,,軍団募集,,,
@@ -4217,7 +4217,7 @@ MageBasic18CardDescription,Text,,,,,,,,,,,,,,
 MageBasic18CardName,Text,,,,,,,,,,,,,,
 MageBasic20CardDescription,Text,,"Mana cost of spell+1. Each time you cast a spell, gain Spell Enhancement 1 this turn",法术的法力消耗+1。你每次施放法术，本回合获得法术强化1,法術的法力消耗+1。你每次施放法術，本回合獲得法術強化1,,,,,,,魔法のマナ消費+1、あなたが魔法を発動するたびに、このターン魔法強化1を獲得し,,,
 MageBasic20CardName,Text,,High Tide,涨潮,漲潮,,,,,,,満潮,,,
-MageBlack01CardDescription,Text,,"Whenever a follower is shattered, summon an undead adventurer at a random location adjacent to your hero.",每有一个随从被摧毁，在相邻你的英雄的随机位置上召唤一个冒险者亡灵,每有一個隨從被摧毀，在相鄰你的英雄的隨機位置上召喚一個冒險者亡靈,,,,,,,従者が破壊されるたびに、あなたのヒーローに隣接するランダムな位置に冒険者の亡霊を1つ召喚する,,,
+MageBlack01CardDescription,Text,,"Whenever a follower is shattered, summon an undead adventurer at a random location adjacent to your hero.",每有一个随从被消灭，在相邻你的英雄的随机位置上召唤一个冒险者亡灵,每有一個隨從被摧毀，在相鄰你的英雄的隨機位置上召喚一個冒險者亡靈,,,,,,,従者が破壊されるたびに、あなたのヒーローに隣接するランダムな位置に冒険者の亡霊を1つ召喚する,,,
 MageBlack01CardName,Text,,Desire for Rebirth,重生的愿望,重生的願望,,,,,,,転生の願望,,,
 MageBlack02CardDescription,Text,,Draw a card for each sacrificed follower.,每有一个随从被献祭，抽一张牌。,每有一個隨從被獻祭，抽一張牌。,,,,,,,従者が生贄になるたびに、カードを1枚引く。,,,
 MageBlack02CardName,Text,,Dark Messenger,黑暗使者,黑暗使者,,,,,,,闇の使者,,,
@@ -4255,7 +4255,7 @@ MageEffect05CardDescription,Text,,The next spell card played will be cast X time
 MageEffect05CardName,Text,,Twinspell,双重魔法,雙重魔法,,,,,,,ダブル魔法,,,
 MageEffect05aCardDescription,Text,,The next spell card played will be cast X times,每层使你打出的下1张法术牌额外施法1遍,每層使你打出的下1張法術牌額外施法1遍,,,,,,,次に出す1枚の魔法カードはX回発動する,,,
 MageEffect05aCardName,Text,,Twinspell,双重魔法,雙重魔法,,,,,,,ダブル魔法,,,
-MageEffect06CardDescription,Text,,"At the start of the turn, return the voided follower and clear this effect. If another follower is standing on the voided follower's tile, shatter both followers; if the hero is standing on the voided follower's tile, deal 5 damage to the hero.",在回合开始时，回归被虚无的随从并清除此效果。如果回归时，另一个随从站在被虚无随从的方格中，则摧毁两个随从；如果英雄站在被虚无随从的方格上，则对英雄造成5点伤害,在回合開始時，回歸被虛無的隨從並清除此效果。如果回歸時，另一個隨從站在被虛無隨從的方格中，則摧毀兩個隨從；如果英雄站在被虛無隨從的方格上，則對英雄造成5點傷害,,,,,,,ターン開始時に、虚無効果を持つ従者に復帰し、この効果は削除される。復帰時、もう一人の従者が虚無効果を持つ従者のマスにいる場合、二人の従者を破壊する。ヒーローが虚無効果を持つ従者のマスにいる場合、ヒーローに5ダメージを与える,,,
+MageEffect06CardDescription,Text,,"At the start of the turn, return the voided follower and clear this effect. If another follower is standing on the voided follower's tile, shatter both followers; if the hero is standing on the voided follower's tile, deal 5 damage to the hero.",在回合开始时，回归被虚无的随从并清除此效果。如果回归时，另一个随从站在被虚无随从的方格中，则消灭两个随从；如果英雄站在被虚无随从的方格上，则对英雄造成5点伤害,在回合開始時，回歸被虛無的隨從並清除此效果。如果回歸時，另一個隨從站在被虛無隨從的方格中，則摧毀兩個隨從；如果英雄站在被虛無隨從的方格上，則對英雄造成5點傷害,,,,,,,ターン開始時に、虚無効果を持つ従者に復帰し、この効果は削除される。復帰時、もう一人の従者が虚無効果を持つ従者のマスにいる場合、二人の従者を破壊する。ヒーローが虚無効果を持つ従者のマスにいる場合、ヒーローに5ダメージを与える,,,
 MageEffect06CardName,Text,,Return From the Void,虚无回归,虛無回歸,,,,,,,虚無復帰,,,
 MageEffect07CardDescription,Text,,"When taking damage, the damage equal to the current soft barrier point will be blocked, and the barrier point -1. At the beginning of each turn, the barrier +1, and the maximum barrier point equals to the hero's level.",受到伤害时，抵挡等于当前柔软屏障值的伤害，然后屏障值减1每回合开始时屏障加1，最高累积等于英雄级别的屏障值,受到傷害時，抵擋等於當前柔軟屏障值的傷害，然後屏障值減1每回合開始時屏障加1，最高累積等於英雄級別的屏障值,,,,,,,ダメージを受けると、現在のソフトバリア値に等しいダメージをブロック、バリア値-1。各ターン開始時、バリア+1、最大ヒーローのレベルまでスタック可能,,,
 MageEffect07CardName,Text,,Soft Barrier,柔软屏障,柔軟屏障,,,,,,,ソフトバリア,,,
@@ -4263,7 +4263,7 @@ MageEffect08CardDescription,Text,,"If the hero hasn't moved in this turn, draw 1
 MageEffect08CardName,Text,,Concentration,聚精会神,聚精會神,,,,,,,精神集中,,,
 MageEffect09CardDescription,Text,,"On the first turn after playing all the cards, draw a card.",在第一次打尽所有卡牌的回合，抽一张牌,在第一次打盡所有卡牌的回合，抽一張牌,,,,,,,全てのカードを出したターン、カードを1枚引く,,,
 MageEffect09CardName,Text,,Hit the Bottom,触底,觸底,,,,,,,絶境,,,
-MageEffect10CardDescription,Text,,Get 1 mana when a summoned follower is shattered.,召唤生物被摧毁时获得1点法力值,召喚生物被摧毀時獲得1點法力值,,,,,,,召喚された生物が破壊されると1マナを獲得する,,,
+MageEffect10CardDescription,Text,,Get 1 mana when a summoned follower is shattered.,召唤生物被消灭时获得1点法力值,召喚生物被摧毀時獲得1點法力值,,,,,,,召喚された生物が破壊されると1マナを獲得する,,,
 MageEffect10CardName,Text,,Transfer Souls,灵魂转移,靈魂轉移,,,,,,,魂の移転,,,
 MageEffect11CardDescription,Text,,The first spell card played each turn costs 0 mana,每回合打出的第一张法术牌的法力消耗为0,每回合打出的第一張法術牌的法力消耗為0,,,,,,,各ターン、出した最初の魔法カードのマナ消費は0,,,
 MageEffect11CardName,Text,,Fast Casting,快速施法,快速施法,,,,,,,高速魔法発動,,,
@@ -4289,13 +4289,13 @@ MageEffect20CardDescription,Text,,"Enchant an allied follower, swap its basic AT
 MageEffect20CardName,Text,,Parallel,并列,並列,,,,,,,並列,,,
 MageEffect21CardDescription,Text,,Enchant: Control an enemy follower,施魔：控制一个敌方随从,施魔：控制一個敵方隨從,,,,,,,エンチャント: 敵従者を1体制御する,,,
 MageEffect21CardName,Text,,Mind Control,心灵控制,心靈控制,,,,,,,魂の制御,,,
-MageEffect22CardDescription,Text,,"When this follower takes damage, it accumulates a corresponding amount of volatility point. When it's shattered, it causes damage equal to twice the volatility point to all the adjacent units.",此随从受到伤害时，累积相应数量的挥发值当其被摧毁时，对相邻单位造成等于两倍数量挥发值伤害,此隨從受到傷害時，累積相應數量的揮發值當其被摧毀時，對相鄰單位造成等於兩倍數量揮發值傷害,,,,,,,この従者がダメージを受けると、対応する値の揮発値を獲得する。破壊されると、隣接するユニットに揮発値の2倍に等しい揮発ダメージを与える,,,
+MageEffect22CardDescription,Text,,"When this follower takes damage, it accumulates a corresponding amount of volatility point. When it's shattered, it causes damage equal to twice the volatility point to all the adjacent units.",此随从受到伤害时，累积相应数量的挥发值当其被消灭时，对相邻单位造成等于两倍数量挥发值伤害,此隨從受到傷害時，累積相應數量的揮發值當其被摧毀時，對相鄰單位造成等於兩倍數量揮發值傷害,,,,,,,この従者がダメージを受けると、対応する値の揮発値を獲得する。破壊されると、隣接するユニットに揮発値の2倍に等しい揮発ダメージを与える,,,
 MageEffect22CardName,Text,,Volatilization,挥发,揮發,,,,,,,揮発,,,
 MageEffect23CardDescription,Text,,"For the rest of this turn, your spells and followers have 0 cost (you cannot draw cards, but you can discard them).",在此回合剩下的时间里，你的法术和随从变为0花费（你无法抽取更多卡牌，但可以弃牌）,在此回合剩下的時間裡，你的法術和隨從變為0花費（你無法抽取更多卡牌，但可以棄牌）,,,,,,,このターンの残りの時間に、あなたの魔法カードと従者カードの消費が0になる（これ以上カードを引けないが、廃棄できる）,,,
 MageEffect23CardName,Text,,Break Out,爆发,爆發,,,,,,,爆発,,,
 MageEffect24CardDescription,Text,,Lose 3 HP until the end of the turn. Spell cards you used that require mana will be redrawn after use (unless they've been exhausted).,失去3点生命直到回合结束，你使用的需要法力消耗的法术牌在使用后将被重抽（除非被移除）,失去3點生命直到回合結束，你使用的需要法力消耗的法術牌在使用後將被重抽（除非被移除）,,,,,,,HPを3失う、ターン終了時まで持続。あなたが使用したマナ消費を必要とする魔法カードは引き直される（削除されない限り）,,,
 MageEffect24CardName,Text,,Hellfire Pact,地狱火公约,地獄火公約,,,,,,,地獄炎の公約,,,
-MageEffect25CardDescription,Text,,"Whenever a follower is shattered, summon an undead adventurer at a random location adjacent to your hero.",每有一个随从被摧毁，在相邻你的英雄的随机位置上召唤一个冒险者亡灵,每有一個隨從被摧毀，在相鄰你的英雄的隨機位置上召喚一個冒險者亡靈,,,,,,,従者が破壊されるたびに、あなたのヒーローに隣接するランダムな位置に冒険者の亡霊を1つ召喚する,,,
+MageEffect25CardDescription,Text,,"Whenever a follower is shattered, summon an undead adventurer at a random location adjacent to your hero.",每有一个随从被消灭，在相邻你的英雄的随机位置上召唤一个冒险者亡灵,每有一個隨從被摧毀，在相鄰你的英雄的隨機位置上召喚一個冒險者亡靈,,,,,,,従者が破壊されるたびに、あなたのヒーローに隣接するランダムな位置に冒険者の亡霊を1つ召喚する,,,
 MageEffect25CardName,Text,,Desire for Rebirth,重生的愿望,重生的願望,,,,,,,転生の願望,,,
 MageEffect26CardDescription,Text,,ATK +1,攻击力+1,攻擊力+1,,,,,,,攻撃力+1,,,
 MageEffect26CardName,Text,,Enchanted Attack,灌魔攻击,灌魔攻擊,,,,,,,魔法注入攻撃,,,
@@ -4313,7 +4313,7 @@ MageEffect32CardDescription,Text,,"Enchanted. At the end of the turn, choose up 
 MageEffect32CardName,Text,,Adv. Arcane Lock,高级奥术锁定,高級奧術鎖定,,,,,,,上級秘術ロック,,,
 MageEffect33CardDescription,Text,,"Enchanted. At the end of the turn, choose up to 3 cards to keep in the hand.",被施魔。在回合结束时，选择最多3张手牌保留在手牌,被施魔。在回合結束時，選擇最多3張手牌保留在手牌,,,,,,,エンチャントを付与される。ターン終了時、保存する手札を3枚まで選択できる,,,
 MageEffect33CardName,Text,,Master Arcane Lock,大师级奥术锁定,大師級奧術鎖定,,,,,,,マスター秘術ロック,,,
-MageEffect34CardDescription,Text,,"The first time you shatter an allied follower in your turn, you can get mana equal to its point.",第一次在你的回合中摧毁友方随从时，获得等于该值的法力值,第一次在你的回合中摧毀友方隨從時，獲得等於該值的法力值,,,,,,,初めてあなたのターン味方従者を破壊した場合、その値に等しいマナを獲得する,,,
+MageEffect34CardDescription,Text,,"The first time you shatter an allied follower in your turn, you can get mana equal to its point.",第一次在你的回合中消灭友方随从时，获得等于该值的法力值,第一次在你的回合中摧毀友方隨從時，獲得等於該值的法力值,,,,,,,初めてあなたのターン味方従者を破壊した場合、その値に等しいマナを獲得する,,,
 MageEffect34CardName,Text,,Absorb Souls,灵魂吸收,靈魂吸收,,,,,,,魂の吸収,,,
 MageEffect35CardDescription,Text,,"Mana cost of spell +1. Each time you cast a spell, gain Spell Enhancement 1 this turn",法术的法力消耗+1。你每次施放法术，本回合获得法术强化1,法術的法力消耗+1。你每次施放法術，本回合獲得法術強化1,,,,,,,魔法のマナ消費+1、あなたが魔法を発動するたびに、このターン魔法強化1を獲得し,,,
 MageEffect35CardName,Text,,High Tide,涨潮,漲潮,,,,,,,満潮,,,
@@ -4355,7 +4355,7 @@ MageEffect52CardDescription,Text,,Attack applies Fire Affliction.,攻击施加�
 MageEffect52CardName,Text,,Candlelight,燃烛,燃燭,,,,,,,燃えるロウソク,,,
 MageEffect53CardDescription,Text,,Prevents the target from taking damage.,不会受到任何伤害,不會受到任何傷害,,,,,,,ダメージを一切受けない,,,
 MageEffect53CardName,Text,,Invincibility,无敌,無敵,,,,,,,無敵,,,
-MageEffect54CardDescription,Text,,"After X turns, shatter your hero.",2个回合后，摧毁你的英雄,2個回合後，摧毀你的英雄,,,,,,,Xターン後、あなたのヒーローを破壊する,,,
+MageEffect54CardDescription,Text,,"After X turns, shatter your hero.",2个回合后，消灭你的英雄,2個回合後，摧毀你的英雄,,,,,,,Xターン後、あなたのヒーローを破壊する,,,
 MageEffect54CardName,Text,,Everything's End,终焉,終焉,,,,,,,終焉,,,
 MageEffect55CardDescription,Text,,"At the start of the turn, a random allied unit gains Void.",回合开始时，随机一个友方单位获得虚无,回合開始時，隨機一個友方單位獲得虛無,,,,,,,ターン開始時、ランダムな味方ユニットが虚無を獲得する,,,
 MageEffect55CardName,Text,,Wizard's Cloak,巫师斗篷,巫師斗篷,,,,,,,ウィザードクローク,,,
@@ -4421,7 +4421,7 @@ MageEffect80cCardDescription,Text,,"Each time another unit gains Thunder Afflict
 MageEffect80cCardName,Text,,Attraction,牵引,牽引,,,,,,,牽引,,,
 MageEffect80dCardDescription,Text,,"Each time another unit gains Thunder Affliction, pulls it to a tile adjacent to the unit",每当有一个其他单位获得雷附着，就将其拉拽至该单位相邻的空格,每當有一個其他單位獲得雷附著，就將其拉拽至該單位相鄰的空格,,,,,,,他のユニットが雷付着を獲得するたびに、相手をそのユニットに隣接する空きマスに引き寄せる,,,
 MageEffect80dCardName,Text,,Attraction,牵引,牽引,,,,,,,牽引,,,
-MageEffect81CardDescription,Text,,Shatter the unit upon taking damage,受到伤害时，摧毁该单位,受到傷害時，摧毀該單位,,,,,,,ダメージを受けるとこのユニットを破壊する,,,
+MageEffect81CardDescription,Text,,Shatter the unit upon taking damage,受到伤害时，消灭该单位,受到傷害時，摧毀該單位,,,,,,,ダメージを受けるとこのユニットを破壊する,,,
 MageEffect81CardName,Text,,Vulnerability,脆弱,脆弱,,,,,,,脆弱,,,
 MageEffect82CardDescription,Text,,"At the start of next turn, deals 3 damage and Electric Shock 2 to unit on the tile",下一回合开始时，对该格子上的单位造成3点伤害和电击2,下一回合開始時，對該格子上的單位造成3點傷害和電擊2,,,,,,,次のターン開始時、このマス上のユニットに3ダメージを与え、電撃2を付与する,,,
 MageEffect82CardName,Text,,Thunderstrike,雷击,雷擊,,,,,,,雷撃,,,
@@ -4479,7 +4479,7 @@ MageEffect90CardDescription,Text,,"Chant: At the start of next turn, deals 2 dam
 MageEffect90CardName,Text,,Chant (Dragon Knight Spear Thrower),吟唱（龙骑投枪手）,吟唱（龍騎投槍手）,,,,,,,詠唱（竜騎兵スリンガー）,,,
 MageEffect91CardDescription,Text,,"Chant: at the start of next turn, gain +2/+4",吟唱：下一回合开始时，获得+2/+4,吟唱：下一回合開始時，獲得+2/+4,,,,,,,詠唱：次のターン開始時、+2/+4を獲得する,,,
 MageEffect91CardName,Text,,Chant (Mutation),吟唱（突变）,吟唱（突變）,,,,,,,詠唱（突然変異）,,,
-MageEffect92CardDescription,Text,,"Chant: At the start of next turn, deals 1 damage to all followers. If a follower is shattered, repeats the damage of this spell",吟唱：下回合开始，对所有随从造成1点伤害。如果有随从被摧毁，则重复此法术的伤害效果,吟唱：下回合開始，對所有隨從造成1點傷害。如果有隨從被摧毀，則重複此法術的傷害效果,,,,,,,詠唱：次のターンの開始時、全ての従者に1ダメージを与える。いずれかの従者が破壊された場合、この魔法のダメージ効果を繰り返す,,,
+MageEffect92CardDescription,Text,,"Chant: At the start of next turn, deals 1 damage to all followers. If a follower is shattered, repeats the damage of this spell",吟唱：下回合开始，对所有随从造成1点伤害。如果有随从被消灭，则重复此法术的伤害效果,吟唱：下回合開始，對所有隨從造成1點傷害。如果有隨從被摧毀，則重複此法術的傷害效果,,,,,,,詠唱：次のターンの開始時、全ての従者に1ダメージを与える。いずれかの従者が破壊された場合、この魔法のダメージ効果を繰り返す,,,
 MageEffect92CardName,Text,,Chant (Death Curse),吟唱（凋零腐蚀）,吟唱（凋零腐蝕）,,,,,,,詠唱（死の呪い）,,,
 MageEffect93CardDescription,Text,,"Chant: at the start of the turn, deals 3 damage to all adjacent enemies",吟唱：回合开始时，对相邻所有敌人造成3点伤害,吟唱：回合開始時，對相鄰所有敵人造成3點傷害,,,,,,,詠唱：ターン開始時、隣接する全ての敵に3ダメージ与える,,,
 MageEffect93CardName,Text,,Chant (Crystal Masters),吟唱（水晶大师）,吟唱（水晶大師）,,,,,,,詠唱（水晶マスター）,,,
@@ -4529,11 +4529,11 @@ MageGreen03CardDescription,Text,,"Grow +1/+0.
 
 Defeated: get mana equal to this follower's ATK.","成长 +1/+0。
 
-被摧毁：获得的法力值等同于这个随从的攻击力","成長 +1/+0。
+被消灭：获得的法力值等同于这个随从的攻击力","成長 +1/+0。
 
 被摧毀：獲得的法力值等同于這個隨從的攻擊力",,,,,,,"成長 +1/+0。
 
-被摧毁：この従者の攻撃力に等しいMPを獲得する",,,
+被消灭：この従者の攻撃力に等しいMPを獲得する",,,
 MageGreen03CardName,Text,,Charging Spores,充能孢子,充能孢子,,,,,,,チャージ胞子,,,
 MageGreen04CardDescription,Text,,"Range 3, evolve.
 
@@ -4549,7 +4549,7 @@ MageGreen05CardDescription,Text,,"Grow +2/+1.
 
 If you didn't shatter an enemy unit during your turn, shatter this follower instead.","成长+2/+1。
 
-如果在你的回合没有摧毁一个敌方单位，则摧毁该随从。","成長+2/+1。
+如果在你的回合没有消灭一个敌方单位，则消灭该随从。","成長+2/+1。
 
 如果在你的回合沒有摧毀一個敵方單位，則摧毀該隨從。",,,,,,,"成長+2/+1。
 
@@ -4565,7 +4565,7 @@ MageRed01CardDescription,Text,,All units affected by burning take damage equal t
 MageRed01CardName,Text,,Fanning the Flame,扇动火焰,扇動火焰,,,,,,,炎を煽る,,,
 MageRed02CardDescription,Text,,Enchanted effects you cast on other followers will also be cast on this follower.,你对其他随从施放的施魔效果也会对这个随从施放,你對其他隨從施放的施魔效果也會對這個隨從施放,,,,,,,他の従者に発動したエンチャント効果はこの従者にも有効,,,
 MageRed02CardName,Text,,Bear Alliance Invoker,熊盟祈求者,熊盟祈求者,,,,,,,クマ同盟の祈り者,,,
-MageRed03CardDescription,Text,,"When this follower is shattered, it deals twice the damage it takes to its adjacent units.",当该随从被摧毁时，对其相邻单位造成其受到伤害的2倍,當該隨從被摧毀時，對其相鄰單位造成其受到傷害的2倍,,,,,,,この従者が破壊されると、それに隣接するユニットに従者が受けたダメージの2倍を与える,,,
+MageRed03CardDescription,Text,,"When this follower is shattered, it deals twice the damage it takes to its adjacent units.",当该随从被消灭时，对其相邻单位造成其受到伤害的2倍,當該隨從被摧毀時，對其相鄰單位造成其受到傷害的2倍,,,,,,,この従者が破壊されると、それに隣接するユニットに従者が受けたダメージの2倍を与える,,,
 MageRed03CardName,Text,,Volatile Golem,挥发性魔像,揮發性魔像,,,,,,,揮発性ゴーレム,,,
 MageRed04CardDescription,Text,,"For the rest of this turn, your spells and followers have 0 cost (you cannot draw cards, but you can discard them).",在此回合剩下的时间里，你的法术和随从变为0花费。（你无法抽取更多卡牌，但可以弃牌）,在此回合剩下的時間裡，你的法術和隨從變為0花費。（你無法抽取更多卡牌，但可以棄牌）,,,,,,,このターンの残りの時間に、あなたの魔法カードと従者カードの消費が0になる（これ以上カードを引けないが、廃棄できる）,,,
 MageRed04CardName,Text,,Break Out,爆发,爆發,,,,,,,爆発,,,
@@ -5534,11 +5534,11 @@ Enter: Your next attack inflicts Freeze","碎冰
 入場：次の攻撃でフリーズを付与する",,,
 MagicW08cCardName,Text,,Frostbite Sword,霜冻之剑,霜凍之劍,,,,,,,フロストの剣,,,
 MagmaWolfCardDescription,Text,,"Thrust 1, Cleave. Whenever a {{LesserFireElemental}} is shattered, it can get Burn 3 on attack.","突进1
-移动：对相邻敌方单位施加灼烧1，每有一个{{LesserFireElemental}}被摧毁，则额外施加1层","突進1
+移动：对相邻敌方单位施加灼烧1，每有一个{{LesserFireElemental}}被消灭，则额外施加1层","突進1
 移動：對相鄰敵方單位施加灼燒1，每有一個{{LesserFireElemental}}被摧毀，則額外施加1層",,,,,,,突進1、斬撃。{{LesserFireElemental}}が1体破壊されるたび、攻撃時に燃焼3を付与する,,,
 MagmaWolfCardName,Text,,Chonchon Dragon,大飞头龙,大飛頭龍,,,,,,,チョンチョン・ドラゴン,,,
 MagmaWolfMageCardDescription,Text,,"Thrust 1, Cleave. Whenever a {{LesserFireElemental}} is shattered, it can get Burn 3 on attack.","突进1
-移动：对相邻敌方单位施加灼烧1，每有一个{{LesserFireElemental}}被摧毁，则额外施加1层","突進1
+移动：对相邻敌方单位施加灼烧1，每有一个{{LesserFireElemental}}被消灭，则额外施加1层","突進1
 移動：對相鄰敵方單位施加灼燒1，每有一個{{LesserFireElemental}}被摧毀，則額外施加1層",,,,,,,突進1、斬撃。{{LesserFireElemental}}が1体破壊されるたび、攻撃時に燃焼3を付与する,,,
 MagmaWolfMageCardName,Text,,Chonchon Dragon,大飞头龙,大飛頭龍,,,,,,,チョンチョン・ドラゴン,,,
 Main Menu,Text,,Home,主页,主頁,,,,,,,ホームページ,,,
@@ -5586,15 +5586,15 @@ ManthriEncounter8CardDescription,Text,,"A huge guardian built by the kingdom to 
 ManthriEncounter8CardName,Text,,Mechanical Skeleton King,机骨王,機骨王,,,,,,,ロボットボーンキング,,,
 ManthriGiantCardDescription,Text,,,,,,,,,,,,,,
 ManthriGiantCardName,Text,,Manthri Giant Worm,曼思里巨虫,曼思裡巨蟲,,,,,,,マンシリ巨大ワーム,,,
-ManthriGrubCardDescription,Text,,Defeated: Summon a Big Mouth at the same location for the opponent.,被摧毁：为对手在同一位置上召唤一个大嘴怪,被摧毀：為對手在同一位置上召喚一個大嘴怪,,,,,,,被摧毁：相手のために、同じ位置にビッグマウスを1体召喚する,,,
+ManthriGrubCardDescription,Text,,Defeated: Summon a Big Mouth at the same location for the opponent.,被消灭：为对手在同一位置上召唤一个大嘴怪,被摧毀：為對手在同一位置上召喚一個大嘴怪,,,,,,,被消灭：相手のために、同じ位置にビッグマウスを1体召喚する,,,
 ManthriGrubCardName,Text,,Big Mouth,大嘴怪,大嘴怪,,,,,,,ビッグマウス,,,
-ManthriGrubEffectCardDescription,Text,,Defeated: Creates a {{ManthriGrub}} controlled by the opponent at the same location.,被摧毁：在同一位置上产生对手控制的{{ManthriGrub}},被摧毀：在同一位置上產生對手控制的{{ManthriGrub}},,,,,,,被摧毁：同じ位置に相手が制御する{{ManthriGrub}}を生成する,,,
+ManthriGrubEffectCardDescription,Text,,Defeated: Creates a {{ManthriGrub}} controlled by the opponent at the same location.,被消灭：在同一位置上产生对手控制的{{ManthriGrub}},被摧毀：在同一位置上產生對手控制的{{ManthriGrub}},,,,,,,被消灭：同じ位置に相手が制御する{{ManthriGrub}}を生成する,,,
 ManthriGrubEffectCardName,Text,,Worm Incubation,蠕虫孵化,蠕蟲孵化,,,,,,,ワーム孵化,,,
 ManthriHeroCardDescription,Text,,,,,,,,,,,,,,
 ManthriHeroCardName,Text,,Heroes of Manthri,曼思里英雄,曼思裡英雄,,,,,,,マンシリヒーロー,,,
 ManthriHonorGuardCardDescription,Text,,,,,,,,,,,,,,
 ManthriHonorGuardCardName,Text,,Manthri Honor Guards,曼思里荣誉卫队,曼思裡榮譽衛隊,,,,,,,マンシリ儀仗隊,,,
-ManthriKingCardDescription,Text,,"Whenever an allied follower is defeated, deals 1 damage to enemy heroes",每当一个友方随从被摧毁时，对敌方英雄造成1点伤害,每當一個友方隨從被摧毀時，對敵方英雄造成1點傷害,,,,,,,味方従者が1体死亡するたびに、敵ヒーローに1ダメージを与える,,,
+ManthriKingCardDescription,Text,,"Whenever an allied follower is defeated, deals 1 damage to enemy heroes",每当一个友方随从被消灭时，对敌方英雄造成1点伤害,每當一個友方隨從被摧毀時，對敵方英雄造成1點傷害,,,,,,,味方従者が1体死亡するたびに、敵ヒーローに1ダメージを与える,,,
 ManthriKingCardName,Text,,Mechanical Skeleton King,机骨王,機骨王,,,,,,,ロボットボーンキング,,,
 ManthriPsychicCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 ManthriPsychicCardName,Text,,Multi-eyed Kid,沙女巫,多目童子,,,,,,,複眼の童子,,,
@@ -5602,7 +5602,7 @@ ManthriPsychicMageCardDescription,Text,,Range 2,射程2,射程2,,,,,,,射程2,,,
 ManthriPsychicMageCardName,Text,,Multi-eyed Kid,沙女巫,多目童子,,,,,,,複眼の童子,,,
 ManthriShriekCardDescription,Text,,"Leap 2
 At the start of the turn, if you have Dragon Fruit, shatter yourself and deal 2 damage to a random adjacent enemy for 2 times","跳跃2
-回合开始：如果拥有龙晶果，则摧毁自己，对一个随机相邻敌人造成2点伤害2次","跳躍2
+回合开始：如果拥有龙晶果，则消灭自己，对一个随机相邻敌人造成2点伤害2次","跳躍2
 回合開始：如果擁有龍晶果，則摧毀自己，對一個隨機相鄰敵人造成2點傷害2次",,,,,,,"ジャンプ2
 ターン開始時、既に竜晶フルーツを所有している場合、自分を破壊し、隣接するランダムな敵1体に2ダメージを2回与える",,,
 ManthriShriekCardName,Text,,Unstable Big Mouth,不稳定的大嘴怪,不穩定的大嘴怪,,,,,,,不安定なビッグマウス,,,
@@ -5647,13 +5647,13 @@ MinionCursedDollYCardDescription,Text,,"When this unit takes damage, it deals 1 
 MinionCursedDollYCardName,Text,,Curse Puppet Y,神秘土偶 二,腐蝕人偶 二,,,,,,,呪いの人形Y,,,
 MinionCursedDollZCardDescription,Text,,"When this unit takes damage, it deals 1 damage to the enemy hero.",该单位受到伤害时，对敌方英雄造成1点伤害,該單位受到傷害時，對敵方英雄造成1點傷害,,,,,,,このユニットがダメージを受けると、敵ヒーローに1ダメージを与える,,,
 MinionCursedDollZCardName,Text,,Curse Puppet Z,神秘土偶 三,腐蝕人偶 三,,,,,,,呪いの人形Z,,,
-MinionDoorCardDescription,Text,,Destroy it to escape from here,摧毁它就能离开这里,摧毀它就能離開這裡,,,,,,,破壊すればここから出られる,,,
+MinionDoorCardDescription,Text,,Destroy it to escape from here,消灭它就能离开这里,摧毀它就能離開這裡,,,,,,,破壊すればここから出られる,,,
 MinionDoorCardName,Text,,Exit Door,离开的门,離開的門,,,,,,,出発の扉,,,
 MinionDragonTreasureCardDescription,Text,,"Cannot move
 Defeated: gain a random Treasure Card (permanently acquired)","无法移动
-被摧毁：随机获得一张宝藏卡（永久获得）","無法移動
+被消灭：随机获得一张宝藏卡（永久获得）","無法移動
 被摧毀：隨機獲得一張寶藏卡（永久獲得）",,,,,,,"移動不能
-被摧毁：ランダムに宝物カードを1枚獲得する（永久獲得）",,,
+被消灭：ランダムに宝物カードを1枚獲得する（永久獲得）",,,
 MinionDragonTreasureCardName,Text,,Treasure Chest,宝藏箱,寶藏箱,,,,,,,宝物の箱,,,
 MinionFireBatCardDescription,Text,,"Enter, start of turn: gain Fire Affliction",进场、回合开始：获得火附着,進場、回合開始：獲得火附著,,,,,,,入場、ターン開始：炎付着を獲得する,,,
 MinionFireBatCardName,Text,,Flame Bat,火焰蝙蝠,火焰蝙蝠,,,,,,,炎コウモリ,,,
@@ -5663,7 +5663,7 @@ MinionIceBatCardDescription,Text,,"Enter, start of turn: gain Water Affliction",
 MinionIceBatCardName,Text,,Frost Bat,冰霜蝙蝠,冰霜蝙蝠,,,,,,,氷コウモリ,,,
 MinionMirrorGuardCardDescription,Text,,"Range 3. When {{MagicMirror}} takes damage, it may swap positions with it.",射程3，{{MagicMirror}}受到伤害时，可能与其换位,射程3，{{MagicMirror}}受到傷害時，可能與其換位,,,,,,,射程3、{{MagicMirror}}がダメージを受けると、位置交換ができる,,,
 MinionMirrorGuardCardName,Text,,Magic Mirror Guard,虚假魔镜,虛假魔鏡,,,,,,,偽の魔法の鏡,,,
-MinionPrompt,Text,,Follower will be temporarily removed from the deck by default when defeated,随从被摧毁后将默认被暂时移除出卡组,隨從被摧毀後將默認被暫時移除出卡組,,,,,,,従者が死亡すると、しばらくデッキから削除される,,,
+MinionPrompt,Text,,Follower will be temporarily removed from the deck by default when defeated,随从被消灭后将默认被暂时移除出卡组,隨從被摧毀後將默認被暫時移除出卡組,,,,,,,従者が死亡すると、しばらくデッキから削除される,,,
 MinionRunningChimoCardDescription,Text,,Transfers control to opponent after summoning,召唤后将控制权交予对手,召喚後將控制權交予對手,,,,,,,召喚後、相手に制御権を与える,,,
 MinionRunningChimoCardName,Text,,Escaped Chimo,逃跑的奇莫,逃跑的奇莫,,,,,,,逃げ出したチモ,,,
 MinionThunderBatCardDescription,Text,,"Enter, start of turn: gain Thunder Affliction",进场、回合开始：获得雷附着,進場、回合開始：獲得雷附著,,,,,,,入場、ターン開始：雷付着を獲得する,,,
@@ -5702,7 +5702,7 @@ My Discard Pile,Text,,Your Discard Pile,我方弃卡堆,我方棄卡堆,,,,,,,�
 Name,Text,,Name,姓名：,姓名：,,,,,,,,,,
 NeckSectionCardDescription,Text,,Cannot move,无法移动,無法移動,,,,,,,移動不能,,,
 NeckSectionCardName,Text,,Snake Body,蛇身,蛇身,,,,,,,蛇の体,,,
-NeckSectionMinionCardDescription,Text,,"Cannot move. If this unit is shattered, shatter your hero as well.",无法移动。如果这个单位被摧毁，摧毁你的英雄,無法移動。如果這個單位被摧毀，摧毀你的英雄,,,,,,,移動不能。このユニットが破壊されると、あなたのヒーローも破壊される,,,
+NeckSectionMinionCardDescription,Text,,"Cannot move. If this unit is shattered, shatter your hero as well.",无法移动。如果这个单位被消灭，消灭你的英雄,無法移動。如果這個單位被摧毀，摧毀你的英雄,,,,,,,移動不能。このユニットが破壊されると、あなたのヒーローも破壊される,,,
 NeckSectionMinionCardName,Text,,Snake Body,蛇身,蛇身,,,,,,,蛇の体,,,
 New ChaosCardDescription,Text,,Deals 5 damage to targets within Range 2.,对射程2内的目标造成5点伤害,對射程2內的目標造成5點傷害,,,,,,,射程2内のターゲットに5ダメージを与える,,,
 New ChaosCardName,Text,,Magic Bullet Toss,魔弹抛掷,魔彈拋擲,,,,,,,魔弾トス,,,
@@ -5738,7 +5738,7 @@ OgreGuardianCardDescription,Text,,"Cleave. When its HP is below half, enter the 
 OgreGuardianCardName,Text,,Second uncle,二大爷,二大爺,,,,,,,二番目の叔父,,,
 OgreGuardianMageCardDescription,Text,,"Cleave. When its HP is below half, enter the second phase.",攻击具有劈砍效果。生命低于一半时，进入第二阶段。,攻擊具有劈砍效果。生命低於一半時，進入第二階段。,,,,,,,斬撃。HPが半分を下回ると、第2段階に入る,,,
 OgreGuardianMageCardName,Text,,Second uncle,二大爷,二大爺,,,,,,,二番目の叔父,,,
-OgrePotCardDescription,Text,,"Cannot move or act. If shattered, deals 30 damage to Captain Hook.",无法移动或行动。如果被摧毁，对虎克船长造成30点伤害。,無法移動或行動。如果被摧毀，對虎克船長造成30點傷害。,,,,,,,移動や行動ができない。破壊されると、フック船長に30ダメージを与える,,,
+OgrePotCardDescription,Text,,"Cannot move or act. If shattered, deals 30 damage to Captain Hook.",无法移动或行动。如果被消灭，对虎克船长造成30点伤害。,無法移動或行動。如果被摧毀，對虎克船長造成30點傷害。,,,,,,,移動や行動ができない。破壊されると、フック船長に30ダメージを与える,,,
 OgrePotCardName,Text,,Captain's Wife,船长夫人,船長夫人,,,,,,,船長夫人,,,
 OgreSpatulaCardDescription,Text,,,,,,,,,,,,,,
 OgreSpatulaCardName,Text,,Ogre's Spatula,食人魔锅铲,食人魔鍋鏟,,,,,,,オーガヘラ,,,
@@ -5785,7 +5785,7 @@ OrcWarDrummerCardDescription,Text,,Your followers get +1/+1 at the end of each t
 OrcWarDrummerCardName,Text,,Orc War Drummer,兽人战鼓手,獸人戰鼓手,,,,,,,オーク太鼓ドラマー,,,
 OrcWarmasterCardDescription,Text,,"Combo 1, Thrust 2, Guardian",连击1，突进2，守卫,連擊1，突進2，守衛,,,,,,,連撃1、突進2、守衛,,,
 OrcWarmasterCardName,Text,,Orc War Master,兽人战争大师,獸人戰爭大師,,,,,,,オークウォーマスター,,,
-OrcishWarhoundCardDescription,Text,,"Enter: Stunned {{OrcVanguard}}, reducing its damage taken by half. These effects disappear when this follower is shattered",进场：晕眩{{OrcVanguard}}，让其受到的伤害减半，这些效果在这个随从被摧毁后清除,進場：暈眩{{OrcVanguard}}，讓其受到的傷害減半，這些效果在這個隨從被摧毀後清除,,,,,,,入場：{{OrcVanguard}}をスタンさせ、受けるダメージを半分にする。これらの効果はその従者が破壊されると、削除される,,,
+OrcishWarhoundCardDescription,Text,,"Enter: Stunned {{OrcVanguard}}, reducing its damage taken by half. These effects disappear when this follower is shattered",进场：晕眩{{OrcVanguard}}，让其受到的伤害减半，这些效果在这个随从被消灭后清除,進場：暈眩{{OrcVanguard}}，讓其受到的傷害減半，這些效果在這個隨從被摧毀後清除,,,,,,,入場：{{OrcVanguard}}をスタンさせ、受けるダメージを半分にする。これらの効果はその従者が破壊されると、削除される,,,
 OrcishWarhoundCardName,Text,,Strange Box,奇怪的盒子,奇怪的盒子,,,,,,,不思議なボックス,,,
 Other AchievementsCardDescription,Text,,,,,,,,,,,,,,
 Other AchievementsCardName,Text,,,,,,,,,,,,,,
@@ -5886,7 +5886,7 @@ ReaperModePrompt,Text,,"In Death Mode, when your follower Cards are shattered, t
 
 Deck factions can only be unlocked in a fixed order of difficulty (green, red, and finally black).
 
-Treasure such as Illusion and Illusion Wall and Mage followers won't consumed.","在裁魂者模式中，你的随从卡被摧毁时它们会被消耗，但有机会在同一层的店主处恢复。
+Treasure such as Illusion and Illusion Wall and Mage followers won't consumed.","在裁魂者模式中，你的随从卡被消灭时它们会被消耗，但有机会在同一层的店主处恢复。
 
 只能按照难度的固定顺序（绿色，红色，最后是黑色）解锁卡组阵营。
 
@@ -5900,7 +5900,7 @@ Treasure such as Illusion and Illusion Wall and Mage followers won't consumed.",
 
 幻影と幻像の壁などの宝物とメイジ従者は消費されません。",,,
 ReaperModeStorePrompt,Text,,Hehehehehe…!,嘿嘿嘿嘿……！,嘿嘿嘿嘿……!,,,,,,,ふふふふ……！,,,
-ReaveCardDescription,Text,,shatter up to 3 enemy followers with the highest ATK. Get Block equal to the highest ATK.,摧毁最多3个敌方攻击力最高的随从。获得等于其最高攻击力的格挡,摧毀最多3個敵方攻擊力最高的隨從。獲得等於其最高攻擊力的格擋,,,,,,,敵の攻撃力の一番高い従者を3体まで破壊できる。その最大攻撃力に等しいブロックを獲得する,,,
+ReaveCardDescription,Text,,shatter up to 3 enemy followers with the highest ATK. Get Block equal to the highest ATK.,消灭最多3个敌方攻击力最高的随从。获得等于其最高攻击力的格挡,摧毀最多3個敵方攻擊力最高的隨從。獲得等於其最高攻擊力的格擋,,,,,,,敵の攻撃力の一番高い従者を3体まで破壊できる。その最大攻撃力に等しいブロックを獲得する,,,
 ReaveCardName,Text,,Deprive,剥夺,剝奪,,,,,,,略奪,,,
 Red - Helm,Text,,,,,,,,,,,,,,
 Red01CardDescription,Text,,Attack: Get Block 1,攻击：获得格挡1,攻擊：獲得格擋1,,,,,,,攻撃：ブロック1を獲得する,,,
@@ -6150,7 +6150,7 @@ Red21CardName,Text,,Flame Knight Spark⭐⭐⭐,炎之骑士火种⭐⭐⭐,炎�
 Red21FlavourText,Text,,"“I don't know how to spell 'demolition', but I can demolish the mansions of you officials!”",“我不知道拆字怎么写，但我可以完全拆掉你们这些官老爷的豪宅。”,“我不知道拆字怎麼寫，但我可以完全拆掉你們這些官老爺的豪宅。”,,,,,,,「破壊の二文字は書けないが、役人の邸宅を完全に破壊することはできます」,,,
 Red22CardDescription,Text,,"Haste
 At the end of the turn, shatter and exhaust this follower.","急速
-回合结束时，摧毁并移除此随从","急速
+回合结束时，消灭并移除此随从","急速
 回合結束時，摧毀並移除此隨從",,,,,,,"急速
 ターン終了時、この従者を破壊して削除する",,,
 Red22CardName,Text,,Owdizzy,猫头晕,貓頭暈,,,,,,,めまい猫,,,
@@ -6300,13 +6300,13 @@ Red52FlavourText,Text,,,,,,,,,,,,,,
 Red52dCardDescription,Text,,"Move: Deal 1 damage to <color=upgrade>adjacent units</color>, and <color=upgrade>make all damaged allied followers get ATK +2 this turn</color>.",移动：对<color=upgrade>相邻单位</color>造成1点伤害，<color=upgrade>并使所有受伤的友方随从本回合获得+2攻击</color>,移動：對<color=upgrade>相鄰單位</color>造成1點傷害，<color=upgrade>並使所有受傷的友方隨從本回合獲得+2攻擊</color>,,,,,,,移動：<color=upgrade>隣接するユニット</color>にダメージを与える。<color=upgrade>さらにこのターン負傷している全ての味方従者の攻撃力+2</color>。,,,
 Red52dCardName,Text,,Wild Guitarist,荒野吉他手·超凡,狂野吉他手,,,,,,,ワイルドギタリスト,,,
 Red52dFlavourText,Text,,,,,,,,,,,,,,
-Red53CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,摧毁敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
+Red53CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,消灭敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
 Red53CardName,Text,,Bear Alliance Missionary,熊盟传教者,熊盟傳教者,,,,,,,クマ同盟の伝道師,,,
 Red53FlavourText,Text,,,,,,,,,,,,,,
-Red54CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,摧毁敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
+Red54CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,消灭敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
 Red54CardName,Text,,Bear Alliance Disciple,熊盟信徒,熊盟信徒,,,,,,,クマ同盟の信徒,,,
 Red54FlavourText,Text,,,,,,,,,,,,,,
-Red55CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,摧毁敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
+Red55CardDescription,Text,,Double this follower's ATK after it shatters an enemy.,消灭敌人后，此随从的基本攻击力加倍,摧毀敵人後，此隨從的基本攻擊力加倍,,,,,,,敵を破壊した後、この従者の基礎攻撃力はダブルになる,,,
 Red55CardName,Text,,Bear Alliance Lord,熊盟领主,熊盟領主,,,,,,,クマ同盟の領主,,,
 Red55FlavourText,Text,,,,,,,,,,,,,,
 Red56CardDescription,Text,,"Range 2
@@ -6703,11 +6703,11 @@ Crit: Deal an extra 4 DMG on targets","对一个相邻单位造成2点伤害
 
 会心：ターゲットに追加で4ダメージを与える",,,
 Rogue16CardName,Text,,Barbarous Backstab,野蛮背刺,野蠻背刺,,,,,,,野蛮なバックスタブ,,,
-Rogue17CardDescription,Text,,"Inflict Marked 1 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记1。如果该目标被摧毁，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記1。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット1体にマーク1を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
+Rogue17CardDescription,Text,,"Inflict Marked 1 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记1。如果该目标被消灭，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記1。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット1体にマーク1を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
 Rogue17CardName,Text,,Track,追踪,追蹤,,,,,,,追跡,,,
-Rogue18CardDescription,Text,,"Inflict Marked 2 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记2。如果该目标被摧毁，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記2。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット2体にマーク1を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
+Rogue18CardDescription,Text,,"Inflict Marked 2 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记2。如果该目标被消灭，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記2。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット2体にマーク1を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
 Rogue18CardName,Text,,Adv. Track,高级追踪,高級追蹤,,,,,,,上級追跡,,,
-Rogue19CardDescription,Text,,"Inflict Marked 3 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记3。如果该目标被摧毁，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記3。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット1体にマーク3を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
+Rogue19CardDescription,Text,,"Inflict Marked 3 on a target. If the target is shattered, add a track card replica to your hand in the next turn.",对一个目标施加被标记3。如果该目标被消灭，下回合将一张追踪牌的复制品放入你的手牌。,對一個目標施加被標記3。如果該目標被摧毀，下回合將一張追蹤牌的複製品放入你的手牌。,,,,,,,ターゲット1体にマーク3を付与する。このターゲットが破壊されると、次のターン、追跡カードの複製品1枚があなたの手札に追加される。,,,
 Rogue19CardName,Text,,Master Track,大师级追踪,大師級追蹤,,,,,,,マスター追跡,,,
 Rogue20CardDescription,Text,,"Deal 1 DMG on an adjacent target
 
@@ -6869,7 +6869,7 @@ Rogue38CardDescription,Text,,"Inflict Stunned on a unit and Rooted on all enemy 
 
 Crit: If the target is a follower, shatter them","晕眩一个单位，并定身与该随从相邻的所有敌方单位。
 
-暴击：如果该目标为随从，则将其摧毁","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
+暴击：如果该目标为随从，则将其消灭","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
 
 暴擊：如果該目標為隨從，則將其摧毀",,,,,,,"ユニット1体をスタンさせ、その従者に隣接する全ての敵ユニットを拘束する。
 
@@ -6879,7 +6879,7 @@ Rogue39CardDescription,Text,,"Inflict Stunned on a unit and Rooted on all enemy 
 
 Crit: If the target is a follower, shatter them","晕眩一个单位，并定身与该随从相邻的所有敌方单位。
 
-暴击：如果该目标为随从，则将其摧毁","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
+暴击：如果该目标为随从，则将其消灭","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
 
 暴擊：如果該目標為隨從，則將其摧毀",,,,,,,"ユニット1体をスタンさせ、その従者に隣接する全ての敵ユニットを拘束する。
 
@@ -6889,7 +6889,7 @@ Rogue40CardDescription,Text,,"Inflict Stunned on a unit and Rooted on all enemy 
 
 Crit: If the target is a follower, shatter them","晕眩一个单位，并定身与该随从相邻的所有敌方单位。
 
-暴击：如果该目标为随从，则将其摧毁","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
+暴击：如果该目标为随从，则将其消灭","暈眩一個單位，並定身與該隨從相鄰的所有敵方單位。
 
 暴擊：如果該目標為隨從，則將其摧毀",,,,,,,"ユニット1体をスタンさせ、その従者に隣接する全ての敵ユニットを拘束する。
 
@@ -6995,7 +6995,7 @@ Rogue53CardDescription,Text,,"Deal 1 DMG on a unit
 
 Crit: If the follower is shattered by this damage, deal DMG equals the follower's HP on all units adjacent to the follower","对一个单位造成1点伤害
 
-暴击：如果此伤害摧毁了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成1點傷害
+暴击：如果此伤害消灭了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成1點傷害
 
 暴擊：如果此傷害摧毀了該隨從，則對該隨從相鄰所有單位造成等同于該隨從生命值的傷害",,,,,,,"ユニット1体に1ダメージを与える
 
@@ -7005,7 +7005,7 @@ Rogue54CardDescription,Text,,"Deal 2 DMG on a unit
 
 Crit: If the follower is shattered by this damage, deal DMG equals the follower's HP on all units adjacent to the follower","对一个单位造成2点伤害
 
-暴击：如果此伤害摧毁了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成2點傷害
+暴击：如果此伤害消灭了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成2點傷害
 
 暴擊：如果此傷害摧毀了該隨從，則對該隨從相鄰所有單位造成等同于該隨從生命值的傷害",,,,,,,"ユニット1体に2ダメージを与える
 
@@ -7015,7 +7015,7 @@ Rogue55CardDescription,Text,,"Deal 3 DMG on a unit
 
 Crit: If the follower is shattered by this damage, deal DMG equals the follower's HP on all units adjacent to the follower","对一个单位造成3点伤害
 
-暴击：如果此伤害摧毁了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成3點傷害
+暴击：如果此伤害消灭了该随从，则对该随从相邻所有单位造成等同于该随从生命值的伤害","對一個單位造成3點傷害
 
 暴擊：如果此傷害摧毀了該隨從，則對該隨從相鄰所有單位造成等同于該隨從生命值的傷害",,,,,,,"ユニット1体に3ダメージを与える
 
@@ -7065,7 +7065,7 @@ RogueAdvanced03CardDescription,Text,,Your hero inflicts Marked +1 by attacking w
 RogueAdvanced03CardName,Text,,Lone Wolf,独狼,獨狼,,,,,,,一匹狼,,,
 RogueAdvanced04CardDescription,Text,,"When taking lethal DMG in the battle for the first time, switch position with a random allied follower and let it take DMG for you.",第一次在战斗中受到致命伤害时，与一个随机友方随从交换位置。 它将代替你受到伤害。,第一次在戰鬥中受到致命傷害時，與一個隨機友方隨從交換位置。 它將代替你受到傷害。,,,,,,,戦闘中に初めて致命的なダメージを受けた時、ランダムな味方従者1体と位置交換する。相手は代わりにダメージを受ける。,,,
 RogueAdvanced04CardName,Text,,Diversionary,瞒天过海,瞞天過海,,,,,,,真実隠し,,,
-RogueAdvanced05CardDescription,Text,,"When the last follower on the field is shattered, gains Block 2",如果你场上最后一个随从被摧毁，则获得格挡2。,如果你場上最後一個隨從被摧毀，則獲得格擋2。,,,,,,,あなたのフィールド上の最後の従者が破壊されると、ブロック2を獲得する,,,
+RogueAdvanced05CardDescription,Text,,"When the last follower on the field is shattered, gains Block 2",如果你场上最后一个随从被消灭，则获得格挡2。,如果你場上最後一個隨從被摧毀，則獲得格擋2。,,,,,,,あなたのフィールド上の最後の従者が破壊されると、ブロック2を獲得する,,,
 RogueAdvanced05CardName,Text,,Urgency Mode+,紧急模式+,緊急模式+,,,,,,,緊急モード+,,,
 RogueAdvanced06CardDescription,Text,,"If your HP is below half, your spells damage +1.",如果你的生命低于一半，则法术造成+1伤害,如果你的生命低於一半，則法術造成+1傷害,,,,,,,HPが半分を下回る場合、魔法で+1ダメージを与える,,,
 RogueAdvanced06CardName,Text,,Spell Return,法术回击,法術回擊,,,,,,,魔法反撃,,,
@@ -7091,9 +7091,9 @@ RogueBasic04CardDescription,Text,,Gain {{CommonEffect29}} 1 at the beginning of 
 RogueBasic04CardName,Text,,Fancy Moves,花式步法,花式步法,,,,,,,派手なフットワーク,,,
 RogueBasic05CardDescription,Text,,"For every three cards discarded, the hero gains Block 1",每弃掉三张卡牌，英雄获得格挡1,每棄掉三張卡牌，英雄獲得格擋1,,,,,,,カードを3枚捨てるたびに、ヒーローがブロック1を獲得する,,,
 RogueBasic05CardName,Text,,Cape Twirling,斗篷捻弄,斗篷撚弄,,,,,,,クローク弄り,,,
-RogueBasic06CardDescription,Text,,"Whenever your hero shatters a follower, MP +1 till the end of the turn",每当你的英雄摧毁一个随从时，+1移动力直到回合结束,每當你的英雄摧毀一個隨從時，+1移動力直到回合結束,,,,,,,あなたのヒーローが従者を1体破壊すると、移動値+1、ターン終了時まで持続,,,
+RogueBasic06CardDescription,Text,,"Whenever your hero shatters a follower, MP +1 till the end of the turn",每当你的英雄消灭一个随从时，+1移动力直到回合结束,每當你的英雄摧毀一個隨從時，+1移動力直到回合結束,,,,,,,あなたのヒーローが従者を1体破壊すると、移動値+1、ターン終了時まで持続,,,
 RogueBasic06CardName,Text,,Unrestrained,来去自如,來去自如,,,,,,,自由な移動,,,
-RogueBasic07CardDescription,Text,,"When the last follower on the field is shattered, gains Block 1",如果你场上最后一个随从被摧毁，则获得格挡1,如果你場上最後一個隨從被摧毀，則獲得格擋1,,,,,,,あなたのフィールド上の最後の従者が破壊されると、ブロック1を獲得する,,,
+RogueBasic07CardDescription,Text,,"When the last follower on the field is shattered, gains Block 1",如果你场上最后一个随从被消灭，则获得格挡1,如果你場上最後一個隨從被摧毀，則獲得格擋1,,,,,,,あなたのフィールド上の最後の従者が破壊されると、ブロック1を獲得する,,,
 RogueBasic07CardName,Text,,Urgency Mode,紧急模式,緊急模式,,,,,,,緊急モード,,,
 RogueBasic08CardDescription,Text,,"When your hero eliminates an enemy hero, restores 4 HP",当你的英雄消灭一个敌方英雄，恢复4点生命值,當你的英雄消滅一個敵方英雄，恢復4點生命值,,,,,,,あなたのヒーローが敵ヒーローを倒すと、HPが4回復する,,,
 RogueBasic08CardName,Text,,Natural Killer,天生杀手,天生殺手,,,,,,,キラー才能,,,
@@ -7103,21 +7103,21 @@ RogueBasic10CardDescription,Text,,"When your HP is lower than half, Spell DMG +1
 RogueBasic10CardName,Text,,Do-or-Die,破釜沉舟,破釜沉舟,,,,,,,背水の陣,,,
 RogueBasic11CardDescription,Text,,Stun the first follower that deals DMG on you in each turn.,击晕每回合对你造成伤害的第一个随从。,擊暈每回合對你造成傷害的第一個隨從。,,,,,,,各ターン、あなたにダメージを与える最初の従者をスタンさせる。,,,
 RogueBasic11CardName,Text,,Despicable Grapple,卑劣格斗,卑劣格鬥,,,,,,,卑劣な格闘,,,
-RogueBasic12CardDescription,Text,,Gain Mana +1 when an accomplice is shattered,当同谋被摧毁时，获得+1法力值,當同謀被摧毀時，獲得+1法力值,,,,,,,共犯者が破壊されると、マナ+1,,,
+RogueBasic12CardDescription,Text,,Gain Mana +1 when an accomplice is shattered,当同谋被消灭时，获得+1法力值,當同謀被摧毀時，獲得+1法力值,,,,,,,共犯者が破壊されると、マナ+1,,,
 RogueBasic12CardName,Text,,Think On Your Feet,随机应变,隨機應變,,,,,,,臨機応変,,,
 RogueBasic13CardDescription,Text,,"If no loot cards are picked up when the battle ends, a 3-star card is guaranteed next time.",如果在战斗结束后未拾取任何战利品卡牌，下一次将保证遇见一张三星卡牌。,如果在戰鬥結束後未拾取任何戰利品卡牌，下一次將保證遇見一張三星卡牌。,,,,,,,戦闘終了後、戦利品カードを拾っていない場合、次は必ず星3カード1枚に出会う。,,,
 RogueBasic13CardName,Text,,Odds Rigging,操纵赔率,操縱賠率,,,,,,,オッズ操作,,,
-RogueBlack01CardDescription,Text,,"When an allied follower is defeated, the hero gains Combo +1 in this turn",当友方随从被摧毁时，英雄这个回合获得连击+1,當友方隨從被摧毀時，英雄這個回合獲得連擊+1,,,,,,,味方従者が死亡すると、このターン、ヒーローが連撃+1を獲得する,,,
+RogueBlack01CardDescription,Text,,"When an allied follower is defeated, the hero gains Combo +1 in this turn",当友方随从被消灭时，英雄这个回合获得连击+1,當友方隨從被摧毀時，英雄這個回合獲得連擊+1,,,,,,,味方従者が死亡すると、このターン、ヒーローが連撃+1を獲得する,,,
 RogueBlack01CardName,Text,,Obsidian Wizard,黑曜石巫师,黑曜石巫師,,,,,,,黒曜石のウィザード,,,
-RogueBlack02CardDescription,Text,,Defeated: Draw the top card of the discard pile,被摧毁：抽取弃牌堆顶端的卡牌,被摧毀：抽取棄牌堆頂端的卡牌,,,,,,,死亡：捨て札から一番上のカードを引く,,,
+RogueBlack02CardDescription,Text,,Defeated: Draw the top card of the discard pile,被消灭：抽取弃牌堆顶端的卡牌,被摧毀：抽取棄牌堆頂端的卡牌,,,,,,,死亡：捨て札から一番上のカードを引く,,,
 RogueBlack02CardName,Text,,Kalim Grave Digger,卡利姆掘墓者,卡利姆掘墓者,,,,,,,カリムの盗掘者,,,
-RogueBlack03CardDescription,Text,,Your follower gains Defeated: Deal 1 DMG on enemy heroes,你的随从获得被摧毁：对敌方英雄造成1点伤害,你的隨從獲得被摧毀：對敵方英雄造成1點傷害,,,,,,,あなたの従者が死亡を獲得：敵ヒーローに1ダメージを与える,,,
+RogueBlack03CardDescription,Text,,Your follower gains Defeated: Deal 1 DMG on enemy heroes,你的随从获得被消灭：对敌方英雄造成1点伤害,你的隨從獲得被摧毀：對敵方英雄造成1點傷害,,,,,,,あなたの従者が死亡を獲得：敵ヒーローに1ダメージを与える,,,
 RogueBlack03CardName,Text,,Cursed Wanderer,腐蚀行者,腐蝕行者,,,,,,,呪いのウォーカー,,,
 RogueBlack04CardDescription,Text,,Transfers DMG on your hero to the follower,当你的英雄受到伤害时，伤害会转移到该随从,當你的英雄受到傷害時，傷害會轉移到該隨從,,,,,,,あなたのヒーローがダメージを受けると、ダメージはこの従者に移転する,,,
 RogueBlack04CardName,Text,,Friendly Scarecrow,友好的稻草人,友好的稻草人,,,,,,,フレンドリーなかかし,,,
-RogueBlack05CardDescription,Text,,Chain: Grant followers +3/+0 and shatter them when the turn ends,连锁：给随从+3/+0，然后在回合结束时摧毁它们,連鎖：給隨從+3/+0，然後在回合結束時摧毀它們,,,,,,,連鎖：従者に+3/+0を与え、ターン終了時に破壊する,,,
+RogueBlack05CardDescription,Text,,Chain: Grant followers +3/+0 and shatter them when the turn ends,连锁：给随从+3/+0，然后在回合结束时消灭它们,連鎖：給隨從+3/+0，然後在回合結束時摧毀它們,,,,,,,連鎖：従者に+3/+0を与え、ターン終了時に破壊する,,,
 RogueBlack05CardName,Text,,King's Blessing,国王的祝福,國王的祝福,,,,,,,国王の祝福,,,
-RogueBlack05EffectCardDescription,Text,,The follower gains +3/+0 and will be shattered when the turn ends,该随从获得+3/+0，然后在回合结束时被摧毁,該隨從獲得+3/+0，然後在回合結束時被摧毀,,,,,,,この従者は+3/+0を獲得し、ターン終了時に破壊される,,,
+RogueBlack05EffectCardDescription,Text,,The follower gains +3/+0 and will be shattered when the turn ends,该随从获得+3/+0，然后在回合结束时被消灭,該隨從獲得+3/+0，然後在回合結束時被摧毀,,,,,,,この従者は+3/+0を獲得し、ターン終了時に破壊される,,,
 RogueBlack05EffectCardName,Text,,King's Blessing,国王的祝福,國王的祝福,,,,,,,国王の祝福,,,
 RogueEffect01CardDescription,Text,,Affected by extra DMG from Crit cards. Exhaust this effect when the turn starts,受到暴击卡牌的额外伤害和影响。在回合开始时移除此效果,受到暴擊卡牌的額外傷害和影響。在回合開始時移除此效果,,,,,,,会心カードの追加ダメージと影響を受ける。ターン開始時、この効果が削除される,,,
 RogueEffect01CardName,Text,,Marked,被标记,被標記,,,,,,,マーク,,,
@@ -7129,9 +7129,9 @@ RogueEffect04CardDescription,Text,,Gain {{CommonEffect29}} 1 for each 1 status p
 RogueEffect04CardName,Text,,Moves,步法,步法,,,,,,,フットワーク,,,
 RogueEffect05CardDescription,Text,,"For every three cards discarded, the hero gains Block 1 every 1 status point",每弃掉三张卡牌，每1点状态值英雄获得格挡1,每棄掉三張卡牌，每1點狀態值英雄獲得格擋1,,,,,,,カードを3枚捨てるたびに、1状態値ごとに、ヒーローがブロック1を獲得する,,,
 RogueEffect05CardName,Text,,Cape Twirling,斗篷捻弄,斗篷撚弄,,,,,,,クローク弄り,,,
-RogueEffect06CardDescription,Text,,"Whenever your hero shatters a follower, MP +1 for every 1 status point till the end of the turn",每当你的英雄摧毁一个随从时，每1点状态值+ 1移动力，直到回合结束,每當你的英雄摧毀一個隨從時，每1點狀態值+ 1移動力，直到回合結束,,,,,,,あなたのヒーローが従者を1体破壊すると、状態値1ごとに、移動値+1、ターン終了時まで持続,,,
+RogueEffect06CardDescription,Text,,"Whenever your hero shatters a follower, MP +1 for every 1 status point till the end of the turn",每当你的英雄消灭一个随从时，每1点状态值+ 1移动力，直到回合结束,每當你的英雄摧毀一個隨從時，每1點狀態值+ 1移動力，直到回合結束,,,,,,,あなたのヒーローが従者を1体破壊すると、状態値1ごとに、移動値+1、ターン終了時まで持続,,,
 RogueEffect06CardName,Text,,Unrestrained,来去自如,來去自如,,,,,,,自由な移動,,,
-RogueEffect07CardDescription,Text,,"When the last follower on the field is shattered, gain Block 1 for each 1 status point",如果你场上最后一个随从被摧毁，则每有1点状态值获得格挡1,如果你場上最後一個隨從被摧毀，則每有1點狀態值獲得格擋1,,,,,,,あなたのフィールド上の最後の従者が破壊されると、1状態値ごとに、ヒーローがブロック1を獲得する,,,
+RogueEffect07CardDescription,Text,,"When the last follower on the field is shattered, gain Block 1 for each 1 status point",如果你场上最后一个随从被消灭，则每有1点状态值获得格挡1,如果你場上最後一個隨從被摧毀，則每有1點狀態值獲得格擋1,,,,,,,あなたのフィールド上の最後の従者が破壊されると、1状態値ごとに、ヒーローがブロック1を獲得する,,,
 RogueEffect07CardName,Text,,Urgency Mode,紧急模式,緊急模式,,,,,,,緊急モード,,,
 RogueEffect08CardDescription,Text,,"If your HP is below half, your spells damage +X.",如果你的生命低于一半，则每层使你的法术造成+1伤害,如果你的生命低於一半，則每層使你的法術造成+1傷害,,,,,,,HPが半分を下回る場合、魔法で+Xダメージを与える,,,
 RogueEffect08CardName,Text,,Spell Return,法术回击,法術回擊,,,,,,,魔法反撃,,,
@@ -7165,7 +7165,7 @@ RogueGreen03CardDescription,Text,,"Grow +1/+0
 
 Defeated: Before the turn ends, transfer this follower's ATK to the hero","成长+1/+0
 
-被摧毁：在下回合结束前，将此随从的攻击力转移到英雄上","成長+1/+0
+被消灭：在下回合结束前，将此随从的攻击力转移到英雄上","成長+1/+0
 
 被摧毀：在下回合結束前，將此隨從的攻擊力轉移到英雄上",,,,,,,"成長+1/+0
 
@@ -7177,7 +7177,7 @@ RogueGreen05CardDescription,Text,,"Shapechange:
 
 ATK, HP, AP, and MP sync with the hero, clear this entry, and this follower will be shattered before your turn ends","变形：
 
-将攻击力，生命值，行动力，移动力均变为与英雄相同，然后清除此关键词并在你的回合结束时摧毁此随从","變形：
+将攻击力，生命值，行动力，移动力均变为与英雄相同，然后清除此关键词并在你的回合结束时消灭此随从","變形：
 
 將攻擊力，生命值，行動力，移動力均變為與英雄相同，然後清除此關鍵字並在你的回合結束時摧毀此隨從",,,,,,,"変形：
 
@@ -7191,7 +7191,7 @@ RogueMid03CardDescription,Text,,Trigger all your active discard effects twice (d
 RogueMid03CardName,Text,,Drop Deck,扔下卡组,扔下卡組,,,,,,,デッキを捨てる,,,
 RogueRed01CardDescription,Text,,"When heroes attack, gain +1/+0",每当英雄攻击时，获得+1/+0,每當英雄攻擊時，獲得+1/+0,,,,,,,ヒーローが攻撃するたびに、+1/+0を獲得する,,,
 RogueRed01CardName,Text,,Waist Below Killer,下腹行凶者,下腹行兇者,,,,,,,下腹部の襲撃者,,,
-RogueRed02CardDescription,Text,,Gain +1/+0 and up to Block 3 when adjacent to Sieged enemies. Dispel the effect when Sieged enemies are shattered or relocated,与被围攻的敌人相邻时获得+1/+0以及最多格挡3。当被围攻的敌人被摧毁或移走时消除此效果,與被圍攻的敵人相鄰時獲得+1/+0以及最多格擋3。當被圍攻的敵人被摧毀或移走時消除此效果,,,,,,,包囲攻撃された敵に隣接している場合、+1/+0と最大ブロック3を獲得する。包囲攻撃される敵が破壊または削除されると、この効果が解除される,,,
+RogueRed02CardDescription,Text,,Gain +1/+0 and up to Block 3 when adjacent to Sieged enemies. Dispel the effect when Sieged enemies are shattered or relocated,与被围攻的敌人相邻时获得+1/+0以及最多格挡3。当被围攻的敌人被消灭或移走时消除此效果,與被圍攻的敵人相鄰時獲得+1/+0以及最多格擋3。當被圍攻的敵人被摧毀或移走時消除此效果,,,,,,,包囲攻撃された敵に隣接している場合、+1/+0と最大ブロック3を獲得する。包囲攻撃される敵が破壊または削除されると、この効果が解除される,,,
 RogueRed02CardName,Text,,Cowardly Mobster,懦弱暴徒,懦弱暴徒,,,,,,,臆病な暴徒,,,
 RogueRed03CardDescription,Text,,Enter: Adjacent allied units inflict Vulnerable 1 when attacking,进场：相邻的友方单位攻击时造成易伤1,進場：相鄰的友方單位攻擊時造成易傷1,,,,,,,入場：隣接する味方ユニットが攻撃時、衰弱1を与える,,,
 RogueRed03CardName,Text,,Alley Blacksmith,后巷铁匠,後巷鐵匠,,,,,,,路地裏の鍛冶屋,,,
@@ -7201,7 +7201,7 @@ RogueRed04CardDescription,Text,,"Combo 2
 
 When an enemy follower is shattered, relocate this follower to another position","连击2
 
-当一个敌方随从被摧毁时，将本随从移至其位置","連擊2
+当一个敌方随从被消灭时，将本随从移至其位置","連擊2
 
 當一個敵方隨從被摧毀時，將本隨從移至其位置",,,,,,,"連撃2
 
@@ -7209,7 +7209,7 @@ When an enemy follower is shattered, relocate this follower to another position"
 RogueRed04CardName,Text,,Helm Plunderer,海尔姆掠夺者,海爾姆掠奪者,,,,,,,ヘルム略奪者,,,
 RogueRed05CardDescription,Text,,Infest: Add replica of {{Loot34}} to hand,侵蚀：将{{Loot34}}的复制品放入手牌,侵蝕：將{{Loot34}}的複製品放入手牌,,,,,,,感染：{{Loot34}}の複製品を手札に入れる,,,
 RogueRed05CardName,Text,,Mad Alchemist,疯狂的炼金术士,瘋狂的煉金術士,,,,,,,狂気の錬金術師,,,
-RogueRed05EffectCardDescription,Text,,Defeated: Add replica of {{Loot34}} to the opponent's hand,被摧毁：将{{Loot34}}的复制品放入对手的手牌,被摧毀：將{{Loot34}}的複製品放入對手的手牌,,,,,,,死亡： {{Loot34}}の複製品を相手の手札に入れる,,,
+RogueRed05EffectCardDescription,Text,,Defeated: Add replica of {{Loot34}} to the opponent's hand,被消灭：将{{Loot34}}的复制品放入对手的手牌,被摧毀：將{{Loot34}}的複製品放入對手的手牌,,,,,,,死亡： {{Loot34}}の複製品を相手の手札に入れる,,,
 RogueRed05EffectCardName,Text,,Infected Mad Alchemist,被寄生的疯狂炼金术士,被寄生的瘋狂煉金術士,,,,,,,感染した狂気の錬金術師,,,
 Rulebook,Text,,Rulebook,规则手册,規則手冊,,,,,,,ルールブック,,,
 Rulebook Items,Text,,,,,,,,,,,,,,
@@ -7524,7 +7524,7 @@ Move: Knockback adjacent units by 1 grid","突进2
 移動：擊退相鄰單位1格",,,,,,,"突進2
 移動：隣接するユニットを1マスノックバックさせる",,,
 RustingGolemMageCardName,Text,,Nian,角兽,年獸,,,,,,,年獣,,,
-SacrificeKeywordDescription,Text,,Shatters specific followers to trigger relevant effects,摧毁特定随从以触发相应的效果,摧毀特定隨從以觸發相應的效果,,,,,,,特定の従者を破壊することで対応する効果を発動する,,,
+SacrificeKeywordDescription,Text,,Shatters specific followers to trigger relevant effects,消灭特定随从以触发相应的效果,摧毀特定隨從以觸發相應的效果,,,,,,,特定の従者を破壊することで対応する効果を発動する,,,
 SacrificeKeywordName,Text,,Sacrifice,献祭,獻祭,,,,,,,生贄,,,
 SapStrengthEffectCardDescription,Text,,Inflict -1/-1 on the unit till the end of the next turn,该单位被-1/-1，直到下一回合结束,該單位被-1/-1，直到下一回合結束,,,,,,,次のターン終了時まで、ユニットは-1/-1される,,,
 SapStrengthEffectCardName,Text,,Power Draining,力量吮吸,力量吮吸,,,,,,,力吸収,,,
@@ -7649,7 +7649,7 @@ ShieldEffectCardDescription,Text,,Absorbs X damage and can attack adjacent enemi
 ShieldEffectCardName,Text,,Shield,护盾,護盾,,,,,,,シールド,,,
 ShieldEffectKeywordDescription,Text,,Absorbs X damage and can attack adjacent enemies within its Arcing Range,每层吸收1点伤害，且其箭术射程也能够攻击相邻敌人,每層吸收1點傷害，且其箭術射程也能夠攻擊相鄰敵人,,,,,,,Xダメージを吸収する。さらに射術射程は隣接する敵を攻撃できる,,,
 ShieldEffectKeywordName,Text,,Shield,护盾,護盾,,,,,,,シールド,,,
-ShiftingBlurCardDescription,Text,,Defeated: Grants your hero Thrust +2 when your turn ends,被摧毁：在你的回合结束前，使你的英雄获得突进+2,被摧毀：在你的回合結束前，使你的英雄獲得突進+2,,,,,,,死亡：あなたのターン終了時まで、あなたのヒーローが突進+2を獲得する,,,
+ShiftingBlurCardDescription,Text,,Defeated: Grants your hero Thrust +2 when your turn ends,被消灭：在你的回合结束前，使你的英雄获得突进+2,被摧毀：在你的回合結束前，使你的英雄獲得突進+2,,,,,,,死亡：あなたのターン終了時まで、あなたのヒーローが突進+2を獲得する,,,
 ShiftingBlurCardName,Text,,Transfer Confusion,转移混淆,轉移混淆,,,,,,,混乱移転,,,
 ShockwaveClapCardDescription,Text,,Inflicts Knockback 3 and Slow on all adjacent enemy units.,对所有相邻对方单位施加击退3和减速,對所有相鄰對方單位施加擊退3和減速,,,,,,,隣接する全ての相手ユニットにノックバック3と減速を付与する,,,
 ShockwaveClapCardName,Text,,Tempest,风洪,風洪,,,,,,,風と洪水,,,
@@ -7685,16 +7685,16 @@ SoarKeywordDescription,Text,,"Move range increases by 1 grid, can move through e
 SoarKeywordName,Text,,Aerial,飞行,飛行,,,,,,,飛行,,,
 SoaringMeteorsCardDescription,Text,,Cast {{FallingMeteor}} on up to 4 random enemy followers,将{{FallingMeteor}}施放于最多4个随机敌方随从身上,將{{FallingMeteor}}施放於最多4個隨機敵方隨從身上,,,,,,,ランダムな敵従者に{{FallingMeteor}}を発動する。4体まで,,,
 SoaringMeteorsCardName,Text,,Burning Meteor,灼热流星,灼熱流星,,,,,,,灼熱の流星,,,
-SolidBlurCardDescription,Text,,Defeated: inflicts Combo 1 and Poison 3 to the unit that shattered the follower,被摧毁：为摧毁此随从的单位施加连击1和中毒3,被摧毀：為摧毀此隨從的單位施加連擊1和中毒3,,,,,,,死亡：この従者を破壊したユニットに連撃1と中毒3を付与する,,,
+SolidBlurCardDescription,Text,,Defeated: inflicts Combo 1 and Poison 3 to the unit that shattered the follower,被消灭：为消灭此随从的单位施加连击1和中毒3,被摧毀：為摧毀此隨從的單位施加連擊1和中毒3,,,,,,,死亡：この従者を破壊したユニットに連撃1と中毒3を付与する,,,
 SolidBlurCardName,Text,,Saturn,土星,土星,,,,,,,土星,,,
 SoulArrowEffectCardDescription,Text,,"Empty energy to attack enemies within range 2 when your turn begins, dealing X DMG",在你的回合开始时，释放所有能量攻击射程2范围内的敌人，每层造成1点伤害,在你的回合開始時，釋放所有能量攻擊射程2範圍內的敵人，每層造成1點傷害,,,,,,,あなたのターン開始時、全てのエネルギーを解放して射程2範囲内の敵を攻撃し、Xダメージを与える,,,
 SoulArrowEffectCardName,Text,,Energy Focus,能量积聚,能量積聚,,,,,,,エネルギー蓄積,,,
-SoulTrapCardDescription,Text,,"When an enemy follower is shattered in this turn, exhaust them from the game and become a {{AshLegionGrunt}} controlled by you through summoning",当敌方随从在本回合中被摧毁时，将其从游戏中移除，并召唤成为一个被你控制的{{AshLegionGrunt}},當敵方隨從在本回合中被摧毀時，將其從遊戲中移除，並召喚成為一個被你控制的{{AshLegionGrunt}},,,,,,,このターン、敵従者が破壊されると、ゲームから削除され、あなたに制御される{{AshLegionGrunt}}を召喚する,,,
+SoulTrapCardDescription,Text,,"When an enemy follower is shattered in this turn, exhaust them from the game and become a {{AshLegionGrunt}} controlled by you through summoning",当敌方随从在本回合中被消灭时，将其从游戏中移除，并召唤成为一个被你控制的{{AshLegionGrunt}},當敵方隨從在本回合中被摧毀時，將其從遊戲中移除，並召喚成為一個被你控制的{{AshLegionGrunt}},,,,,,,このターン、敵従者が破壊されると、ゲームから削除され、あなたに制御される{{AshLegionGrunt}}を召喚する,,,
 SoulTrapCardName,Text,,Soul Trap,灵魂陷阱,靈魂陷阱,,,,,,,魂の罠,,,
 Sound Volume,Text,,Game Volume,游戏音量,遊戲音量,,,,,,,ゲームのボリューム,,,
 SparkCardDescription,Text,,"Deals 1 damage to a random enemy, damage +1 for each Fire Affliction on the field",对一个随机敌人造成1点伤害，场上每有一个火附着，伤害+1,對一個隨機敵人造成1點傷害，場上每有一個火附著，傷害+1,,,,,,,ランダムな敵1体に1ダメージを与える。フィールド上に存在する炎付着1個ごとに、ダメージ+1,,,
 SparkCardName,Text,,Fireball Tracking,追踪火球,追蹤火球,,,,,,,追跡の火玉,,,
-SparkingBlurCardDescription,Text,,Defeated: Your hero gains {{SparkingBlurEffect}} effect before your turn ends,被摧毁：在你的回合结束前，你的英雄获得{{SparkingBlurEffect}}效果,被摧毀：在你的回合結束前，你的英雄獲得{{SparkingBlurEffect}}效果,,,,,,,死亡：あなたのターン終了時まで、あなたのヒーローが{{SparkingBlurEffect}}効果を獲得する,,,
+SparkingBlurCardDescription,Text,,Defeated: Your hero gains {{SparkingBlurEffect}} effect before your turn ends,被消灭：在你的回合结束前，你的英雄获得{{SparkingBlurEffect}}效果,被摧毀：在你的回合結束前，你的英雄獲得{{SparkingBlurEffect}}效果,,,,,,,死亡：あなたのターン終了時まで、あなたのヒーローが{{SparkingBlurEffect}}効果を獲得する,,,
 SparkingBlurCardName,Text,,Spark Confusion,火花混淆,火花混淆,,,,,,,花火混乱,,,
 SparkingBlurEffectCardDescription,Text,,Chain: Deal 4 DMG on enemy units until your turn ends,连锁：直到你的回合结束前，对敌方单位造成4点伤害,連鎖：直到你的回合結束前，對敵方單位造成4點傷害,,,,,,,連鎖：あなたのターン終了時まで、敵ユニットに4ダメージを与える,,,
 SparkingBlurEffectCardName,Text,,Spark Splash,火星四溅,火星四濺,,,,,,,飛び散る火花,,,
@@ -7707,8 +7707,8 @@ SpearSpellCardName,Text,,Mountain Splinter,开山斧,開山斧,,,,,,,山を開�
 SpecialChallenge_Card,Text,,"When checked, the enemy hero gains 50% extra HP and extra cards, and your rewards will also change",勾选后，敌方英雄会获得50%的额外生命值和额外卡牌，并改变你本场战斗的奖励,勾選後，敵方英雄會獲得50%的額外生命值和額外卡牌，並改變你本場戰鬥的獎勵,,,,,,,選択すると、敵ヒーローは50%の追加HPと追加カードを獲得し、この戦闘の報酬が変更されます,,,
 SpecialChallenge_DeleteBattleDescription,Text,,<color=#FEE599>[Real Deal]</color> This follower is seriously injured and bid his farewell to you,<color=#FEE599>【来真的】</color>这个随从的伤势过重，他永远的离开了你,<color=#FEE599>【來真的】</color>這個隨從的傷勢過於嚴重，他永遠的離開了你,,,,,,,<color=#FEE599>【マジか】</color>この従者は重傷を負い、あなたと永遠に別れることになりました,,,
 SpecialChallenge_DeleteBattleDescriptionNone,Text,,<color=#FEE599>[Real Deal]</color> None of your cards are removed.,<color=#FEE599>【来真的】</color>你没有任何卡牌被删除,<color=#FEE599>【來真的】</color>你沒有任何卡牌被刪除。,,,,,,,<color=#FEE599>【マジか】</color>削除されたカードはありません。,,,
-SpecialChallenge_DeleteBattleTitle,Text,,Follower Defeated,随从被摧毁,隨從被摧毀,,,,,,,従者死亡,,,
-SpecialChallenge_DeleteCardDescription,Text,,"No loots for you in this battle, and random {0} of your followers shattered in this battle will be removed",<color=#86979c>无法获得战利品</color>，但会<color=#86979c>随机删除</color>你的{0}个在本场战斗中<color=#86979c>被摧毁的随从</color>,本場戰鬥你將<color=#86979c>無法獲得戰利品</color>，但會<color=#86979c>隨機刪除</color>你的{0}個在本場戰鬥中<color=#86979c>被摧毀的隨從</color>,,,,,,,この戦闘では<color=#86979c>戦利品を獲得できません</color>が、この戦闘中に<color=#86979c>破壊された従者</color>は{0}体<color=#86979c>ランダムに削除されます</color>,,,
+SpecialChallenge_DeleteBattleTitle,Text,,Follower Defeated,随从被消灭,隨從被摧毀,,,,,,,従者死亡,,,
+SpecialChallenge_DeleteCardDescription,Text,,"No loots for you in this battle, and random {0} of your followers shattered in this battle will be removed",<color=#86979c>无法获得战利品</color>，但会<color=#86979c>随机删除</color>你的{0}个在本场战斗中<color=#86979c>被消灭的随从</color>,本場戰鬥你將<color=#86979c>無法獲得戰利品</color>，但會<color=#86979c>隨機刪除</color>你的{0}個在本場戰鬥中<color=#86979c>被摧毀的隨從</color>,,,,,,,この戦闘では<color=#86979c>戦利品を獲得できません</color>が、この戦闘中に<color=#86979c>破壊された従者</color>は{0}体<color=#86979c>ランダムに削除されます</color>,,,
 SpecialChallenge_DeleteCardName,Text,,Real Deal,来真的,來真的,,,,,,,マジか,,,
 SpecialChallenge_ExtraStoneBattleDescription,Text,,<color=#FEE599>[Treasure Raider]</color> You picked up {0} crystals,<color=#FEE599>【夺宝奇兵】</color>你拾取到了{0}个<color=#86979c>水晶</color>,<color=#FEE599>【奪寶奇兵】</color>你拾取到了{0}個<color=#86979c>水晶</color>,,,,,,,<color=#FEE599>【トレジャーハンター】</color>あなたは{0}個の<color=#86979c>水晶</color>を拾いました,,,
 SpecialChallenge_ExtraStoneCardDescription,Text,,"When the battle ends, you can acquire {0} crystals in addition to the acquirable loot",战斗结束，你除了可以获取战利品之外，<color=#86979c>还可以额外获得{0}个水晶</color>,戰鬥結束，你除了可以獲取戰利品之外，<color=#86979c>還可以額外獲得{0}個水晶</color>,,,,,,,戦闘終了時、戦利品を獲得できるほか、<color=#86979c>追加で{0}個の水晶</color>も獲得できます,,,
@@ -7779,7 +7779,7 @@ StrengthPotionEnemyCardDescription,Text,,One of your units get Combo 1.,使你�
 StrengthPotionEnemyCardName,Text,,Assault Potion,强攻药水,強攻藥水,,,,,,,強攻ポーション,,,
 StrongEffectCardDescription,Text,,Gain ATK +1. Reduces Solidify status points by 1 when the turn ends,获得+1攻击力，回合结束后巩固状态值减1,獲得+1攻擊力，回合結束後鞏固狀態值減1,,,,,,,攻撃力+1、ターン終了後、強固状態値+1,,,
 StrongEffectCardName,Text,,Consolidate,巩固,鞏固,,,,,,,強固,,,
-StrongNeckSectionCardDescription,Text,,"Snake Body moves with Snake Head. When the body is shattered, so does the head",蛇身跟随蛇头移动。 当蛇身被摧毁时，蛇头也被一起摧毁,蛇身跟隨蛇頭移動。 當蛇身被摧毀時，蛇頭也被一起摧毀,,,,,,,蛇の体は蛇の頭と一緒に移動する。蛇の体が破壊されると、蛇の頭も破壊される,,,
+StrongNeckSectionCardDescription,Text,,"Snake Body moves with Snake Head. When the body is shattered, so does the head",蛇身跟随蛇头移动。 当蛇身被消灭时，蛇头也被一起消灭,蛇身跟隨蛇頭移動。 當蛇身被摧毀時，蛇頭也被一起摧毀,,,,,,,蛇の体は蛇の頭と一緒に移動する。蛇の体が破壊されると、蛇の頭も破壊される,,,
 StrongNeckSectionCardName,Text,,Snake Neck,蛇颈,蛇頸,,,,,,,蛇の首,,,
 StunnedKeywordDescription,Text,,Cannot act or move. Lasts for 1 turn,无法行动和移动，持续1回合,無法行動和移動，持續1回合,,,,,,,1ターンの間、行動と移動ができない,,,
 StunnedKeywordName,Text,,Stunned,晕眩,暈眩,,,,,,,スタン,,,
@@ -7799,7 +7799,7 @@ Surrender,Text,,Abandon Game,重新开始游戏,重新開始遊戲,,,,,,,ゲー�
 SurrenderPrompt,Text,,Choosing abandon will end this game. Confirm to abandon?,放弃将结束本次游戏， 你确定要放弃吗？,放棄將結束本次遊戲， 你確定要放棄嗎？,,,,,,,諦めると今回のゲームは終了します。諦めますか？,,,
 SwallowWholeCardDescription,Text,,Deals damage to a unit equal to your Toughness stacks.,对一个单位造成自身坚硬层数的伤害,對一個單位造成自身堅硬層數的傷害,,,,,,,ユニット1体に自身の堅固スタック数に等しいダメージを与える,,,
 SwallowWholeCardName,Text,,Deliverance,龙之吼,超度,,,,,,,済度,,,
-SwallowWholeEffectCardDescription,Text,,"When the Eye of Deception is shattered, swallowed followers will be returned to the opponent's hand",摧毁嗡嗡铃后，将被吞下的随从放回对手的手牌,摧毀嗡嗡鈴後，將被吞下的隨從放回對手的手牌,,,,,,,虚妄の目を破壊した後、飲み込まれた従者を相手の手札に戻す,,,
+SwallowWholeEffectCardDescription,Text,,"When the Eye of Deception is shattered, swallowed followers will be returned to the opponent's hand",消灭嗡嗡铃后，将被吞下的随从放回对手的手牌,摧毀嗡嗡鈴後，將被吞下的隨從放回對手的手牌,,,,,,,虚妄の目を破壊した後、飲み込まれた従者を相手の手札に戻す,,,
 SwallowWholeEffectCardName,Text,,Fasting,食戒,食戒,,,,,,,食事制限,,,
 SwordSpellCardDescription,Text,,"Gain Thrust 1.
 Equip a 2/4 Combo 2 {{UndeadSword}}","获得突进1。
@@ -7883,15 +7883,15 @@ Treasure17CardDescription,Text,,Swap. Cannot move,换位，无法移动,換位�
 Treasure17CardName,Text,,Pot Man,壶中精灵,壺中小人,,,,,,,壺の中の小人,,,
 Treasure18CardDescription,Text,,"Enter: restores 6 HP for your hero
 Defeated: Shatters your hero","进场：恢复英雄6点生命
-被摧毁：摧毁你的英雄","進場：恢復英雄6點生命。
+被消灭：消灭你的英雄","進場：恢復英雄6點生命。
 被摧毀：摧毀你的英雄",,,,,,,"入場：ヒーローのHPを6回復。
-被摧毁：あなたのヒーローを破壊する",,,
+被消灭：あなたのヒーローを破壊する",,,
 Treasure18CardName,Text,,Burning Heart,契约宝宝,契约宝宝,,,,,,,燃焼する心,,,
 Treasure19CardDescription,Text,,When taking DMG: Restore full HP and acquire Thorn 1,受到伤害：回复所有生命，并获得荆棘1,受到傷害：回復所有生命，並獲得荊棘1,,,,,,,ダメージを受けた場合：HPが全て回復、いばら1を獲得する,,,
 Treasure19CardName,Text,,Underworld Moth,闪烁飞蛾,冥界飛蛾,,,,,,,冥府の蛾,,,
 Treasure20CardDescription,Text,,When your turn begins: Another random unit gains 5 Block,回合开始：使一个随机的其他单位获得5点格挡,回合開始：使一個隨機的其他單位獲得5點格擋,,,,,,,ターン開始：ランダムな他のユニット1体に5ブロックを与える,,,
 Treasure20CardName,Text,,Book of Answers,答案之书,答案之書,,,,,,,答えの書,,,
-Treasure21CardDescription,Text,,"After shattering a follower with this weapon, you gain a random warrior skill hand card",当你用这个武器摧毁一个随从后，得到一张随机的战士技能手牌,當你用這個武器摧毀一個隨從後，得到一張隨機的戰士技能手牌,,,,,,,この武器で従者を1体破壊すると、ランダムな戦士スキル手札を1枚獲得する,,,
+Treasure21CardDescription,Text,,"After shattering a follower with this weapon, you gain a random warrior skill hand card",当你用这个武器消灭一个随从后，得到一张随机的战士技能手牌,當你用這個武器摧毀一個隨從後，得到一張隨機的戰士技能手牌,,,,,,,この武器で従者を1体破壊すると、ランダムな戦士スキル手札を1枚獲得する,,,
 Treasure21CardName,Text,,Outland Sword,外域之剑,外域之劍,,,,,,,外域の剣,,,
 Treasure22CardDescription,Text,,"Leap 2. While this follower is deployed, your max Spell +1.",跳跃2。此随从在场上时，你的最大法术值+1。,跳躍2。此隨從在場上時，你的最大法術值+1。,,,,,,,ジャンプ2。この従者がフィールド上にいる間、あなたの最大マナ+1。,,,
 Treasure22CardName,Text,,Owl's Chum,猫头鹰密友,貓頭鷹密友,,,,,,,親友フクロウ,,,
@@ -7911,9 +7911,9 @@ Treasure26CardDescription,Text,,Move: Gain Combo 1,移动：获得连击1,移動
 Treasure26CardName,Text,,Golden Cat Burglar,金色飞球,金色飛賊,,,,,,,黄金のスニッチ,,,
 Treasure27CardDescription,Text,,"Draw 1 card, then return 1 card from hand to the top of the deck",抽1张牌，然后将1张手牌放回卡组的顶部。,抽1張牌，然後將1張手牌放回卡組的頂部。,,,,,,,カードを1枚引いて、1枚の手札をデッキの一番上に戻す。,,,
 Treasure27CardName,Text,,Ancient Coin,古钱币,古錢幣,,,,,,,古代コイン,,,
-Treasure28CardDescription,Text,,You gain a {{wwSharkPaulcopy}} weapon when shattered,被摧毁时，你获得一张{{wwSharkPaulcopy}}武器,被摧毀時，你獲得一張{{wwSharkPaulcopy}}武器,,,,,,,破壊された時、あなたは{{wwSharkPaulcopy}}武器を一枚獲得する,,,
+Treasure28CardDescription,Text,,You gain a {{wwSharkPaulcopy}} weapon when shattered,被消灭时，你获得一张{{wwSharkPaulcopy}}武器,被摧毀時，你獲得一張{{wwSharkPaulcopy}}武器,,,,,,,破壊された時、あなたは{{wwSharkPaulcopy}}武器を一枚獲得する,,,
 Treasure28CardName,Text,,Paul the Shark,鲨鱼保罗,鯊魚保羅,,,,,,,サメのポール,,,
-Treasure29CardDescription,Text,,Defeated: Draw a card,被摧毁：抽一张牌,被摧毀：抽一張牌,,,,,,,被摧毁：カードを1枚引く,,,
+Treasure29CardDescription,Text,,Defeated: Draw a card,被消灭：抽一张牌,被摧毀：抽一張牌,,,,,,,被消灭：カードを1枚引く,,,
 Treasure29CardName,Text,,Creepy Doll,毛骨悚然的娃娃,毛骨悚然的娃娃,,,,,,,不気味な人形,,,
 Treasure30CardDescription,Text,,"Splash, range 2, cannot move",溅射，射程2，无法移动,濺射，射程2，無法移動,,,,,,,スプラッシュ、射程2、移動不可,,,
 Treasure30CardName,Text,,Unhatchable Dragon Egg,无法孵化的龙蛋,無法孵化的龍蛋,,,,,,,孵化できない竜の卵,,,
@@ -7921,15 +7921,15 @@ Treasure31CardDescription,Text,,Allows attacking diagonally,可以沿对角线�
 Treasure31CardName,Text,,Space Dagger,空间匕首,空間匕首,,,,,,,空間ダガー,,,
 Treasure32CardDescription,Text,,Convert your follower to {{Treasure32a}} and put them in Pumpkin status,将你的随从转化为{{Treasure32a}}，使其变为南瓜状态,將你的隨從轉化為{{Treasure32a}}，使其變為南瓜狀態,,,,,,,従者を{{Treasure32a}}に変換させ、パンプキン状態に変化させる,,,
 Treasure32CardName,Text,,Pumpkin Harvest,南瓜收割,南瓜收割,,,,,,,パンプキン収穫,,,
-Treasure32aCardDescription,Text,,Defeated: Returns to your hand when shattered,被摧毁：当被摧毁时回到你的手牌中,被摧毀：當被摧毀時回到你的手牌中,,,,,,,被摧毁：破壊された時にあなたの手札に戻される,,,
+Treasure32aCardDescription,Text,,Defeated: Returns to your hand when shattered,被消灭：当被消灭时回到你的手牌中,被摧毀：當被摧毀時回到你的手牌中,,,,,,,被消灭：破壊された時にあなたの手札に戻される,,,
 Treasure32aCardName,Text,,Activated Pumpkin,活化南瓜,活化南瓜,,,,,,,活性化パンプキン,,,
 Treasure33CardDescription,Text,,"Exhaust
 Grants an allied unit invincible and shatters it after 2 turns","移除
-使一个友方单位获得无敌，2回合后摧毁它","移除
+使一个友方单位获得无敌，2回合后消灭它","移除
 使一個友方單位獲得無敵，2回合後摧毀它",,,,,,,"削除
 一体の味方ユニットを無敵にし、2ターン後にそれを破壊する",,,
 Treasure33CardName,Text,,Core of Life,潜能核心,生命核心,,,,,,,生命のコア,,,
-Treasure33EnemyCardDescription,Text,,"Grants a {{LegionReaver1}} invincible, +1/+8 and Combo 2, shatters it after 2 turns",使一个{{LegionReaver1}}获得无敌，+1/+8和连击2，2回合后摧毁它,使一個{{LegionReaver1}}獲得無敵，+1/+8和連擊2，2回合後摧毀它,,,,,,,{{LegionReaver1}}一体を無敵にし、+1/+8と連撃2を付与する、2ターン後それを破壊する,,,
+Treasure33EnemyCardDescription,Text,,"Grants a {{LegionReaver1}} invincible, +1/+8 and Combo 2, shatters it after 2 turns",使一个{{LegionReaver1}}获得无敌，+1/+8和连击2，2回合后消灭它,使一個{{LegionReaver1}}獲得無敵，+1/+8和連擊2，2回合後摧毀它,,,,,,,{{LegionReaver1}}一体を無敵にし、+1/+8と連撃2を付与する、2ターン後それを破壊する,,,
 Treasure33EnemyCardName,Text,,Core of Life,生命核心,生命核心,,,,,,,生命のコア,,,
 Treasure34CardDescription,Text,,Unknown Ability,能力未知,能力未知,,,,,,,未知の能力,,,
 Treasure34CardName,Text,,Phantom Water Balloon,精灵水球,幽靈水球,,,,,,,幽霊水風船,,,
@@ -7951,9 +7951,9 @@ Treasure38CardDescription,Text,,"Start of turn: take 2 damage, draw a card",回�
 Treasure38CardName,Text,,Lamp Fairy,灯神,燈神,,,,,,,ランプフェアリー,,,
 Treasure39CardDescription,Text,,Take Damage: deals the same damage to enemy heroes,受到伤害：对敌方英雄造成相同伤害,受到傷害：對敵方英雄造成相同傷害,,,,,,,ダメージを受けた時：敵ヒーローに同じダメージを与える,,,
 Treasure39CardName,Text,,Strange Plants,神秘土偶,腐蝕娃娃,,,,,,,呪いの人形,,,
-Treasure40CardDescription,Text,,"After using Spell 5 times, shatter this follower and summon a Strange Plant at the original position",你使用5次法术后，摧毁此随从，并在原地召唤一个奇怪的植物,你使用5次法術後，摧毀此隨從，並在原地召喚一個奇怪的植物,,,,,,,魔法を5回使うと、この従者を破壊し、元の場所に不思議な植物を一体召喚する,,,
+Treasure40CardDescription,Text,,"After using Spell 5 times, shatter this follower and summon a Strange Plant at the original position",你使用5次法术后，消灭此随从，并在原地召唤一个奇怪的植物,你使用5次法術後，摧毀此隨從，並在原地召喚一個奇怪的植物,,,,,,,魔法を5回使うと、この従者を破壊し、元の場所に不思議な植物を一体召喚する,,,
 Treasure40CardName,Text,,Strange Egg,奇怪的蛋,奇怪的蛋,,,,,,,不思議な卵,,,
-Treasure41CardDescription,Text,,"Grant a unit Aerial in this turn, but the unit will shatter when taking DMG",使一个友方单位本回合获得飞行，但其受到伤害时会被摧毁,使一個友方單位本回合獲得飛行，但其受到傷害時會被摧毀,,,,,,,このターン、味方ユニット一体に飛行を付与するが、そのユニットがダメージを受けると破壊される,,,
+Treasure41CardDescription,Text,,"Grant a unit Aerial in this turn, but the unit will shatter when taking DMG",使一个友方单位本回合获得飞行，但其受到伤害时会被消灭,使一個友方單位本回合獲得飛行，但其受到傷害時會被摧毀,,,,,,,このターン、味方ユニット一体に飛行を付与するが、そのユニットがダメージを受けると破壊される,,,
 Treasure41CardName,Text,,Melis's Magic Broom,梅丽丝的魔法扫帚,梅麗絲的魔法掃帚,,,,,,,メリスの魔法の箒,,,
 Treasure42CardDescription,Text,,Summon a Phantom Water Balloon on a tile adjacent to the hero,在英雄相邻格子召唤一个精灵水球,在英雄相鄰格子召喚一個幽靈水球,,,,,,,ヒーローに隣接するマスに幽霊水風船を一体召喚する,,,
 Treasure42CardName,Text,,Variant Elf,变体精灵,變體精靈,,,,,,,バリアントエルフ,,,
@@ -7990,7 +7990,7 @@ Live and shatter enemy heroes to win!","欢迎来到战场，英雄。
 
 如你所见，你和敌方英雄将在战场上对决。
 
-活着，并摧毁敌方的英雄，才能获得胜利！","歡迎來到戰場，英雄。
+活着，并消灭敌方的英雄，才能获得胜利！","歡迎來到戰場，英雄。
 
 如你所見，你和敵方英雄將在戰場上對決。
 
@@ -8124,7 +8124,7 @@ A unit is shattered when its HP drops to 0.","打得好！
 
 当一个单位攻击时，受击者将扣除等同于攻击者攻击力的生命值。
 
-单位生命值变为0时，他会被摧毁。","打得好！
+单位生命值变为0时，他会被消灭。","打得好！
 
 當一個單位攻擊時，受擊者將扣除等同於攻擊者攻擊力的生命值。
 
@@ -8246,7 +8246,7 @@ VictoryLootPromptFlarestoneLoot,Text,,"Free attempts are used up. <color=#797961
 VictoryLootPromptFreeLoot,Text,,You may acquire <color=#adea37>{0}</color> rewards for free,你可以免费获得<color=#adea37>{0}</color>个奖励,你可以免費獲得<color=#adea37>{0}</color>個獎勵,,,,,,,あなたは無料で<color=#adea37>{0}</color>個の報酬を獲得できます,,,
 VigilanceEffectCardDescription,Text,,"When self or {{MinionDragonTreasure}} is attacked, take 1 damage and wake up",自身或{{MinionDragonTreasure}}被攻击时，受到1点伤害，并醒来,自身或{{MinionDragonTreasure}}被攻擊時，受到1點傷害，並醒來,,,,,,,自分または{{MinionDragonTreasure}}が攻撃されると、1ダメージを受けて目覚める。,,,
 VigilanceEffectCardName,Text,,Alert,警觉,警覺,,,,,,,警戒,,,
-VolatileElementalCardDescription,Text,,Defeated: Deal 3 DMG on all enemies on the line between the follower and the unit that shatters it,被摧毁：对摧毁该随从的单位连线上的所有单位造成3点伤害,被摧毀：對摧毀該隨從的單位連線上的所有單位造成3點傷害,,,,,,,被摧毁：この従者を破壊したユニットがいる直線上の全てのユニットに3ダメージを与える,,,
+VolatileElementalCardDescription,Text,,Defeated: Deal 3 DMG on all enemies on the line between the follower and the unit that shatters it,被消灭：对消灭该随从的单位连线上的所有单位造成3点伤害,被摧毀：對摧毀該隨從的單位連線上的所有單位造成3點傷害,,,,,,,被消灭：この従者を破壊したユニットがいる直線上の全てのユニットに3ダメージを与える,,,
 VolatileElementalCardName,Text,,Grenade Flinger,榴弹怪,榴彈怪,,,,,,,グレネード・フリンガー,,,
 WarTotemCardDescription,Text,,Adjacent allied units ATK +2,相邻友方单位攻击+2,相鄰友方單位攻擊+2,,,,,,,隣接する味方ユニットの攻撃力+2,,,
 WarTotemCardName,Text,,Strawberry Chimo,草莓奇莫,草莓奇莫,,,,,,,イチゴチモ,,,
@@ -8344,13 +8344,13 @@ Warrior19CardDescription,Text,,An allied unit gains Haste,一个友方单位获�
 Warrior19CardName,Text,,Accelerate,加速,加速,,,,,,,加速,,,
 Warrior200CardDescription,Text,,"Exhaust
 Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 3 times and shatter the weapon afterward","移除
-随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复3次，之后摧毁武器","移除
+随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复3次，之后消灭武器","移除
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複3次，之後摧毀武器",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを3回繰り返して、その後武器を破壊する",,,
 Warrior200CardName,Text,,Swordplay,剑舞,劍舞,,,,,,,剣舞,,,
 Warrior201CardDescription,Text,,"Exhaust
 Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward","移除
-随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后摧毁武器","移除
+随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后消灭武器","移除
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを4回繰り返して、その後武器を破壊する",,,
 Warrior201CardName,Text,,Swordplay⭐⭐,剑舞⭐⭐,劍舞⭐⭐,,,,,,,剣舞⭐⭐,,,
@@ -8360,7 +8360,7 @@ Select a random adjacent enemy and deal DMG equals the ATK of the hero's equippe
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，<color=upgrade>對每個受到傷害的單位最多施加一次易傷1</color>",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを4回繰り返す、<color=upgrade>ダメージを受けた各ユニットに衰弱1を最大1回付与する</color>",,,
 Warrior202CardName,Text,,Piercing Swordplay⭐⭐⭐,剑舞·传奇,穿刺劍舞⭐⭐⭐,,,,,,,貫通剣舞⭐⭐⭐,,,
-Warrior202dCardDescription,Text,,Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward,随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后摧毁武器,隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器,,,,,,,隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与え、これを4回繰り返して、その後武器を破壊する,,,
+Warrior202dCardDescription,Text,,Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward,随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后消灭武器,隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器,,,,,,,隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与え、これを4回繰り返して、その後武器を破壊する,,,
 Warrior202dCardName,Text,,Flurry Swordplay⭐⭐⭐,剑舞·超凡,疾風劍舞⭐⭐⭐,,,,,,,疾風剣舞⭐⭐⭐,,,
 Warrior203CardDescription,Text,,Throw stones or weapons to deal DMG equals the hero's ATK on a target,投掷石头或者武器，对一个目标造成英雄攻击力的伤害,投擲石頭或者武器，對一個目標造成英雄攻擊力的傷害,,,,,,,石や武器を投げて、ターゲット一体にヒーローの攻撃力に等しいダメージを与える,,,
 Warrior203CardName,Text,,Throw Weapon,投掷武器,投擲武器,,,,,,,武器投擲,,,
@@ -8394,13 +8394,13 @@ Warrior20CardDescription,Text,,"An allied unit gains Haste 1, Thrust 1",一个�
 Warrior20CardName,Text,,Accelerate II,加速II,加速II,,,,,,,加速II,,,
 Warrior210CardDescription,Text,,"Range 2, Exhaust. Extra DMG of Burn stack on the target from the attack",射程2，移除。攻击可额外造成的目标身上的灼烧层数的伤害,射程2，移除。攻擊可額外造成的目標身上的灼燒層數的傷害,,,,,,,射程2、削除。攻撃はターゲットが持つ燃焼層数に等しいダメージを追加で与えることができる,,,
 Warrior210CardName,Text,,Musket,火枪,火槍,,,,,,,マスケット銃,,,
-Warrior211CardDescription,Text,,"Deal 3 DMG on an adjacent enemy unit. If the target is shattered, restores 3 HP for you",对一个相邻的敌方单位造成3点伤害，如果目标被摧毁，则你恢复3点生命,對一個相鄰的敵方單位造成3點傷害，如果目標被摧毀，則你恢復3點生命,,,,,,,隣接する敵ユニット一体に3ダメージを与える。ターゲットが破壊された場合、あなたは3HPを回復する,,,
+Warrior211CardDescription,Text,,"Deal 3 DMG on an adjacent enemy unit. If the target is shattered, restores 3 HP for you",对一个相邻的敌方单位造成3点伤害，如果目标被消灭，则你恢复3点生命,對一個相鄰的敵方單位造成3點傷害，如果目標被摧毀，則你恢復3點生命,,,,,,,隣接する敵ユニット一体に3ダメージを与える。ターゲットが破壊された場合、あなたは3HPを回復する,,,
 Warrior211CardName,Text,,Brave Slam,英勇猛击,英勇猛擊,,,,,,,勇敢なる猛撃,,,
-Warrior212CardDescription,Text,,"Deal <color=upgrade>4</color> DMG on an adjacent enemy unit. If the target is shattered, restores 3 HP and <color=upgrade>1 Mana</color> for you",对一个相邻的敌方单位造成<color=upgrade>4</color>点伤害，如果目标被摧毁，则你恢复3点生命和<color=upgrade>1点法力</color>,對一個相鄰的敵方單位造成<color=upgrade>4</color>點傷害，如果目標被摧毀，則你恢復3點生命和<color=upgrade>1點法力</color>,,,,,,,隣接する敵ユニット一体に<color=upgrade>4</color>ダメージを与える。ターゲットが破壊された場合、あなたは3HPと<color=upgrade>1マナ</color>を回復する。,,,
+Warrior212CardDescription,Text,,"Deal <color=upgrade>4</color> DMG on an adjacent enemy unit. If the target is shattered, restores 3 HP and <color=upgrade>1 Mana</color> for you",对一个相邻的敌方单位造成<color=upgrade>4</color>点伤害，如果目标被消灭，则你恢复3点生命和<color=upgrade>1点法力</color>,對一個相鄰的敵方單位造成<color=upgrade>4</color>點傷害，如果目標被摧毀，則你恢復3點生命和<color=upgrade>1點法力</color>,,,,,,,隣接する敵ユニット一体に<color=upgrade>4</color>ダメージを与える。ターゲットが破壊された場合、あなたは3HPと<color=upgrade>1マナ</color>を回復する。,,,
 Warrior212CardName,Text,,Blunt Slam,英勇猛击·传奇,沉穩猛擊,,,,,,,揺るぎない猛撃,,,
 Warrior212dCardDescription,Text,,"Exhaust
 Deal 4 DMG on an adjacent enemy unit. If the target is shattered, restores 6 HP for you","移除
-对一个相邻的敌方单位造成4点伤害，如果目标被摧毁，则你恢复6点生命","移除
+对一个相邻的敌方单位造成4点伤害，如果目标被消灭，则你恢复6点生命","移除
 對一個相鄰的敵方單位造成4點傷害，如果目標被摧毀，則你恢復6點生命",,,,,,,"削除
 隣接する敵ユニット一体に4ダメージを与える。ターゲットが破壊された場合、あなたは6HPを回復する",,,
 Warrior212dCardName,Text,,Power Slam,英勇猛击·超凡,全力猛擊,,,,,,,全力猛撃,,,
@@ -8595,9 +8595,9 @@ Warrior26CardDescription,Text,,Grant a unit basic ATK +3,将一个单位的基�
 Warrior26CardName,Text,,Enter Battlefield II,进入战场II,進入戰場II,,,,,,,戦場に入るII,,,
 Warrior27CardDescription,Text,,Grant a unit basic ATK +4,将一个单位的基础攻击力+4,將一個單位的基礎攻擊力+4,,,,,,,ユニット一体の基礎攻撃力+4,,,
 Warrior27CardName,Text,,Enter Battlefield III,进入战场III,進入戰場III,,,,,,,戦場に入るIII,,,
-Warrior28CardDescription,Text,,"Deal 1 DMG on enemies adjacent to your hero. If an enemy is shattered, draw a card",对与你的英雄相邻的敌人造成1点伤害。如果敌人被摧毁，抽一张牌,對與你的英雄相鄰的敵人造成1點傷害。如果敵人被摧毀，抽一張牌,,,,,,,あなたのヒーローに隣接する敵に1ダメージを与える。敵が破壊された場合、カードを1枚引く。,,,
+Warrior28CardDescription,Text,,"Deal 1 DMG on enemies adjacent to your hero. If an enemy is shattered, draw a card",对与你的英雄相邻的敌人造成1点伤害。如果敌人被消灭，抽一张牌,對與你的英雄相鄰的敵人造成1點傷害。如果敵人被摧毀，抽一張牌,,,,,,,あなたのヒーローに隣接する敵に1ダメージを与える。敵が破壊された場合、カードを1枚引く。,,,
 Warrior28CardName,Text,,Stealth Strike,暗中打击,暗中打擊,,,,,,,闇の打撃,,,
-Warrior29CardDescription,Text,,"Deal 2 DMG on an adjacent enemy unit. If the target is shattered, restores 2 HP for you",对一个相邻的敌方单位造成2点伤害，如果目标被摧毁，则你恢复2点生命,對一個相鄰的敵方單位造成2點傷害，如果目標被摧毀，則你恢復2點生命,,,,,,,隣接する敵ユニット一体に2ダメージを与える。ターゲットが破壊された場合、あなたのHPを2回復する,,,
+Warrior29CardDescription,Text,,"Deal 2 DMG on an adjacent enemy unit. If the target is shattered, restores 2 HP for you",对一个相邻的敌方单位造成2点伤害，如果目标被消灭，则你恢复2点生命,對一個相鄰的敵方單位造成2點傷害，如果目標被摧毀，則你恢復2點生命,,,,,,,隣接する敵ユニット一体に2ダメージを与える。ターゲットが破壊された場合、あなたのHPを2回復する,,,
 Warrior29CardName,Text,,Brave Slam,英勇猛击,英勇猛擊,,,,,,,勇敢なる猛撃,,,
 Warrior300CardDescription,Text,,"Discard up to 3 random weapon cards from hand, and the hero gains ATK of the discarded cards in this turn
 Discard: Draw a card.","随机丢弃手牌中至多3张武器牌，英雄本回合增加这些武器的攻击力。
@@ -8617,7 +8617,7 @@ Warrior33CardDescription,Text,,Grant an allied unit Block 2 and <color=upgrade>d
 Warrior33CardName,Text,,Tactical Defense,防御·传奇,戰術防禦,,,,,,,戦術防御,,,
 Warrior33dCardDescription,Text,,Grant an allied unit Block 2,使一个友方单位获得格挡 2,使一個友方單位獲得格擋 2,,,,,,,味方ユニット一体にブロック2を発動する,,,
 Warrior33dCardName,Text,,Heroic Defense,防御·超凡,英勇防禦,,,,,,,英雄的防御,,,
-Warrior34CardDescription,Text,,Shatter an adjacent enemy follower whose ATK is lower than the hero's,摧毁一个比该英雄攻击力低的相邻敌方随从,摧毀一個比該英雄攻擊力低的相鄰敵方隨從,,,,,,,このヒーローよりも攻撃力が低い隣接する敵従者一体を破壊する,,,
+Warrior34CardDescription,Text,,Shatter an adjacent enemy follower whose ATK is lower than the hero's,消灭一个比该英雄攻击力低的相邻敌方随从,摧毀一個比該英雄攻擊力低的相鄰敵方隨從,,,,,,,このヒーローよりも攻撃力が低い隣接する敵従者一体を破壊する,,,
 Warrior34CardName,Text,,Lethal Blow,死击,死擊,,,,,,,致命の一撃,,,
 Warrior35CardDescription,Text,,Deal 1 DMG on an allied follower and grant them Thrust 1 and ATK +1,对一个友方随从造成1点伤害，使其获得突进1和+1攻击力,對一個友方隨從造成1點傷害，使其獲得突進1和+1攻擊力,,,,,,,味方従者一体に1ダメージを与え、突進1と+1攻撃力を獲得させる,,,
 Warrior35CardName,Text,,Lightly Armed,轻装上阵,輕裝上陣,,,,,,,軽装出陣,,,
@@ -8791,15 +8791,15 @@ WarriorBasic20CardDescription,Text,,"When your unit attacks units with Vulnerabl
 WarriorBasic20CardName,Text,,Bloodthirsty,渴望,狂熱,,,,,,,血に飢える,,,
 WarriorBasic21CardDescription,Text,,Your hero gains Engagement 2,你的英雄获得缠斗2,你的英雄獲得纏鬥2,,,,,,,あなたのヒーローが絡まり2を獲得する,,,
 WarriorBasic21CardName,Text,,Engagement Skill,缠斗技巧,纏鬥技巧,,,,,,,絡まりスキル,,,
-WarriorBlack01CardDescription,Text,,Deal 2 DMG on enemy heroes when an allied follower dies,每当一个友方随从被摧毁，对敌方英雄造成2点伤害。,每當一個友方隨從被摧毀，對敵方英雄造成2點傷害。,,,,,,,味方従者が死亡するたびに、敵ヒーローに2ダメージを与える。,,,
+WarriorBlack01CardDescription,Text,,Deal 2 DMG on enemy heroes when an allied follower dies,每当一个友方随从被消灭，对敌方英雄造成2点伤害。,每當一個友方隨從被摧毀，對敵方英雄造成2點傷害。,,,,,,,味方従者が死亡するたびに、敵ヒーローに2ダメージを与える。,,,
 WarriorBlack01CardName,Text,,Kalim Soul Caster,卡利姆灵魂施法者,卡利姆靈魂施法者,,,,,,,カリム魂使い,,,
-WarriorBlack02CardDescription,Text,,"Cannot move or attack. After sacrificing five followers, the follower will shatter and Archdemon will be summoned to the follower's position",无法移动无法攻击。 献祭五只随从后，该随从被摧毁并在其位置上召唤大魔王,無法移動無法攻擊。 獻祭五隻隨從後，該隨從被摧毀並在其位置上召喚大魔王,,,,,,,移動不可攻撃不可。 五体の従者を生贄にした後、この従者は破壊され、その位置にアーチデーモンを召喚する,,,
+WarriorBlack02CardDescription,Text,,"Cannot move or attack. After sacrificing five followers, the follower will shatter and Archdemon will be summoned to the follower's position",无法移动无法攻击。 献祭五只随从后，该随从被消灭并在其位置上召唤大魔王,無法移動無法攻擊。 獻祭五隻隨從後，該隨從被摧毀並在其位置上召喚大魔王,,,,,,,移動不可攻撃不可。 五体の従者を生贄にした後、この従者は破壊され、その位置にアーチデーモンを召喚する,,,
 WarriorBlack02CardName,Text,,Ritual Ring,仪式环,儀式環,,,,,,,儀式のリング,,,
 WarriorBlack03CardDescription,Text,,Draw a replica of the Blacksteel Follower from your deck each turn,每回合从你的卡组中抽一张黑钢随从的复制品,每回合從你的卡組中抽一張黑鋼隨從的複製品,,,,,,,毎ターンあなたのデッキからブラックスティール従者の複製品を一枚引く,,,
 WarriorBlack03CardName,Text,,Captain Blacksteel,黑钢队长,黑鋼隊長,,,,,,,ブラックスティール隊長,,,
 WarriorBlack04CardDescription,Text,,Devour. Counterattack,吞食。反击,吞食。反擊,,,,,,,呑食。反撃,,,
 WarriorBlack04CardName,Text,,Dragon Knight,龙骑士,龍騎士,,,,,,,竜騎士,,,
-WarriorBlack05CardDescription,Text,,Followers shattered in the turn will revive a replica of {{Black04}} and answer to you,该回合下被摧毁的随从被复活为{{Black04}}的复制品，由你操控,該回合下被摧毀的隨從被復活為{{Black04}}的複製品，由你操控,,,,,,,このターン破壊された従者は{{Black04}}の複製品として復活し、あなたの支配下に入る,,,
+WarriorBlack05CardDescription,Text,,Followers shattered in the turn will revive a replica of {{Black04}} and answer to you,该回合下被消灭的随从被复活为{{Black04}}的复制品，由你操控,該回合下被摧毀的隨從被復活為{{Black04}}的複製品，由你操控,,,,,,,このターン破壊された従者は{{Black04}}の複製品として復活し、あなたの支配下に入る,,,
 WarriorBlack05CardName,Text,,Hunting Party,大猎杀,大獵殺,,,,,,,グレートハント,,,
 WarriorBlack06CardDescription,Text,,,,,,,,,,,,,,
 WarriorBlack06CardName,Text,,,,,,,,,,,,,,
@@ -8825,7 +8825,7 @@ WarriorEffect07bCardDescription,Text,,All melee attacks are attached with Cleave
 WarriorEffect07bCardName,Text,,Killing Spray,开合,大殺四方,,,,,,,皆殺し,,,
 WarriorEffect08CardDescription,Text,,"When your hero takes DMG, gain Counterattack in this turn",你的英雄受到伤害后，本回合获得反击,你的英雄受到傷害後，本回合獲得反擊,,,,,,,あなたのヒーローがダメージを受けると、そのターン反撃を獲得する,,,
 WarriorEffect08CardName,Text,,Hatred,仇恨,仇恨,,,,,,,憎しみ,,,
-WarriorEffect09CardDescription,Text,,Followers other than {{Black04}} shattered in this turn will revive as replicas of {{Black04}} and answer to you,此回合被摧毁的非{{Black04}}随从将被复活为{{Black04}}的复制品，由你操控,此回合被摧毀的非{{Black04}}隨從將被復活為{{Black04}}的複製品，由你操控,,,,,,,このターン破壊された{{Black04}}以外の従者は{{Black04}}の複製品として復活し、あなたの支配下に入る,,,
+WarriorEffect09CardDescription,Text,,Followers other than {{Black04}} shattered in this turn will revive as replicas of {{Black04}} and answer to you,此回合被消灭的非{{Black04}}随从将被复活为{{Black04}}的复制品，由你操控,此回合被摧毀的非{{Black04}}隨從將被復活為{{Black04}}的複製品，由你操控,,,,,,,このターン破壊された{{Black04}}以外の従者は{{Black04}}の複製品として復活し、あなたの支配下に入る,,,
 WarriorEffect09CardName,Text,,Hunting Party,大猎杀,大獵殺,,,,,,,グレートハント,,,
 WarriorEffect100CardDescription,Text,,Gain 1 Reinforce Spell when the 1st turn of the battle begins,战斗的第1回合开始时，获得1张援护法术,戰鬥的第1回合開始時，獲得1張援護法術,,,,,,,戦闘の始めてのターン開始時、援護魔法を1枚獲得する,,,
 WarriorEffect100CardName,Text,,Reinforce,援护,援護,,,,,,,援護,,,
@@ -8901,11 +8901,11 @@ WarriorGreen04CardDescription,Text,,"Grow +0/+2.
 
 Defeated: Grant your hero Block equals to the follower's HP","成长 +0/+2。
 
-被摧毁：给予你的英雄等同于这个随从生命值的格挡。","成長 +0/+2。
+被消灭：给予你的英雄等同于这个随从生命值的格挡。","成長 +0/+2。
 
 被摧毀：給予你的英雄等同于這個隨從生命值的格擋。",,,,,,,"成長 +0/+2。
 
-被摧毁：あなたのヒーローにこの従者のHPに等しいブロックを付与する。",,,
+被消灭：あなたのヒーローにこの従者のHPに等しいブロックを付与する。",,,
 WarriorGreen04CardName,Text,,Tribe Vanguards,部落先锋队,部落先鋒隊,,,,,,,部族の尖兵,,,
 WarriorGreen05CardDescription,Text,,"Grow +3/+0.
 
@@ -8978,7 +8978,7 @@ WebbedEffectCardDescription,Text,,"You may choose to move or take actions during
 WebbedEffectCardName,Text,,Slow Down,减速,減速,,,,,,,減速,,,
 WebbedKeywordDescription,Text,,"You may choose to move or take actions during your turn, but not both.",在你的回合可以选择移动或者行动，但无法同时进行两者。,在你的回合可以選擇移動或者行動，但無法同時進行兩者。,,,,,,,あなたのターン、移動または行動できる。ただし、両方を同時に行えない。,,,
 WebbedKeywordName,Text,,Slow Down,减速,減速,,,,,,,減速,,,
-WhippingTentacleCardDescription,Text,,Defeated: Shatters your heroes,被摧毁：摧毁你的英雄,被摧毀：摧毀你的英雄,,,,,,,被摧毁：あなたのヒーローを破壊する,,,
+WhippingTentacleCardDescription,Text,,Defeated: Shatters your heroes,被消灭：消灭你的英雄,被摧毀：摧毀你的英雄,,,,,,,被消灭：あなたのヒーローを破壊する,,,
 WhippingTentacleCardName,Text,,Desert Caravan Survivor,荒漠商队幸存者,荒漠商隊倖存者,,,,,,,砂漠隊商の生き残り,,,
 WhitePathCardDescription,Text,,,,,,,,,,,,,,
 WhitePathCardName,Text,,Chamber of Porthaven,波特海文议院,波特海文議院,,,,,,,ポースヴェン議会,,,
@@ -8988,7 +8988,7 @@ WildfireCardDescription,Text,,"Deal 2 DMG on a random follower and deal 1 DMG on
 WildfireCardName,Text,,Wildfire,野火,野火,,,,,,,ワイルドファイア,,,
 WindTorrentCardDescription,Text,,Deal 2 DMG on each one of 3 targets within range 3,对射程3范围内对3个目标各造成2点伤害,對射程3範圍內對3個目標各造成2點傷害,,,,,,,射程範囲3以内のターゲット3体にそれぞれ2ダメージを与える,,,
 WindTorrentCardName,Text,,Tempest,风洪,風洪,,,,,,,風と洪水,,,
-WraithCardDescription,Text,,Dodge. Shatter the follower and deal 5 DMG on enemy heroes after 4 turns.,闪避。 4回合后，摧毁该随从，并对敌方英雄造成5点伤害。,閃避。 4回合後，摧毀該隨從，並對敵方英雄造成5點傷害。,,,,,,,回避。4ターン後、この従者を破壊し、敵ヒーローに5ダメージを与える。,,,
+WraithCardDescription,Text,,Dodge. Shatter the follower and deal 5 DMG on enemy heroes after 4 turns.,闪避。 4回合后，消灭该随从，并对敌方英雄造成5点伤害。,閃避。 4回合後，摧毀該隨從，並對敵方英雄造成5點傷害。,,,,,,,回避。4ターン後、この従者を破壊し、敵ヒーローに5ダメージを与える。,,,
 WraithCardName,Text,,Sinister Spirit,阴魂,陰魂,,,,,,,悪霊,,,
 WritheCardDescription,Text,,Swap positions of all units randomly and deal 3 DMG on all adjacent enemy units,随机交换所有单位的位置，并对所有相邻敌方单位造成3点伤害,隨機交換所有單位的位置，並對所有相鄰敵方單位造成3點傷害,,,,,,,全ユニットの位置をランダムに入れ替え、隣接する全ての敵ユニットに3ダメージを与える,,,
 WritheCardName,Text,,Churn,翻腾,翻騰,,,,,,,引っ掻き回し,,,
