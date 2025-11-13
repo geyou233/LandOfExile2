@@ -267,7 +267,7 @@ public class LoginMenu : BasicMenu
         {
             return;
         }
-        SendMessageVerifyCode("get_sms_code", account.text);
+        SendMessageVerifyCode("get_sms_code", account.text.Trim());
     }
     
     
@@ -300,11 +300,11 @@ public class LoginMenu : BasicMenu
 
         if (PlayerPrefs.GetString("phone") == account.text)
         {
-            Login("login", account.text, password.text);
+            Login("login", account.text.Trim(), password.text.Trim());
         }
         else
         {
-            Register("register", account.text, password.text);
+            Register("register", account.text.Trim(), password.text.Trim());
         }
     }
 
@@ -328,7 +328,7 @@ public class LoginMenu : BasicMenu
             ShowPopMessage("请输入密码");
             return;
         }
-        LoginWithUserName("login_with_username", username.text, userPwd.text);
+        LoginWithUserName("login_with_username", username.text.Trim(), userPwd.text.Trim());
     }
     
     public void OnIDCardVerifyBtnClick()
@@ -367,7 +367,7 @@ public class LoginMenu : BasicMenu
         }
         string phone = PlayerPrefs.GetString("phone");
         string token = PlayerPrefs.GetString("token");
-        IDCardVerify("realname_and_id_varify", phone, realNo.text, realName.text, token);
+        IDCardVerify("realname_and_id_varify", phone, realNo.text.Trim(), realName.text.Trim(), token);
     }
 
     public void OnIDCardCancelBtnClick()
