@@ -1,4 +1,4 @@
-﻿q,Type,Desc,English,Chinese,ChineseTraditional,German,Portuguese,Russian,Italian,Spanish,Polish,Japanese,Korean,Vietnamese,French
+﻿key,Type,Desc,English,Chinese,ChineseTraditional,German,Portuguese,Russian,Italian,Spanish,Polish,Japanese,Korean,Vietnamese,French
 +1 ManaCardDescription,Text,,,,,,,,,,,,,,
 +1 ManaCardName,Text,,Mana +1,,,,,,,,,,,,
 +1 PowerCardDescription,Text,,,,,,,,,,,,,,
@@ -8169,7 +8169,7 @@ TutorialTitle5,Text,,Attack and Damage,攻击及伤害,攻擊及傷害,,,,,,,攻
 TutorialTitle6,Text,,Range,射程,射程,,,,,,,射程,,,
 TutorialTitle7,Text,,Target Selecting,目标选择,目標選擇,,,,,,,ターゲット選択,,,
 TutorialTitle8,Text,,Mana Consumption,法力消耗,法力消耗,,,,,,,マナ消費,,,
-TutorialTitle9,Text,,Discard,弃牌,棄牌,,,,,,,捨て札,,,
+TutorialTitle9,Text,,Discard,击败敌人,棄牌,,,,,,,捨て札,,,
 UNCursedEffectCardDescription,Text,,DMG on all units halves.,单位受到的所有伤害减半。,單位受到的所有傷害減半。,,,,,,,ユニットが受ける全てのダメージが半減する。,,,
 UNCursedEffectCardName,Text,,Barrier,屏障,屏障,,,,,,,バリア,,,
 Undead AdventurerCardDescription,Text,,Gain Block 2 when the turn ends,回合结束时，获得格挡2,回合結束時，獲得格擋2,,,,,,,ターン終了時、ブロック2を獲得する,,,
