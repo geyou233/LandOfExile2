@@ -8344,13 +8344,13 @@ Warrior19CardDescription,Text,,An allied unit gains Haste,一个友方单位获�
 Warrior19CardName,Text,,Accelerate,加速,加速,,,,,,,加速,,,
 Warrior200CardDescription,Text,,"Exhaust
 Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 3 times and shatter the weapon afterward","移除
-随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复3次，之后消灭武器","移除
+随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复3次，之后移除武器","移除
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複3次，之後摧毀武器",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを3回繰り返して、その後武器を破壊する",,,
 Warrior200CardName,Text,,Swordplay,剑舞,劍舞,,,,,,,剣舞,,,
 Warrior201CardDescription,Text,,"Exhaust
 Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward","移除
-随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后消灭武器","移除
+随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后移除武器","移除
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを4回繰り返して、その後武器を破壊する",,,
 Warrior201CardName,Text,,Swordplay⭐⭐,剑舞⭐⭐,劍舞⭐⭐,,,,,,,剣舞⭐⭐,,,
@@ -8360,7 +8360,7 @@ Select a random adjacent enemy and deal DMG equals the ATK of the hero's equippe
 隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，<color=upgrade>對每個受到傷害的單位最多施加一次易傷1</color>",,,,,,,"削除
 隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与える、これを4回繰り返す、<color=upgrade>ダメージを受けた各ユニットに衰弱1を最大1回付与する</color>",,,
 Warrior202CardName,Text,,Piercing Swordplay⭐⭐⭐,剑舞·传奇,穿刺劍舞⭐⭐⭐,,,,,,,貫通剣舞⭐⭐⭐,,,
-Warrior202dCardDescription,Text,,Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward,随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后消灭武器,隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器,,,,,,,隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与え、これを4回繰り返して、その後武器を破壊する,,,
+Warrior202dCardDescription,Text,,Select a random adjacent enemy and deal DMG equals the ATK of the hero's equipped weapon. Repeat 4 times and shatter the weapon afterward,随机选取一个相邻的敌人，对其造成等同于英雄当前穿戴的武器攻击力的伤害，重复4次，之后移除武器,隨機選取一個相鄰的敵人，對其造成等同于英雄當前穿戴的武器攻擊力的傷害，重複4次，之後摧毀武器,,,,,,,隣接するランダムな敵一体を選択し、ヒーローが現在装着している武器の攻撃力に等しいダメージを与え、これを4回繰り返して、その後武器を破壊する,,,
 Warrior202dCardName,Text,,Flurry Swordplay⭐⭐⭐,剑舞·超凡,疾風劍舞⭐⭐⭐,,,,,,,疾風剣舞⭐⭐⭐,,,
 Warrior203CardDescription,Text,,Throw stones or weapons to deal DMG equals the hero's ATK on a target,投掷石头或者武器，对一个目标造成英雄攻击力的伤害,投擲石頭或者武器，對一個目標造成英雄攻擊力的傷害,,,,,,,石や武器を投げて、ターゲット一体にヒーローの攻撃力に等しいダメージを与える,,,
 Warrior203CardName,Text,,Throw Weapon,投掷武器,投擲武器,,,,,,,武器投擲,,,
