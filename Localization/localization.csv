@@ -1642,7 +1642,7 @@ CommonEffect65aCardDescription,Text,,Gain +1/+1,获得+1/+1,獲得+1/+1,,,,,,,+1
 CommonEffect65aCardName,Text,,Dragon Fruit,龙晶果,龍晶果,,,,,,,竜晶フルーツ,,,
 CommonEffect66CardDescription,Text,,Your followers gain ATK +X upon being summoned.,每层使你的随从召唤时获得+1攻击力,每層使你的隨從召喚時獲得+1攻擊力,,,,,,,従者召喚時、攻撃力+X,,,
 CommonEffect66CardName,Text,,Deploy,部署,部署,,,,,,,配置,,,
-CommonEffect67CardDescription,Text,,Your follower consumes mana +1 and gets +1/+1 upon being summoned,你的随从法力消耗+1，召唤时获得+1/+1,你的隨從法力消耗+1，召喚時獲得+1/+1,,,,,,,あなたの従者のマナ消費+1、召喚時に+1/+1を獲得する,,,
+CommonEffect67CardDescription,Text,,Your follower consumes mana +1 and gets +1/+1 upon being summoned,你的随从法力消耗+1，召唤时获得+2/+2,你的隨從法力消耗+1，召喚時獲得+1/+1,,,,,,,あなたの従者のマナ消費+1、召喚時に+1/+1を獲得する,,,
 CommonEffect67CardName,Text,,Fully Prepared,充分备战,充分備戰,,,,,,,戦闘準備万端,,,
 CommonEffect68CardDescription,Text,,Your follower gains +1/+1 upon being summoned,你的随从召唤时获得+1/+1,你的隨從召喚時獲得+1/+1,,,,,,,従者召喚時、+1/+1を獲得する,,,
 CommonEffect68CardName,Text,,Fully Prepared,充分备战,充分備戰,,,,,,,戦闘準備万端,,,
