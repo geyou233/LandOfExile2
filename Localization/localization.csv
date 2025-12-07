@@ -7843,7 +7843,7 @@ ThunderElementAttachedEffectCardDescription,Text,,"Can react with other afflicti
 ThunderElementAttachedEffectCardName,Text,,Thunder Affliction,雷附着,雷附著,,,,,,,雷付着,,,
 ThunderElementKeywordDescription,Text,,"Can react with other afflictions, consume both and deal 3 damage",可以与其他附着反应，消耗两者并造成3点伤害,可以與其他附著反應，消耗兩者並造成3點傷害,,,,,,,その他の付着と反応し、両方を消費して3ダメージを与える,,,
 ThunderElementKeywordName,Text,,Thunder Affliction,雷附着,雷附著,,,,,,,雷付着,,,
-ThunderSpriteCardDescription,Text,,"Attacks inflict Chain DMG. While the unit is attached with Thunder Affliction, ATK +1, range +1",拥有雷附着时，攻击+1，射程+1,擁有有雷附著時，攻擊+1，射程+1,,,,,,,雷付着を持っている場合、攻撃力+1、射程+1,,,
+ThunderSpriteCardDescription,Text,,"Attacks inflict Chain DMG. While the unit is attached with Thunder Affliction, ATK +1, range +1",在拥有雷附着时，会获得攻击+1和射程+1,擁有有雷附著時，攻擊+1，射程+1,,,,,,,雷付着を持っている場合、攻撃力+1、射程+1,,,
 ThunderSpriteCardName,Text,,Lightning Fiend,雷光妖,雷光妖,,,,,,,サンダーモン,,,
 ThunderSpriteEncounter6CardDescription,Text,,This timid Element Monster regards all things as its enemies by instinct. It looks more frightened than the villagers it attacked.,这只胆小的元素魔物本能地把所有事物当做它的敌人，它看起来比被它攻击的村民还要惊慌。,這只膽小的元素魔物本能地把所有事物當做它的敵人，它看起來比被它攻擊的村民還要驚慌。,,,,,,,この臆病な元素魔物は本能的にあらゆるものを敵と見なし、自分が攻撃した村人よりもパニックになっているようだ。,,,
 ThunderSpriteEncounter6CardName,Text,,Lightning Fiend,雷光妖,雷光妖,,,,,,,サンダーモン,,,
