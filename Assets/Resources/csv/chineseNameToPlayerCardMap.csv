@@ -422,14 +422,14 @@ UndeadSword5,card_skill_1020
 ManthriPsychic,herocard_retinue_2012
 ManthriPsychicMage,herocard_retinue_2012
 ImplantThought,card_skill_1021
-SelfHatred,card_skill_1022
+SelfHatred,card_skill_3005
 SelfHatredToxic,card_skill_2023
 YoureMine,card_skill_1059
 ,
 ManthriAmalgam,card_monster_1019
 ManthriAmalgamMage,card_monster_1019
 DevourTheWeak,card_skill_1024
-ManthriShriek,card_retinue_1035
+ManthriShriek,herocard_skill_1029
 ,
 LegionReaver1,card_monster_1020
 LegionReaver1Mage,card_monster_1020
@@ -489,7 +489,7 @@ LiquidSteelMage,card_monster_1025
 SteelEdge,card_skill_1034
 BreatheFire,card_skill_1047
 CursedImp,card_retinue_1030
-ManthriShriek,card_retinue_1035
+ManthriShriek,herocard_skill_1029
 ,
 RustingGolem,card_monster_1026
 RustingGolemMage,card_monster_1026
@@ -556,7 +556,7 @@ CoreHydraMage,card_boss_1003
 BossHydraHead,card_retinue_1041
 BossNeckSection,card_retinue_1041
 ScaledDefense,card_skill_1044
-Constrict,card_skill_1045
+Constrict,card_skill_3007
 SwallowWhole,card_skill_1046
 ChangeWeaponBuddhistbeads,card_retinue_1042
 Buddhistbeads,card_retinue_1042
