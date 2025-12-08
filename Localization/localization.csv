@@ -8389,7 +8389,7 @@ Throw stones or weapons to deal <color=upgrade>4</color> + DMG equals the hero's
 投擲石頭或者武器，對一個目標造成<color=upgrade>4</color>+英雄攻擊力的傷害，並施加<color=upgrade>易傷2</color>",,,,,,,"<color=upgrade>削除</color>
 石や武器を投げて、ターゲット一体に<color=upgrade>4</color>+ヒーローの攻撃力に等しいダメージを与え、<color=upgrade>衰弱2</color>を付与する",,,
 Warrior205CardName,Text,,Blood Throw⭐⭐⭐,投掷武器·传奇,易傷投擲⭐⭐⭐,,,,,,,鮮血投擲⭐⭐⭐,,,
-Warrior205dCardDescription,Text,,Throw stones or weapons to deal <color=upgrade>4</color> + DMG equals the hero's ATK on a target,投掷石头或者武器，对一个目标造成<color=upgrade>4</color>+英雄攻击力的伤害,投擲石頭或者武器，對一個目標造成<color=upgrade>4</color>+英雄攻擊力的傷害,,,,,,,石や武器を投げて、ターゲット一体に<color=upgrade>4</color>+ヒーローの攻撃力に等しいダメージを与える,,,
+Warrior205dCardDescription,Text,,Throw stones or weapons to deal <color=upgrade>4</color> + DMG equals the hero's ATK on a target,投掷石头或武器，对目标造成<color=upgrade>4</color>+英雄攻击力的伤害,投擲石頭或者武器，對一個目標造成<color=upgrade>4</color>+英雄攻擊力的傷害,,,,,,,石や武器を投げて、ターゲット一体に<color=upgrade>4</color>+ヒーローの攻撃力に等しいダメージを与える,,,
 Warrior205dCardName,Text,,Power Throw⭐⭐⭐,投掷武器·超凡,強力投擲⭐⭐⭐,,,,,,,強力投擲⭐⭐⭐,,,
 Warrior206CardDescription,Text,,Grant a unit ATK +1,让一个单位获得攻击力+1,讓一個單位獲得攻擊力+1,,,,,,,ユニット1体に攻撃力+1を獲得させる,,,
 Warrior206CardName,Text,,Sharpening,磨利,磨利,,,,,,,研ぎ,,,

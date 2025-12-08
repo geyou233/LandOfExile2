@@ -107892,7 +107892,7 @@ MonoBehaviour:
       Languages:
       - Throw stones or weapons to deal <color=upgrade>4</color> + DMG equals the
         hero's ATK on a target
-      - "\u6295\u63B7\u77F3\u5934\u6216\u8005\u6B66\u5668\uFF0C\u5BF9\u4E00\u4E2A\u76EE\u6807\u9020\u6210<color=upgrade>4</color>+\u82F1\u96C4\u653B\u51FB\u529B\u7684\u4F24\u5BB3"
+      - "\u6295\u63B7\u77F3\u5934\u6216\u6B66\u5668\uFF0C\u5BF9\u76EE\u6807\u9020\u6210<color=upgrade>4</color>+\u82F1\u96C4\u653B\u51FB\u529B\u7684\u4F24\u5BB3"
       - "\u6295\u64F2\u77F3\u982D\u6216\u8005\u6B66\u5668\uFF0C\u5C0D\u4E00\u500B\u76EE\u6A19\u9020\u6210<color=upgrade>4</color>+\u82F1\u96C4\u653B\u64CA\u529B\u7684\u50B7\u5BB3"
       - 
       - 
